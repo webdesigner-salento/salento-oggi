@@ -1,0 +1,31 @@
+{
+  "Lecce": [
+    "Lecce", "Gallipoli", "Otranto", "Nardò", "Nardo", "Galatina", "Casarano", "Maglie", "Tricase", "Copertino",
+    "Leverano", "Squinzano", "Campi Salentina", "Trepuzzi", "Novoli", "Surbo", "Lequile", "San Cesario di Lecce",
+    "Cavallino", "Monteroni di Lecce", "Arnesano", "Carmiano", "Veglie", "Salice Salentino", "Guagnano",
+    "San Pietro in Lama", "San Donato di Lecce", "Lizzanello", "Castri di Lecce", "Vernole", "Melendugno",
+    "Calimera", "Martano", "Martignano", "Melpignano", "Soleto", "Zollino", "Sternatia", "Corigliano d'Otranto",
+    "Cutrofiano", "Sogliano Cavour", "Aradeo", "Neviano", "Seclì", "Galatone", "Sannicola", "Alezio", "Tuglie",
+    "Parabita", "Matino", "Collepasso", "Supersano", "Ruffano", "Taurisano", "Taviano", "Racale", "Alliste",
+    "Melissano", "Ugento", "Presicce", "Acquarica del Capo", "Specchia", "Miggiano", "Montesano Salentino",
+    "Spongano", "Surano", "Nociglia", "Andrano", "Castro Marina", "Santa Cesarea Terme", "Minervino di Lecce",
+    "Uggiano la Chiesa", "Giurdignano", "Palmariggi", "Giuggianello", "Scorrano", "Bagnolo del Salento",
+    "Cannole", "Muro Leccese", "Sanarica", "Poggiardo", "Botrugno", "Cursi", "Carpignano Salentino",
+    "Castrignano de' Greci", "Castrignano del Capo", "Gagliano del Capo", "Morciano di Leuca", "Patù",
+    "Alessano", "Tiggiano", "Corsano", "Depressa", "Santa Maria di Leuca", "Leuca",
+    "Torre dell'Orso", "San Foca", "Torre San Giovanni", "Porto Cesareo", "Ortelle", "Noha"
+  ],
+  "Brindisi": [
+    "Brindisi", "Ostuni", "Fasano", "Francavilla Fontana", "Mesagne", "Carovigno", "Ceglie Messapica",
+    "Cisternino", "Cellino San Marco", "Erchie", "Latiano", "Oria", "San Donaci", "San Michele Salentino",
+    "San Pancrazio Salentino", "San Pietro Vernotico", "San Vito dei Normanni", "Torchiarolo",
+    "Torre Santa Susanna", "Villa Castelli", "Torre Guaceto", "Torre Canne", "Pezze di Greco"
+  ],
+  "Taranto": [
+    "Taranto", "Manduria", "Grottaglie", "Martina Franca", "Massafra", "Statte", "Crispiano", "Mottola",
+    "Palagiano", "Castellaneta", "Ginosa", "Laterza", "Montemesola", "Monteiasi", "Carosino",
+    "San Giorgio Ionico", "Faggiano", "Fragagnano", "Lizzano", "Pulsano", "Leporano", "Roccaforzata",
+    "San Marzano di San Giuseppe", "Sava", "Avetrana", "Maruggio", "Campomarino", "Torricella",
+    "Monteparano", "Talsano"
+  ]
+}

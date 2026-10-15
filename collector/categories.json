@@ -1,0 +1,23 @@
+{
+  "cronaca": "Cronaca",
+  "giudiziaria": "Cronaca",
+  "politica": "Politica",
+  "sport": "Sport",
+  "calcio": "Sport",
+  "spettacoli": "Eventi",
+  "eventi": "Eventi",
+  "musica": "Eventi",
+  "cultura": "Cultura",
+  "arte": "Cultura",
+  "economia": "Economia",
+  "lavoro": "Economia",
+  "salute": "Salute",
+  "sanità": "Salute",
+  "attualità": "Altro",
+  "ambiente": "Altro",
+  "scuola": "Altro",
+  "turismo": "Altro",
+  "archivio notizie": "Altro",
+  "prima pagina": "Altro",
+  "in evidenza": "Altro"
+}
