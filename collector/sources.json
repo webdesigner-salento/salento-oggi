@@ -1,0 +1,7 @@
+[
+  {
+    "name": "Corriere Salentino",
+    "feed": "https://www.corrieresalentino.it/feed/",
+    "enabled": true
+  }
+]

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+	<title>Corriere Salentino</title>
+	<atom:link href="https://www.corrieresalentino.it/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.corrieresalentino.it</link>
+	<description>Quotidiano di informazione online per Lecce e il Salento</description>
+	<lastBuildDate>Tue, 13 Oct 2026 22:52:08 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<item>
+		<title>Scomparsa Luca Briganti, la sorella lancia l&#8217;appello: &#8220;Aiutateci a ritrovarlo, temiamo per la sua vita&#8221;</title>
+		<link>https://www.corrieresalentino.it/2026/10/scomparsa-luca-briganti-la-sorella-lancia-lappello-aiutateci-a-ritrovarlo-temiamo-per-la-sua-vita/</link>
+		<dc:creator><![CDATA[Francesco Oliva]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2026 15:03:59 +0000</pubDate>
+		<category><![CDATA[Cronaca]]></category>
+		<category><![CDATA[Prima Pagina]]></category>
+		<guid isPermaLink="false">https://www.corrieresalentino.it/?p=789300</guid>
+		<description><![CDATA[LECCE &#8211; “Aiutateci a ritrovare nostro fratello “. Milena è la sorella di Luca Briganti, il 53enne di Lecce, persona fragile e a rischio, scomparso nel nulla dalla sua abitazione tra il 5 e il 6 ottobre. È sconfortata. Ha raggiunto la Procura di Lecce per riuscire ad avere aggiornamenti dal magistrato che segue il [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>LECCE &#8211; “Aiutateci a ritrovare nostro fratello “. Milena è la sorella di Luca Briganti, il 53enne di Lecce, persona fragile e a rischio, scomparso nel nulla dalla sua abitazione tra il 5 e il 6 ottobre. È sconfortata. Ha raggiunto la Procura di Lecce per riuscire ad avere aggiornamenti dal magistrato che segue il caso.</p>
+<p><img fetchpriority="high" decoding="async" class="alignright size-medium wp-image-789301" src="https://www.corrieresalentino.it/wp-content/uploads/2026/10/SCOMPARSO-200x300.jpg" alt="Scomparsa Luca Briganti" width="200" height="300" />E allora dov’è finito il 55enne leccese, una persona estremamente abitudinaria nella sua quotidianità. Usciva per fare la spesa e per un caffè. Ma non frequentava locali. Gli piaceva stare a casa e guardare la tv.</p>
+<p>FINE-ARTICOLO-COMPLETO-NON-DEVE-COMPARIRE-NELL-ANTEPRIMA</p>]]></content:encoded>
+	</item>
+	<item>
+		<title>Lupiae, terremoto disciplinare senza precedenti: colpiti per il &#8220;caso Yucche&#8221;</title>
+		<link>https://www.corrieresalentino.it/2026/10/lupiae-terremoto-disciplinare-senza-precedenti/</link>
+		<dc:creator><![CDATA[Gaetano Gorgoni]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2026 22:45:22 +0000</pubDate>
+		<category><![CDATA[Archivio Notizie]]></category>
+		<category><![CDATA[Politica]]></category>
+		<category><![CDATA[Prima Pagina]]></category>
+		<category><![CDATA[lecce]]></category>
+		<guid isPermaLink="false">https://www.corrieresalentino.it/?p=789390</guid>
+		<description><![CDATA[LECCE &#8211; Un terremoto disciplinare senza precedenti nei 25 anni di storia della Lupiae Servizi. Il presidente Luca Pasquino sceglie la linea dura e, dopo il caso degli alberi tagliati in via Po, nel quartiere Santa Rosa, allarga il fronte delle contestazioni anche ai livelli superiori della struttura aziendale. Sono partite le PEC indirizzate a [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p class="p1">LECCE &#8211; Un <strong>terremoto disciplinare</strong> senza precedenti nei 25 anni di storia della Lupiae Servizi.</p>]]></content:encoded>
+	</item>
+	<item>
+		<title>Lecce, Di Francesco perde Ilic</title>
+		<link>https://www.corrieresalentino.it/2026/10/lecce-di-francesco-perde-ilic/</link>
+		<dc:creator><![CDATA[Valeria Coi]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2026 14:45:41 +0000</pubDate>
+		<category><![CDATA[Sport]]></category>
+		<category><![CDATA[Prima Pagina]]></category>
+		<guid isPermaLink="false">https://www.corrieresalentino.it/?p=789329</guid>
+		<description><![CDATA[LECCE &#8211; La partita con il Bologna ha lasciato l’amaro in bocca. Il Lecce dovrà fare a meno di Ilic per più di un turno.]]></description>
+		<content:encoded><![CDATA[<p>LECCE &#8211; La partita con il Bologna ha lasciato l’amaro in bocca.</p>]]></content:encoded>
+	</item>
+</channel>
+</rss>
