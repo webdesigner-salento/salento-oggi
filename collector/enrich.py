@@ -32,7 +32,7 @@ def _normalize_title(title: str) -> str:
     return re.sub(r"\s+", " ", re.sub(r"[^\w\s]|_", " ", (title or "").casefold())).strip()
 
 
-def _as_datetime(iso: str | None) -> datetime:
+def as_datetime(iso: str | None) -> datetime:
     if not iso:
         return _EPOCH
     try:
@@ -55,7 +55,7 @@ def dedupe(items: list[dict]) -> list[dict]:
         if position is None:
             position = len(kept)
             kept.append(item)
-        elif _as_datetime(item.get("published_at")) > _as_datetime(kept[position].get("published_at")):
+        elif as_datetime(item.get("published_at")) > as_datetime(kept[position].get("published_at")):
             kept[position] = item
         for key in keys:
             index_by_key.setdefault(key, position)
