@@ -13,7 +13,8 @@ const toTime = (iso) => {
   const t = Date.parse(iso);
   return Number.isNaN(t) ? -Infinity : t;
 };
-const byRecency = (a, b) => {
+/** Comparatore per `sort`: dalla più recente; date mancanti o non valide in fondo. */
+export const newestFirst = (a, b) => {
   const ta = toTime(a.published_at);
   const tb = toTime(b.published_at);
   return ta === tb ? 0 : tb > ta ? 1 : -1;
@@ -32,7 +33,7 @@ export function filterItems(items, { zone = ALL_ZONES, category = ALL_CATEGORIES
 
 /** Le 5 più recenti con fonti diverse; se le fonti sono meno di 5, completa con le più recenti restanti. */
 export function pickTopFive(items) {
-  const sorted = [...items].sort(byRecency);
+  const sorted = [...items].sort(newestFirst);
   const chosen = [];
   const sources = new Set();
   for (const item of sorted) {
@@ -46,7 +47,7 @@ export function pickTopFive(items) {
     if (chosen.length === TOP_COUNT) break;
     if (!chosen.includes(item)) chosen.push(item);
   }
-  return chosen.sort(byRecency);
+  return chosen.sort(newestFirst);
 }
 
 /** "adesso", "12 min fa", "3 h fa", "ieri", "2 g fa"; stringa vuota se la data non è valida. */

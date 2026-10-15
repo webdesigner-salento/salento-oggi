@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { filterItems, pickTopFive, timeAgo } from "../js/filters.js";
+import { filterItems, newestFirst, pickTopFive, timeAgo } from "../js/filters.js";
 
 const NOW = new Date("2026-10-14T12:00:00+00:00");
 const mk = (n, over = {}) => ({
@@ -87,4 +87,9 @@ test("timeAgo: futuro (orologi sfasati) e data non valida non rompono nulla", ()
   assert.equal(timeAgo(new Date(NOW.getTime() + 5 * 60_000).toISOString(), NOW), "adesso");
   assert.equal(timeAgo("boh", NOW), "");
   assert.equal(timeAgo(null, NOW), "");
+});
+
+test("newestFirst: ordina dalla più recente e manda in fondo le date mancanti o non valide", () => {
+  const items = [mk(30), mk(1, { published_at: "boh" }), mk(5), mk(2, { published_at: "" })];
+  assert.deepEqual([...items].sort(newestFirst).map((i) => i.id), ["id5", "id30", "id1", "id2"]);
 });

@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#f5f6f2" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#141815" media="(prefers-color-scheme: dark)">
+  <title>Salento Oggi</title>
+  <meta name="description" content="Le notizie del giorno dai giornali del Salento, senza pubblicità e senza registrazione.">
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="js/main.js"></script>
+</head>
+<body>
+  <header class="masthead">
+    <div class="shell">
+      <h1 class="wordmark">Salento Oggi</h1>
+      <p class="dateline" id="dateline"></p>
+      <p class="updated" id="updated" aria-live="polite"></p>
+    </div>
+  </header>
+
+  <main class="shell" id="main">
+    <noscript><p class="empty-text">Salento Oggi ha bisogno di JavaScript per mostrare le notizie.</p></noscript>
+
+    <section id="screen-today" data-screen="oggi" aria-label="Notizie di oggi">
+      <div class="filters" id="filters"></div>
+      <div class="feed" id="feed"><p class="loading">Carico le notizie…</p></div>
+    </section>
+
+    <section id="screen-digest" data-screen="in-5-notizie" aria-labelledby="digest-title" hidden>
+      <h2 class="screen-title" id="digest-title">Il Salento in 5 notizie</h2>
+      <p class="screen-lead">Le cinque più recenti, da fonti diverse.</p>
+      <div id="digest"></div>
+    </section>
+
+    <section id="screen-saved" data-screen="preferiti" aria-labelledby="saved-title" hidden>
+      <h2 class="screen-title" id="saved-title">Preferiti</h2>
+      <p class="screen-lead">Restano salvati su questo telefono.</p>
+      <div id="saved"></div>
+    </section>
+
+    <section id="screen-sources" data-screen="fonti" aria-labelledby="sources-title" hidden>
+      <h2 class="screen-title" id="sources-title">Fonti</h2>
+      <p class="screen-lead">Scegli da quali giornali leggere. Ogni notizia si apre sul sito del giornale.</p>
+      <div id="sources"></div>
+    </section>
+  </main>
+
+  <nav class="tabbar" aria-label="Sezioni">
+    <div class="tabbar-inner">
+      <a class="tab" href="#oggi" data-tab="oggi">
+        <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="4"/><path d="M12 2.5V5M12 19v2.5M2.5 12H5M19 12h2.5M5.3 5.3l1.8 1.8M16.9 16.9l1.8 1.8M5.3 18.7l1.8-1.8M16.9 7.1l1.8-1.8"/></svg>
+        <span>Oggi</span>
+      </a>
+      <a class="tab" href="#in-5-notizie" data-tab="in-5-notizie">
+        <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M9 6h11M9 12h11M9 18h11M4.5 6h.01M4.5 12h.01M4.5 18h.01"/></svg>
+        <span>In 5 notizie</span>
+      </a>
+      <a class="tab" href="#preferiti" data-tab="preferiti">
+        <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M6.5 3.5h11a1 1 0 0 1 1 1v16l-6.5-4-6.5 4v-16a1 1 0 0 1 1-1z"/></svg>
+        <span>Preferiti</span>
+      </a>
+      <a class="tab" href="#fonti" data-tab="fonti">
+        <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 7h9M17 7h3M4 17h3M11 17h9"/><circle cx="15" cy="7" r="2"/><circle cx="9" cy="17" r="2"/></svg>
+        <span>Fonti</span>
+      </a>
+    </div>
+  </nav>
+</body>
+</html>
