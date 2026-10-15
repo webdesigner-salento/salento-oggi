@@ -1,6 +1,7 @@
 /** Collegamento al DOM: carica news.json, ridisegna le schermate, gestisce filtri, azioni e navigazione. */
 import { parseNews } from "./data.js";
 import { ALL_CATEGORIES, ALL_ZONES } from "./filters.js";
+import { getDisabledSources, getSaved, toggleSaved, toggleSource } from "./prefs.js";
 import { formatDateline, formatUpdated } from "./render.js";
 import { createStore, getBrowserStorage } from "./store.js";
 import { renderDigest, renderSaved, renderSources, renderToday } from "./views.js";
@@ -36,8 +37,8 @@ function replaceFilters(html) {
 
 function render() {
   const now = new Date();
-  const disabledSources = store.get("disabledSources", []);
-  const saved = store.get("saved", []);
+  const disabledSources = getDisabledSources(store);
+  const saved = getSaved(store);
 
   byId("dateline").textContent = formatDateline(now);
   byId("updated").textContent = formatUpdated(state.news.updatedAt, now);
@@ -78,6 +79,15 @@ async function load() {
   }
 }
 
+/** Salva o rimuove una notizia; si cerca anche tra i preferiti perché potrebbe non essere più in news.json. */
+function saveItem(id) {
+  const item = state.news.items.find((entry) => entry.id === id) ?? getSaved(store).find((entry) => entry.id === id);
+  if (!item) return;
+  toggleSaved(store, item);
+  render();
+  document.querySelector(`[data-screen]:not([hidden]) [data-action="save"][data-id="${CSS.escape(id)}"]`)?.focus({ preventScroll: true });
+}
+
 document.addEventListener("click", (event) => {
   const target = event.target instanceof Element ? event.target.closest("[data-filter], [data-action]") : null;
   if (!target) return;
@@ -95,6 +105,16 @@ document.addEventListener("click", (event) => {
     state.category = ALL_CATEGORIES;
     render();
   } else if (action === "go-sources") location.hash = "#fonti";
+  else if (action === "save") saveItem(target.dataset.id);
+});
+
+document.addEventListener("change", (event) => {
+  const input = event.target;
+  if (!(input instanceof HTMLInputElement) || !input.classList.contains("switch")) return;
+  const { source } = input.dataset;
+  toggleSource(store, source);
+  render();
+  document.querySelector(`.switch[data-source="${CSS.escape(source)}"]`)?.focus({ preventScroll: true });
 });
 
 window.addEventListener("hashchange", () => {

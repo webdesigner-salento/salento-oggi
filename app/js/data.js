@@ -3,7 +3,8 @@
 const isText = (value) => typeof value === "string" && value.length > 0;
 const text = (value, fallback) => (isText(value) ? value : fallback);
 
-function toItem(raw) {
+/** Una notizia valida e normalizzata, oppure null se mancano i campi essenziali. */
+export function parseItem(raw) {
   if (!raw || typeof raw !== "object") return null;
   if (!["id", "title", "url", "source"].every((key) => isText(raw[key]))) return null;
   return {
@@ -29,7 +30,7 @@ export function parseNews(raw) {
   if (!raw || typeof raw !== "object" || Array.isArray(raw)) return { updatedAt: null, items: [], sources: [] };
   return {
     updatedAt: text(raw.updated_at, null),
-    items: Array.isArray(raw.items) ? raw.items.map(toItem).filter(Boolean) : [],
+    items: Array.isArray(raw.items) ? raw.items.map(parseItem).filter(Boolean) : [],
     sources: Array.isArray(raw.sources_status) ? raw.sources_status.map(toSource).filter(Boolean) : [],
   };
 }
