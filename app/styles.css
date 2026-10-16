@@ -216,6 +216,25 @@ body {
   cursor: pointer;
 }
 .loading { margin: 2rem 0; color: var(--muted); }
+.digest-share { margin: 0 0 1rem; }
+
+/* Conferma breve sopra la barra delle sezioni */
+.toast {
+  position: fixed;
+  left: 50%;
+  bottom: calc(var(--tabbar-h) + 1rem + env(safe-area-inset-bottom, 0px));
+  z-index: 20;
+  transform: translateX(-50%);
+  max-width: min(32rem, calc(100vw - 2rem));
+  margin: 0;
+  padding: 0.75rem 1.125rem;
+  border-radius: 8px;
+  background: var(--ink);
+  color: var(--bg);
+  font: 500 0.9375rem/1.3 var(--sans);
+  text-align: center;
+}
+.toast[hidden] { display: none; }
 
 /* Barra delle sezioni */
 .tabbar {

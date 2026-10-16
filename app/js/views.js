@@ -74,5 +74,6 @@ export function renderDigest({ items = [], disabledSources = [], now = new Date(
   if (picked.length === 0) {
     return renderEmpty({ title: "Nessuna notizia per oggi", text: "Torna tra poco: il riepilogo si compone da solo." });
   }
-  return `<ol class="digest">${picked.map((item) => renderDigestRow(item, { now })).join("")}</ol>`;
+  return `<button type="button" class="btn digest-share" data-action="share-digest">Condividi il riepilogo</button>` +
+    `<ol class="digest">${picked.map((item) => renderDigestRow(item, { now })).join("")}</ol>`;
 }

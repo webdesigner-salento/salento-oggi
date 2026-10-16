@@ -131,3 +131,10 @@ test("renderDigest: con meno di cinque notizie ne mostra quante ce ne sono; senz
   assert.match(empty, /Nessuna notizia per oggi/);
   assert.doesNotMatch(empty, /digest-row/);
 });
+
+test("renderDigest: il pulsante per condividere il riepilogo c'è solo se ci sono notizie", () => {
+  const full = renderDigest({ items: [mk(1), mk(2)], now: NOW });
+  assert.equal(count(full, 'data-action="share-digest"'), 1);
+  assert.ok(full.indexOf('data-action="share-digest"') < full.indexOf('<ol class="digest">'), "il pulsante sta sopra la lista");
+  assert.doesNotMatch(renderDigest({ items: [], now: NOW }), /share-digest/);
+});

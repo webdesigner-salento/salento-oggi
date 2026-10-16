@@ -1,8 +1,9 @@
 /** Collegamento al DOM: carica news.json, ridisegna le schermate, gestisce filtri, azioni e navigazione. */
 import { parseNews } from "./data.js";
-import { ALL_CATEGORIES, ALL_ZONES } from "./filters.js";
+import { ALL_CATEGORIES, ALL_ZONES, filterItems, pickTopFive } from "./filters.js";
 import { getDisabledSources, getSaved, toggleSaved, toggleSource } from "./prefs.js";
 import { formatDateline, formatUpdated } from "./render.js";
+import { shareDigest, shareItem } from "./share.js";
 import { createStore, getBrowserStorage } from "./store.js";
 import { renderDigest, renderSaved, renderSources, renderToday } from "./views.js";
 
@@ -79,9 +80,44 @@ async function load() {
   }
 }
 
-/** Salva o rimuove una notizia; si cerca anche tra i preferiti perché potrebbe non essere più in news.json. */
+/** Cerca anche tra i preferiti perché una notizia salvata potrebbe non essere più in news.json. */
+const findItem = (id) => state.news.items.find((entry) => entry.id === id) ?? getSaved(store).find((entry) => entry.id === id);
+
+let toastTimer;
+function notify(message) {
+  const toast = byId("toast");
+  toast.textContent = message;
+  toast.hidden = false;
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => { toast.hidden = true; }, 3500);
+}
+
+const SHARE_MESSAGES = {
+  copied: "Link copiato",
+  downloaded: "Immagine scaricata",
+  unsupported: "Condivisione non disponibile su questo dispositivo",
+};
+
+async function shareOne(id) {
+  const item = findItem(id);
+  if (!item) return;
+  const message = SHARE_MESSAGES[await shareItem(item)];
+  if (message) notify(message);
+}
+
+async function shareToday() {
+  const items = pickTopFive(filterItems(state.news.items, { disabledSources: getDisabledSources(store) }));
+  try {
+    const message = SHARE_MESSAGES[await shareDigest(items)];
+    if (message) notify(message);
+  } catch {
+    notify("Non sono riuscito a creare l'immagine");
+  }
+}
+
+/** Salva o rimuove una notizia. */
 function saveItem(id) {
-  const item = state.news.items.find((entry) => entry.id === id) ?? getSaved(store).find((entry) => entry.id === id);
+  const item = findItem(id);
   if (!item) return;
   toggleSaved(store, item);
   render();
@@ -106,6 +142,8 @@ document.addEventListener("click", (event) => {
     render();
   } else if (action === "go-sources") location.hash = "#fonti";
   else if (action === "save") saveItem(target.dataset.id);
+  else if (action === "share") shareOne(target.dataset.id);
+  else if (action === "share-digest") shareToday();
 });
 
 document.addEventListener("change", (event) => {
