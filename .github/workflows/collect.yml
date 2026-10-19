@@ -48,6 +48,14 @@ jobs:
             git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
 
+      - name: Versiona il service worker e imposta l'indirizzo del sito
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: |
+          OWNER="${GITHUB_REPOSITORY_OWNER,,}"
+          export SITE_URL="${SITE_URL:-https://${OWNER}.github.io/${GITHUB_REPOSITORY#*/}}"
+          python -m scripts.stamp
+
       - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3

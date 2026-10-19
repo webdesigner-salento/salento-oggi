@@ -218,6 +218,33 @@ body {
 .loading { margin: 2rem 0; color: var(--muted); }
 .digest-share { margin: 0 0 1rem; }
 
+/* Invito a mettere l'app nella schermata Home: una scheda nel flusso, non un popup */
+.install-banner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 1rem;
+  margin: 1rem 0 0;
+  padding: 0.875rem 1rem;
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--accent);
+  border-radius: 8px;
+  background: var(--surface);
+}
+.install-text { flex: 1 1 15rem; margin: 0; font-size: 0.9375rem; line-height: 1.4; }
+.install-actions { display: flex; align-items: center; gap: 0.25rem; margin-left: auto; }
+.install-go.btn { margin-top: 0; }
+.install-close {
+  min-height: 2.75rem;
+  padding: 0 0.875rem;
+  border: 0;
+  background: none;
+  color: var(--muted);
+  font: 500 0.9375rem/1 var(--sans);
+  cursor: pointer;
+}
+.install-close:hover { color: var(--ink); }
+
 /* Conferma breve sopra la barra delle sezioni */
 .toast {
   position: fixed;

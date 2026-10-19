@@ -1,6 +1,7 @@
 /** Collegamento al DOM: carica news.json, ridisegna le schermate, gestisce filtri, azioni e navigazione. */
 import { parseNews } from "./data.js";
 import { ALL_CATEGORIES, ALL_ZONES, filterItems, pickTopFive } from "./filters.js";
+import { installMode, recordVisit, renderInstallBanner, shouldShowInstallPrompt } from "./install.js";
 import { getDisabledSources, getSaved, toggleSaved, toggleSource } from "./prefs.js";
 import { formatDateline, formatUpdated } from "./render.js";
 import { shareDigest, shareItem } from "./share.js";
@@ -13,7 +14,7 @@ const REFRESH_AFTER_MS = 5 * 60 * 1000;
 const FILTER_NAMES = new Set(["zone", "category"]);
 
 const store = createStore(getBrowserStorage());
-const state = { news: parseNews(null), zone: ALL_ZONES, category: ALL_CATEGORIES, loadedAt: 0, loading: false };
+const state = { news: parseNews(null), zone: ALL_ZONES, category: ALL_CATEGORIES, loadedAt: 0, loading: false, reloadRequested: false };
 const byId = (id) => document.getElementById(id);
 
 const currentScreen = () => {
@@ -64,7 +65,10 @@ function render() {
 
 /** Se il caricamento fallisce restano le ultime notizie già mostrate. */
 async function load() {
-  if (state.loading) return;
+  if (state.loading) {
+    state.reloadRequested = true; // es. il service worker segnala notizie nuove mentre stiamo ancora leggendo
+    return;
+  }
   state.loading = true;
   try {
     const response = await fetch(NEWS_URL, { cache: "no-cache" });
@@ -77,6 +81,10 @@ async function load() {
   } finally {
     state.loading = false;
     render();
+    if (state.reloadRequested) {
+      state.reloadRequested = false;
+      load();
+    }
   }
 }
 
@@ -124,6 +132,47 @@ function saveItem(id) {
   document.querySelector(`[data-screen]:not([hidden]) [data-action="save"][data-id="${CSS.escape(id)}"]`)?.focus({ preventScroll: true });
 }
 
+/* Invito all'installazione: dopo la terza visita, una sola volta. */
+const visits = recordVisit(store);
+let installEvent = null;
+let installVisible = false;
+
+function hideInstall() {
+  byId("install").innerHTML = "";
+  installVisible = false;
+}
+
+function showInstall() {
+  if (installVisible || !shouldShowInstallPrompt(visits, store.get("installShown", false))) return;
+  const mode = installMode({
+    standalone: matchMedia("(display-mode: standalone)").matches || navigator.standalone === true,
+    hasPrompt: installEvent !== null,
+    userAgent: navigator.userAgent,
+    platform: navigator.platform,
+    maxTouchPoints: navigator.maxTouchPoints,
+  });
+  if (mode === "none") return;
+  byId("install").innerHTML = renderInstallBanner(mode);
+  installVisible = true;
+  store.set("installShown", true);
+}
+
+async function installApp() {
+  const prompt = installEvent;
+  installEvent = null;
+  hideInstall();
+  if (!prompt) return;
+  prompt.prompt();
+  await prompt.userChoice.catch(() => {});
+}
+
+window.addEventListener("beforeinstallprompt", (event) => {
+  event.preventDefault();
+  installEvent = event;
+  showInstall();
+});
+window.addEventListener("appinstalled", hideInstall);
+
 document.addEventListener("click", (event) => {
   const target = event.target instanceof Element ? event.target.closest("[data-filter], [data-action]") : null;
   if (!target) return;
@@ -144,6 +193,8 @@ document.addEventListener("click", (event) => {
   else if (action === "save") saveItem(target.dataset.id);
   else if (action === "share") shareOne(target.dataset.id);
   else if (action === "share-digest") shareToday();
+  else if (action === "install") installApp();
+  else if (action === "dismiss-install") hideInstall();
 });
 
 document.addEventListener("change", (event) => {
@@ -166,5 +217,14 @@ document.addEventListener("visibilitychange", () => {
   else render();
 });
 
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+  // Il service worker risponde subito con la copia salvata e poi aggiorna: se è cambiata, rileggiamo.
+  navigator.serviceWorker.addEventListener("message", (event) => {
+    if (event.data?.type === "news-updated") load();
+  });
+}
+
 render();
+showInstall();
 load();
