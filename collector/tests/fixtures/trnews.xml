@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Fixture RICOSTRUITA, non catturata: il collector qui non può scaricare trnews.it (proxy 403).
+     La forma riproduce quella osservata il 2026-10-19 sul feed pubblico di TeleRama News:
+     RSS 2.0 con xmlns dc/media/atom, descrizione vuota, immagine sia in <enclosure> (length="0")
+     sia in <media:content>, categorie in maiuscolo (CRONACA, LECCE). Titoli e date dei tre articoli
+     sono quelli osservati; indirizzi, immagini e le categorie del 2° e 3° articolo sono inventati. -->
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TeleRama News</title>
+    <link>https://trnews.example</link>
+    <atom:link href="https://trnews.example/feed/" rel="self" type="application/rss+xml"/>
+    <description>Notizie locali da Lecce, dal Salento e dalla Puglia</description>
+    <language>it-IT</language>
+    <lastBuildDate>Mon, 19 Oct 2026 10:56:39 GMT</lastBuildDate>
+    <item>
+      <title>Taviano, tre colpi di fucile contro un'abitazione: s'indaga</title>
+      <link>https://trnews.example/taviano-colpi-di-fucile/</link>
+      <guid isPermaLink="true">https://trnews.example/taviano-colpi-di-fucile/</guid>
+      <description></description>
+      <pubDate>Mon, 19 Oct 2026 10:56:39 GMT</pubDate>
+      <dc:creator>Redazione</dc:creator>
+      <category>CRONACA</category>
+      <category>LECCE</category>
+      <enclosure url="https://cdn.trnews.example/stazione-cc-taviano.jpg" length="0" type="image/jpeg"/>
+      <media:content url="https://cdn.trnews.example/stazione-cc-taviano.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Pescoluse, fiamme in due canneti a pochi passi dai chioschi</title>
+      <link>https://trnews.example/pescoluse-fiamme-canneti/</link>
+      <guid isPermaLink="true">https://trnews.example/pescoluse-fiamme-canneti/</guid>
+      <description></description>
+      <pubDate>Mon, 19 Oct 2026 10:17:54 GMT</pubDate>
+      <dc:creator>Redazione</dc:creator>
+      <category>CRONACA</category>
+      <category>LECCE</category>
+      <enclosure url="https://cdn.trnews.example/pescoluse-canneti.jpg" length="0" type="image/jpeg"/>
+      <media:content url="https://cdn.trnews.example/pescoluse-canneti.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Konan N'Dri questa sera a Piazza Giallorossa</title>
+      <link>https://trnews.example/konan-ndri-piazza-giallorossa/</link>
+      <guid isPermaLink="true">https://trnews.example/konan-ndri-piazza-giallorossa/</guid>
+      <description></description>
+      <pubDate>Mon, 19 Oct 2026 07:00:55 GMT</pubDate>
+      <dc:creator>Redazione</dc:creator>
+      <category>SPORT</category>
+      <category>LECCE</category>
+      <enclosure url="https://cdn.trnews.example/konan-ndri.png" length="0" type="image/png"/>
+      <media:content url="https://cdn.trnews.example/konan-ndri.png" medium="image" type="image/png"/>
+    </item>
+  </channel>
+</rss>

@@ -18,6 +18,18 @@ app/  legge solo data/news.json, mai i siti dei giornali; funziona anche offline
 
 Se una fonte non risponde, restano le sue ultime notizie valide e le altre continuano ad aggiornarsi. Lo stato di ogni fonte è in `sources_status` dentro `news.json` e si vede nella schermata Fonti.
 
+## Fonti (verificate il 19 ottobre 2026)
+
+| Fonte | Stato |
+|---|---|
+| Corriere Salentino | **attiva** · feed RSS pubblico; il `robots.txt` non vieta `/feed/` |
+| TeleRama News (trnews.it) | **attiva** · feed RSS 2.0 pubblico; il `robots.txt` consente `/feed/`. Il feed ha l'anteprima vuota, quindi le schede mostrano titolo, immagine e fonte. Il sito non ha termini d'uso, solo «Tutti i diritti sono riservati»: se la testata lo chiede si disattiva |
+| LeccePrima | non aggiunta · il sito rifiuta le richieste automatiche e non risulta un feed pubblico con condizioni d'uso |
+| Taranto Buonasera, Antenna Sud, Il7 Magazine | non aggiunte · il loro `robots.txt` vieta l'accesso automatico |
+| Il Grande Salento, BrindisiReport, Senza Colonne | non verificate · i siti non hanno risposto ai controlli |
+
+**Brindisi e Taranto** non hanno ancora una testata verificata: oggi le notizie con quelle zone arrivano solo dalle fonti sopra, quando citano i loro comuni. Un feed regionale (ad esempio di una TV pugliese) andrebbe filtrato, altrimenti porterebbe notizie di tutta la Puglia.
+
 ## Aggiungere o togliere una fonte
 
 Basta modificare `collector/sources.json`, senza toccare il codice:

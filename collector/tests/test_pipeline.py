@@ -209,5 +209,29 @@ class MainTests(unittest.TestCase):
         self.assertIn("àèì", raw)
 
 
+
+class TeleRamaSourceTests(unittest.TestCase):
+    SRC = {"name": "TeleRama News", "feed": "https://trnews.example/feed/", "enabled": True}
+    NOW = datetime(2026, 10, 19, 12, 0, tzinfo=timezone.utc)
+
+    def build(self):
+        body = (Path(__file__).parent / "fixtures" / "trnews.xml").read_bytes()
+        return build_news([self.SRC], None, make_fetch({self.SRC["feed"]: body}), self.NOW)
+
+    def test_telerama_items_get_zone_and_category_from_uppercase_tags(self):
+        by_title = {i["title"].split(",")[0].split(" ")[0]: i for i in self.build()["items"]}
+        self.assertEqual(len(by_title), 3)
+        self.assertEqual((by_title["Taviano"]["category"], by_title["Taviano"]["zone"]), ("Cronaca", "Lecce"))
+        self.assertEqual((by_title["Pescoluse"]["category"], by_title["Pescoluse"]["zone"]), ("Cronaca", "Lecce"))
+        self.assertEqual((by_title["Konan"]["category"], by_title["Konan"]["zone"]), ("Sport", "Lecce"))
+
+    def test_telerama_items_without_description_are_kept_with_spec_fields_only(self):
+        items = self.build()["items"]
+        self.assertEqual(len(items), 3)
+        for item in items:
+            self.assertEqual(set(item), SPEC_ITEM_FIELDS)
+            self.assertEqual(item["summary"], "")
+
+
 if __name__ == "__main__":
     unittest.main()

@@ -111,5 +111,30 @@ class HelperTests(unittest.TestCase):
         self.assertTrue(out.endswith("…"))
 
 
+
+TELERAMA_FIXTURE = Path(__file__).parent / "fixtures" / "trnews.xml"
+TELERAMA = "TeleRama News"
+
+
+class TeleRamaFeedTests(unittest.TestCase):
+    def setUp(self):
+        self.items = parse_feed(TELERAMA_FIXTURE.read_bytes(), TELERAMA)
+
+    def test_parse_feed_telerama(self):
+        self.assertEqual(len(self.items), 3)
+        first = self.items[0]
+        self.assertEqual(first["title"], "Taviano, tre colpi di fucile contro un'abitazione: s'indaga")
+        self.assertEqual(first["source"], TELERAMA)
+        self.assertEqual(first["published_at"], "2026-10-19T10:56:39+00:00")
+        self.assertEqual(first["category_raw"], ["CRONACA", "LECCE"])
+        self.assertEqual(first["image"], "https://cdn.trnews.example/stazione-cc-taviano.jpg")
+
+    def test_telerama_empty_description_gives_empty_summary(self):
+        self.assertEqual([item["summary"] for item in self.items], ["", "", ""])
+
+    def test_telerama_png_image_is_kept(self):
+        self.assertTrue(self.items[2]["image"].endswith(".png"))
+
+
 if __name__ == "__main__":
     unittest.main()

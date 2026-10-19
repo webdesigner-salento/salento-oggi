@@ -3,5 +3,10 @@
     "name": "Corriere Salentino",
     "feed": "https://www.corrieresalentino.it/feed/",
     "enabled": true
+  },
+  {
+    "name": "TeleRama News",
+    "feed": "https://www.trnews.it/feed/",
+    "enabled": true
   }
 ]
