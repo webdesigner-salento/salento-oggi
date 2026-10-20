@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-20T21:17:44.798200+00:00",
+ "updated_at": "2026-10-20T21:54:27.619955+00:00",
  "items": [
+  {
+   "id": "feb475b5c2a4",
+   "title": "Oltre 300 pazienti fragili in attesa di cure odontoiatriche al Fazzi: l’Ordine dei Medici scrive all’Asl e chiede interventi urgenti",
+   "summary": "LECCE – Oltre 300 pazienti fragili aspettano di essere curati nel reparto di Odontoiatria e Odontostomatologia dell’ospedale Vito Fazzi di Lecce, con liste d’attesa che superano addirittura un anno.…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/oltre-300-pazienti-fragili-in-attesa-di-cure-odontoiatriche-al-fazzi-lordine-dei-medici-scrive-allasl-e-chiede-interventi-urgenti/",
+   "source": "Corriere Salentino",
+   "category": "Salute",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T21:30:17+00:00"
+  },
   {
    "id": "ecf146a3b836",
    "title": "Lecce, a Santa Rosa arrivano 15 nuovi alberi al posto delle yucche e marciapiedi rimessi a nuovo. Ma c’è anche un esposto",
@@ -974,13 +985,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-20T21:17:44.798200+00:00",
+   "last_ok": "2026-10-20T21:54:27.619955+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-20T21:17:44.798200+00:00",
+   "last_ok": "2026-10-20T21:54:27.619955+00:00",
    "error": null
   }
  ]
