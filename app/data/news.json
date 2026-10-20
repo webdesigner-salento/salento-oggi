@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-20T13:10:07.132212+00:00",
+ "updated_at": "2026-10-20T14:01:44.665907+00:00",
  "items": [
+  {
+   "id": "24b73b873630",
+   "title": "Moto da cross nell'area protetta: due denunce",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-64-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/20/moto-da-cross-nellarea-protetta-due-denunce",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Brindisi",
+   "published_at": "2026-10-20T13:07:35+00:00"
+  },
   {
    "id": "d8409f43e238",
    "title": "Omicidio Nisi, c'è un secondo indagato",
@@ -776,13 +787,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-20T13:10:07.132212+00:00",
+   "last_ok": "2026-10-20T14:01:44.665907+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-20T13:10:07.132212+00:00",
+   "last_ok": "2026-10-20T14:01:44.665907+00:00",
    "error": null
   }
  ]
