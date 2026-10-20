@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-20T17:52:51.171809+00:00",
+ "updated_at": "2026-10-20T18:17:04.080713+00:00",
  "items": [
+  {
+   "id": "dfa739311227",
+   "title": "Lasciata con pochi viveri e senza riscaldamento per giorni infermiera condannata per maltrattamenti sulla madre",
+   "summary": "CASARANO (Lecce) – Nella vita di tutti i giorni è un’infermiera: per lavoro assiste, accudisce i malati e le persone bisognose. In casa, invece, avrebbe abbandonato e maltrattato la madre malata lasc…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lasciata-con-pochi-viveri-e-senza-riscaldamento-per-giorni-infermiera-condannata-per-maltrattamenti-sulla-madre/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T18:15:37+00:00"
+  },
   {
    "id": "fe816159005e",
    "title": "Paura per un incidente tra scooter in tangenziale e due giovani restano feriti",
@@ -941,13 +952,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-20T17:52:51.171809+00:00",
+   "last_ok": "2026-10-20T18:17:04.080713+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-20T17:52:51.171809+00:00",
+   "last_ok": "2026-10-20T18:17:04.080713+00:00",
    "error": null
   }
  ]
