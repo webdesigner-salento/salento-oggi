@@ -1,6 +1,72 @@
 {
- "updated_at": "2026-10-20T11:17:21.377246+00:00",
+ "updated_at": "2026-10-20T11:54:51.069908+00:00",
  "items": [
+  {
+   "id": "ee7f9089afbe",
+   "title": "Latitante rintracciato in un centro commerciale a Lecce: arrestato",
+   "summary": "LECCE – Si è conclusa nella serata di venerdì 16 ottobre la breve irreperibilità di un quarantunenne di Lecce, rintracciato e tratto in arresto dagli agenti della Squadra Mobile della Questura locale…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/latitante-rintracciato-in-un-centro-commerciale-a-lecce-arrestato/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T11:39:04+00:00"
+  },
+  {
+   "id": "bafac5454ca7",
+   "title": "“Trepuzze”, un evento dedicato a Trepuzzi e alla sua cultura popolare questo giovedì a Palazzo Guerrieri",
+   "summary": "TREPUZZI (Lecce) – Un momento dedicato a Trepuzzi e alla sua cultura popolare. È questo il senso di “Trepuzze”, evento organizzato da Arci Lecce Solidarietà per giovedì 22 ottobre alle ore 17.30, pre…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/trepuzze-un-evento-dedicato-a-trepuzzi-e-alla-sua-cultura-popolare-questo-giovedi-a-palazzo-guerrieri/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T11:34:10+00:00"
+  },
+  {
+   "id": "a67d67bce949",
+   "title": "Università del Salento, violazione informatica: diffusi i dati personali degli studenti",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/03/unisalento.jpg",
+   "url": "https://trnews.it/2026/10/20/universita-del-salento-violazione-informatica-diffusi-i-dati-personali-degli-studenti",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T11:28:38+00:00"
+  },
+  {
+   "id": "6709d0593a3b",
+   "title": "Dall’8 novembre tornano i Concerti con Aperitivo al Teatro Paisiello",
+   "summary": "LECCE – I Concerti con Aperitivo tornano protagonisti nella programmazione della Camerata Musicale Salentina, storica associazione fondata nel 1970 dal M° Carlo Vitale, che da oltre cinquant’anni por…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/dall8-novembre-tornano-i-concerti-con-aperitivo-al-teatro-paisiello-2/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T11:27:17+00:00"
+  },
+  {
+   "id": "b1865ff8e8de",
+   "title": "Blitz antidroga a Taviano: perquisizione in casa, sequestrati crack, hashish e cocaina",
+   "summary": "TAVIANO (Lecce) – I Carabinieri della Stazione di Taviano hanno portato a termine un’operazione mirata al contrasto dello spaccio di sostanze stupefacenti nel centro cittadino, culminata con l’arrest…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/blitz-antidroga-a-taviano-perquisizione-in-casa-sequestrati-crack-hashish-e-cocaina/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T11:23:12+00:00"
+  },
+  {
+   "id": "ba70afe760fe",
+   "title": "Politica e cultura per immaginare il Salento del futuro: è nata “In direzione ostinata”",
+   "summary": "Una sala gremita di cittadini, attivisti e amministratori locali provenienti da tutto il Salento ha accompagnato, domenica 18 ottobre, la nascita di “In direzione ostinata“, la nuova associazione pol…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/politica-e-cultura-per-immaginare-il-salento-del-futuro-e-nata-in-direzione-ostinata/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-10-20T11:20:34+00:00"
+  },
   {
    "id": "fea593a0d391",
    "title": "Povertà minorile in Puglia, il Garante Abbaticchio: “Dobbiamo imparare ad ascoltare le giovani generazioni”",
@@ -655,13 +721,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-20T11:17:21.377246+00:00",
+   "last_ok": "2026-10-20T11:54:51.069908+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-20T11:17:21.377246+00:00",
+   "last_ok": "2026-10-20T11:54:51.069908+00:00",
    "error": null
   }
  ]
