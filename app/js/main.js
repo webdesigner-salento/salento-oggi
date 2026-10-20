@@ -14,7 +14,7 @@ const REFRESH_AFTER_MS = 5 * 60 * 1000;
 const FILTER_NAMES = new Set(["zone", "category"]);
 
 const store = createStore(getBrowserStorage());
-const state = { news: parseNews(null), zone: ALL_ZONES, category: ALL_CATEGORIES, loadedAt: 0, loading: false, reloadRequested: false };
+const state = { news: parseNews(null), zone: ALL_ZONES, category: ALL_CATEGORIES, loadedAt: 0, loading: false, loaded: false, reloadRequested: false };
 const byId = (id) => document.getElementById(id);
 
 const currentScreen = () => {
@@ -47,7 +47,7 @@ function render() {
 
   const today = renderToday({
     items: state.news.items, zone: state.zone, category: state.category,
-    disabledSources, savedIds: saved.map((item) => item.id), now,
+    disabledSources, savedIds: saved.map((item) => item.id), now, loading: !state.loaded,
   });
   replaceFilters(today.filters);
   byId("feed").innerHTML = today.feed;
@@ -80,6 +80,7 @@ async function load() {
     /* rete assente o JSON non valido: si tengono i dati attuali */
   } finally {
     state.loading = false;
+    state.loaded = true; // anche se è fallito: da qui in poi «nessuna notizia» è la verità
     render();
     if (state.reloadRequested) {
       state.reloadRequested = false;

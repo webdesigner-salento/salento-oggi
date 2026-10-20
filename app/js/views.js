@@ -35,7 +35,7 @@ const EMPTY = {
 };
 
 /** @returns {{filters: string, feed: string}} filtri e lista separati, così i filtri non si ridisegnano a ogni tocco. */
-export function renderToday({ items = [], zone = ALL_ZONES, category = ALL_CATEGORIES, disabledSources = [], savedIds = [], now = new Date() } = {}) {
+export function renderToday({ items = [], zone = ALL_ZONES, category = ALL_CATEGORIES, disabledSources = [], savedIds = [], now = new Date(), loading = false } = {}) {
   const filters =
     renderChips({ name: "zone", options: ZONE_OPTIONS, selected: zone, label: "Zona" }) +
     renderChips({ name: "category", options: CATEGORY_OPTIONS, selected: category, label: "Categoria" });
@@ -43,6 +43,8 @@ export function renderToday({ items = [], zone = ALL_ZONES, category = ALL_CATEG
   const off = new Set(disabledSources);
   const visible = filterItems(items, { zone, category, disabledSources }).sort(newestFirst);
   if (visible.length === 0) {
+    // Prima che news.json sia arrivato l'elenco è vuoto solo perché non ha ancora risposto nessuno.
+    if (loading && items.length === 0) return { filters, feed: '<p class="loading">Carico le notizie…</p>' };
     const empty = items.length === 0 ? EMPTY.noNews : items.every((item) => off.has(item.source)) ? EMPTY.allSourcesOff : EMPTY.noMatch;
     return { filters, feed: renderEmpty(empty) };
   }

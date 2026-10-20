@@ -69,6 +69,25 @@ test("renderToday: senza notizie invita a riprovare e non mostra schede", () => 
   assert.equal(count(feed, "<article"), 0);
 });
 
+test("renderToday: finché le notizie si stanno caricando mostra «Carico le notizie…», non «nessuna notizia»", () => {
+  const { feed } = renderToday({ items: [], loading: true, now: NOW });
+  assert.match(feed, /<p class="loading">Carico le notizie…<\/p>/);
+  assert.doesNotMatch(feed, /Nessuna notizia/);
+  assert.equal(count(feed, "<article"), 0);
+});
+
+test("renderToday: durante il caricamento le notizie già presenti restano visibili", () => {
+  const { feed } = renderToday({ items: [mk(1)], loading: true, now: NOW });
+  assert.equal(count(feed, "<article"), 1);
+  assert.doesNotMatch(feed, /Carico le notizie/);
+});
+
+test("renderToday: a caricamento finito senza notizie invita a riprovare", () => {
+  const { feed } = renderToday({ items: [], loading: false, now: NOW });
+  assert.match(feed, /Nessuna notizia al momento/);
+  assert.doesNotMatch(feed, /Carico le notizie/);
+});
+
 test("renderToday: filtri che escludono tutto offrono di tornare a Tutto", () => {
   const { feed } = renderToday({ items: [mk(1, { zone: "Lecce" })], zone: "Taranto", now: NOW });
   assert.match(feed, /Nessuna notizia con questi filtri/);
