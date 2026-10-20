@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-20T16:23:04.547509+00:00",
+ "updated_at": "2026-10-20T16:57:14.963050+00:00",
  "items": [
+  {
+   "id": "e480f36517f4",
+   "title": "Via XXV Luglio, conto alla rovescia per la fine dei lavori: entro dicembre la strada sarà pronta",
+   "summary": "LECCE – Il centro cittadino si prepara a liberarsi di uno dei cantieri che negli ultimi mesi hanno creato maggiori disagi alla circolazione e alle attività commerciali. In via XXV Luglio si lavora pe…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/via-xxv-luglio-conto-alla-rovescia-per-la-fine-dei-lavori-entro-dicembre-la-strada-sara-pronta/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T16:34:13+00:00"
+  },
   {
    "id": "6ce47e193966",
    "title": "“Il tuo punto di vista conta” – screening per le maculopatie 23 e 24 ottobre al Fazzi",
@@ -37,7 +48,7 @@
   {
    "id": "88c482977f87",
    "title": "“Doppio piano”, la nuova mostra di Gianfranco Russo. Vernice sabato 24 ottobre a Nardò",
-   "summary": "NARDO’ (Lecce) – Sabato 24 ottobre 2026, alle ore 18, la galleria l’osanna nardò la galleria l’osanna nardò, del gallerista Riccardo Leuzzi”, inaugura “Doppio piano”, la nuova mostra di Gianfranco Ru…",
+   "summary": "NARDO‘ (Lecce) – Sabato 24 ottobre 2026, alle ore 18, la galleria l’osanna nardò la galleria l’osanna nardò, del gallerista Riccardo Leuzzi”, inaugura “Doppio piano”, la nuova mostra di Gianfranco Ru…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/10/doppio-piano-la-nuova-mostra-di-gianfranco-russo-vernice-sabato-24-ottobre-a-nardo/",
    "source": "Corriere Salentino",
@@ -908,13 +919,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-20T16:23:04.547509+00:00",
+   "last_ok": "2026-10-20T16:57:14.963050+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-20T16:23:04.547509+00:00",
+   "last_ok": "2026-10-20T16:57:14.963050+00:00",
    "error": null
   }
  ]
