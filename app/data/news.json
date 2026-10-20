@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-10-20T10:54:50.377808+00:00",
+ "updated_at": "2026-10-20T11:17:21.377246+00:00",
  "items": [
+  {
+   "id": "fea593a0d391",
+   "title": "Povertà minorile in Puglia, il Garante Abbaticchio: “Dobbiamo imparare ad ascoltare le giovani generazioni”",
+   "summary": "La povertà rappresenta una delle principali criticità sociali del territorio pugliese, con conseguenze significative sulle condizioni di vita delle famiglie e sulle opportunità di crescita dei bambin…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/poverta-minorile-in-puglia-il-garante-abbaticchio-dobbiamo-imparare-ad-ascoltare-le-giovani-generazioni/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-10-20T11:14:02+00:00"
+  },
+  {
+   "id": "a858a16cccd5",
+   "title": "Italia-Turchia la missione dei ministri della Cultura a Hierapolis",
+   "summary": "LECCE – Il ministro della Cultura Alessandro Giuli e il ministro della Cultura e del Turismo della Repubblica di Turchia MehmetNuriErsoy hanno inaugurato lunedì 13 ottobre a Hierapolis di Frigia il X…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/italia-turchia-la-missione-dei-ministri-della-cultura-a-hierapolis/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T11:00:11+00:00"
+  },
+  {
+   "id": "55ffcef7b00d",
+   "title": "Un nuovo Comandante della Polizia Locale a Salice Salentino",
+   "summary": "SALICE SALENTINO (Lecce) – Il Comune di Salice Salentino ha un nuovo Comandante della Polizia Locale: presentato ufficialmente il dott. Francesco Ciccarese. Stamane, presso la sede del Comando di Pol…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/un-nuovo-comandante-della-polizia-locale-a-salice-salentino/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T10:55:51+00:00"
+  },
   {
    "id": "0db134a5c081",
    "title": "Meteo di domani 21 ottobre nel Salento: previsioni, temperature e cosa aspettarsi",
@@ -288,6 +321,17 @@
    "published_at": "2026-10-20T08:30:18+00:00"
   },
   {
+   "id": "500417e00ac6",
+   "title": "Un nuovo volto per Punta Palascia: in arrivo museo, bar e ostello",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/11706109423_359d30d50f_b.jpg",
+   "url": "https://trnews.it/2026/10/20/un-nuovo-volto-per-punta-palascia-in-arrivo-museo-bar-e-ostello",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T08:25:18+00:00"
+  },
+  {
    "id": "0f156803dd1c",
    "title": "Squinzano, svolta urbanistica per gli ex stabilimenti: l’assessora Casilli, «Diamo nuova vita a un’area ferma da anni»",
    "summary": "Squinzano, svolta urbanistica per gli ex stabilimenti: l’assessora Casilli, «Diamo nuova vita a un’area ferma da anni» L’assessore ai Lavori pubblici, all’Urbanistica, Turismo e Marketing territorial…",
@@ -319,17 +363,6 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-20T07:08:19+00:00"
-  },
-  {
-   "id": "500417e00ac6",
-   "title": "Un nuovo volto per Punta Palascia: in arrivo museo, bar e ostello",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/11706109423_359d30d50f_b.jpg",
-   "url": "https://trnews.it/2026/10/20/un-nuovo-volto-per-punta-palascia-in-arrivo-museo-bar-e-ostello",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T06:25:18+00:00"
   },
   {
    "id": "80c405abef2e",
@@ -398,6 +431,17 @@
    "published_at": "2026-10-20T04:36:45+00:00"
   },
   {
+   "id": "32ca370d7202",
+   "title": "Foggia sconfitto a Giugliano",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/FB_IMG_1792444331698-1-1024x630.jpg",
+   "url": "https://trnews.it/2026/10/19/foggia-sconfitto-a-giugliano",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-19T23:21:48+00:00"
+  },
+  {
    "id": "e03f9e9c58ce",
    "title": "Fatture false per centinaia di migliaia di euro: a processo in 17. Coinvolti imputati ed ex consulente del lavoro",
    "summary": "LECCE – A processo nell’ambito di un’inchiesta condotta dalla Guardia di Finanza su un voluminoso giro di fatture false finalizzate, in parte, a evadere il fisco. Il gup Angelo Zizzari, al termine de…",
@@ -409,15 +453,15 @@
    "published_at": "2026-10-19T21:59:47+00:00"
   },
   {
-   "id": "32ca370d7202",
-   "title": "Foggia sconfitto a Giugliano",
+   "id": "377a81fdc234",
+   "title": "Presentata la 4^ edizione del progetto \"Sport, palestra di legalità\"",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/FB_IMG_1792444331698-1-1024x630.jpg",
-   "url": "https://trnews.it/2026/10/19/foggia-sconfitto-a-giugliano",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-19-213138.png",
+   "url": "https://trnews.it/2026/10/19/presentata-la-4-edizione-del-progetto-sport-palestra-di-legalita",
    "source": "TeleRama News",
    "category": "Sport",
    "zone": "Salento",
-   "published_at": "2026-10-19T21:21:48+00:00"
+   "published_at": "2026-10-19T21:18:07+00:00"
   },
   {
    "id": "4b190885635a",
@@ -451,17 +495,6 @@
    "category": "Cultura",
    "zone": "Lecce",
    "published_at": "2026-10-19T20:04:42+00:00"
-  },
-  {
-   "id": "377a81fdc234",
-   "title": "Presentata la 4^ edizione del progetto \"Sport, palestra di legalità\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-19-213138.png",
-   "url": "https://trnews.it/2026/10/19/presentata-la-4-edizione-del-progetto-sport-palestra-di-legalita",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-10-19T19:18:07+00:00"
   },
   {
    "id": "dc283926b7de",
@@ -622,13 +655,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-20T10:54:50.377808+00:00",
+   "last_ok": "2026-10-20T11:17:21.377246+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-20T10:54:50.377808+00:00",
+   "last_ok": "2026-10-20T11:17:21.377246+00:00",
    "error": null
   }
  ]
