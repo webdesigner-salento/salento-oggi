@@ -1,6 +1,50 @@
 {
- "updated_at": "2026-10-20T14:01:44.665907+00:00",
+ "updated_at": "2026-10-20T14:59:08.288999+00:00",
  "items": [
+  {
+   "id": "fac1cf1c45d2",
+   "title": "Infrastrutture. Ferrante (Mit), Riunione su opere commissariate, acceleriamo interventi Anas in Puglia",
+   "summary": "“Le grandi opere viarie al Sud sono fondamentali per migliorare i collegamenti, sostenere la competitività e garantire una mobilità più rapida, sicura ed efficiente. In particolare, stiamo lavorando…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/infrastrutture-ferrante-mit-riunione-su-opere-commissariate-acceleriamo-interventi-anas-in-puglia/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-10-20T14:16:57+00:00"
+  },
+  {
+   "id": "c88deae4ccfd",
+   "title": "Comune di Taranto, vertenza Kyma Ambiente: situazione complessa",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-67-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/20/comune-di-taranto-vertenza-kyma-ambiente-situazione-complessa",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Taranto",
+   "published_at": "2026-10-20T13:58:08+00:00"
+  },
+  {
+   "id": "1a1f72db4621",
+   "title": "Arcidiocesi di Taranto: \"Comunità energetica rinnovabile - L'energia siamo noi\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-66-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/20/arcidiocesi-di-taranto-comunita-energetica-rinnovabile-lenergia-siamo-noi",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Taranto",
+   "published_at": "2026-10-20T13:56:00+00:00"
+  },
+  {
+   "id": "7a79969f97d2",
+   "title": "Ex Ilva, il nuovo assetto organizzativo mentre la Cassazione decide",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-65-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/20/ex-ilva-il-nuovo-assetto-organizzativo-mentre-la-cassazione-decide",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Taranto",
+   "published_at": "2026-10-20T13:55:25+00:00"
+  },
   {
    "id": "24b73b873630",
    "title": "Moto da cross nell'area protetta: due denunce",
@@ -55,6 +99,28 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-20T12:25:46+00:00"
+  },
+  {
+   "id": "015d448ca0bb",
+   "title": "Taurisano, rapina in pizzeria: titolare lo blocca e lo fa arrestare",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-11.45.10-1024x576.jpeg",
+   "url": "https://trnews.it/2026/10/20/taurisano-rapina-in-pizzeria-titolare-lo-blocca-e-lo-fa-arrestare",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T12:21:39+00:00"
+  },
+  {
+   "id": "c570cea7df07",
+   "title": "Cocaina nascosta tra gli attrezzi da lavoro: quarantenne nei guai",
+   "summary": "MORCIANO DI LEUCA (Lecce) – Un controllo su strada lungo le vie di Morciano di Leuca si è concluso con l’arresto in flagranza di reato di un quarantenne originario di Parabita, Alberto Leopizzi, accu…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/cocaina-nascosta-tra-gli-attrezzi-da-lavoro-quarantenne-nei-guai/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T12:07:03+00:00"
   },
   {
    "id": "76ecbe8800d9",
@@ -222,17 +288,6 @@
    "published_at": "2026-10-20T10:24:12+00:00"
   },
   {
-   "id": "015d448ca0bb",
-   "title": "Taurisano, rapina in pizzeria: titolare lo blocca e lo fa arrestare",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-11.45.10-1024x576.jpeg",
-   "url": "https://trnews.it/2026/10/20/taurisano-rapina-in-pizzeria-titolare-lo-blocca-e-lo-fa-arrestare",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T10:21:39+00:00"
-  },
-  {
    "id": "879f22fbdccb",
    "title": "Tentò l’irruzione nello studio di una dottoressa di cui si era invaghito: condannato a 3 anni per stalking",
    "summary": "GALLIPOLI (Lecce) – Tentò di sfondare la porta d’ingresso dello studio professionale di una dottoressa della quale si era invaghito da tempo ma venne bloccato e arrestato dai carabinieri prima di pot…",
@@ -253,17 +308,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-20T10:12:37+00:00"
-  },
-  {
-   "id": "c570cea7df07",
-   "title": "Cocaina nascosta tra gli attrezzi da lavoro: quarantenne nei guai",
-   "summary": "MORCIANO DI LEUCA (Lecce) – Un controllo su strada lungo le vie di Morciano di Leuca si è concluso con l’arresto in flagranza di reato di un quarantenne originario di Parabita, accusato di detenzione…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/cocaina-nascosta-tra-gli-attrezzi-da-lavoro-quarantenne-nei-guai/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T10:07:03+00:00"
   },
   {
    "id": "53e99746ad3d",
@@ -787,13 +831,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-20T14:01:44.665907+00:00",
+   "last_ok": "2026-10-20T14:59:08.288999+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-20T14:01:44.665907+00:00",
+   "last_ok": "2026-10-20T14:59:08.288999+00:00",
    "error": null
   }
  ]
