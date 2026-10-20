@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-20T18:17:04.080713+00:00",
+ "updated_at": "2026-10-20T19:04:49.679089+00:00",
  "items": [
+  {
+   "id": "a2a93a1aab7c",
+   "title": "Agrivoltaico a Corigliano, la sindaca Ada Fiore dice no al confronto pubblico: “Il Comune ha già deciso e avviato il ricorso”",
+   "summary": "CORIGLIANO D’OTRANTO – Il progetto agrivoltaico da 43 megawatt previsto nelle campagne di Corigliano d’Otranto continua a dividere la politica e ad alimentare il dibattito sul futuro energetico del t…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/agrivoltaico-a-corigliano-la-sindaca-ada-fiore-dice-no-al-confronto-pubblico-il-comune-ha-gia-deciso-e-avviato-il-ricorso/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T18:51:26+00:00"
+  },
   {
    "id": "dfa739311227",
    "title": "Lasciata con pochi viveri e senza riscaldamento per giorni infermiera condannata per maltrattamenti sulla madre",
@@ -952,13 +963,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-20T18:17:04.080713+00:00",
+   "last_ok": "2026-10-20T19:04:49.679089+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-20T18:17:04.080713+00:00",
+   "last_ok": "2026-10-20T19:04:49.679089+00:00",
    "error": null
   }
  ]
