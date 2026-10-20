@@ -1,6 +1,72 @@
 {
- "updated_at": "2026-10-20T10:17:01.018136+00:00",
+ "updated_at": "2026-10-20T10:54:50.377808+00:00",
  "items": [
+  {
+   "id": "0db134a5c081",
+   "title": "Meteo di domani 21 ottobre nel Salento: previsioni, temperature e cosa aspettarsi",
+   "summary": "Puglia – Molte nuvole in transito nel corso della giornata su tutta la regione con possibilità di piogge e temporali sparsi sia al mattino che al pomeriggio sui settori centro-meridionali, più asciut…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/meteo-di-domani-21-ottobre-nel-salento-previsioni-temperature-e-cosa-aspettarsi/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T10:50:49+00:00"
+  },
+  {
+   "id": "e4aefa7386dc",
+   "title": "Rapina in una pizzeria a Taurisano: il titolare insegue il ladro e lo blocca, arrestato",
+   "summary": "TAURISANO (Lecce) – Raid a volto coperto nel cuore di Taurisano, dove nella serata di ieri si è consumata una rapina ai danni dell’esercizio commerciale “The Brothers”, situato lungo Corso Umberto I.…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/rapina-in-una-pizzeria-a-taurisano-il-titolare-insegue-il-ladro-e-lo-blocca-arrestato/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T10:50:07+00:00"
+  },
+  {
+   "id": "561a5af53795",
+   "title": "Stasera su Rai 2 il concerto evento dei Negramaro all’Arena di Verona",
+   "summary": "Due ore di energia ed emozioni per il live che ha concluso “Una storia ancora semplice Tour 2026”, salutando il pubblico prima di un nuovo capitolo. Stasera, Martedì 20 ottobre, in prima serata su Ra…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/stasera-su-rai-2-il-concerto-evento-dei-negramaro-allarena-di-verona/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Salento",
+   "published_at": "2026-10-20T10:26:10+00:00"
+  },
+  {
+   "id": "6ebbb05bfc25",
+   "title": "Ferve l’attesa per Villains Halloween al Centro Lo Spazio di Lecce",
+   "summary": "Lecce – A Lecce arriva “Villains Halloween”: il pomeriggio più mostruoso dell’anno firmato Bambuballa Animazione e Comune di Lecce Sabato 31 ottobre, a partire dalle ore 17:30, lo Spazio di Via Vitto…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/ferve-lattesa-per-villains-halloween-al-centro-lo-spazio-di-lecce/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T10:25:43+00:00"
+  },
+  {
+   "id": "1cade9b60ff3",
+   "title": "Suicidio tra i giovani, uno studente su sette ha pensato di togliersi la vita",
+   "summary": "PADOVA- Tra i 1.400 studenti e studentesse delle scuole superiori di Padova che hanno risposto al questionario della Fondazione Foresta ETS, ben 214, pari al 15,3%, raccontano di aver pensato almeno…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/suicidio-tra-i-giovani-uno-studente-su-sette-ha-pensato-di-togliersi-la-vita/",
+   "source": "Corriere Salentino",
+   "category": "Salute",
+   "zone": "Salento",
+   "published_at": "2026-10-20T10:24:12+00:00"
+  },
+  {
+   "id": "015d448ca0bb",
+   "title": "Taurisano, rapina in pizzeria: titolare lo blocca e lo fa arrestare",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-11.45.10-1024x576.jpeg",
+   "url": "https://trnews.it/2026/10/20/taurisano-rapina-in-pizzeria-titolare-lo-blocca-e-lo-fa-arrestare",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T10:21:39+00:00"
+  },
   {
    "id": "879f22fbdccb",
    "title": "Tentò l’irruzione nello studio di una dottoressa di cui si era invaghito: condannato a 3 anni per stalking",
@@ -11,6 +77,17 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-20T10:14:28+00:00"
+  },
+  {
+   "id": "3290bb484246",
+   "title": "Udinese-Lecce: in prima serata su TeleRama",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Konan-N.Dri-foto-P.-Pinto-1024x698.jpeg",
+   "url": "https://trnews.it/2026/10/20/udinese-lecce-in-prima-serata-su-telerama",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T10:12:37+00:00"
   },
   {
    "id": "c570cea7df07",
@@ -33,6 +110,17 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-20T10:06:10+00:00"
+  },
+  {
+   "id": "a6870d05901d",
+   "title": "Casarano, panchina affidata a Luciano Zauri",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/07/casarano-calcio-e1754068037306-1024x863.jpg",
+   "url": "https://trnews.it/2026/10/20/casarano-panchina-affidata-a-luciano-zauri",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T10:05:53+00:00"
   },
   {
    "id": "ab3e7ee1f54b",
@@ -534,13 +622,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-20T10:17:01.018136+00:00",
+   "last_ok": "2026-10-20T10:54:50.377808+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-20T10:17:01.018136+00:00",
+   "last_ok": "2026-10-20T10:54:50.377808+00:00",
    "error": null
   }
  ]
