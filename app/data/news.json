@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-10-20T15:57:13.867189+00:00",
+ "updated_at": "2026-10-20T16:23:04.547509+00:00",
  "items": [
+  {
+   "id": "6ce47e193966",
+   "title": "“Il tuo punto di vista conta” – screening per le maculopatie 23 e 24 ottobre al Fazzi",
+   "summary": "Arriva in ASL Lecce la nuova tappa della campagna “Il tuo punto di vista conta – non lasciare che le maculopatie ti fermino”, iniziativa dedicata alla sensibilizzazione e alla prevenzione delle macul…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/il-tuo-punto-di-vista-conta-screening-per-le-maculopatie-23-e-24-ottobre-al-fazzi/",
+   "source": "Corriere Salentino",
+   "category": "Salute",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T16:08:01+00:00"
+  },
+  {
+   "id": "c870aa534ece",
+   "title": "Casarano, Zauri: \"Parlare poco, pedalare molto\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot_20261020_175320-940x1024.jpg",
+   "url": "https://trnews.it/2026/10/20/casarano-zauri-parlare-poco-pedalare-molto",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T15:55:08+00:00"
+  },
+  {
+   "id": "298a12200435",
+   "title": "Casarano, Filograna Sergio: \"Ho avuto una bella impressione da Zauri, il tempo per recuperare c'è \"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot_20261020_173759-767x1024.jpg",
+   "url": "https://trnews.it/2026/10/20/casarano-filograna-sergio-ho-avuto-una-bella-impressione-da-zauri-il-tempo-per-recuperare-ce",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T15:38:58+00:00"
+  },
   {
    "id": "88c482977f87",
    "title": "“Doppio piano”, la nuova mostra di Gianfranco Russo. Vernice sabato 24 ottobre a Nardò",
@@ -875,13 +908,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-20T15:57:13.867189+00:00",
+   "last_ok": "2026-10-20T16:23:04.547509+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-20T15:57:13.867189+00:00",
+   "last_ok": "2026-10-20T16:23:04.547509+00:00",
    "error": null
   }
  ]
