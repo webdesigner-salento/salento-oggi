@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-10-20T15:25:09.824815+00:00",
+ "updated_at": "2026-10-20T15:57:13.867189+00:00",
  "items": [
+  {
+   "id": "88c482977f87",
+   "title": "“Doppio piano”, la nuova mostra di Gianfranco Russo. Vernice sabato 24 ottobre a Nardò",
+   "summary": "NARDO’ (Lecce) – Sabato 24 ottobre 2026, alle ore 18, la galleria l’osanna nardò la galleria l’osanna nardò, del gallerista Riccardo Leuzzi”, inaugura “Doppio piano”, la nuova mostra di Gianfranco Ru…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/doppio-piano-la-nuova-mostra-di-gianfranco-russo-vernice-sabato-24-ottobre-a-nardo/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T15:33:10+00:00"
+  },
+  {
+   "id": "c7aa8a8f1655",
+   "title": "Body shaming contro Giorgia Meloni, la consigliera nazionale di parità D’Antini condanna gli insulti del magistrato",
+   "summary": "Non è una questione di appartenenza politica, ma di rispetto della dignità umana. La consigliera nazionale di parità Filomena D’Antini interviene con fermezza sul caso degli insulti rivolti sui socia…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/body-shaming-contro-giorgia-meloni-la-consigliera-nazionale-di-parita-dantini-condanna-gli-insulti-del-magistrato/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-10-20T15:28:14+00:00"
+  },
+  {
+   "id": "9450b1c475c1",
+   "title": "Cinque nuovi laboratori esperienziali gratuiti per ragazze e ragazzi under 20",
+   "summary": "LECCE – Sono cinque i nuovi laboratori esperienziali gratuiti per ragazze e ragazzi dai 10 ai 20 anni del progetto “Lecce DigitaLab”, promosso e finanziato da Regione Puglia e Provincia di Lecce. La…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/cinque-nuovi-laboratori-esperienziali-gratuiti-per-ragazze-e-ragazzi-under-20/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T15:25:31+00:00"
+  },
   {
    "id": "c879c4545fd2",
    "title": "Rubati e diffusi illegalmente i dati di circa 20mila studenti dell’Università del Salento",
@@ -842,13 +875,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-20T15:25:09.824815+00:00",
+   "last_ok": "2026-10-20T15:57:13.867189+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-20T15:25:09.824815+00:00",
+   "last_ok": "2026-10-20T15:57:13.867189+00:00",
    "error": null
   }
  ]
