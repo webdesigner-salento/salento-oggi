@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-20T11:54:51.069908+00:00",
+ "updated_at": "2026-10-20T12:16:17.557935+00:00",
  "items": [
+  {
+   "id": "76ecbe8800d9",
+   "title": "Massafra, grave infortunio in una cava: operaio perde un braccio",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/ambulanza.jpg",
+   "url": "https://trnews.it/2026/10/20/massafra-grave-infortunio-in-una-cava-operaio-perde-un-braccio",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Taranto",
+   "published_at": "2026-10-20T11:52:24+00:00"
+  },
   {
    "id": "ee7f9089afbe",
    "title": "Latitante rintracciato in un centro commerciale a Lecce: arrestato",
@@ -721,13 +732,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-20T11:54:51.069908+00:00",
+   "last_ok": "2026-10-20T12:16:17.557935+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-20T11:54:51.069908+00:00",
+   "last_ok": "2026-10-20T12:16:17.557935+00:00",
    "error": null
   }
  ]
