@@ -62,15 +62,27 @@ def dedupe(items: list[dict]) -> list[dict]:
     return kept
 
 
-def _first_zone(text: str) -> str | None:
-    match = _PLACE_RE.search(text)
-    return _PLACE_TO_ZONE[match.group(0).casefold()] if match else None
+def _first_zone(text: str, *, proper_names_only: bool) -> str | None:
+    for match in _PLACE_RE.finditer(text):
+        name = match.group(0)
+        if proper_names_only and name == name.lower():
+            continue  # "un brindisi", "le maglie": parola comune scritta in minuscolo, non il comune
+        return _PLACE_TO_ZONE[name.casefold()]
+    return None
 
 
 def detect_zone(item: dict) -> str:
-    """Prima zona trovata, cercando nel titolo, poi nell'anteprima, poi nei tag."""
-    for text in (item.get("title"), item.get("summary"), " ".join(item.get("category_raw") or [])):
-        zone = _first_zone(text or "")
+    """Prima zona trovata, cercando nel titolo, poi nell'anteprima, poi nei tag.
+
+    Nel testo un comune conta solo se scritto con almeno una maiuscola; i tag dei feed sono
+    normalmente in minuscolo e valgono comunque.
+    """
+    for text, proper_names_only in (
+        (item.get("title"), True),
+        (item.get("summary"), True),
+        (" ".join(item.get("category_raw") or []), False),
+    ):
+        zone = _first_zone(text or "", proper_names_only=proper_names_only)
         if zone:
             return zone
     return FALLBACK_ZONE

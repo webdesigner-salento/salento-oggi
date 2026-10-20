@@ -21,9 +21,23 @@ self.addEventListener("install", (event) => {
   event.waitUntil(
     caches.open(SHELL_CACHE)
       .then((cache) => cache.addAll(SHELL_URLS))
+      .then(saveLatestNews)
       .then(() => self.skipWaiting()),
   );
 });
+
+/** Salva subito le ultime notizie, così anche la prima apertura senza rete ha qualcosa da mostrare.
+ *  Se non si scaricano l'installazione riesce lo stesso: la prima volta online le prenderà la pagina. */
+async function saveLatestNews() {
+  try {
+    const url = new URL("data/news.json", self.registration.scope).href;
+    const cache = await caches.open(DATA_CACHE);
+    const response = await fetch(url);
+    if (response.ok) await cache.put(url, response);
+  } catch {
+    /* nessuna copia salvata: l'app si apre lo stesso */
+  }
+}
 
 self.addEventListener("activate", (event) => {
   event.waitUntil(

@@ -77,6 +77,16 @@ class DetectZoneTests(unittest.TestCase):
         self.assertEqual(detect_zone(item(title="Salvezza e tarantella nel weekend")), "Salento")
         self.assertEqual(detect_zone(item(title="MESAGNE, nuovo sindaco")), "Brindisi")
 
+    def test_detect_zone_lowercase_common_word_is_not_a_place(self):
+        # "brindisi" = il brindisi di auguri, non la città
+        self.assertEqual(detect_zone(item(title="Un brindisi per Capodanno a Lecce")), "Lecce")
+        self.assertEqual(detect_zone(item(title="Un brindisi di auguri per tutti")), "Salento")
+        self.assertEqual(detect_zone(item(title="Festa", summary="tra balli e un brindisi a Mesagne")), "Brindisi")
+
+    def test_detect_zone_capitalised_and_uppercase_names_still_match_in_text(self):
+        self.assertEqual(detect_zone(item(title="Brindisi, nuovo sindaco")), "Brindisi")
+        self.assertEqual(detect_zone(item(title="BRINDISI, nuovo sindaco")), "Brindisi")
+
     def test_detect_zone_handles_missing_fields(self):
         self.assertEqual(detect_zone({"title": "Qualcosa"}), "Salento")
         self.assertEqual(detect_zone({"title": None, "summary": None, "category_raw": None}), "Salento")

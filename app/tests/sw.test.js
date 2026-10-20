@@ -89,6 +89,25 @@ test("install: la shell elenca ogni modulo js dell'app e solo file che esistono"
   for (const file of shell.filter(Boolean)) assert.ok(existsSync(new URL(file, APP_DIR)), `${file} non esiste`);
 });
 
+test("install: salva subito anche le ultime notizie, così la prima apertura senza rete le trova", async () => {
+  const sw = loadSw({ network: (url) => new Response(url.endsWith("news.json") ? newsBody("prime") : "ok", { status: 200 }) });
+  await sw.lifecycle("install");
+  const cached = await sw.stores.get("salento-data").match(NEWS);
+  assert.match(await cached.text(), /prime/);
+});
+
+test("install: se le notizie non si scaricano l'installazione riesce lo stesso", async () => {
+  for (const network of [
+    (url) => { if (url.endsWith("news.json")) throw new TypeError("offline"); return new Response("ok", { status: 200 }); },
+    (url) => new Response("no", { status: url.endsWith("news.json") ? 500 : 200 }),
+  ]) {
+    const sw = loadSw({ network });
+    await sw.lifecycle("install");
+    assert.equal(sw.state.skipped, true);
+    assert.equal(await sw.stores.get("salento-data").match(NEWS), undefined);
+  }
+});
+
 test("install: se un file della shell non si scarica l'installazione fallisce (niente shell a metà)", async () => {
   const sw = loadSw({ network: (url) => new Response("no", { status: url.endsWith("styles.css") ? 404 : 200 }) });
   await assert.rejects(sw.lifecycle("install"));

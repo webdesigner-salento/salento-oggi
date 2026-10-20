@@ -30,10 +30,10 @@ def _is_valid_previous(item) -> bool:
 def _enrich(item: dict, previous_by_id: dict, now: datetime) -> dict:
     """Voce di parse_feed -> voce pubblica (solo i campi della spec)."""
     published = item["published_at"]
-    if published is None:
+    if published is None or as_datetime(published) > now:
+        # Senza data, o con una data nel futuro (fuso sbagliato, evento in programma): vale il momento
+        # in cui l'abbiamo vista la prima volta, che poi resta fermo finché la data del feed non passa.
         published = previous_by_id.get(item["id"], {}).get("published_at") or now.isoformat()
-    elif as_datetime(published) > now:
-        published = now.isoformat()
     public = dict(item, category=map_category(item["category_raw"]), zone=detect_zone(item),
                   published_at=published)
     return {field: public.get(field) for field in ITEM_FIELDS}

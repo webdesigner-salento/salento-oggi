@@ -3,7 +3,7 @@ import { parseNews } from "./data.js";
 import { ALL_CATEGORIES, ALL_ZONES, filterItems, pickTopFive } from "./filters.js";
 import { installMode, recordVisit, renderInstallBanner, shouldShowInstallPrompt } from "./install.js";
 import { getDisabledSources, getSaved, toggleSaved, toggleSource } from "./prefs.js";
-import { formatDateline, formatUpdated } from "./render.js";
+import { formatDateline, formatUpdated, replaceBrokenImage } from "./render.js";
 import { shareDigest, shareItem } from "./share.js";
 import { createStore, getBrowserStorage } from "./store.js";
 import { renderDigest, renderSaved, renderSources, renderToday } from "./views.js";
@@ -196,6 +196,11 @@ document.addEventListener("click", (event) => {
   else if (action === "install") installApp();
   else if (action === "dismiss-install") hideInstall();
 });
+
+// L'evento "error" delle immagini non risale: lo si intercetta in fase di cattura.
+document.addEventListener("error", (event) => {
+  if (event.target instanceof HTMLImageElement) replaceBrokenImage(event.target);
+}, true);
 
 document.addEventListener("change", (event) => {
   const input = event.target;

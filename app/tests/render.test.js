@@ -1,9 +1,7 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import {
-  escapeHtml, renderCard, renderPlaceholder, renderChips, renderEmpty, renderSourceRow,
-  formatDateline, formatClock, formatUpdated, renderDigestRow,
-} from "../js/render.js";
+import { escapeHtml, renderCard, renderPlaceholder, renderChips, renderEmpty, renderSourceRow,
+  formatDateline, formatClock, formatUpdated, renderDigestRow, replaceBrokenImage } from "../js/render.js";
 
 const NOW = new Date("2026-10-14T10:30:00Z"); // 12:30 a Lecce (CEST)
 const item = (over = {}) => ({
@@ -166,4 +164,24 @@ test("renderPlaceholder: le fonti note hanno colori ben distinti tra loro", () =
       assert.ok(Math.min(gap, 360 - gap) >= 30, `${names[i]} (${hues[i]}) e ${names[j]} (${hues[j]}) sono troppo vicini`);
     }
   }
+});
+
+test("replaceBrokenImage: l'immagine rotta diventa il segnaposto colorato della fonte", () => {
+  const media = { dataset: { source: "Corriere Salentino" }, innerHTML: '<img src="https://x.example/a.jpg">' };
+  const img = { closest: (selector) => (selector === ".media" ? media : null) };
+  assert.equal(replaceBrokenImage(img), true);
+  assert.equal(media.innerHTML, renderPlaceholder("Corriere Salentino"));
+  assert.doesNotMatch(media.innerHTML, /<img/);
+});
+
+test("replaceBrokenImage: fuori da una scheda, o senza immagine, non fa nulla", () => {
+  assert.equal(replaceBrokenImage({ closest: () => null }), false);
+  assert.equal(replaceBrokenImage(null), false);
+  assert.equal(replaceBrokenImage(undefined), false);
+});
+
+test("replaceBrokenImage: senza nome della fonte usa il segnaposto generico", () => {
+  const media = { dataset: {}, innerHTML: "<img>" };
+  assert.equal(replaceBrokenImage({ closest: () => media }), true);
+  assert.equal(media.innerHTML, renderPlaceholder(undefined));
 });

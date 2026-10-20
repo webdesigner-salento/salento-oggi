@@ -146,6 +146,23 @@ class BuildNewsTests(unittest.TestCase):
         (item,) = build_news([SRC_A], None, fetch, NOW)["items"]
         self.assertEqual(item["published_at"], NOW.isoformat())
 
+    def test_future_date_does_not_slide_forward_on_later_runs(self):
+        feed = rss([("Fuso sbagliato", "https://a.example/tz", NOW + timedelta(hours=11), "Cronaca")])
+        fetch = make_fetch({SRC_A["feed"]: feed})
+        first = build_news([SRC_A], None, fetch, NOW)
+        second = build_news([SRC_A], first, fetch, NOW + timedelta(minutes=30))
+        third = build_news([SRC_A], second, fetch, NOW + timedelta(hours=1))
+        self.assertEqual(second["items"][0]["published_at"], NOW.isoformat())
+        self.assertEqual(third["items"][0]["published_at"], NOW.isoformat())
+
+    def test_future_date_that_has_since_passed_takes_the_real_date(self):
+        real = NOW + timedelta(hours=2)
+        fetch = make_fetch({SRC_A["feed"]: rss([("Programmata", "https://a.example/p", real, "Cronaca")])})
+        first = build_news([SRC_A], None, fetch, NOW)
+        later = build_news([SRC_A], first, fetch, NOW + timedelta(hours=3))
+        self.assertEqual(first["items"][0]["published_at"], NOW.isoformat())
+        self.assertEqual(later["items"][0]["published_at"], real.isoformat())
+
     def test_disabled_source_is_skipped_and_its_items_removed(self):
         disabled_b = dict(SRC_B, enabled=False)
         previous = previous_news([prev_item(1, "Fonte A"), prev_item(2, "Fonte B")])

@@ -41,6 +41,14 @@ export function renderPlaceholder(source) {
   return `<div class="ph" style="--h:${hueFor(name)}" aria-hidden="true"><span class="ph-name">${escapeHtml(name)}</span></div>`;
 }
 
+/** Un'immagine che non si carica diventa il segnaposto della fonte. Restituisce true se l'ha sostituita. */
+export function replaceBrokenImage(img) {
+  const media = img?.closest?.(".media");
+  if (!media) return false;
+  media.innerHTML = renderPlaceholder(media.dataset?.source);
+  return true;
+}
+
 export function renderCard(item, { saved = false, now = new Date(), lead = false } = {}) {
   const imageUrl = safeHttpUrl(item.image);
   const media = imageUrl
