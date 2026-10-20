@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-20T17:29:25.501304+00:00",
+ "updated_at": "2026-10-20T17:52:51.171809+00:00",
  "items": [
+  {
+   "id": "fe816159005e",
+   "title": "Paura per un incidente tra scooter in tangenziale e due giovani restano feriti",
+   "summary": "Lecce – L’incidente, tanto spavento, ma fortunatamente nessuna conseguenza grave. Protagonisti due giovani che, nel pomeriggio di oggi, si sono scontrati a bordo dei rispettivi scooter lungo la tange…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/paura-per-un-incidente-tra-scooter-in-tangenziale-e-due-giovani-restano-feriti/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T17:37:53+00:00"
+  },
+  {
+   "id": "050459449ffb",
+   "title": "Caso Bertacchi, dagli stivali al sopralluogo: i nuovi accertamenti del Ris",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_4033-1024x548.jpeg",
+   "url": "https://trnews.it/2026/10/20/caso-bertacchi-dagli-stivali-al-sopralluogo-i-nuovi-accertamenti-del-ris",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T17:33:13+00:00"
+  },
   {
    "id": "e480f36517f4",
    "title": "Via XXV Luglio, conto alla rovescia per la fine dei lavori: entro dicembre la strada sarà pronta",
@@ -27,7 +49,7 @@
    "id": "c870aa534ece",
    "title": "Casarano, Zauri: \"Parlare poco, pedalare molto\"",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot_20261020_175320-940x1024.jpg",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Zauri-20-ott-1024x536.jpg",
    "url": "https://trnews.it/2026/10/20/casarano-zauri-parlare-poco-pedalare-molto",
    "source": "TeleRama News",
    "category": "Sport",
@@ -36,9 +58,9 @@
   },
   {
    "id": "298a12200435",
-   "title": "Casarano, Filograna Sergio: \"Ho avuto una bella impressione da Zauri, il tempo per recuperare c'è \"",
+   "title": "Casarano, Filograna Sergio: \"Ho avuto una bella impressione da Zauri, il tempo per recuperare c'è\"",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot_20261020_173759-767x1024.jpg",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Fil-1024x743.jpg",
    "url": "https://trnews.it/2026/10/20/casarano-filograna-sergio-ho-avuto-una-bella-impressione-da-zauri-il-tempo-per-recuperare-ce",
    "source": "TeleRama News",
    "category": "Sport",
@@ -211,6 +233,17 @@
    "published_at": "2026-10-20T12:07:03+00:00"
   },
   {
+   "id": "db9876cc0673",
+   "title": "Lecce, per Coulibaly lesione di primo grado alla coscia destra",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/12/L.-Coulibaly-centocampista-US-Lecce--1024x698.jpeg",
+   "url": "https://trnews.it/2026/10/20/lecce-per-coulibaly-lesione-di-primo-grado-alla-coscia-destra",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T12:00:34+00:00"
+  },
+  {
    "id": "76ecbe8800d9",
    "title": "Massafra, grave infortunio in una cava: operaio perde un braccio",
    "summary": "",
@@ -297,6 +330,17 @@
    "category": "Politica",
    "zone": "Salento",
    "published_at": "2026-10-20T11:14:02+00:00"
+  },
+  {
+   "id": "781c60d88097",
+   "title": "Brindisi, Righi: \"I ragazzi della Curva ci hanno uniti\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/02/righi-1024x693.jpg",
+   "url": "https://trnews.it/2026/10/20/brindisi-righi-i-ragazzi-della-curva-ci-hanno-uniti",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-10-20T11:13:58+00:00"
   },
   {
    "id": "a858a16cccd5",
@@ -442,17 +486,6 @@
    "published_at": "2026-10-20T10:05:01+00:00"
   },
   {
-   "id": "db9876cc0673",
-   "title": "Lecce, per Coulibaly lesione di primo grado alla coscia destra",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/12/L.-Coulibaly-centocampista-US-Lecce--1024x698.jpeg",
-   "url": "https://trnews.it/2026/10/20/lecce-per-coulibaly-lesione-di-primo-grado-alla-coscia-destra",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T10:00:34+00:00"
-  },
-  {
    "id": "78c01dba8eda",
    "title": "Arti marziali, evento storico a Nardò: per la prima volta in puglia i campioni mondiali Bailey Murphy e Devon Hopper",
    "summary": "NARDÒ (Lecce) – Un appuntamento senza precedenti per tutti gli appassionati e gli atleti di arti marziali del territorio. Per la prima volta in assoluto in Puglia, Nardò ospiterà uno stage internazio…",
@@ -484,17 +517,6 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-20T09:16:22+00:00"
-  },
-  {
-   "id": "781c60d88097",
-   "title": "Brindisi, Righi: \"I ragazzi della Curva ci hanno uniti\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/02/righi-1024x693.jpg",
-   "url": "https://trnews.it/2026/10/20/brindisi-righi-i-ragazzi-della-curva-ci-hanno-uniti",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-10-20T09:13:58+00:00"
   },
   {
    "id": "c4c471edb776",
@@ -919,13 +941,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-20T17:29:25.501304+00:00",
+   "last_ok": "2026-10-20T17:52:51.171809+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-20T17:29:25.501304+00:00",
+   "last_ok": "2026-10-20T17:52:51.171809+00:00",
    "error": null
   }
  ]
