@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-20T20:14:33.295150+00:00",
+ "updated_at": "2026-10-20T20:55:13.704501+00:00",
  "items": [
+  {
+   "id": "ecf146a3b836",
+   "title": "Lecce, a Santa Rosa arrivano 15 nuovi alberi al posto delle yucche e marciapiedi rimessi a nuovo. Ma c’è anche un esposto",
+   "summary": "LECCE – Il quartiere Santa Rosa cambia volto e prova a lasciarsi alle spalle le polemiche sul taglio delle yucche. Al loro posto arrivano 15 lagerstroemie, alberi ornamentali alti tre metri, caratter…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/203ed8b6-634b-4415-891f-4fe42c37b601-1-295x300.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/10/lecce-a-santa-rosa-arrivano-15-nuovi-alberi-al-posto-delle-yucche-e-marciapiedi-rimessi-a-nuovo-ma-ce-anche-un-esposto/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T20:15:37+00:00"
+  },
   {
    "id": "a2a93a1aab7c",
    "title": "Agrivoltaico a Corigliano, la sindaca Ada Fiore dice no al confronto pubblico: “Il Comune ha già deciso e avviato il ricorso”",
@@ -963,13 +974,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-20T20:14:33.295150+00:00",
+   "last_ok": "2026-10-20T20:55:13.704501+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-20T20:14:33.295150+00:00",
+   "last_ok": "2026-10-20T20:55:13.704501+00:00",
    "error": null
   }
  ]
