@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-20T14:59:08.288999+00:00",
+ "updated_at": "2026-10-20T15:25:09.824815+00:00",
  "items": [
+  {
+   "id": "c879c4545fd2",
+   "title": "Rubati e diffusi illegalmente i dati di circa 20mila studenti dell’Università del Salento",
+   "summary": "Lecce – Il furto e la diffusione illegale nel cosiddetto dark web dei dati di circa 20mila studenti dell’Università del Salento sarebbe avvenuto alla fine del mese scorso. Si tratta di nomi, cognomi…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/rubati-e-diffusi-illegalmente-i-dati-di-circa-20mila-studenti-delluniversita-del-salento/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T15:00:17+00:00"
+  },
   {
    "id": "fac1cf1c45d2",
    "title": "Infrastrutture. Ferrante (Mit), Riunione su opere commissariate, acceleriamo interventi Anas in Puglia",
@@ -831,13 +842,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-20T14:59:08.288999+00:00",
+   "last_ok": "2026-10-20T15:25:09.824815+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-20T14:59:08.288999+00:00",
+   "last_ok": "2026-10-20T15:25:09.824815+00:00",
    "error": null
   }
  ]
