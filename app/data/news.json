@@ -1,6 +1,50 @@
 {
- "updated_at": "2026-10-20T12:16:17.557935+00:00",
+ "updated_at": "2026-10-20T13:10:07.132212+00:00",
  "items": [
+  {
+   "id": "d8409f43e238",
+   "title": "Omicidio Nisi, c'è un secondo indagato",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-63-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/20/omicidio-nisi-ce-un-secondo-indagato",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Brindisi",
+   "published_at": "2026-10-20T13:01:23+00:00"
+  },
+  {
+   "id": "f8ff4750c4fb",
+   "title": "Caro gasolio, trasporti bloccati: fiori a rischio e scaffali vuoti",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Leverano-mercato-dei-fiori.jpg",
+   "url": "https://trnews.it/2026/10/20/caro-gasolio-trasporti-bloccati-fiori-a-rischio-e-scaffali-vuoti",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T12:34:46+00:00"
+  },
+  {
+   "id": "b28395e56718",
+   "title": "Nastro Rosa: torna la scherma terapeutica per le donne operate di tumore al seno",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/nastro-rosa.jpg",
+   "url": "https://trnews.it/2026/10/20/nastro-rosa-torna-la-scherma-terapeutica-per-le-donne-operate-di-tumore-al-seno",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T12:31:46+00:00"
+  },
+  {
+   "id": "bcbbc816abcd",
+   "title": "Viale XXV luglio, entro la fine dicembre il cantiere sarà ultimato",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/05/VIA-XXV-LUGLIO-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/20/viale-xxv-luglio-entro-la-fine-dicembre-il-cantiere-sara-ultimato",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T12:25:46+00:00"
+  },
   {
    "id": "76ecbe8800d9",
    "title": "Massafra, grave infortunio in una cava: operaio perde un braccio",
@@ -732,13 +776,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-20T12:16:17.557935+00:00",
+   "last_ok": "2026-10-20T13:10:07.132212+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-20T12:16:17.557935+00:00",
+   "last_ok": "2026-10-20T13:10:07.132212+00:00",
    "error": null
   }
  ]
