@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-21T05:20:25.200049+00:00",
+ "updated_at": "2026-10-21T05:54:52.648702+00:00",
  "items": [
+  {
+   "id": "531a6cbdcabf",
+   "title": "L’almanacco di oggi 21 ottobre",
+   "summary": "– Santo Sant’Orsola – Sono nati in questo giorno 1833 Alfred Nobel 1898 Amedeo d’Aosta 1947 Riccardo Fogli – Proverbio Il pesce comincia a puzzare dalla testa – Accadde oggi 1520 Ferdinando Magellano…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lalmanacco-di-oggi-21-ottobre/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-21T05:00:20+00:00"
+  },
+  {
+   "id": "2249a73e8bee",
+   "title": "La ricetta del giorno: Risotto gorgonzola e fichi con cuore di burrata",
+   "summary": "Ingredienti: Riso carnaroli (una tazzina per ogni persona) 100 gr di gorgonzola piccante 3 fichi secchi 50 gr di burrata Olio evo 1 bicchiere di vino bianco 1 lt di brodo vegetale Procedimento: Scald…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/la-ricetta-del-giorno-risotto-gorgonzola-e-fichi-con-cuore-di-burrata/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-21T04:34:32+00:00"
+  },
   {
    "id": "feb475b5c2a4",
    "title": "Oltre 300 pazienti fragili in attesa di cure odontoiatriche al Fazzi: l’Ordine dei Medici scrive all’Asl e chiede interventi urgenti",
@@ -985,13 +1007,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T05:20:25.200049+00:00",
+   "last_ok": "2026-10-21T05:54:52.648702+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T05:20:25.200049+00:00",
+   "last_ok": "2026-10-21T05:54:52.648702+00:00",
    "error": null
   }
  ]
