@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-21T21:56:25.441500+00:00",
+ "updated_at": "2026-10-21T22:17:05.998416+00:00",
  "items": [
+  {
+   "id": "ddf009bb8756",
+   "title": "Call center, allarme occupazione nel Salento: migliaia di posti a rischio tra esuberi, delocalizzazioni e intelligenza artificiale",
+   "summary": "LECCE – Il settore dei call center rischia una crisi occupazionale senza precedenti, con migliaia di lavoratori che potrebbero perdere il posto e pesanti ripercussioni anche nel Salento. Le procedure…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/call-center-allarme-occupazione-nel-salento-migliaia-di-posti-a-rischio-tra-esuberi-delocalizzazioni-e-intelligenza-artificiale/",
+   "source": "Corriere Salentino",
+   "category": "Economia",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T22:16:49+00:00"
+  },
   {
    "id": "712660bdd7d1",
    "title": "Basket A2 - Rieti-Brindisi: 70-63",
@@ -1909,13 +1920,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T21:56:25.441500+00:00",
+   "last_ok": "2026-10-21T22:17:05.998416+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T21:56:25.441500+00:00",
+   "last_ok": "2026-10-21T22:17:05.998416+00:00",
    "error": null
   },
   {
@@ -1927,19 +1938,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-21T21:56:25.441500+00:00",
+   "last_ok": "2026-10-21T22:17:05.998416+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-21T21:56:25.441500+00:00",
+   "last_ok": "2026-10-21T22:17:05.998416+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-21T21:56:25.441500+00:00",
+   "last_ok": "2026-10-21T22:17:05.998416+00:00",
    "error": null
   }
  ]
