@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-21T20:55:44.613662+00:00",
+ "updated_at": "2026-10-21T21:17:20.850895+00:00",
  "items": [
+  {
+   "id": "712660bdd7d1",
+   "title": "Basket A2 - Rieti-Brindisi: 70-63",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot_20261021_225018_Facebook-990x1024.jpg",
+   "url": "https://trnews.it/2026/10/21/basket-a2-rieti-brindisi-70-63",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-10-21T20:55:32+00:00"
+  },
   {
    "id": "b7b2047cb7f0",
    "title": "Salentino premiato tra i migliori laureati d’Italia",
@@ -1898,13 +1909,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T20:55:44.613662+00:00",
+   "last_ok": "2026-10-21T21:17:20.850895+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T20:55:44.613662+00:00",
+   "last_ok": "2026-10-21T21:17:20.850895+00:00",
    "error": null
   },
   {
@@ -1916,19 +1927,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-21T20:55:44.613662+00:00",
+   "last_ok": "2026-10-21T21:17:20.850895+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-21T20:55:44.613662+00:00",
+   "last_ok": "2026-10-21T21:17:20.850895+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-21T20:55:44.613662+00:00",
+   "last_ok": "2026-10-21T21:17:20.850895+00:00",
    "error": null
   }
  ]
