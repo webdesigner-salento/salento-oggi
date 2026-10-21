@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-21T16:58:57.036739+00:00",
+ "updated_at": "2026-10-21T17:22:43.672362+00:00",
  "items": [
+  {
+   "id": "96e96e6123e8",
+   "title": "Sparatoria Gallipoli, fu un conflitto a fuoco tra bande diverse: tre sentenze di patteggiamento per i responsabili",
+   "summary": "GALLIPOLI (Lecce) – Un conflitto a fuoco con un botta e risposta interrotto soltanto dall’intervento della madre di uno dei tre soggetti coinvolti. Per i responsabili di quella sparatoria avvenuta il…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/sparatoria-gallipoli-fu-un-conflitto-a-fuoco-tra-bande-diverse-tre-sentenze-di-patteggiamento-per-i-responsabili/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T17:11:57+00:00"
+  },
   {
    "id": "a6e60176c5a0",
    "title": "«Donne che sapevano»: il Salento segreto e magico nel nuovo saggio di Martina D’Agostino",
@@ -33,6 +44,17 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-21T16:21:24+00:00"
+  },
+  {
+   "id": "cb62ad66fe9d",
+   "title": "Attentati al bar, in Appello condanna dimezzata per Lucio Mancino",
+   "summary": "PRESICCE-ACQUARICA (Lecce) – Si riduce ulteriormente la pena per Lucio Mancino, noto come u’mama, ritenuto responsabile dei reati di tentata estorsione e stalking ai danni della titolare di un bar di…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/attentati-al-bar-in-appello-condanna-dimezzata-per-lucio-mancino/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T16:00:19+00:00"
   },
   {
    "id": "a15696062131",
@@ -209,6 +231,17 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-21T15:15:24+00:00"
+  },
+  {
+   "id": "1be1ae274cb4",
+   "title": "Ambulatori mobili ASL Lecce, Pagliaro: “Costati oltre mezzo milione ma fermi da marzo, chiederemo conto in audizione di questo spreco”",
+   "summary": "“Più di mezzo milione di euro di soldi pubblici, “parcheggiati” alle spalle dell’ospedale Vito Fazzi di Lecce. Sono quelli spesi dalla Asl di Lecce per due ambulatori mobili: un camper odontoiatrico…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/ambulatori-mobili-asl-lecce-pagliaro-costati-oltre-mezzo-milione-ma-fermi-da-marzo-chiederemo-conto-in-audizione-di-questo-spreco/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T15:01:44+00:00"
   },
   {
    "id": "7107f2f63d7c",
@@ -1788,13 +1821,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T16:58:57.036739+00:00",
+   "last_ok": "2026-10-21T17:22:43.672362+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T16:58:57.036739+00:00",
+   "last_ok": "2026-10-21T17:22:43.672362+00:00",
    "error": null
   },
   {
@@ -1806,19 +1839,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-21T16:58:57.036739+00:00",
+   "last_ok": "2026-10-21T17:22:43.672362+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-21T16:58:57.036739+00:00",
+   "last_ok": "2026-10-21T17:22:43.672362+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-21T16:58:57.036739+00:00",
+   "last_ok": "2026-10-21T17:22:43.672362+00:00",
    "error": null
   }
  ]
