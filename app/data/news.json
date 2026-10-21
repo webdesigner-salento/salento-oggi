@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-21T22:17:05.998416+00:00",
+ "updated_at": "2026-10-21T22:53:09.480860+00:00",
  "items": [
+  {
+   "id": "94d7734489ae",
+   "title": "Call center, allarme occupazione nel Salento: migliaia di posti a rischio tra esuberi, delocalizzazioni e AI",
+   "summary": "LECCE – Il settore dei call center rischia una crisi occupazionale senza precedenti, con migliaia di lavoratori che potrebbero perdere il posto e pesanti ripercussioni anche nel Salento. Le procedure…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/call-center-allarme-occupazione-nel-salento-migliaia-di-posti-a-rischio-tra-esuberi-delocalizzazioni-e-ai/",
+   "source": "Corriere Salentino",
+   "category": "Economia",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T22:16:49+00:00"
+  },
   {
    "id": "ddf009bb8756",
    "title": "Call center, allarme occupazione nel Salento: migliaia di posti a rischio tra esuberi, delocalizzazioni e intelligenza artificiale",
@@ -475,6 +486,17 @@
    "published_at": "2026-10-21T12:59:27+00:00"
   },
   {
+   "id": "d3f2671b0811",
+   "title": "Lecce - Juventus sarà diretta da Fabio Maresca",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maresca.jpeg",
+   "url": "https://trnews.it/2026/10/21/lecce-juventus-sara-diretta-da-fabio-maresca",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T12:55:02+00:00"
+  },
+  {
    "id": "c5a89b96d297",
    "title": "Pesca illegale, sequestrati 115 chili di prodotto ittico e reti a strascico, multa da 8mila euro",
    "summary": "Otranto-San Foca (Lecce) – Controlli, multe e sequestri contro la pesca illegale. Nell’ambito delle attività istituzionali di vigilanza e controllo finalizzate alla tutela delle risorse biologiche ma…",
@@ -506,17 +528,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-21T11:28:52+00:00"
-  },
-  {
-   "id": "d3f2671b0811",
-   "title": "Lecce - Juventus sarà diretta da Fabio Maresca",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maresca.jpeg",
-   "url": "https://trnews.it/2026/10/21/lecce-juventus-sara-diretta-da-fabio-maresca",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T10:55:02+00:00"
   },
   {
    "id": "8289a12cf521",
@@ -1920,13 +1931,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T22:17:05.998416+00:00",
+   "last_ok": "2026-10-21T22:53:09.480860+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T22:17:05.998416+00:00",
+   "last_ok": "2026-10-21T22:53:09.480860+00:00",
    "error": null
   },
   {
@@ -1938,19 +1949,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-21T22:17:05.998416+00:00",
+   "last_ok": "2026-10-21T22:53:09.480860+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-21T22:17:05.998416+00:00",
+   "last_ok": "2026-10-21T22:53:09.480860+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-21T22:17:05.998416+00:00",
+   "last_ok": "2026-10-21T22:53:09.480860+00:00",
    "error": null
   }
  ]
