@@ -1,6 +1,83 @@
 {
- "updated_at": "2026-10-21T15:22:07.498218+00:00",
+ "updated_at": "2026-10-21T15:59:54.983103+00:00",
  "items": [
+  {
+   "id": "fc3016647b95",
+   "title": "Addio ad Annibale D’Elia, la Puglia in lutto. Il Pd: “Perdiamo un grande uomo, un pensatore che ha fatto crescere la nostra regione”",
+   "summary": "“Grazie per essere tornato. Grazie per aver avuto fiducia nella tua terra. Questa comunità ti deve molto, Annibale. E noi non lo dimenticheremo. La Puglia non ti dimenticherà mai”. Sono le parole del…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/addio-ad-annibale-delia-la-puglia-in-lutto-il-pd-perdiamo-un-grande-uomo-un-pensatore-che-ha-fatto-crescere-la-nostra-regione/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-10-21T15:50:04+00:00"
+  },
+  {
+   "id": "4631a42ece75",
+   "title": "Galatone celebra vent’anni del Festival “Gabriele Inguscio”: due giornate di cinema, musica e creatività dedicate alle nuove generazioni",
+   "summary": "GALATONE – Vent’anni di cinema, passione, amicizia e impegno culturale nel ricordo di un giovane che amava profondamente la settima arte. Galatone si prepara a celebrare, il 23 e 24 ottobre, la vente…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/ea7df7fc-fe71-4188-932c-98d74d3d0a09-212x300.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/10/galatone-celebra-ventanni-del-festival-gabriele-inguscio-due-giornate-di-cinema-musica-e-creativita-dedicate-alle-nuove-generazioni/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T15:29:47+00:00"
+  },
+  {
+   "id": "1948970b43a6",
+   "title": "Autotrasporto, Confindustria Lecce: \"Comprendiamo le ragioni della protesta, ma serve accordo immediato\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/images-22-e1792596475342.jpg",
+   "url": "https://trnews.it/2026/10/21/autotrasporto-confindustria-lecce-comprendiamo-le-ragioni-della-protesta-ma-serve-accordo-immediato",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T15:28:26+00:00"
+  },
+  {
+   "id": "2596b9bad73c",
+   "title": "Insulti social, la Poli si oppone. Tutte le incongruenze e spunta una differente valutazione di un altro pm",
+   "summary": "LECCE – La sindaca di Lecce, Adriana Poli Bortone, non alza bandiera bianca e si oppone alla richiesta di archiviazione dell’inchiesta sugli insulti comparsi qua e là sui social e sul web dopo il fur…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2015/05/AVVOCATO-FRANCESCA-CONTE-400x262.jpg",
+   "url": "https://www.corrieresalentino.it/2026/10/insulti-social-la-poli-si-oppone-tutte-le-incongruenze-e-spunta-una-differente-valutazione-di-un-altro-pm/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T15:27:34+00:00"
+  },
+  {
+   "id": "41963646db15",
+   "title": "Scorrano, Mirella Amato entra in Consiglio comunale dopo le dimissioni di Blandolino",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Still0412_00001-1-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/21/scorrano-mirella-amato-entra-in-consiglio-comunale-dopo-le-dimissioni-di-blandolino",
+   "source": "TeleRama News",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T15:23:40+00:00"
+  },
+  {
+   "id": "7bf5852c4f8b",
+   "title": "“KosMitika”, una serata di Halloween diversa con “La ballata degli spettri” all’ex Convento degli Agostiniani di Lecce",
+   "summary": "LECCE – Appuntamento ricco di spunti di riflessione per la stagione autunnale di “KosMitika”, progetto culturale multi-espressivo che scaturisce da una costola di “Mitika”, rassegna teatrale sul Mito…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/kosmitika-una-serata-di-halloween-diversa-con-la-ballata-degli-spettri-allex-convento-degli-agostiniani-di-lecce/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T15:23:37+00:00"
+  },
+  {
+   "id": "a2558863bac1",
+   "title": "Rifiuti, Tar annulla autorizzazione all’impianto di Giuggianello: accolto il ricorso",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-72-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/21/rifiuti-tar-annulla-autorizzazione-allimpianto-di-giuggianello-accolto-il-ricorso",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T15:21:51+00:00"
+  },
   {
    "id": "b7c2a120ca2b",
    "title": "In scena nella rassegna Teatri a Sud di Astràgali Teatro visioni e riflessioni critiche sul presente",
@@ -13,6 +90,39 @@
    "published_at": "2026-10-21T15:21:44+00:00"
   },
   {
+   "id": "e2ffa00d7b0f",
+   "title": "Blocco autotrasportatori, scaffali vuoti e logistica al collasso nel Barese",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/scaffali-vuoti-1024x768.jpeg",
+   "url": "https://trnews.it/2026/10/21/blocco-autotrasportatori-scaffali-vuoti-e-logistica-al-collasso-nel-barese",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-21T15:21:04+00:00"
+  },
+  {
+   "id": "db69716f9adb",
+   "title": "Offese sui social al sindaco di Lecce, opposizione all'archiviazione: “Identificare gli autori”",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-71-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/21/offese-sui-social-al-sindaco-di-lecce-opposizione-allarchiviazione-identificare-gli-autori",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T15:20:17+00:00"
+  },
+  {
+   "id": "77970224c716",
+   "title": "Sanità, FdI: “Pentassuglia spara numeri falsi”",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-70-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/21/sanita-fdi-pentassuglia-spara-numeri-falsi",
+   "source": "TeleRama News",
+   "category": "Salute",
+   "zone": "Salento",
+   "published_at": "2026-10-21T15:19:22+00:00"
+  },
+  {
    "id": "1ec4b87bfbd1",
    "title": "Domenica 25 ottobre Viaggio nel tempo – visita teatralizzata in abiti d’epoca presso Masseria Tagliatelle",
    "summary": "LECCE – Domenica 25 ottobre (ingresso € 12, acquisto biglietti online) Improvvisart vi aspetta a Tagliatelle Stazione Ninfeo per la visita teatralizzata del Ninfeo delle Fate e dell’intera struttura,…",
@@ -22,6 +132,28 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-10-21T15:19:05+00:00"
+  },
+  {
+   "id": "4e4cb88cfebd",
+   "title": "Lecce, ambulatori mobili mai entrati in funzione. Pagliaro: \"Spreco di oltre 500mila euro\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/SOPRALLUOGO-AMBULATORI-MOBILI-EX-FAZZI-21.10-7-1024x768.jpeg",
+   "url": "https://trnews.it/2026/10/21/lecce-ambulatori-mobili-mai-entrati-in-funzione-pagliaro-spreco-di-oltre-500mila-euro",
+   "source": "TeleRama News",
+   "category": "Salute",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T15:17:15+00:00"
+  },
+  {
+   "id": "88093b7c58e3",
+   "title": "Consorzio Asi di Lecce commissariato, la Regione nomina Fabio Corvino",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/01/fabio-corvino.jpg",
+   "url": "https://trnews.it/2026/10/21/consorzio-asi-di-lecce-commissariato-la-regione-nomina-fabio-corvino",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T15:15:30+00:00"
   },
   {
    "id": "1c4c74388c90",
@@ -48,7 +180,7 @@
   {
    "id": "6d2965200acb",
    "title": "Vela, il Circolo nautico “La Lampara asd” di Santa Caterina di Nardò conclude la stagione con tre dei suoi atleti tra i migliori d’Italia nelle classifiche Open Skiff",
-   "summary": "NARDO’ (Lecce) – Si chiude con risultati di assoluto rilievo la stagione sportiva della squadra Open Skiff del Circolo nautico “La Lampara asd” di Santa Caterina di Nardò, protagonista di un percorso…",
+   "summary": "NARDO‘ (Lecce) – Si chiude con risultati di assoluto rilievo la stagione sportiva della squadra Open Skiff del Circolo nautico “La Lampara asd” di Santa Caterina di Nardò, protagonista di un percorso…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/10/vela-il-circolo-nautico-la-lampara-asd-di-santa-caterina-di-nardo-conclude-la-stagione-con-tre-dei-suoi-atleti-tra-i-migliori-ditalia-nelle-classifiche-open-skiff/",
    "source": "Corriere Salentino",
@@ -57,15 +189,15 @@
    "published_at": "2026-10-21T14:56:31+00:00"
   },
   {
-   "id": "2596b9bad73c",
-   "title": "Insulti social, la Poli si oppone. Tutte le incongruenze e spunta una differente valutazione di un altro pm",
-   "summary": "LECCE – La sindaca di Lecce, Adriana Poli Bortone, non alza bandiera bianca e si oppone alla richiesta di archiviazione dell’inchiesta sugli insulti comparsi qua e là sui social e sul web dopo il fur…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2015/05/AVVOCATO-FRANCESCA-CONTE-400x262.jpg",
-   "url": "https://www.corrieresalentino.it/2026/10/insulti-social-la-poli-si-oppone-tutte-le-incongruenze-e-spunta-una-differente-valutazione-di-un-altro-pm/",
+   "id": "a290f8ac1459",
+   "title": "Il racconto di una donna: “Costretta a prostituirmi per anni dal mio fidanzato e da un suo amico”: condannati entrambi",
+   "summary": "LECCE – Costretta a prostituirsi dal suo fidanzato e da un amico in una casa di Lecce trova il coraggio di ribellarsi e di denunciare i suoi aguzzini. È l’incubo vissuto da una 44enne salentina tossi…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/il-racconto-di-una-donna-costretta-a-prostituirmi-per-anni-dal-mio-fidanzato-e-da-un-suo-amico-condannati-entrambi/",
    "source": "Corriere Salentino",
    "category": "Cronaca",
    "zone": "Lecce",
-   "published_at": "2026-10-21T14:30:34+00:00"
+   "published_at": "2026-10-21T14:30:00+00:00"
   },
   {
    "id": "b7c6dab71562",
@@ -1612,13 +1744,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T15:22:07.498218+00:00",
+   "last_ok": "2026-10-21T15:59:54.983103+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T15:22:07.498218+00:00",
+   "last_ok": "2026-10-21T15:59:54.983103+00:00",
    "error": null
   },
   {
@@ -1630,19 +1762,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-21T15:22:07.498218+00:00",
+   "last_ok": "2026-10-21T15:59:54.983103+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-21T15:22:07.498218+00:00",
+   "last_ok": "2026-10-21T15:59:54.983103+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-21T15:22:07.498218+00:00",
+   "last_ok": "2026-10-21T15:59:54.983103+00:00",
    "error": null
   }
  ]
