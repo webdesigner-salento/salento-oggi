@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-21T11:20:26.990770+00:00",
+ "updated_at": "2026-10-21T11:56:59.860540+00:00",
  "items": [
+  {
+   "id": "454e008cefb5",
+   "title": "Gagliano del Capo, il sindaco Melcarne: «L’unica ipotesi che mi riguarda è l’omissione di atti d’ufficio. Nessuna contestazione per abusi edilizi o falso»",
+   "summary": "In merito alle notizie diffuse negli ultimi giorni sulla richiesta di rinvio a giudizio formulata dalla Procura della Repubblica di Lecce, il sindaco di Gagliano del Capo, Gianfranco Melcarne, ritien…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/gagliano-del-capo-il-sindaco-melcarne-lunica-ipotesi-che-mi-riguarda-e-lomissione-di-atti-dufficio-nessuna-contestazione-per-abusi-edilizi-o-falso/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T11:47:17+00:00"
+  },
+  {
+   "id": "e01ce945201b",
+   "title": "Taekwondo, Sofia De Marianis vince l'oro ai campionati italiani",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/sofia-e1792582189655-1024x782.jpg",
+   "url": "https://trnews.it/2026/10/21/taekwondo-sofia-de-marianis-vince-loro-ai-campionati-italiani",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T11:28:52+00:00"
+  },
   {
    "id": "d3f2671b0811",
    "title": "Lecce - Juventus sarà diretta da Fabio Maresca",
@@ -81,7 +103,7 @@
   {
    "id": "2596b9bad73c",
    "title": "Insulti social, la Poli si oppone. Tutte le incongruenze e spunta una differente valutazione di un altro pm",
-   "summary": "LECCE – La sindaca di Lecce, Adriana Poli Bortone, non alza bandiera biancae si oppone alla richiesta di archiviazione dell’inchiesta sugli insulti comparsi qua e là sui social e sul web dopo il furt…",
+   "summary": "LECCE – La sindaca di Lecce, Adriana Poli Bortone, non alza bandiera bianca e si oppone alla richiesta di archiviazione dell’inchiesta sugli insulti comparsi qua e là sui social e sul web dopo il fur…",
    "image": "https://www.corrieresalentino.it/wp-content/uploads/2015/05/AVVOCATO-FRANCESCA-CONTE-400x262.jpg",
    "url": "https://www.corrieresalentino.it/2026/10/insulti-social-la-poli-si-oppone-tutte-le-incongruenze-e-spunta-una-differente-valutazione-di-un-altro-pm/",
    "source": "Corriere Salentino",
@@ -1425,13 +1447,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T11:20:26.990770+00:00",
+   "last_ok": "2026-10-21T11:56:59.860540+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T11:20:26.990770+00:00",
+   "last_ok": "2026-10-21T11:56:59.860540+00:00",
    "error": null
   },
   {
@@ -1443,19 +1465,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-21T11:20:26.990770+00:00",
+   "last_ok": "2026-10-21T11:56:59.860540+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-21T11:20:26.990770+00:00",
+   "last_ok": "2026-10-21T11:56:59.860540+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-21T11:20:26.990770+00:00",
+   "last_ok": "2026-10-21T11:56:59.860540+00:00",
    "error": null
   }
  ]
