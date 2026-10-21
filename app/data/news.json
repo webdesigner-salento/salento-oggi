@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-21T10:57:05.211829+00:00",
+ "updated_at": "2026-10-21T11:20:26.990770+00:00",
  "items": [
+  {
+   "id": "d3f2671b0811",
+   "title": "Lecce - Juventus sarà diretta da Fabio Maresca",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maresca.jpeg",
+   "url": "https://trnews.it/2026/10/21/lecce-juventus-sara-diretta-da-fabio-maresca",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T10:55:02+00:00"
+  },
   {
    "id": "8289a12cf521",
    "title": "Filorosso (Rai 3): Antonio Di Pietro Su Scarpinato: “É inopportuno che sieda ancora in antimafia “",
@@ -1414,13 +1425,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T10:57:05.211829+00:00",
+   "last_ok": "2026-10-21T11:20:26.990770+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T10:57:05.211829+00:00",
+   "last_ok": "2026-10-21T11:20:26.990770+00:00",
    "error": null
   },
   {
@@ -1432,19 +1443,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-21T10:57:05.211829+00:00",
+   "last_ok": "2026-10-21T11:20:26.990770+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-21T10:57:05.211829+00:00",
+   "last_ok": "2026-10-21T11:20:26.990770+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-21T10:57:05.211829+00:00",
+   "last_ok": "2026-10-21T11:20:26.990770+00:00",
    "error": null
   }
  ]
