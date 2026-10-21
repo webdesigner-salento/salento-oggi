@@ -1,6 +1,72 @@
 {
- "updated_at": "2026-10-21T14:00:34.762225+00:00",
+ "updated_at": "2026-10-21T14:57:22.070748+00:00",
  "items": [
+  {
+   "id": "6d2965200acb",
+   "title": "Vela, il Circolo nautico “La Lampara asd” di Santa Caterina di Nardò conclude la stagione con tre dei suoi atleti tra i migliori d’Italia nelle classifiche Open Skiff",
+   "summary": "NARDO’ (Lecce) – Si chiude con risultati di assoluto rilievo la stagione sportiva della squadra Open Skiff del Circolo nautico “La Lampara asd” di Santa Caterina di Nardò, protagonista di un percorso…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/vela-il-circolo-nautico-la-lampara-asd-di-santa-caterina-di-nardo-conclude-la-stagione-con-tre-dei-suoi-atleti-tra-i-migliori-ditalia-nelle-classifiche-open-skiff/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T14:56:31+00:00"
+  },
+  {
+   "id": "2596b9bad73c",
+   "title": "Insulti social, la Poli si oppone. Tutte le incongruenze e spunta una differente valutazione di un altro pm",
+   "summary": "LECCE – La sindaca di Lecce, Adriana Poli Bortone, non alza bandiera bianca e si oppone alla richiesta di archiviazione dell’inchiesta sugli insulti comparsi qua e là sui social e sul web dopo il fur…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2015/05/AVVOCATO-FRANCESCA-CONTE-400x262.jpg",
+   "url": "https://www.corrieresalentino.it/2026/10/insulti-social-la-poli-si-oppone-tutte-le-incongruenze-e-spunta-una-differente-valutazione-di-un-altro-pm/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T14:30:34+00:00"
+  },
+  {
+   "id": "b7c6dab71562",
+   "title": "Vigili del Fuoco: in Puglia quasi 400 unità in meno rispetto al fabbisogno. La FP CGIL Puglia: “Il Governo si fermi e apra un confronto reale",
+   "summary": "«La proposta di riordino del Corpo Nazionale dei Vigili del Fuoco all’esame delle Commissioni riunite 1ª e 5ª del Senato rappresenta un intervento strutturale che, anziché rafforzare la capacità oper…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/vigili-del-fuoco-in-puglia-quasi-400-unita-in-meno-rispetto-al-fabbisogno-la-fp-cgil-puglia-il-governo-si-fermi-e-apra-un-confronto-reale/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-21T14:29:59+00:00"
+  },
+  {
+   "id": "0243f0c0afd8",
+   "title": "Morte Bertacchi, il Ris al lavoro in casa della ragazza. Lo sfogo della madre: “Falcone ha mentito”",
+   "summary": "CASARANO/RUFFANO (Lecce) – Prosegue su più fronti l’inchiesta sulla morte di Roberta Bertacchi. Indagini sul posto dopo l’arrivo del Ris e accertamenti con l’ausilio della tecnologia per fare piena l…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/bertacchi-2-770x420.jpg",
+   "url": "https://www.corrieresalentino.it/2026/10/morte-bertacchi-il-ris-al-lavoro-in-casa-della-ragazza-lo-sfogo-della-madre-falcone-ha-mentito/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T14:29:31+00:00"
+  },
+  {
+   "id": "45e58ef99b2b",
+   "title": "“Favori a imprenditori in cambio di voti”; Delli Noci in aula: “Interlocuzioni sì ma mai favoritismi”",
+   "summary": "LECCE – È durato circa tre ore l’interrogatorio dell’ex assessore regionale allo Sviluppo Economico della Regione Puglia, Alessandro Delli Noci, coinvolto nell’inchiesta con cui la Guardia di finanza…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/favori-a-imprenditori-in-cambio-di-voti-delli-noci-in-aula-interlocuzioni-si-ma-mai-favoritismi/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T14:25:26+00:00"
+  },
+  {
+   "id": "e0081509a02f",
+   "title": "Lecce, rami pericolanti in Viale Grassi: intervengono i vigili del fuoco ed i vigili urbani",
+   "summary": "Lecce, rami pericolanti in Viale Grassi: intervengono i vigili del fuoco ed i vigili urbani Un grosso albero presentava rami inclinati e a rischio caduta. Il taglio ha scongiurato possibili conseguen…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lecce-rami-pericolanti-in-viale-grassi-intervengono-i-vigili-del-fuoco-ed-i-vigili-urbani/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T14:05:37+00:00"
+  },
   {
    "id": "bb6893634ed7",
    "title": "Caso Bertacchi, il sopralluogo del Ris nell'abitazione di via del Lavoro",
@@ -165,17 +231,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-21T09:32:31+00:00"
-  },
-  {
-   "id": "2596b9bad73c",
-   "title": "Insulti social, la Poli si oppone. Tutte le incongruenze e spunta una differente valutazione di un altro pm",
-   "summary": "LECCE – La sindaca di Lecce, Adriana Poli Bortone, non alza bandiera bianca e si oppone alla richiesta di archiviazione dell’inchiesta sugli insulti comparsi qua e là sui social e sul web dopo il fur…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2015/05/AVVOCATO-FRANCESCA-CONTE-400x262.jpg",
-   "url": "https://www.corrieresalentino.it/2026/10/insulti-social-la-poli-si-oppone-tutte-le-incongruenze-e-spunta-una-differente-valutazione-di-un-altro-pm/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T09:27:34+00:00"
   },
   {
    "id": "2859c7a5b2da",
@@ -640,6 +695,17 @@
    "published_at": "2026-10-20T15:00:17+00:00"
   },
   {
+   "id": "f8ff4750c4fb",
+   "title": "Caro gasolio, trasporti bloccati: fiori a rischio e scaffali vuoti",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Leverano-mercato-dei-fiori.jpg",
+   "url": "https://trnews.it/2026/10/20/caro-gasolio-trasporti-bloccati-fiori-a-rischio-e-scaffali-vuoti",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T14:34:46+00:00"
+  },
+  {
    "id": "b28395e56718",
    "title": "Nastro Rosa: torna la scherma terapeutica per le donne operate di tumore al seno",
    "summary": "",
@@ -673,6 +739,17 @@
    "published_at": "2026-10-20T13:58:08+00:00"
   },
   {
+   "id": "76ecbe8800d9",
+   "title": "Massafra, grave infortunio in una cava: operaio perde un braccio",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/ambulanza.jpg",
+   "url": "https://trnews.it/2026/10/20/massafra-grave-infortunio-in-una-cava-operaio-perde-un-braccio",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Taranto",
+   "published_at": "2026-10-20T13:52:24+00:00"
+  },
+  {
    "id": "24b73b873630",
    "title": "Moto da cross nell'area protetta: due denunce",
    "summary": "",
@@ -693,17 +770,6 @@
    "category": "Cronaca",
    "zone": "Brindisi",
    "published_at": "2026-10-20T13:01:23+00:00"
-  },
-  {
-   "id": "f8ff4750c4fb",
-   "title": "Caro gasolio, trasporti bloccati: fiori a rischio e scaffali vuoti",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Leverano-mercato-dei-fiori.jpg",
-   "url": "https://trnews.it/2026/10/20/caro-gasolio-trasporti-bloccati-fiori-a-rischio-e-scaffali-vuoti",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T12:34:46+00:00"
   },
   {
    "id": "bcbbc816abcd",
@@ -759,17 +825,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-20T12:00:34+00:00"
-  },
-  {
-   "id": "76ecbe8800d9",
-   "title": "Massafra, grave infortunio in una cava: operaio perde un braccio",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/ambulanza.jpg",
-   "url": "https://trnews.it/2026/10/20/massafra-grave-infortunio-in-una-cava-operaio-perde-un-braccio",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Taranto",
-   "published_at": "2026-10-20T11:52:24+00:00"
   },
   {
    "id": "ee7f9089afbe",
@@ -1513,13 +1568,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T14:00:34.762225+00:00",
+   "last_ok": "2026-10-21T14:57:22.070748+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T14:00:34.762225+00:00",
+   "last_ok": "2026-10-21T14:57:22.070748+00:00",
    "error": null
   },
   {
@@ -1531,19 +1586,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-21T14:00:34.762225+00:00",
+   "last_ok": "2026-10-21T14:57:22.070748+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-21T14:00:34.762225+00:00",
+   "last_ok": "2026-10-21T14:57:22.070748+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-21T14:00:34.762225+00:00",
+   "last_ok": "2026-10-21T14:57:22.070748+00:00",
    "error": null
   }
  ]
