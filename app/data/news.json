@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-21T09:57:46.979647+00:00",
+ "updated_at": "2026-10-21T10:22:54.403589+00:00",
  "items": [
+  {
+   "id": "faf349fcd85d",
+   "title": "Serie D/H: Martina, Turris e V. Francavilla tentano la fuga",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/francavilla-1024x683.png",
+   "url": "https://trnews.it/2026/10/21/serie-d-h-martina-turris-e-v-francavilla-tentano-la-fuga",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T10:11:55+00:00"
+  },
   {
    "id": "6bf4d0409212",
    "title": "Meteo di domani 22 ottobre nel Salento: previsioni, temperature e cosa aspettarsi",
@@ -1370,13 +1381,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T09:57:46.979647+00:00",
+   "last_ok": "2026-10-21T10:22:54.403589+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T09:57:46.979647+00:00",
+   "last_ok": "2026-10-21T10:22:54.403589+00:00",
    "error": null
   },
   {
@@ -1388,19 +1399,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-21T09:57:46.979647+00:00",
+   "last_ok": "2026-10-21T10:22:54.403589+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-21T09:57:46.979647+00:00",
+   "last_ok": "2026-10-21T10:22:54.403589+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-21T09:57:46.979647+00:00",
+   "last_ok": "2026-10-21T10:22:54.403589+00:00",
    "error": null
   }
  ]
