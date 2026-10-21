@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-21T17:22:43.672362+00:00",
+ "updated_at": "2026-10-21T17:53:54.981585+00:00",
  "items": [
+  {
+   "id": "80cd003a33aa",
+   "title": "ASI Lecce, la Regione azzera i vertici e nomina Fabio Corvino commissario: conti in difficoltà e debiti da saldare",
+   "summary": "LECCE – La crisi del Consorzio ASI arriva alla resa dei conti. La Regione Puglia ha deciso di sciogliere gli organi dell’ente che gestisce e promuove lo sviluppo delle aree industriali salentine, aff…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/asi-lecce-la-regione-azzera-i-vertici-e-nomina-fabio-corvino-commissario-conti-in-difficolta-e-debiti-da-saldare/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T17:28:04+00:00"
+  },
+  {
+   "id": "183633650aa8",
+   "title": "Risonanza alla caviglia: a Lecce nessuna disponibilità",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/risonanza.jpg",
+   "url": "https://trnews.it/2026/10/21/risonanza-alla-caviglia-a-lecce-nessuna-disponibilita",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T17:26:08+00:00"
+  },
   {
    "id": "96e96e6123e8",
    "title": "Sparatoria Gallipoli, fu un conflitto a fuoco tra bande diverse: tre sentenze di patteggiamento per i responsabili",
@@ -1821,13 +1843,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T17:22:43.672362+00:00",
+   "last_ok": "2026-10-21T17:53:54.981585+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T17:22:43.672362+00:00",
+   "last_ok": "2026-10-21T17:53:54.981585+00:00",
    "error": null
   },
   {
@@ -1839,19 +1861,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-21T17:22:43.672362+00:00",
+   "last_ok": "2026-10-21T17:53:54.981585+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-21T17:22:43.672362+00:00",
+   "last_ok": "2026-10-21T17:53:54.981585+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-21T17:22:43.672362+00:00",
+   "last_ok": "2026-10-21T17:53:54.981585+00:00",
    "error": null
   }
  ]
