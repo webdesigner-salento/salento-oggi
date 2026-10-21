@@ -1,10 +1,43 @@
 {
- "updated_at": "2026-10-21T13:12:03.107543+00:00",
+ "updated_at": "2026-10-21T14:00:34.762225+00:00",
  "items": [
+  {
+   "id": "bb6893634ed7",
+   "title": "Caso Bertacchi, il sopralluogo del Ris nell'abitazione di via del Lavoro",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-69-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/21/caso-bertacchi-il-sopralluogo-del-ris-nellabitazione-di-via-del-lavoro",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T13:37:03+00:00"
+  },
+  {
+   "id": "fc0f93e1a69e",
+   "title": "Impianto di rifiuti tra Sanarica e Giuggianello, il Tar boccia il progetto Cesa: il bosco cambia tutto, autorizzazione annullata",
+   "summary": "GIUGGIANELLO /SANARICA – Il Comune di Giuggianello vince la battaglia giudiziaria contro il via libera della Provincia di Lecce. Decisivi il bosco tutelato a meno di 27 metri, le lacune nella valutaz…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/impianto-di-rifiuti-tra-sanarica-e-giuggianello-il-tar-boccia-il-progetto-cesa-il-bosco-cambia-tutto-autorizzazione-annullata/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T13:32:06+00:00"
+  },
+  {
+   "id": "795fcf09f140",
+   "title": "Gasolio “bene prezioso” letteralmente a ruba, i carabinieri arrestano due ladri",
+   "summary": "Maglie (Lecce) – Beccati mentre depredavano carburante, sono finiti nei guai. Non si arresta il presidio capillare dell’Arma dei Carabinieri nel Salento, a tutela della sicurezza dei cittadini, dei b…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/gasolio-bene-prezioso-letteralmente-a-ruba-i-carabinieri-arrestano-due-ladri/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T13:12:52+00:00"
+  },
   {
    "id": "4210eef94235",
    "title": "Alto rischio di scontri violenti, vietata la trasferta ai tifosi ospiti per il derby",
-   "summary": "Cutrofiano-Scorrano (Lecce) – Derby di Terza categoria vietato perché è stato ravvisato il concreto pericolo di azioni violente da parte delle tifoserie appartenenti alle squadre di calcio del Cutrof…",
+   "summary": "Cutrofiano–Scorrano (Lecce) – Derby di Terza categoria vietato perché è stato ravvisato il concreto pericolo di azioni violente da parte delle tifoserie appartenenti alle squadre di calcio del Cutrof…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/10/alto-rischio-di-scontri-violenti-vietata-la-trasferta-ai-tifosi-ospiti-per-il-derby/",
    "source": "Corriere Salentino",
@@ -1480,13 +1513,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T13:12:03.107543+00:00",
+   "last_ok": "2026-10-21T14:00:34.762225+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T13:12:03.107543+00:00",
+   "last_ok": "2026-10-21T14:00:34.762225+00:00",
    "error": null
   },
   {
@@ -1498,19 +1531,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-21T13:12:03.107543+00:00",
+   "last_ok": "2026-10-21T14:00:34.762225+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-21T13:12:03.107543+00:00",
+   "last_ok": "2026-10-21T14:00:34.762225+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-21T13:12:03.107543+00:00",
+   "last_ok": "2026-10-21T14:00:34.762225+00:00",
    "error": null
   }
  ]
