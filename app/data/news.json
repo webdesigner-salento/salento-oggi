@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-21T06:17:38.225227+00:00",
+ "updated_at": "2026-10-21T07:13:06.421805+00:00",
  "items": [
+  {
+   "id": "c1dc048ae7d7",
+   "title": "Gol e punti, è un Lecce diverso",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Still0412_00010-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/21/gol-e-punti-e-un-lecce-diverso",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T07:08:50+00:00"
+  },
+  {
+   "id": "0c279215e992",
+   "title": "Borgo Piave, l’ex caserma diventa casa: undici alloggi sociali (ma ci vuole una graduatoria), locali commerciali e verde",
+   "summary": "“Finalmente possiamo dire che quest’opera di importante riqualificazione è pronta per essere consegnata alla cittadinanza, dopo quattro anni di attese”. Alessio Poso, consigliere di Io Sud e delegato…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/borgo-piave-lex-caserma-diventa-casa-undici-alloggi-sociali-ma-ci-vuole-una-graduatoria-locali-commerciali-e-verde/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T06:17:16+00:00"
+  },
   {
    "id": "2d4315b1a04b",
    "title": "Borgo Piave, l’ex caserma diventa casa: undici alloggi sociali (ma ci vuole una graduatoria), locali commerciali e un parco per tutti",
@@ -1040,13 +1062,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T06:17:38.225227+00:00",
+   "last_ok": "2026-10-21T07:13:06.421805+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T06:17:38.225227+00:00",
+   "last_ok": "2026-10-21T07:13:06.421805+00:00",
    "error": null
   }
  ]
