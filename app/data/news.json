@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-21T15:59:54.983103+00:00",
+ "updated_at": "2026-10-21T16:25:59.379704+00:00",
  "items": [
+  {
+   "id": "30189021bfc8",
+   "title": "Autotrasporto, Confindustria Lecce: “Comprendiamo le ragioni della protesta, ma serve un accordo immediato”",
+   "summary": "Il protrarsi della protesta degli autotrasportatori desta forte preoccupazione per le ripercussioni sulla circolazione delle merci e sulla continuità delle attività produttive. È urgente raggiungere…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/autotrasporto-confindustria-lecce-comprendiamo-le-ragioni-della-protesta-ma-serve-un-accordo-immediato/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T16:21:24+00:00"
+  },
+  {
+   "id": "a15696062131",
+   "title": "Casarano, ufficializzato lo staff tecnico",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/07/conferenza-Casarano.jpg",
+   "url": "https://trnews.it/2026/10/21/casarano-ufficializzato-lo-staff-tecnico",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T15:59:24+00:00"
+  },
   {
    "id": "fc3016647b95",
    "title": "Addio ad Annibale D’Elia, la Puglia in lutto. Il Pd: “Perdiamo un grande uomo, un pensatore che ha fatto crescere la nostra regione”",
@@ -1744,13 +1766,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T15:59:54.983103+00:00",
+   "last_ok": "2026-10-21T16:25:59.379704+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T15:59:54.983103+00:00",
+   "last_ok": "2026-10-21T16:25:59.379704+00:00",
    "error": null
   },
   {
@@ -1762,19 +1784,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-21T15:59:54.983103+00:00",
+   "last_ok": "2026-10-21T16:25:59.379704+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-21T15:59:54.983103+00:00",
+   "last_ok": "2026-10-21T16:25:59.379704+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-21T15:59:54.983103+00:00",
+   "last_ok": "2026-10-21T16:25:59.379704+00:00",
    "error": null
   }
  ]
