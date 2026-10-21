@@ -28,6 +28,11 @@ test("parseNews: scarta le voci senza campi essenziali e tiene le altre", () => 
   assert.deepEqual(news.sources, [{ source: "Fonte", ok: true, last_ok: "2026-10-14T10:30:00+00:00" }]);
 });
 
+test("parseNews: la zona Italia delle fonti nazionali resta com'è", () => {
+  const [it] = parseNews({ items: [{ ...good(1), zone: "Italia" }] }).items;
+  assert.equal(it.zone, "Italia");
+});
+
 test("parseNews: items non array e campi opzionali mancanti non rompono nulla", () => {
   assert.deepEqual(parseNews({ items: "boh" }).items, []);
   const [it] = parseNews({ items: [{ id: "a", title: "T", url: "https://x.example", source: "S" }] }).items;

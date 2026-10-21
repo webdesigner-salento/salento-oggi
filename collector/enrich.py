@@ -5,6 +5,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 FALLBACK_ZONE = "Salento"
+NATIONAL_ZONE = "Italia"  # zona delle fonti con "scope": "national", mai dedotta dal testo
 FALLBACK_CATEGORY = "Altro"
 CATEGORY_PRIORITY = ("Cronaca", "Politica", "Sport")
 

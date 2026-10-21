@@ -15,6 +15,7 @@ NOW = datetime(2026, 10, 14, 12, 0, tzinfo=timezone.utc)
 SPEC_ITEM_FIELDS = {"id", "title", "summary", "image", "url", "source", "category", "zone", "published_at"}
 SRC_A = {"name": "Fonte A", "feed": "https://a.example/feed", "enabled": True}
 SRC_B = {"name": "Fonte B", "feed": "https://b.example/feed", "enabled": True}
+SRC_NATIONAL = {"name": "Fonte N", "feed": "https://n.example/feed", "enabled": True, "scope": "national"}
 
 
 def rss(entries):
@@ -162,6 +163,40 @@ class BuildNewsTests(unittest.TestCase):
         later = build_news([SRC_A], first, fetch, NOW + timedelta(hours=3))
         self.assertEqual(first["items"][0]["published_at"], NOW.isoformat())
         self.assertEqual(later["items"][0]["published_at"], real.isoformat())
+
+    def test_national_source_items_get_zone_italia_even_when_the_text_names_a_comune(self):
+        fetch = make_fetch({
+            SRC_A["feed"]: rss([("Incendio a Mesagne", "https://a.example/1", ago(hours=3), "Cronaca")]),
+            SRC_NATIONAL["feed"]: rss([("Corteo a Lecce contro il governo", "https://n.example/1", ago(hours=1), "Politica")]),
+        })
+        news = build_news([SRC_A, SRC_NATIONAL], None, fetch, NOW)
+        by_title = {i["title"]: i for i in news["items"]}
+        self.assertEqual(by_title["Corteo a Lecce contro il governo"]["zone"], "Italia")
+        self.assertEqual(by_title["Corteo a Lecce contro il governo"]["category"], "Politica")
+        self.assertEqual(by_title["Incendio a Mesagne"]["zone"], "Brindisi")
+
+    def test_national_flood_does_not_evict_local_items(self):
+        old_local = [prev_item(n, "Fonte A", ago(hours=60)) for n in range(1, 11)]
+        national = rss([(f"Nazionale {n}", f"https://n.example/{n}", ago(minutes=n + 1), "Politica") for n in range(400)])
+        fetch = make_fetch({
+            SRC_A["feed"]: rss([("Gol del Lecce", "https://a.example/new", ago(minutes=1), "Sport")]),
+            SRC_NATIONAL["feed"]: national,
+        })
+        news = build_news([SRC_A, SRC_NATIONAL], previous_news(old_local), fetch, NOW)
+        local = [i for i in news["items"] if i["zone"] != "Italia"]
+        italia = [i for i in news["items"] if i["zone"] == "Italia"]
+        self.assertEqual(len(local), 11)
+        self.assertEqual(len(italia), 100)
+        titles = {i["title"] for i in italia}
+        self.assertIn("Nazionale 0", titles)
+        self.assertNotIn("Nazionale 100", titles)
+        published = [i["published_at"] for i in news["items"]]
+        self.assertEqual(published, sorted(published, reverse=True))
+
+    def test_source_without_scope_is_local(self):
+        fetch = make_fetch({SRC_A["feed"]: rss([("Corteo a Lecce", "https://a.example/1", ago(hours=1), "Politica")])})
+        (item,) = build_news([SRC_A], None, fetch, NOW)["items"]
+        self.assertEqual(item["zone"], "Lecce")
 
     def test_disabled_source_is_skipped_and_its_items_removed(self):
         disabled_b = dict(SRC_B, enabled=False)

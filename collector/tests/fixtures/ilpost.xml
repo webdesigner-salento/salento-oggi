@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  RICOSTRUZIONE, non una cattura del feed reale (il 21 ottobre 2026 il sito non era scaricabile dalla shell).
+  Osservati sul feed https://www.ilpost.it/feed/: RSS 2.0 (it-IT), titoli, date, descrizione vuota nel primo
+  articolo, solo un tag <img> nel secondo, <img> più testo nel terzo, nessun media:content né enclosure.
+  Inventati: indirizzi degli articoli e delle immagini.
+-->
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Il Post</title>
+    <link>https://www.ilpost.it</link>
+    <description>Gli articoli, le rassegne, i blog, le foto, tutto quello che arriva dal mondo e dalla rete.</description>
+    <language>it-IT</language>
+    <item>
+      <title>Ep 348 – Quell'estraneo di mio figlio</title>
+      <link>https://www.ilpost.it/episodes/ep-348-quellestraneo-di-mio-figlio/</link>
+      <pubDate>Tue, 20 Oct 2026 15:00:07 +0000</pubDate>
+      <description></description>
+    </item>
+    <item>
+      <title>Il Regno Unito schiererà i suoi aerei caccia in Arabia Saudita per aiutarla a difendersi dagli attacchi degli Houthi</title>
+      <link>https://www.ilpost.it/2026/10/20/regno-unito-caccia-arabia-saudita-houthi/</link>
+      <pubDate>Tue, 20 Oct 2026 14:54:41 +0000</pubDate>
+      <description><![CDATA[<img src="https://www.ilpost.it/wp-content/uploads/2026/10/caccia-arabia-saudita-1024x683.jpg" width="1024" height="683" alt="" />]]></description>
+    </item>
+    <item>
+      <title>L'uso di soldati per l'ordine pubblico nelle città è un'anomalia italiana</title>
+      <link>https://www.ilpost.it/2026/10/20/soldati-ordine-pubblico-citta-anomalia-italiana/</link>
+      <pubDate>Tue, 20 Oct 2026 14:47:59 +0000</pubDate>
+      <description><![CDATA[<img src="https://www.ilpost.it/wp-content/uploads/2026/10/soldati-citta-1024x683.jpg" width="1024" height="683" alt="" /><p>Concretamente non possono fare granché, ma il governo ne schiererà 500 in più a Milano.</p>]]></description>
+    </item>
+  </channel>
+</rss>

@@ -9,7 +9,27 @@ const mk = (n, over = {}) => ({
   published_at: new Date(NOW.getTime() - n * 60_000).toISOString(), ...over,
 });
 
-test("filterItems: Tutto/Tutte non filtra nulla", () => {
+test("filterItems: «Tutto il Salento» esclude le notizie nazionali (zona Italia)", () => {
+  const items = [mk(1), mk(2, { zone: "Italia" }), mk(3, { zone: "Salento" })];
+  assert.deepEqual(filterItems(items, { zone: "Tutto" }).map((i) => i.id), ["id1", "id3"]);
+  assert.deepEqual(filterItems(items).map((i) => i.id), ["id1", "id3"]);
+});
+
+test("filterItems: la zona Italia mostra solo le notizie nazionali, non quelle Salento generiche", () => {
+  const items = [mk(1), mk(2, { zone: "Italia" }), mk(3, { zone: "Salento" }), mk(4, { zone: "Italia", category: "Politica" })];
+  assert.deepEqual(filterItems(items, { zone: "Italia" }).map((i) => i.id), ["id2", "id4"]);
+  assert.deepEqual(filterItems(items, { zone: "Italia", category: "Politica" }).map((i) => i.id), ["id4"]);
+  assert.deepEqual(filterItems(items, { zone: "Italia", disabledSources: ["Fonte A"] }), []);
+});
+
+test("filterItems: le zone locali non mostrano mai le notizie nazionali", () => {
+  const items = [mk(1, { zone: "Italia" }), mk(2, { zone: "Lecce" }), mk(3, { zone: "Brindisi" }), mk(4, { zone: "Taranto" })];
+  for (const zone of ["Lecce", "Brindisi", "Taranto"]) {
+    assert.ok(!filterItems(items, { zone }).some((i) => i.zone === "Italia"), zone);
+  }
+});
+
+test("filterItems: Tutto/Tutte non filtra le notizie locali", () => {
   const items = [mk(1), mk(2, { zone: "Brindisi" }), mk(3, { category: "Sport" })];
   assert.equal(filterItems(items, { zone: "Tutto", category: "Tutte", disabledSources: [] }).length, 3);
   assert.equal(filterItems(items).length, 3);

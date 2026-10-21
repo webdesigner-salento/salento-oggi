@@ -8,7 +8,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Callable
 
-from collector.enrich import as_datetime, dedupe, detect_zone, map_category
+from collector.enrich import NATIONAL_ZONE, as_datetime, dedupe, detect_zone, map_category
 from collector.normalize import parse_feed
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -19,6 +19,7 @@ FETCH_TIMEOUT = 20
 MAX_FEED_BYTES = 5_000_000
 MAX_AGE = timedelta(hours=72)
 MAX_ITEMS = 300
+MAX_NATIONAL_ITEMS = 100  # tetto a parte: le fonti nazionali sono molto prolifiche e non devono scacciare le locali
 ITEM_FIELDS = ("id", "title", "summary", "image", "url", "source", "category", "zone", "published_at")
 _REQUIRED_PREVIOUS = ("id", "title", "url", "source", "published_at")
 
@@ -27,15 +28,15 @@ def _is_valid_previous(item) -> bool:
     return isinstance(item, dict) and all(isinstance(item.get(k), str) and item[k] for k in _REQUIRED_PREVIOUS)
 
 
-def _enrich(item: dict, previous_by_id: dict, now: datetime) -> dict:
+def _enrich(item: dict, previous_by_id: dict, now: datetime, national: bool = False) -> dict:
     """Voce di parse_feed -> voce pubblica (solo i campi della spec)."""
     published = item["published_at"]
     if published is None or as_datetime(published) > now:
         # Senza data, o con una data nel futuro (fuso sbagliato, evento in programma): vale il momento
         # in cui l'abbiamo vista la prima volta, che poi resta fermo finché la data del feed non passa.
         published = previous_by_id.get(item["id"], {}).get("published_at") or now.isoformat()
-    public = dict(item, category=map_category(item["category_raw"]), zone=detect_zone(item),
-                  published_at=published)
+    public = dict(item, category=map_category(item["category_raw"]),
+                  zone=NATIONAL_ZONE if national else detect_zone(item), published_at=published)
     return {field: public.get(field) for field in ITEM_FIELDS}
 
 
@@ -56,7 +57,8 @@ def build_news(sources: list[dict], previous: dict | None, fetch: Callable[[str]
             parsed = parse_feed(fetch(source["feed"]), name)
             if not parsed:
                 raise ValueError("feed vuoto o non valido")
-            fresh.extend(_enrich(item, previous_by_id, now) for item in parsed)
+            national = source.get("scope") == "national"
+            fresh.extend(_enrich(item, previous_by_id, now, national) for item in parsed)
             statuses.append({"source": name, "ok": True, "last_ok": now_iso, "error": None})
         except Exception as exc:  # una fonte guasta non deve fermare le altre
             statuses.append({"source": name, "ok": False,
@@ -66,11 +68,14 @@ def build_news(sources: list[dict], previous: dict | None, fetch: Callable[[str]
     enabled_names = {s["name"] for s in enabled}
     retained = [{f: i.get(f) for f in ITEM_FIELDS} for i in previous_items if i["source"] in enabled_names]
     cutoff = now - MAX_AGE
-    items = [i for i in dedupe(fresh + retained) if as_datetime(i["published_at"]) >= cutoff]
-    items.sort(key=lambda i: as_datetime(i["published_at"]), reverse=True)
+    by_date = lambda i: as_datetime(i["published_at"])  # noqa: E731
+    recent = sorted((i for i in dedupe(fresh + retained) if by_date(i) >= cutoff), key=by_date, reverse=True)
+    local = [i for i in recent if i["zone"] != NATIONAL_ZONE][:MAX_ITEMS]
+    national = [i for i in recent if i["zone"] == NATIONAL_ZONE][:MAX_NATIONAL_ITEMS]
+    items = sorted(local + national, key=by_date, reverse=True)
 
     updated_at = now_iso if any(s["ok"] for s in statuses) else previous.get("updated_at")
-    return {"updated_at": updated_at, "items": items[:MAX_ITEMS], "sources_status": statuses}
+    return {"updated_at": updated_at, "items": items, "sources_status": statuses}
 
 
 def fetch_url(url: str) -> bytes:

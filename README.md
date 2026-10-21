@@ -24,6 +24,8 @@ Se una fonte non risponde, restano le sue ultime notizie valide e le altre conti
 |---|---|
 | Corriere Salentino | **attiva** · feed RSS pubblico; il `robots.txt` non vieta `/feed/` |
 | TeleRama News (trnews.it) | **attiva** · feed RSS 2.0 pubblico; il `robots.txt` consente `/feed/`. Il feed ha l'anteprima vuota, quindi le schede mostrano titolo, immagine e fonte. Il sito non ha termini d'uso, solo «Tutti i diritti sono riservati»: se la testata lo chiede si disattiva |
+| Il Post, Valigia Blu, IrpiMedia, Altreconomia | **attive come fonti nazionali** (21 ottobre 2026) · feed RSS 2.0 pubblici, scaricati senza blocchi da uno strumento che rispetta i `robots.txt` (i file non sono stati letti direttamente); nessuno dichiara condizioni d'uso, Altreconomia chiude gli articoli con «© riproduzione riservata». Compaiono solo nel filtro «Italia e mondo». Il Post mette l'immagine dentro la descrizione; Valigia Blu e IrpiMedia non hanno immagini |
+| Il Fatto Quotidiano | non aggiunta · il sito blocca l'accesso automatico |
 | LeccePrima | non aggiunta · il sito rifiuta le richieste automatiche e non risulta un feed pubblico con condizioni d'uso |
 | Taranto Buonasera, Antenna Sud, Il7 Magazine | non aggiunte · il loro `robots.txt` vieta l'accesso automatico |
 | Il Grande Salento, BrindisiReport, Senza Colonne | non verificate · i siti non hanno risposto ai controlli |
@@ -38,6 +40,7 @@ Basta modificare `collector/sources.json`, senza toccare il codice:
 { "name": "Nome della testata", "feed": "https://esempio.it/feed/", "enabled": true }
 ```
 
+- Una testata nazionale o internazionale (non legata al Salento) si marca con `"scope": "national"`: le sue notizie prendono la zona `Italia`, compaiono solo nel filtro «Italia e mondo» e non nel riepilogo; ne vengono tenute al massimo 100, a parte, così non scacciano quelle locali. Senza `scope` la fonte è locale e la zona si deduce dai comuni citati.
 - Per togliere una fonte, anche su richiesta della testata, metti `"enabled": false`: le sue notizie spariscono al prossimo aggiornamento.
 - Il collector legge feed **RSS 2.0**. Se una fonte usa Atom serve prima aggiungere il supporto, con un test.
 - Per una fonte nuova salva in `collector/tests/fixtures/` un feed d'esempio e aggiungi un test che verifichi titolo, indirizzo e data.

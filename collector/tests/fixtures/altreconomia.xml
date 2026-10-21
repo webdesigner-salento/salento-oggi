@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  RICOSTRUZIONE, non una cattura del feed reale (il 21 ottobre 2026 il sito non era scaricabile dalla shell).
+  Osservati sul feed https://www.altreconomia.it/feed/: RSS 2.0 con estensioni Atom, Dublin Core e WordPress,
+  titoli e date dei primi tre articoli, descrizione a testo pieno con un'immagine in evidenza come tag <img>,
+  content:encoded che ripete il corpo, «© riproduzione riservata» in fondo agli articoli.
+  Inventati: indirizzi di articoli e immagini, il testo degli articoli (segnaposto), le categorie (non osservate).
+-->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Altreconomia</title>
+    <link>https://www.altreconomia.it</link>
+    <description>Altreconomia</description>
+    <language>it-IT</language>
+    <item>
+      <title>Transiti di armi nei porti e trasparenza. La storica sentenza del Consiglio di Stato</title>
+      <link>https://www.altreconomia.it/transiti-di-armi-nei-porti-e-trasparenza-la-storica-sentenza-del-consiglio-di-stato/</link>
+      <pubDate>Wed, 21 Oct 2026 08:44:06 +0000</pubDate>
+      <description><![CDATA[<img src="https://www.altreconomia.it/app/uploads/2026/10/porto-armi-1024x683.jpg" alt="" /><p>Testo segnaposto dell'articolo, lungo abbastanza da superare i duecento caratteri previsti per l'anteprima: il Consiglio di Stato ha riconosciuto il diritto di sapere quali carichi di armi transitano nei porti italiani, e quindi chi vuole conoscere le rotte delle navi può chiedere gli atti all'autorità portuale e ottenerli entro termini precisi stabiliti dalla sentenza.</p><p>© riproduzione riservata</p>]]></description>
+      <content:encoded><![CDATA[<img src="https://www.altreconomia.it/app/uploads/2026/10/porto-armi-1024x683.jpg" alt="" /><p>Testo segnaposto dell'articolo, lungo abbastanza da superare i duecento caratteri previsti per l'anteprima: il Consiglio di Stato ha riconosciuto il diritto di sapere quali carichi di armi transitano nei porti italiani, e quindi chi vuole conoscere le rotte delle navi può chiedere gli atti all'autorità portuale e ottenerli entro termini precisi stabiliti dalla sentenza.</p><p>© riproduzione riservata</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Dohui Lassoued è morto in un Cpr ma per tre volte era stato dichiarato inidoneo a entrarci</title>
+      <link>https://www.altreconomia.it/dohui-lassoued-e-morto-in-un-cpr-ma-per-tre-volte-era-stato-dichiarato-inidoneo-a-entrarci/</link>
+      <pubDate>Wed, 21 Oct 2026 08:21:22 +0000</pubDate>
+      <description><![CDATA[<img src="https://www.altreconomia.it/app/uploads/2026/10/cpr-1024x683.jpg" alt="" /><p>Testo segnaposto breve.</p><p>© riproduzione riservata</p>]]></description>
+    </item>
+    <item>
+      <title>L'Italia è il primo importatore di rottami ferrosi da Israele. Una crescita problematica</title>
+      <link>https://www.altreconomia.it/litalia-e-il-primo-importatore-di-rottami-ferrosi-da-israele-una-crescita-problematica/</link>
+      <pubDate>Wed, 21 Oct 2026 08:02:47 +0000</pubDate>
+      <description><![CDATA[<img src="https://www.altreconomia.it/app/uploads/2026/10/rottami-1024x683.jpg" alt="" /><p>Testo segnaposto breve.</p><p>© riproduzione riservata</p>]]></description>
+    </item>
+  </channel>
+</rss>

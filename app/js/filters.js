@@ -7,6 +7,8 @@
 export const ALL_ZONES = "Tutto";
 export const ALL_CATEGORIES = "Tutte";
 const GENERIC_ZONE = "Salento";
+/** Zona delle testate nazionali: ha un filtro suo e resta fuori da «Tutto il Salento» e dal riepilogo. */
+export const NATIONAL_ZONE = "Italia";
 const TOP_COUNT = 5;
 
 const toTime = (iso) => {
@@ -23,11 +25,13 @@ export const newestFirst = (a, b) => {
 /** @returns {Item[]} una nuova lista; non modifica l'input. */
 export function filterItems(items, { zone = ALL_ZONES, category = ALL_CATEGORIES, disabledSources = [] } = {}) {
   const off = new Set(disabledSources);
+  const inZone = (item) => {
+    if (zone === ALL_ZONES) return item.zone !== NATIONAL_ZONE;
+    if (zone === NATIONAL_ZONE) return item.zone === NATIONAL_ZONE;
+    return item.zone === zone || item.zone === GENERIC_ZONE;
+  };
   return items.filter(
-    (item) =>
-      !off.has(item.source) &&
-      (zone === ALL_ZONES || item.zone === zone || item.zone === GENERIC_ZONE) &&
-      (category === ALL_CATEGORIES || item.category === category),
+    (item) => !off.has(item.source) && inZone(item) && (category === ALL_CATEGORIES || item.category === category),
   );
 }
 

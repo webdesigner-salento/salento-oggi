@@ -8,5 +8,29 @@
     "name": "TeleRama News",
     "feed": "https://www.trnews.it/feed/",
     "enabled": true
+  },
+  {
+    "name": "Il Post",
+    "feed": "https://www.ilpost.it/feed/",
+    "enabled": true,
+    "scope": "national"
+  },
+  {
+    "name": "Valigia Blu",
+    "feed": "https://www.valigiablu.it/feed/",
+    "enabled": true,
+    "scope": "national"
+  },
+  {
+    "name": "IrpiMedia",
+    "feed": "https://irpimedia.irpi.eu/feed/",
+    "enabled": true,
+    "scope": "national"
+  },
+  {
+    "name": "Altreconomia",
+    "feed": "https://www.altreconomia.it/feed/",
+    "enabled": true,
+    "scope": "national"
   }
 ]

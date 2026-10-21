@@ -28,6 +28,8 @@ Fonti indicate dall'utente:
 - Telerama (TeleRama News, trnews.it) — feed non ancora verificato.
 - Altre testate gratuite da individuare in fase di realizzazione (candidata: Il Grande Salento).
 
+Fonti nazionali (aggiunte il 21 ottobre 2026): su richiesta dell'utente, per le notizie nazionali e dal mondo solo testate indipendenti italiane con feed RSS pubblico e senza paywall: Il Post, Valigia Blu, IrpiMedia, Altreconomia. Nel file delle fonti portano `"scope": "national"` e il raccoglitore assegna loro la zona `Italia`. Non sono state aggiunte testate straniere come il New York Times (paywall, lingua, condizioni d'uso non verificabili).
+
 Regole sulle fonti:
 - Si mostrano solo titolo, anteprima breve (massimo 200 caratteri), immagine, nome della fonte e link all'articolo originale. Il testo completo non viene mai copiato o ripubblicato, anche se il feed lo contiene.
 - Una fonte entra nell'app solo se offre un feed pubblico e i suoi termini d'uso lo consentono. Non si aggirano blocchi anti-bot.
@@ -77,11 +79,11 @@ Hosting: repository GitHub con pubblicazione su GitHub Pages (alternativa: Cloud
 }
 ```
 
-Si conservano le notizie delle ultime 72 ore, con un massimo di 300 voci.
+Si conservano le notizie delle ultime 72 ore, con un massimo di 300 voci locali e, a parte, 100 voci nazionali (zona `Italia`): le fonti nazionali sono molto prolifiche e non devono scacciare le notizie del territorio.
 
 ## 5. Schermate
 
-1. **Oggi:** schede con immagine, titolo, fonte e "x minuti fa". In alto il selettore di zona (Tutto il Salento, Lecce, Brindisi, Taranto) e sotto una barra scorrevole di categorie.
+1. **Oggi:** schede con immagine, titolo, fonte e "x minuti fa". In alto il selettore di zona (Tutto il Salento, Lecce, Brindisi, Taranto, Italia e mondo) e sotto una barra scorrevole di categorie. «Tutto il Salento» e «Il Salento in 5 notizie» mostrano solo notizie locali; le notizie delle testate nazionali compaiono solo scegliendo «Italia e mondo».
 2. **Preferiti:** notizie salvate, memorizzate sul telefono. Si salva una copia completa della scheda, così la notizia resta disponibile anche dopo che esce da `news.json` (che conserva solo 72 ore).
 3. **Fonti:** elenco delle testate con interruttore per attivarle o disattivarle (preferenza salvata sul telefono).
 4. **Il Salento in 5 notizie:** scheda giornaliera riassuntiva, raggiungibile dalla Home.

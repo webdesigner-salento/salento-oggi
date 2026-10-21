@@ -136,5 +136,52 @@ class TeleRamaFeedTests(unittest.TestCase):
         self.assertTrue(self.items[2]["image"].endswith(".png"))
 
 
+IL_POST_FIXTURE = Path(__file__).parent / "fixtures" / "ilpost.xml"
+ALTRECONOMIA_FIXTURE = Path(__file__).parent / "fixtures" / "altreconomia.xml"
+
+
+class NationalFeedTests(unittest.TestCase):
+    def setUp(self):
+        self.il_post = parse_feed(IL_POST_FIXTURE.read_bytes(), "Il Post")
+        self.altreconomia = parse_feed(ALTRECONOMIA_FIXTURE.read_bytes(), "Altreconomia")
+
+    def test_il_post_reads_titles_sources_and_dates(self):
+        self.assertEqual(len(self.il_post), 3)
+        self.assertEqual(self.il_post[0]["title"], "Ep 348 – Quell'estraneo di mio figlio")
+        self.assertEqual(self.il_post[0]["published_at"], "2026-10-20T15:00:07+00:00")
+        self.assertEqual({i["source"] for i in self.il_post}, {"Il Post"})
+
+    def test_il_post_empty_description_gives_empty_summary_and_no_image(self):
+        first = self.il_post[0]
+        self.assertEqual(first["summary"], "")
+        self.assertIsNone(first["image"])
+
+    def test_il_post_description_with_only_an_img_gives_the_image_and_no_summary(self):
+        second = self.il_post[1]
+        self.assertEqual(second["image"], "https://www.ilpost.it/wp-content/uploads/2026/10/caccia-arabia-saudita-1024x683.jpg")
+        self.assertEqual(second["summary"], "")
+
+    def test_il_post_summary_skips_the_img_tag_and_reads_the_text(self):
+        third = self.il_post[2]
+        self.assertEqual(third["image"], "https://www.ilpost.it/wp-content/uploads/2026/10/soldati-citta-1024x683.jpg")
+        self.assertEqual(third["summary"], "Concretamente non possono fare granché, ma il governo ne schiererà 500 in più a Milano.")
+
+    def test_altreconomia_full_text_description_is_cut_to_200_with_the_featured_image(self):
+        first = self.altreconomia[0]
+        self.assertEqual(first["published_at"], "2026-10-21T08:44:06+00:00")
+        self.assertEqual(first["image"], "https://www.altreconomia.it/app/uploads/2026/10/porto-armi-1024x683.jpg")
+        self.assertEqual(len(first["summary"]), 200)
+        self.assertTrue(first["summary"].endswith("…"))
+        self.assertTrue(first["summary"].startswith("Testo segnaposto dell'articolo"))
+        self.assertNotIn("riproduzione riservata", first["summary"])
+        self.assertNotRegex(first["summary"], r"<[^>]+>")
+
+    def test_altreconomia_short_text_keeps_its_words_and_not_the_copyright_line(self):
+        for item in self.altreconomia[1:]:
+            self.assertTrue(item["image"].startswith("https://www.altreconomia.it/app/uploads/"))
+            self.assertTrue(item["summary"].startswith("Testo segnaposto breve."))
+            self.assertLessEqual(len(item["summary"]), 200)
+
+
 if __name__ == "__main__":
     unittest.main()

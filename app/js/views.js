@@ -1,5 +1,5 @@
 /** Le quattro schermate come funzioni pure: dati in ingresso, HTML in uscita. Nessun accesso al DOM. */
-import { ALL_CATEGORIES, ALL_ZONES, filterItems, newestFirst, pickTopFive } from "./filters.js";
+import { ALL_CATEGORIES, ALL_ZONES, NATIONAL_ZONE, filterItems, newestFirst, pickTopFive } from "./filters.js";
 import {
   renderCard, renderChips, renderDigestRow, renderEmpty, renderSourceRow,
 } from "./render.js";
@@ -9,6 +9,7 @@ export const ZONE_OPTIONS = [
   { value: "Lecce", label: "Lecce" },
   { value: "Brindisi", label: "Brindisi" },
   { value: "Taranto", label: "Taranto" },
+  { value: NATIONAL_ZONE, label: "Italia e mondo" },
 ];
 
 export const CATEGORY_OPTIONS = [
@@ -45,7 +46,10 @@ export function renderToday({ items = [], zone = ALL_ZONES, category = ALL_CATEG
   if (visible.length === 0) {
     // Prima che news.json sia arrivato l'elenco è vuoto solo perché non ha ancora risposto nessuno.
     if (loading && items.length === 0) return { filters, feed: '<p class="loading">Carico le notizie…</p>' };
-    const empty = items.length === 0 ? EMPTY.noNews : items.every((item) => off.has(item.source)) ? EMPTY.allSourcesOff : EMPTY.noMatch;
+    // «Tutte le fonti disattivate» riguarda le fonti della zona scelta: locali per Tutto/Lecce/…, nazionali per Italia.
+    const inScope = items.filter((item) => (zone === NATIONAL_ZONE) === (item.zone === NATIONAL_ZONE));
+    const empty = items.length === 0 ? EMPTY.noNews
+      : inScope.length > 0 && inScope.every((item) => off.has(item.source)) ? EMPTY.allSourcesOff : EMPTY.noMatch;
     return { filters, feed: renderEmpty(empty) };
   }
   const saved = new Set(savedIds);

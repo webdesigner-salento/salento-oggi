@@ -12,9 +12,10 @@ const mk = (n, over = {}) => ({
 });
 const count = (str, sub) => str.split(sub).length - 1;
 
-test("opzioni: quattro zone e nove categorie con 'Tutto'/'Tutte' per prime", () => {
-  assert.deepEqual(ZONE_OPTIONS.map((o) => o.value), ["Tutto", "Lecce", "Brindisi", "Taranto"]);
+test("opzioni: cinque zone («Italia e mondo» ultima) e nove categorie con 'Tutto'/'Tutte' per prime", () => {
+  assert.deepEqual(ZONE_OPTIONS.map((o) => o.value), ["Tutto", "Lecce", "Brindisi", "Taranto", "Italia"]);
   assert.equal(ZONE_OPTIONS[0].label, "Tutto il Salento");
+  assert.equal(ZONE_OPTIONS[4].label, "Italia e mondo");
   assert.deepEqual(
     CATEGORY_OPTIONS.map((o) => o.value),
     ["Tutte", "Cronaca", "Politica", "Sport", "Eventi", "Cultura", "Economia", "Salute", "Altro"],
@@ -88,6 +89,34 @@ test("renderToday: a caricamento finito senza notizie invita a riprovare", () =>
   assert.doesNotMatch(feed, /Carico le notizie/);
 });
 
+test("renderToday: «Tutto il Salento» non mostra le notizie nazionali, «Italia e mondo» mostra solo quelle", () => {
+  const items = [
+    mk(1, { title: "Cronaca locale", zone: "Lecce" }),
+    mk(2, { title: "Dal mondo", zone: "Italia", source: "Il Post" }),
+  ];
+  const all = renderToday({ items, now: NOW }).feed;
+  assert.match(all, /Cronaca locale/);
+  assert.doesNotMatch(all, /Dal mondo/);
+  const italia = renderToday({ items, zone: "Italia", now: NOW }).feed;
+  assert.match(italia, /Dal mondo/);
+  assert.doesNotMatch(italia, /Cronaca locale/);
+});
+
+test("renderToday: con le fonti locali spente «Tutto il Salento» rimanda alle Fonti, non a «Mostra tutto»", () => {
+  const items = [
+    mk(1, { zone: "Lecce", source: "Corriere Salentino" }),
+    mk(2, { zone: "Italia", source: "Il Post" }),
+  ];
+  const { feed } = renderToday({ items, disabledSources: ["Corriere Salentino"], now: NOW });
+  assert.match(feed, /Tutte le fonti sono disattivate/);
+  assert.match(feed, /data-action="go-sources"/);
+});
+
+test("renderToday: se un filtro di zona non ha notizie nazionali invita a cambiare zona", () => {
+  const { feed } = renderToday({ items: [mk(1, { zone: "Lecce" })], zone: "Italia", now: NOW });
+  assert.match(feed, /Nessuna notizia con questi filtri/);
+});
+
 test("renderToday: filtri che escludono tutto offrono di tornare a Tutto", () => {
   const { feed } = renderToday({ items: [mk(1, { zone: "Lecce" })], zone: "Taranto", now: NOW });
   assert.match(feed, /Nessuna notizia con questi filtri/);
@@ -142,6 +171,18 @@ test("renderDigest: cinque righe da fonti diverse, ignora le fonti disattivate",
   assert.equal(count(html, 'class="digest-row"'), 5);
   assert.doesNotMatch(html, />A</);
   assert.match(html, /<ol class="digest">/);
+});
+
+test("renderDigest: il riepilogo è solo locale, le notizie nazionali non entrano", () => {
+  const items = [
+    mk(9, { title: "Cronaca locale", zone: "Lecce" }),
+    mk(1, { title: "Dal mondo uno", zone: "Italia", source: "Il Post" }),
+    mk(2, { title: "Dal mondo due", zone: "Italia", source: "Valigia Blu" }),
+  ];
+  const html = renderDigest({ items, now: NOW });
+  assert.match(html, /Cronaca locale/);
+  assert.doesNotMatch(html, /Dal mondo/);
+  assert.equal(count(html, 'class="digest-row"'), 1);
 });
 
 test("renderDigest: con meno di cinque notizie ne mostra quante ce ne sono; senza notizie lo dice", () => {
