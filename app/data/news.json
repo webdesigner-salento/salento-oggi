@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-21T16:25:59.379704+00:00",
+ "updated_at": "2026-10-21T16:58:57.036739+00:00",
  "items": [
+  {
+   "id": "a6e60176c5a0",
+   "title": "«Donne che sapevano»: il Salento segreto e magico nel nuovo saggio di Martina D’Agostino",
+   "summary": "LEVERANO (Lecce) – Dopo il successo di Vivere e sorridere. La mia sindrome di Wolfram – il libro sulla vita di Matteo Perrone che ha emozionato il Salento e commosso Vasco Rossi –, l’autrice e ricerc…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/donne-che-sapevano-il-salento-segreto-e-magico-nel-nuovo-saggio-di-martina-dagostino/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T16:28:55+00:00"
+  },
+  {
+   "id": "02ccd3660b4d",
+   "title": "Tromba d'aria sradica tendoni e vigneti nel Tarantino",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Tromba-daria-sradica-tendoni-e-vigneti-nel-tarantino___.jpg",
+   "url": "https://trnews.it/2026/10/21/tromba-daria-sradica-tendoni-e-vigneti-nel-tarantino",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Taranto",
+   "published_at": "2026-10-21T16:27:34+00:00"
+  },
   {
    "id": "30189021bfc8",
    "title": "Autotrasporto, Confindustria Lecce: “Comprendiamo le ragioni della protesta, ma serve un accordo immediato”",
@@ -1766,13 +1788,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T16:25:59.379704+00:00",
+   "last_ok": "2026-10-21T16:58:57.036739+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T16:25:59.379704+00:00",
+   "last_ok": "2026-10-21T16:58:57.036739+00:00",
    "error": null
   },
   {
@@ -1784,19 +1806,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-21T16:25:59.379704+00:00",
+   "last_ok": "2026-10-21T16:58:57.036739+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-21T16:25:59.379704+00:00",
+   "last_ok": "2026-10-21T16:58:57.036739+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-21T16:25:59.379704+00:00",
+   "last_ok": "2026-10-21T16:58:57.036739+00:00",
    "error": null
   }
  ]
