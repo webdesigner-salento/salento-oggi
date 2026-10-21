@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-10-21T07:13:06.421805+00:00",
+ "updated_at": "2026-10-21T08:02:52.853381+00:00",
  "items": [
+  {
+   "id": "724592ce0767",
+   "title": "Fino a domenica 18 aprile prosegue “Ci vuole un fiore – famiglie a teatro”",
+   "summary": "SALENTO – Fino a domenica 18 aprile prosegue “Ci vuole un fiore – famiglie a teatro”, la rassegna dei Teatri del Nord Salento, progetto di Factory Compagnia Transadriatica in collaborazione con BLABL…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/fino-a-domenica-18-aprile-prosegue-ci-vuole-un-fiore-famiglie-a-teatro/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Salento",
+   "published_at": "2026-10-21T07:48:54+00:00"
+  },
+  {
+   "id": "8fe8b6f0338f",
+   "title": "Governo promette un miliardo ai camionisti, ma i blocchi continuano in Campania,Puglia e Calabria",
+   "summary": "Un impegno immediato di 480 milioni con la promessa di arrivare ad oltre un miliardo: ma i blocchi degli autotrasportatori vanno avanti in Calabria, Puglia e Campania. Revocano il fermo, invece, i ti…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/governo-promette-un-miliardo-ai-camionisti-ma-i-blocchi-continuano-in-campaniapuglia-e-calabria/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-10-21T07:34:26+00:00"
+  },
+  {
+   "id": "e396138a3b69",
+   "title": "Fitto: “Ora c’è un percorso chiaro per la competitività del settore pesca”",
+   "summary": "BRUXELLES – “Il settore della pesca e dell’acquacoltura in Europa è fondamentale per la prosperità e l’identità delle nostre comunità costiere. Con la nostra Visione 2040, stiamo tracciando un percor…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/fitto-ora-ce-un-percorso-chiaro-per-la-competitivita-del-settore-pesca/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-10-21T07:30:32+00:00"
+  },
   {
    "id": "c1dc048ae7d7",
    "title": "Gol e punti, è un Lecce diverso",
@@ -48,7 +81,7 @@
   {
    "id": "531a6cbdcabf",
    "title": "L’almanacco di oggi 21 ottobre",
-   "summary": "– Santo Sant’Orsola – Sono nati in questo giorno 1833 Alfred Nobel 1898 Amedeo d’Aosta 1947 Riccardo Fogli – Proverbio Il pesce comincia a puzzare dalla testa – Accadde oggi 1520 Ferdinando Magellano…",
+   "summary": "Il Santo del giorno: Sant’Orsola. Il proverbio di Mesciu Ronzu: Petre mini, petre ccueji. Significato: Pietre butti e pietre prendi. – Sono nati in questo giorno 1833 Alfred Nobel 1898 Amedeo d’Aosta…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/10/lalmanacco-di-oggi-21-ottobre/",
    "source": "Corriere Salentino",
@@ -233,6 +266,17 @@
    "published_at": "2026-10-20T15:00:17+00:00"
   },
   {
+   "id": "b28395e56718",
+   "title": "Nastro Rosa: torna la scherma terapeutica per le donne operate di tumore al seno",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/nastro-rosa.jpg",
+   "url": "https://trnews.it/2026/10/20/nastro-rosa-torna-la-scherma-terapeutica-per-le-donne-operate-di-tumore-al-seno",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T14:31:46+00:00"
+  },
+  {
    "id": "fac1cf1c45d2",
    "title": "Infrastrutture. Ferrante (Mit), Riunione su opere commissariate, acceleriamo interventi Anas in Puglia",
    "summary": "“Le grandi opere viarie al Sud sono fondamentali per migliorare i collegamenti, sostenere la competitività e garantire una mobilità più rapida, sicura ed efficiente. In particolare, stiamo lavorando…",
@@ -310,17 +354,6 @@
    "published_at": "2026-10-20T12:34:46+00:00"
   },
   {
-   "id": "b28395e56718",
-   "title": "Nastro Rosa: torna la scherma terapeutica per le donne operate di tumore al seno",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/nastro-rosa.jpg",
-   "url": "https://trnews.it/2026/10/20/nastro-rosa-torna-la-scherma-terapeutica-per-le-donne-operate-di-tumore-al-seno",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T12:31:46+00:00"
-  },
-  {
    "id": "bcbbc816abcd",
    "title": "Viale XXV luglio, entro la fine dicembre il cantiere sarà ultimato",
    "summary": "",
@@ -352,6 +385,17 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-20T12:07:03+00:00"
+  },
+  {
+   "id": "a6870d05901d",
+   "title": "Casarano, panchina affidata a Luciano Zauri",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/07/casarano-calcio-e1754068037306-1024x863.jpg",
+   "url": "https://trnews.it/2026/10/20/casarano-panchina-affidata-a-luciano-zauri",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-20T12:05:53+00:00"
   },
   {
    "id": "db9876cc0673",
@@ -572,17 +616,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-20T10:06:10+00:00"
-  },
-  {
-   "id": "a6870d05901d",
-   "title": "Casarano, panchina affidata a Luciano Zauri",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/07/casarano-calcio-e1754068037306-1024x863.jpg",
-   "url": "https://trnews.it/2026/10/20/casarano-panchina-affidata-a-luciano-zauri",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T10:05:53+00:00"
   },
   {
    "id": "ab3e7ee1f54b",
@@ -1062,13 +1095,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T07:13:06.421805+00:00",
+   "last_ok": "2026-10-21T08:02:52.853381+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T07:13:06.421805+00:00",
+   "last_ok": "2026-10-21T08:02:52.853381+00:00",
    "error": null
   }
  ]
