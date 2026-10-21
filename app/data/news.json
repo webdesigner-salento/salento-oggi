@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-21T12:21:52.389226+00:00",
+ "updated_at": "2026-10-21T13:12:03.107543+00:00",
  "items": [
+  {
+   "id": "4210eef94235",
+   "title": "Alto rischio di scontri violenti, vietata la trasferta ai tifosi ospiti per il derby",
+   "summary": "Cutrofiano-Scorrano (Lecce) – Derby di Terza categoria vietato perché è stato ravvisato il concreto pericolo di azioni violente da parte delle tifoserie appartenenti alle squadre di calcio del Cutrof…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/alto-rischio-di-scontri-violenti-vietata-la-trasferta-ai-tifosi-ospiti-per-il-derby/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T12:59:27+00:00"
+  },
+  {
+   "id": "f13b9a6af4c1",
+   "title": "Trasparenza e tempi ridotti, parte il nuovo corso della giustizia civile",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/05/TRIBUNALE-LECCE--1024x576.jpg",
+   "url": "https://trnews.it/2026/10/21/trasparenza-e-tempi-ridotti-parte-il-nuovo-corso-della-giustizia-civile",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T12:30:34+00:00"
+  },
   {
    "id": "c5a89b96d297",
    "title": "Pesca illegale, sequestrati 115 chili di prodotto ittico e reti a strascico, multa da 8mila euro",
@@ -1458,13 +1480,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T12:21:52.389226+00:00",
+   "last_ok": "2026-10-21T13:12:03.107543+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T12:21:52.389226+00:00",
+   "last_ok": "2026-10-21T13:12:03.107543+00:00",
    "error": null
   },
   {
@@ -1476,19 +1498,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-21T12:21:52.389226+00:00",
+   "last_ok": "2026-10-21T13:12:03.107543+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-21T12:21:52.389226+00:00",
+   "last_ok": "2026-10-21T13:12:03.107543+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-21T12:21:52.389226+00:00",
+   "last_ok": "2026-10-21T13:12:03.107543+00:00",
    "error": null
   }
  ]
