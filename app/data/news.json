@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-21T19:05:38.129790+00:00",
+ "updated_at": "2026-10-21T19:54:16.621214+00:00",
  "items": [
+  {
+   "id": "84b486ba72ee",
+   "title": "Cutrofiano-Scorrano a rischio scontri: la Prefettura vieta la trasferta ai tifosi ospiti",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2024/10/prefettura-1-678x381-1.jpeg",
+   "url": "https://trnews.it/2026/10/21/cutrofiano-scorrano-a-rischio-scontri-la-prefettura-vieta-la-trasferta-ai-tifosi-ospiti",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T18:57:48+00:00"
+  },
+  {
+   "id": "b55bc95d3bc8",
+   "title": "Eccellenza, Novoli: Luperto squalificato fino al 22 novembre",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/Eccellenza-750x500-1.jpg",
+   "url": "https://trnews.it/2026/10/21/eccellenza-novoli-luperto-squalificato-fino-al-22-novembre",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T18:51:12+00:00"
+  },
   {
    "id": "db42f0010c07",
    "title": "Inchiesta Delli Noci, l’ex assessore risponde alle accuse davanti al giudice",
@@ -1865,13 +1887,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T19:05:38.129790+00:00",
+   "last_ok": "2026-10-21T19:54:16.621214+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T19:05:38.129790+00:00",
+   "last_ok": "2026-10-21T19:54:16.621214+00:00",
    "error": null
   },
   {
@@ -1883,19 +1905,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-21T19:05:38.129790+00:00",
+   "last_ok": "2026-10-21T19:54:16.621214+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-21T19:05:38.129790+00:00",
+   "last_ok": "2026-10-21T19:54:16.621214+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-21T19:05:38.129790+00:00",
+   "last_ok": "2026-10-21T19:54:16.621214+00:00",
    "error": null
   }
  ]
