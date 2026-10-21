@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-21T05:54:52.648702+00:00",
+ "updated_at": "2026-10-21T06:17:38.225227+00:00",
  "items": [
+  {
+   "id": "2d4315b1a04b",
+   "title": "Borgo Piave, l’ex caserma diventa casa: undici alloggi sociali (ma ci vuole una graduatoria), locali commerciali e un parco per tutti",
+   "summary": "“Finalmente possiamo dire che quest’opera si può consegnare, dopo quattro anni di attese”. Alessio Poso, consigliere di Io Sud e delegato alle Marine, annuncia l’avvicinarsi della svolta per l’ex cas…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/borgo-piave-lex-caserma-diventa-casa-undici-alloggi-sociali-ma-ci-vuole-una-graduatoria-locali-commerciali-e-un-parco-per-tutti/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T06:17:16+00:00"
+  },
+  {
+   "id": "68e20cfe4ba9",
+   "title": "Scontri Milano: sondaggio Only Numbers a Filorosso (Rai 3): il 66% degli italiani chiede più misure per l’ordine pubblico",
+   "summary": "Gli italiani condannano nettamente le manifestazioni che degenerano in violenza e chiedono interventi più incisivi sul fronte dell’ordine pubblico. È quanto emerge dal sondaggio realizzato da Only Nu…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/scontri-milano-sondaggio-only-numbers-a-filorosso-rai-3-il-66-degli-italiani-chiede-piu-misure-per-lordine-pubblico/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-21T06:04:30+00:00"
+  },
   {
    "id": "531a6cbdcabf",
    "title": "L’almanacco di oggi 21 ottobre",
@@ -44,6 +66,17 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-20T20:15:37+00:00"
+  },
+  {
+   "id": "7f77a866beef",
+   "title": "Consiglio regionale approva la nuova legge sulle locazioni turistiche o brevi Decaro: “Legge che permetterà ai sindaci di tutelare popolazione più fragile”",
+   "summary": "Il Consiglio regionale ha approvato la legge “Disposizioni in materia di locazioni turistiche e modifiche alla legge regionale 1 dicembre 2017, n. 49” (disegno di legge n. 76 del 19 maggio 2026). La…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/consiglio-regionale-approva-la-nuova-legge-sulle-locazioni-turistiche-o-brevi-decaro-legge-che-permettera-ai-sindaci-di-tutelare-popolazione-piu-fragile/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-10-20T18:58:37+00:00"
   },
   {
    "id": "a2a93a1aab7c",
@@ -1007,13 +1040,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T05:54:52.648702+00:00",
+   "last_ok": "2026-10-21T06:17:38.225227+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T05:54:52.648702+00:00",
+   "last_ok": "2026-10-21T06:17:38.225227+00:00",
    "error": null
   }
  ]
