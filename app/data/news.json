@@ -1,6 +1,50 @@
 {
- "updated_at": "2026-10-21T14:57:22.070748+00:00",
+ "updated_at": "2026-10-21T15:22:07.498218+00:00",
  "items": [
+  {
+   "id": "b7c2a120ca2b",
+   "title": "In scena nella rassegna Teatri a Sud di Astràgali Teatro visioni e riflessioni critiche sul presente",
+   "summary": "LECCE – Proseguono gli appuntamenti di Teatri a Sud, la rassegna di Astràgali Teatro che mette in dialogo visioni, progetti, buone pratiche e nuove sperimentazioni in una rete attiva di teatri del Su…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/in-scena-nella-rassegna-teatri-a-sud-di-astragali-teatro-visioni-e-riflessioni-critiche-sul-presente/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T15:21:44+00:00"
+  },
+  {
+   "id": "1ec4b87bfbd1",
+   "title": "Domenica 25 ottobre Viaggio nel tempo – visita teatralizzata in abiti d’epoca presso Masseria Tagliatelle",
+   "summary": "LECCE – Domenica 25 ottobre (ingresso € 12, acquisto biglietti online) Improvvisart vi aspetta a Tagliatelle Stazione Ninfeo per la visita teatralizzata del Ninfeo delle Fate e dell’intera struttura,…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/domenica-25-ottobre-viaggio-nel-tempo-visita-teatralizzata-in-abiti-depoca-presso-masseria-tagliatelle/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T15:19:05+00:00"
+  },
+  {
+   "id": "1c4c74388c90",
+   "title": "Continua il weekend del 24 e 25 ottobre “Il Parco d’Autunno – La Festa delle Zucche” al Raffo Parco Gondar di Gallipoli",
+   "summary": "GALLIPOLI (Lecce) – Il più grande Parco d’Autunno di tutta la Puglia offre un ricco programma con grandi esposizioni, il campo delle zucche, spettacoli dal vivo, concerti, illusionismo, laboratori cr…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/continua-il-weekend-del-24-e-25-ottobre-il-parco-dautunno-la-festa-delle-zucche-al-raffo-parco-gondar-di-gallipoli/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T15:15:24+00:00"
+  },
+  {
+   "id": "7107f2f63d7c",
+   "title": "Maltempo, nubigrafi improvvisi e forti raffiche di vento. Tromba d’aria sradica tendoni e vigneti nel tarantino",
+   "summary": "PUGLIA – Bollettino di guerra in Puglia con una repentina quanto violenta ondata di maltempo che ha colpito a macchia di leopardo le province di Bari e Taranto, su cui si sono abbattuti nubifragi e f…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/maltempo-nubigrafi-improvvisi-e-forti-raffiche-di-vento-tromba-daria-sradica-tendoni-e-vigneti-nel-tarantino/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Taranto",
+   "published_at": "2026-10-21T15:00:21+00:00"
+  },
   {
    "id": "6d2965200acb",
    "title": "Vela, il Circolo nautico “La Lampara asd” di Santa Caterina di Nardò conclude la stagione con tre dei suoi atleti tra i migliori d’Italia nelle classifiche Open Skiff",
@@ -59,7 +103,7 @@
   {
    "id": "e0081509a02f",
    "title": "Lecce, rami pericolanti in Viale Grassi: intervengono i vigili del fuoco ed i vigili urbani",
-   "summary": "Lecce, rami pericolanti in Viale Grassi: intervengono i vigili del fuoco ed i vigili urbani Un grosso albero presentava rami inclinati e a rischio caduta. Il taglio ha scongiurato possibili conseguen…",
+   "summary": ".LECCE – Intervento dei vigili del fuoco in viale Grassi, a Lecce, dove è stata riscontrata una situazione di potenziale pericolo legata a un grosso albero con rami inclinati e pericolanti. A notare…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/10/lecce-rami-pericolanti-in-viale-grassi-intervengono-i-vigili-del-fuoco-ed-i-vigili-urbani/",
    "source": "Corriere Salentino",
@@ -1568,13 +1612,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T14:57:22.070748+00:00",
+   "last_ok": "2026-10-21T15:22:07.498218+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T14:57:22.070748+00:00",
+   "last_ok": "2026-10-21T15:22:07.498218+00:00",
    "error": null
   },
   {
@@ -1586,19 +1630,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-21T14:57:22.070748+00:00",
+   "last_ok": "2026-10-21T15:22:07.498218+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-21T14:57:22.070748+00:00",
+   "last_ok": "2026-10-21T15:22:07.498218+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-21T14:57:22.070748+00:00",
+   "last_ok": "2026-10-21T15:22:07.498218+00:00",
    "error": null
   }
  ]
