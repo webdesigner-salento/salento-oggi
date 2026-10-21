@@ -1,6 +1,61 @@
 {
- "updated_at": "2026-10-21T08:02:52.853381+00:00",
+ "updated_at": "2026-10-21T09:00:40.880299+00:00",
  "items": [
+  {
+   "id": "024ec0a4363d",
+   "title": "Spinge il conducente, si impossessa del suo furgone e se lo porta via, il mezzo è stato poi ritrovato vuoto",
+   "summary": "Lido Marini (Lecce) – Si impossessa del furgone e spintona il conducente, fino a farlo cadere sull’asfalto. Il furto si è verificato ieri mattina, attorno a mezzogiorno, a Lido Marini, località balne…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/spinge-il-conducente-si-impossessa-del-suo-furgone-e-se-lo-porta-via-il-mezzo-e-stato-poi-ritrovato-vuoto/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T08:59:09+00:00"
+  },
+  {
+   "id": "3ca265a1dd47",
+   "title": "Sabato 24 ottobre ad Arnesano “Paesaggi sonori: da Grieg a Prokofiev”, secondo appuntamento della Stagione concertistica Opera Prima 2026-2027",
+   "summary": "ARNESANO (Lecce) – Undici appuntamenti, tra cui quello con il tradizionale Festival di Pasqua, quattro comuni coinvolti e un percorso musicale che attraversa epoche, linguaggi e formazioni diverse. D…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/sabato-24-ottobre-ad-arnesano-paesaggi-sonori-da-grieg-a-prokofiev-secondo-appuntamento-della-stagione-concertistica-opera-prima-2026-2027/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T08:47:20+00:00"
+  },
+  {
+   "id": "86f5aa3ea75b",
+   "title": "La professoressa Auriemma nominata Consigliera Scientifica della Marina Militare per il biennio 2026-2027",
+   "summary": "LECCE – La Marina Militare ha conferito alla professoressa Rita Auriemma il titolo di “Consigliera Scientifica della Marina Militare” per il biennio 2026-2027. Auriemma è archeologa subacquea e profe…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/la-professoressa-auriemma-nominata-consigliera-scientifica-della-marina-militare-per-il-biennio-2026-2027/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T08:41:06+00:00"
+  },
+  {
+   "id": "9caaef416df9",
+   "title": "Eccellenza Pugliese, ultimatum in casa Taranto prima della sfida col Trani",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/tara-scaled-e1792572033587-1024x869.jpg",
+   "url": "https://trnews.it/2026/10/21/eccellenza-pugliese-ultimatum-in-casa-taranto-prima-della-sfida-col-trani",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-10-21T08:40:42+00:00"
+  },
+  {
+   "id": "efe7e57e84d3",
+   "title": "Basket A2, Valtur in campo a Rieti per il riscatto",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-13-201244.png",
+   "url": "https://trnews.it/2026/10/21/basket-a2-valtur-in-campo-a-rieti-per-il-riscatto",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-10-21T08:11:59+00:00"
+  },
   {
    "id": "724592ce0767",
    "title": "Fino a domenica 18 aprile prosegue “Ci vuole un fiore – famiglie a teatro”",
@@ -1095,13 +1150,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T08:02:52.853381+00:00",
+   "last_ok": "2026-10-21T09:00:40.880299+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T08:02:52.853381+00:00",
+   "last_ok": "2026-10-21T09:00:40.880299+00:00",
    "error": null
   }
  ]
