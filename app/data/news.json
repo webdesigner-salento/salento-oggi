@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-21T20:14:55.608762+00:00",
+ "updated_at": "2026-10-21T20:55:44.613662+00:00",
  "items": [
+  {
+   "id": "b7b2047cb7f0",
+   "title": "Salentino premiato tra i migliori laureati d’Italia",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG-20261021-WA0101-1024x668.jpg",
+   "url": "https://trnews.it/2026/10/21/salentino-premiato-tra-i-migliori-laureati-ditalia",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T20:33:33+00:00"
+  },
   {
    "id": "84b486ba72ee",
    "title": "Cutrofiano-Scorrano a rischio scontri: la Prefettura vieta la trasferta ai tifosi ospiti",
@@ -1887,13 +1898,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T20:14:55.608762+00:00",
+   "last_ok": "2026-10-21T20:55:44.613662+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T20:14:55.608762+00:00",
+   "last_ok": "2026-10-21T20:55:44.613662+00:00",
    "error": null
   },
   {
@@ -1905,19 +1916,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-21T20:14:55.608762+00:00",
+   "last_ok": "2026-10-21T20:55:44.613662+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-21T20:14:55.608762+00:00",
+   "last_ok": "2026-10-21T20:55:44.613662+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-21T20:14:55.608762+00:00",
+   "last_ok": "2026-10-21T20:55:44.613662+00:00",
    "error": null
   }
  ]
