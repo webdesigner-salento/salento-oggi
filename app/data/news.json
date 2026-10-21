@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-10-21T10:22:54.403589+00:00",
+ "updated_at": "2026-10-21T10:57:05.211829+00:00",
  "items": [
+  {
+   "id": "8289a12cf521",
+   "title": "Filorosso (Rai 3): Antonio Di Pietro Su Scarpinato: “É inopportuno che sieda ancora in antimafia “",
+   "summary": "“Ritengo che l’opportunità di Scarpinato sia ancora lì. E’ inopportuno che sieda ancora in antimafia. Ma l’opportunità è una cosa, la valenza penale è un’altra”. Così l’ex magistrato di Mani Pulite e…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/filorosso-rai-3-antonio-di-pietro-su-scarpinato-e-inopportuno-che-sieda-ancora-in-antimafia/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-21T10:54:24+00:00"
+  },
+  {
+   "id": "454bba85f910",
+   "title": "Droni nel Mar Nero e navi mercantili colpite: la guerra ibrida russa sfida la NATO?",
+   "summary": "Sei attacchi con droni nel Mar Nero riaccendono l'allarme guerra ibrida ai confini NATO tra Romania e Bulgaria: quando diventa una minaccia per la NATO?",
+   "image": null,
+   "url": "https://www.valigiablu.it/droni-guerra-ibrida-mar-nero-russia-nato/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-21T10:43:01+00:00"
+  },
+  {
+   "id": "a939c506060a",
+   "title": "Il tessuto industriale logoro di Maserati a Modena, un altro pezzo del declino di Stellantis",
+   "summary": "A pesare su produzione e occupazione non è stato solo il calo delle vendite ma anche la decisione dell'allora Fca di trasferire dal 2013 parte della produzione in Piemonte, a Grugliasco e a Mirafiori…",
+   "image": "https://altreconomia.it/app/uploads/2026/10/maseratistabilimento-scaled.jpg",
+   "url": "https://altreconomia.it/il-tessuto-industriale-logoro-di-maserati-a-modena-un-altro-pezzo-del-declino-di-stellantis/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-21T10:13:34+00:00"
+  },
   {
    "id": "faf349fcd85d",
    "title": "Serie D/H: Martina, Turris e V. Francavilla tentano la fuga",
@@ -420,6 +453,17 @@
    "published_at": "2026-10-20T16:08:01+00:00"
   },
   {
+   "id": "1a1f72db4621",
+   "title": "Arcidiocesi di Taranto: \"Comunità energetica rinnovabile - L'energia siamo noi\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-66-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/20/arcidiocesi-di-taranto-comunita-energetica-rinnovabile-lenergia-siamo-noi",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Taranto",
+   "published_at": "2026-10-20T15:56:00+00:00"
+  },
+  {
    "id": "7a79969f97d2",
    "title": "Ex Ilva, il nuovo assetto organizzativo mentre la Cassazione decide",
    "summary": "",
@@ -528,17 +572,6 @@
    "category": "Altro",
    "zone": "Taranto",
    "published_at": "2026-10-20T13:58:08+00:00"
-  },
-  {
-   "id": "1a1f72db4621",
-   "title": "Arcidiocesi di Taranto: \"Comunità energetica rinnovabile - L'energia siamo noi\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-66-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/20/arcidiocesi-di-taranto-comunita-energetica-rinnovabile-lenergia-siamo-noi",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Taranto",
-   "published_at": "2026-10-20T13:56:00+00:00"
   },
   {
    "id": "24b73b873630",
@@ -1381,13 +1414,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T10:22:54.403589+00:00",
+   "last_ok": "2026-10-21T10:57:05.211829+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T10:22:54.403589+00:00",
+   "last_ok": "2026-10-21T10:57:05.211829+00:00",
    "error": null
   },
   {
@@ -1399,19 +1432,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-21T10:22:54.403589+00:00",
+   "last_ok": "2026-10-21T10:57:05.211829+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-21T10:22:54.403589+00:00",
+   "last_ok": "2026-10-21T10:57:05.211829+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-21T10:22:54.403589+00:00",
+   "last_ok": "2026-10-21T10:57:05.211829+00:00",
    "error": null
   }
  ]
