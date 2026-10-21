@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-21T11:56:59.860540+00:00",
+ "updated_at": "2026-10-21T12:21:52.389226+00:00",
  "items": [
+  {
+   "id": "c5a89b96d297",
+   "title": "Pesca illegale, sequestrati 115 chili di prodotto ittico e reti a strascico, multa da 8mila euro",
+   "summary": "Otranto-San Foca (Lecce) – Controlli, multe e sequestri contro la pesca illegale. Nell’ambito delle attività istituzionali di vigilanza e controllo finalizzate alla tutela delle risorse biologiche ma…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/pesca-illegale-sequestrati-115-chili-di-prodotto-ittico-e-reti-a-strascico-multa-da-8mila-euro/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T12:00:39+00:00"
+  },
   {
    "id": "454e008cefb5",
    "title": "Gagliano del Capo, il sindaco Melcarne: «L’unica ipotesi che mi riguarda è l’omissione di atti d’ufficio. Nessuna contestazione per abusi edilizi o falso»",
@@ -1447,13 +1458,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T11:56:59.860540+00:00",
+   "last_ok": "2026-10-21T12:21:52.389226+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T11:56:59.860540+00:00",
+   "last_ok": "2026-10-21T12:21:52.389226+00:00",
    "error": null
   },
   {
@@ -1465,19 +1476,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-21T11:56:59.860540+00:00",
+   "last_ok": "2026-10-21T12:21:52.389226+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-21T11:56:59.860540+00:00",
+   "last_ok": "2026-10-21T12:21:52.389226+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-21T11:56:59.860540+00:00",
+   "last_ok": "2026-10-21T12:21:52.389226+00:00",
    "error": null
   }
  ]
