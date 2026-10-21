@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-21T18:16:27.232860+00:00",
+ "updated_at": "2026-10-21T19:05:38.129790+00:00",
  "items": [
+  {
+   "id": "db42f0010c07",
+   "title": "Inchiesta Delli Noci, l’ex assessore risponde alle accuse davanti al giudice",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/07/delli-noci-inchiesta.jpg",
+   "url": "https://trnews.it/2026/10/21/inchiesta-delli-noci-lex-assessore-risponde-alle-accuse-davanti-al-giudice",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T18:34:04+00:00"
+  },
   {
    "id": "437f2b307e1d",
    "title": "Lecce, il Barocco torna a splendere: “Anima pietra” restituisce alla città la facciata della Basilica del Rosario",
@@ -1854,13 +1865,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-21T18:16:27.232860+00:00",
+   "last_ok": "2026-10-21T19:05:38.129790+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-21T18:16:27.232860+00:00",
+   "last_ok": "2026-10-21T19:05:38.129790+00:00",
    "error": null
   },
   {
@@ -1872,19 +1883,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-21T18:16:27.232860+00:00",
+   "last_ok": "2026-10-21T19:05:38.129790+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-21T18:16:27.232860+00:00",
+   "last_ok": "2026-10-21T19:05:38.129790+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-21T18:16:27.232860+00:00",
+   "last_ok": "2026-10-21T19:05:38.129790+00:00",
    "error": null
   }
  ]
