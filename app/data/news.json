@@ -1,6 +1,61 @@
 {
- "updated_at": "2026-10-22T06:18:56.212197+00:00",
+ "updated_at": "2026-10-22T07:15:11.050807+00:00",
  "items": [
+  {
+   "id": "c4cee6fce876",
+   "title": "Dal Kazakistan all’Italia: il petrolio che avvelena il Caspio",
+   "summary": "Il Kazakistan fornisce il 12% del greggio importato dall’Italia. Partendo da Atyrau, abbiamo seguito le sue tracce: tra immagini satellitari e campionamenti sul campo, l’inchiesta documenta l’inquina…",
+   "image": null,
+   "url": "https://irpimedia.irpi.eu/inquinamento-petrolio-mar-caspio-kazakistan/?utm_source=rss&utm_medium=rss&utm_campaign=inquinamento-petrolio-mar-caspio-kazakistan",
+   "source": "IrpiMedia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-22T06:59:02+00:00"
+  },
+  {
+   "id": "3fc6d4126ca4",
+   "title": "“Sportello dei Diritti”: Cassazione, non è reato restare nella casa popolare dopo l’annullamento dell’assegnazione",
+   "summary": "Restare all’interno di una casa popolare anche dopo l’annullamento dell’assegnazione in capo al precedente inquilino non costituisce il reato di invasione di edifici (art. 633 c.p.), ma configura un…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/sportello-dei-diritti-cassazione-non-e-reato-restare-nella-casa-popolare-dopo-lannullamento-dellassegnazione/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-22T06:50:06+00:00"
+  },
+  {
+   "id": "334016f124c9",
+   "title": "Treni, Linea Bari-Lecce: circolazione in graduale ripresa dalle 6.30",
+   "summary": "Dalle 6.30 di questa mattina è ripresa la circolazione ferroviaria sulla linea Bari- Lecce. Le squadre tecniche di Rete Ferroviaria Italiana hanno lavorato tutta la notte con mezzi d’opera per ripris…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/treni-linea-bari-lecce-circolazione-in-graduale-ripresa-dalle-6-30/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T06:45:14+00:00"
+  },
+  {
+   "id": "76f79a2d5087",
+   "title": "Dalla rivoluzione dei fenicotteri alle rivolte di ottobre: i giovani albanesi contro il governo Rama",
+   "summary": "A Tirana la rabbia sociale è esplosa in guerriglia urbana, tra incendi, gas lacrimogeni e oltre 150 arresti. La miccia è stata il resort di lusso legato a Jared Kushner nella laguna di Narta, da cui…",
+   "image": null,
+   "url": "https://www.valigiablu.it/proteste-albania-fenicotteri-kushner-edi-rama/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-22T06:43:14+00:00"
+  },
+  {
+   "id": "e0c4f38349b0",
+   "title": "Ambulatori mobili, Asl Lecce: Non c’è alcuno spreco, i due mezzi completano un servizio già attivo da un anno e mezzo",
+   "summary": "LECCE – In merito alla nota del consigliere regionale Paolo Pagliaro sui motorhome, gli ambulatori medici mobili, l’ASL Lecce precisa che: “Non c’è alcuno spreco: i due mezzi completano un servizio g…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/ambulatori-mobili-asl-lecce-non-ce-alcuno-spreco-i-due-mezzi-completano-un-servizio-gia-attivo-da-un-anno-e-mezzo/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T06:43:04+00:00"
+  },
   {
    "id": "5520e010671d",
    "title": "Serie C: il Potenza in Puglia per consolidare la propria leadership",
@@ -66,6 +121,17 @@
    "category": "Economia",
    "zone": "Lecce",
    "published_at": "2026-10-21T22:16:49+00:00"
+  },
+  {
+   "id": "2596b9bad73c",
+   "title": "Insulti social, la Poli si oppone. Tutte le incongruenze e spunta una differente valutazione di un altro pm",
+   "summary": "LECCE – La sindaca di Lecce, Adriana Poli Bortone, non alza bandiera bianca e si oppone alla richiesta di archiviazione dell’inchiesta sugli insulti comparsi qua e là sui social e sul web dopo il fur…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2015/05/AVVOCATO-FRANCESCA-CONTE-400x262.jpg",
+   "url": "https://www.corrieresalentino.it/2026/10/insulti-social-la-poli-si-oppone-tutte-le-incongruenze-e-spunta-una-differente-valutazione-di-un-altro-pm/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T21:27:34+00:00"
   },
   {
    "id": "712660bdd7d1",
@@ -264,17 +330,6 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-21T15:28:26+00:00"
-  },
-  {
-   "id": "2596b9bad73c",
-   "title": "Insulti social, la Poli si oppone. Tutte le incongruenze e spunta una differente valutazione di un altro pm",
-   "summary": "LECCE – La sindaca di Lecce, Adriana Poli Bortone, non alza bandiera bianca e si oppone alla richiesta di archiviazione dell’inchiesta sugli insulti comparsi qua e là sui social e sul web dopo il fur…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2015/05/AVVOCATO-FRANCESCA-CONTE-400x262.jpg",
-   "url": "https://www.corrieresalentino.it/2026/10/insulti-social-la-poli-si-oppone-tutte-le-incongruenze-e-spunta-una-differente-valutazione-di-un-altro-pm/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T15:27:34+00:00"
   },
   {
    "id": "41963646db15",
@@ -1936,30 +1991,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-19T08:17:54+00:00"
-  },
-  {
-   "id": "5405b0d381b4",
-   "title": "Washington, Musk e gli avvocati antiabortisti: l’asse in difesa dell’odio online in Europa",
-   "summary": "Il Dipartimento di Giustizia USA scende in campo con Musk contro l'UE: l'asse transatlantico che usa la \"libertà di parola\" per per smantellare il Digital Services Act europeo e difendere l'odio onli…",
-   "image": null,
-   "url": "https://www.valigiablu.it/trump-musk-adf-attacco-dsa-europa-odio-online/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-19T06:56:03+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-22T06:18:56.212197+00:00",
+   "last_ok": "2026-10-22T07:15:11.050807+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-22T06:18:56.212197+00:00",
+   "last_ok": "2026-10-22T07:15:11.050807+00:00",
    "error": null
   },
   {
@@ -1971,19 +2015,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-22T06:18:56.212197+00:00",
+   "last_ok": "2026-10-22T07:15:11.050807+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-22T06:18:56.212197+00:00",
+   "last_ok": "2026-10-22T07:15:11.050807+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-22T06:18:56.212197+00:00",
+   "last_ok": "2026-10-22T07:15:11.050807+00:00",
    "error": null
   }
  ]
