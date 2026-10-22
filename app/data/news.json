@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-22T11:56:08.587765+00:00",
+ "updated_at": "2026-10-22T12:21:29.054127+00:00",
  "items": [
+  {
+   "id": "9f0d673549f4",
+   "title": "Ipotesi sfida del soffocamento dietro la morte di un 20enne. Madre: “Era felice, non si è suicidato”",
+   "summary": "COLLEPASSO (Lecce) – Si allunga l’ombra inquietante di una sfida del soffocamento – la pratica estremamente pericolosa diffusa soprattutto tra bambini e adolescenti attraverso le piattaforme social –…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/__trashed-31__trashed/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T12:05:39+00:00"
+  },
   {
    "id": "29669c5fb242",
    "title": "Spiava le donne nei bagni del Ser.D: rinviato a giudizio",
@@ -2266,30 +2277,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-19T12:48:07+00:00"
-  },
-  {
-   "id": "d5d85c540482",
-   "title": "Prima il pestaggio, poi le fiamme a ridosso della spiaggia: cresce la tensione a Salve",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/672f33a24c4cc-e1792411209915.jpeg",
-   "url": "https://trnews.it/2026/10/19/prima-il-pestaggio-poi-le-fiamme-a-ridosso-della-spiaggia-cresce-la-tensione-a-salve",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-19T12:00:27+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-22T11:56:08.587765+00:00",
+   "last_ok": "2026-10-22T12:21:29.054127+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-22T11:56:08.587765+00:00",
+   "last_ok": "2026-10-22T12:21:29.054127+00:00",
    "error": null
   },
   {
@@ -2301,19 +2301,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-22T11:56:08.587765+00:00",
+   "last_ok": "2026-10-22T12:21:29.054127+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-22T11:56:08.587765+00:00",
+   "last_ok": "2026-10-22T12:21:29.054127+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-22T11:56:08.587765+00:00",
+   "last_ok": "2026-10-22T12:21:29.054127+00:00",
    "error": null
   }
  ]
