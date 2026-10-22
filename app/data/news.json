@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T05:24:15.209966+00:00",
+ "updated_at": "2026-10-22T05:54:53.757878+00:00",
  "items": [
   {
    "id": "5520e010671d",
@@ -101,6 +101,17 @@
    "published_at": "2026-10-21T18:34:04+00:00"
   },
   {
+   "id": "02ccd3660b4d",
+   "title": "Tromba d'aria sradica tendoni e vigneti nel Tarantino",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Tromba-daria-sradica-tendoni-e-vigneti-nel-tarantino___.jpg",
+   "url": "https://trnews.it/2026/10/21/tromba-daria-sradica-tendoni-e-vigneti-nel-tarantino",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Taranto",
+   "published_at": "2026-10-21T18:27:34+00:00"
+  },
+  {
    "id": "437f2b307e1d",
    "title": "Lecce, il Barocco torna a splendere: “Anima pietra” restituisce alla città la facciata della Basilica del Rosario",
    "summary": "LECCE – Un milione di euro per restituire alla città uno dei suoi capolavori barocchi. La Basilica di San Giovanni Battista, conosciuta come Chiesa del Rosario, si mostra nuovamente in tutta la sua b…",
@@ -110,6 +121,17 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-21T18:05:53+00:00"
+  },
+  {
+   "id": "a15696062131",
+   "title": "Casarano, ufficializzato lo staff tecnico",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/07/conferenza-Casarano.jpg",
+   "url": "https://trnews.it/2026/10/21/casarano-ufficializzato-lo-staff-tecnico",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T17:59:24+00:00"
   },
   {
    "id": "80cd003a33aa",
@@ -167,17 +189,6 @@
    "published_at": "2026-10-21T16:28:55+00:00"
   },
   {
-   "id": "02ccd3660b4d",
-   "title": "Tromba d'aria sradica tendoni e vigneti nel Tarantino",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Tromba-daria-sradica-tendoni-e-vigneti-nel-tarantino___.jpg",
-   "url": "https://trnews.it/2026/10/21/tromba-daria-sradica-tendoni-e-vigneti-nel-tarantino",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Taranto",
-   "published_at": "2026-10-21T16:27:34+00:00"
-  },
-  {
    "id": "30189021bfc8",
    "title": "Autotrasporto, Confindustria Lecce: “Comprendiamo le ragioni della protesta, ma serve un accordo immediato”",
    "summary": "Il protrarsi della protesta degli autotrasportatori desta forte preoccupazione per le ripercussioni sulla circolazione delle merci e sulla continuità delle attività produttive. È urgente raggiungere…",
@@ -198,17 +209,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-21T16:00:19+00:00"
-  },
-  {
-   "id": "a15696062131",
-   "title": "Casarano, ufficializzato lo staff tecnico",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/07/conferenza-Casarano.jpg",
-   "url": "https://trnews.it/2026/10/21/casarano-ufficializzato-lo-staff-tecnico",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T15:59:24+00:00"
   },
   {
    "id": "fc3016647b95",
@@ -1942,13 +1942,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-22T05:24:15.209966+00:00",
+   "last_ok": "2026-10-22T05:54:53.757878+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-22T05:24:15.209966+00:00",
+   "last_ok": "2026-10-22T05:54:53.757878+00:00",
    "error": null
   },
   {
@@ -1960,19 +1960,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-22T05:24:15.209966+00:00",
+   "last_ok": "2026-10-22T05:54:53.757878+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-22T05:24:15.209966+00:00",
+   "last_ok": "2026-10-22T05:54:53.757878+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-22T05:24:15.209966+00:00",
+   "last_ok": "2026-10-22T05:54:53.757878+00:00",
    "error": null
   }
  ]
