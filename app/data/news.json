@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-22T17:52:47.873030+00:00",
+ "updated_at": "2026-10-22T18:14:42.717846+00:00",
  "items": [
+  {
+   "id": "6398ad879692",
+   "title": "Uccise la madre dopo un litigio: “Era seminfermo”. Un 23enne a processo davanti alla Corte d’assise",
+   "summary": "RACALE (Lecce) – Dovrà comparire davanti ai giudici della Corte d’assise di Lecce, il 15 dicembre prossimo, Filippo Manni, il 23enne di Racale, studente di Economia all’Università La Sapienza di Roma…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/uccise-la-madre-dopo-un-litigio-era-seminfermo-un-23enne-a-processo-davanti-alla-corte-dassise/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T18:13:10+00:00"
+  },
+  {
+   "id": "6492838c452b",
+   "title": "Lui, 25 anni; lei, 52. E hanno una relazione ma quando la donna chiude la storia, lui diventa uno stalker",
+   "summary": "UGGIANO LA CHIESA (Lecce) Lei, 52 anni; lui, di 25. Per un periodo i due hanno una relazione nonostante 27 anni di differenza di età. Ma quando lei decide di interrompere la relazione, lui, che vive…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lui-25-anni-lei-52-e-hanno-una-relazione-ma-quando-la-donna-chiude-la-storia-lui-diventa-uno-stalker/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T18:06:47+00:00"
+  },
   {
    "id": "23439fac932f",
    "title": "Si sarebbero sostituiti all’anziana zia per intascare denaro, concluse le indagini su due nipoti",
@@ -475,6 +497,17 @@
    "published_at": "2026-10-22T09:52:49+00:00"
   },
   {
+   "id": "7de717e2ff97",
+   "title": "Reddito di cittadinanza: 66 persone denunciate",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/04/guardia-finanza.jpg",
+   "url": "https://trnews.it/2026/10/22/reddito-di-cittadinanza-66-persone-denunciate",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T09:46:21+00:00"
+  },
+  {
    "id": "310f7c07e38a",
    "title": "Tutela e valorizzazione della costa a sud di Otranto: sabato al via il tavolo di confronto promosso dall’onorevole Caroppo",
    "summary": "OTRANTO (Lecce) – Un appuntamento cruciale per delineare strategie condivise di tutela e fruizione del patrimonio paesaggistico, storico e archeologico del litorale adriatico. Sabato 24 ottobre, alle…",
@@ -530,17 +563,6 @@
    "published_at": "2026-10-22T07:58:27+00:00"
   },
   {
-   "id": "7de717e2ff97",
-   "title": "Reddito di cittadinanza: 66 persone denunciate",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/04/guardia-finanza.jpg",
-   "url": "https://trnews.it/2026/10/22/reddito-di-cittadinanza-66-persone-denunciate",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T07:46:21+00:00"
-  },
-  {
    "id": "786e5fcf76e2",
    "title": "Dalila Spagnolo apre “Binario Sud” al Castello Carlo V di Lecce: al via il format musicale “Armonie al Castello”",
    "summary": "LECCE – Prende il via venerdì 23 ottobre la rassegna “Binario Sud”, la nuova proposta inserita nel format musicale “Armonie al Castello” e curata da Art&Lab Lu Mbroia in collaborazione con Open Castl…",
@@ -561,6 +583,17 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-22T06:59:02+00:00"
+  },
+  {
+   "id": "edb0bfad08d7",
+   "title": "Taranto, momento delicato: è già in gioco una stagione",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-21-191327.png",
+   "url": "https://trnews.it/2026/10/22/taranto-momento-delicato-e-gia-in-gioco-una-stagione",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-10-22T06:58:33+00:00"
   },
   {
    "id": "3fc6d4126ca4",
@@ -649,17 +682,6 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-22T05:00:26+00:00"
-  },
-  {
-   "id": "edb0bfad08d7",
-   "title": "Taranto, momento delicato: è già in gioco una stagione",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-21-191327.png",
-   "url": "https://trnews.it/2026/10/22/taranto-momento-delicato-e-gia-in-gioco-una-stagione",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-10-22T04:58:33+00:00"
   },
   {
    "id": "97c7f4e68186",
@@ -2409,41 +2431,19 @@
    "category": "Altro",
    "zone": "Brindisi",
    "published_at": "2026-10-19T18:25:42+00:00"
-  },
-  {
-   "id": "5a40fbb7a741",
-   "title": "Eccellenza: il Taranto perde 3-0 a Campi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-19-195333.png",
-   "url": "https://trnews.it/2026/10/19/eccellenza-il-taranto-perde-3-0-a-campi",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-10-19T18:08:25+00:00"
-  },
-  {
-   "id": "1ec9018b8fa6",
-   "title": "Nuovo raid a Taviano: tre colpi di fucile contro l’abitazione di un idraulico",
-   "summary": "TAVIANO (Lecce) – Un secondo e inquietante episodio a distanza di pochi mesi torna a scuotere via Leghe Contadine a Taviano. Nella notte tra sabato e domenica, l’abitazione di un idraulico di trentac…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/nuovo-raid-a-taviano-tre-colpi-di-fucile-contro-labitazione-di-un-idraulico/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-19T18:04:17+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-22T17:52:47.873030+00:00",
+   "last_ok": "2026-10-22T18:14:42.717846+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-22T17:52:47.873030+00:00",
+   "last_ok": "2026-10-22T18:14:42.717846+00:00",
    "error": null
   },
   {
@@ -2455,19 +2455,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-22T17:52:47.873030+00:00",
+   "last_ok": "2026-10-22T18:14:42.717846+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-22T17:52:47.873030+00:00",
+   "last_ok": "2026-10-22T18:14:42.717846+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-22T17:52:47.873030+00:00",
+   "last_ok": "2026-10-22T18:14:42.717846+00:00",
    "error": null
   }
  ]
