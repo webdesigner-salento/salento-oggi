@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-10-22T14:57:52.609201+00:00",
+ "updated_at": "2026-10-22T15:25:05.525608+00:00",
  "items": [
+  {
+   "id": "2a3dfd9f99f1",
+   "title": "Sud Sound System, live a Milano. Il 7 novembre è grande festa all’Alcatraz con un concerto per i 35 anni di musica",
+   "summary": "C’è una città, fuori dal Salento, che i Sud Sound System possono chiamare casa. È Milano. Qui, il 21 gennaio 1989, il gruppo suonò per la prima volta lontano dalla propria terra, al centro sociale Le…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/sud-sound-system-live-a-milano-il-7-novembre-e-grande-festa-allalcatraz-con-un-concerto-per-i-35-anni-di-musica/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Salento",
+   "published_at": "2026-10-22T15:19:17+00:00"
+  },
+  {
+   "id": "f1f036895734",
+   "title": "Regione Puglia, approvato il progetto FoodExp Skills 2026 per l’innovazione del turismo e dell’accoglienza",
+   "summary": "La Giunta regionale ha approvato il progetto “FoodExp Skills 2026: Laboratorio avanzato di studio, monitoraggio dei fabbisogni formativi e innovazione delle professioni turistiche”. L’iniziativa raff…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/regione-puglia-approvato-il-progetto-foodexp-skills-2026-per-linnovazione-del-turismo-e-dellaccoglienza/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-10-22T15:03:51+00:00"
+  },
+  {
+   "id": "fe967a5281f5",
+   "title": "Autovelox: il Giudice di Pace annulla gli ennesimi verbali per mancanza di omologazione",
+   "summary": "I Comuni salentini tentano la carta del nuovo decreto ministeriale per blindare i verbali stradali, ma i giudici continuano a dare torto alle amministrazioni. Il Giudice di Pace di Lecce, nella perso…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/autovelox-il-giudice-di-pace-annulla-gli-ennesimi-verbali-per-mancanza-di-omologazione/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T15:01:25+00:00"
+  },
   {
    "id": "f1e755ebf6cd",
    "title": "Carburanti, Lollobrigida: 70 milioni complessivi a sostegno di agricoltura e pesca",
@@ -11,6 +44,17 @@
    "category": "Politica",
    "zone": "Salento",
    "published_at": "2026-10-22T14:56:46+00:00"
+  },
+  {
+   "id": "e2a916b75d16",
+   "title": "Operazione “Core”: chiesto il processo per 44. Tra i neo imputati c’è un nuovo collaboratore di giustizia",
+   "summary": "SQUINZANO (Lecce) – C’è la richiesta di rinvio a giudizio con contestuale fissazione dell’udienza preliminare per i 44 soggetti coinvolti nell’inchiesta ribattezzata “Core”, sviluppata tra il 2015 e…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/operazione-core-chiesto-il-processo-per-44-tra-i-neo-imputati-ce-un-nuovo-collaboratore-di-giustizia/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T14:43:44+00:00"
   },
   {
    "id": "9960e5588c2f",
@@ -154,17 +198,6 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-22T11:45:45+00:00"
-  },
-  {
-   "id": "e2a916b75d16",
-   "title": "Operazione “Core”: chiesto il processo per 44. Tra i neo imputati c’è un nuovo collaboratore di giustizia",
-   "summary": "SQUINZANO (Lecce) – C’è la richiesta di rinvio a giudizio con contestuale fissazione dell’udienza preliminare per i 44 soggetti coinvolti nell’inchiesta ribattezzata “Core”, sviluppata tra il 2015 e…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/operazione-core-chiesto-il-processo-per-44-tra-i-neo-imputati-ce-un-nuovo-collaboratore-di-giustizia/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T11:33:44+00:00"
   },
   {
    "id": "3f8751caebc4",
@@ -2321,30 +2354,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-19T18:04:17+00:00"
-  },
-  {
-   "id": "bb1267da0018",
-   "title": "Cosa hanno in comune le proteste dei giovani in Europa",
-   "summary": "Le proteste giovanili in Europa non costituiscono un unico movimento, sono bensì lo specchio di preoccupazioni ampiamente condivise sul lavoro, il costo della vita e il futuro. Tuttavia, la violenza…",
-   "image": null,
-   "url": "https://www.valigiablu.it/proteste-giovani-europa-francia-italia-perche/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-19T15:04:51+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-22T14:57:52.609201+00:00",
+   "last_ok": "2026-10-22T15:25:05.525608+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-22T14:57:52.609201+00:00",
+   "last_ok": "2026-10-22T15:25:05.525608+00:00",
    "error": null
   },
   {
@@ -2356,19 +2378,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-22T14:57:52.609201+00:00",
+   "last_ok": "2026-10-22T15:25:05.525608+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-22T14:57:52.609201+00:00",
+   "last_ok": "2026-10-22T15:25:05.525608+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-22T14:57:52.609201+00:00",
+   "last_ok": "2026-10-22T15:25:05.525608+00:00",
    "error": null
   }
  ]
