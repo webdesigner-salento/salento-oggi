@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-22T15:25:05.525608+00:00",
+ "updated_at": "2026-10-22T15:57:28.406963+00:00",
  "items": [
+  {
+   "id": "a9948707a669",
+   "title": "Amazon introduce un nuovo hub per la micromobilita’ a Lecce. Il Vicesindaco Roberto Giordano Anguilla: “ottima opportunità per il capoluogo salentino”",
+   "summary": "Lecce, 21 ottobre 2026 – Amazon annuncia l’introduzione di unnuovo hub di micromobilità a Lecce: nelle zone a traffico limitato del centro cittadino, l’azienda effettua ora consegne a zero emissioni…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/amazon-introduce-un-nuovo-hub-per-la-micromobilita-a-lecce-il-vicesindaco-roberto-giordano-anguilla-ottima-opportunita-per-il-capoluogo-salentino/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T15:37:26+00:00"
+  },
   {
    "id": "2a3dfd9f99f1",
    "title": "Sud Sound System, live a Milano. Il 7 novembre è grande festa all’Alcatraz con un concerto per i 35 anni di musica",
@@ -2360,13 +2371,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-22T15:25:05.525608+00:00",
+   "last_ok": "2026-10-22T15:57:28.406963+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-22T15:25:05.525608+00:00",
+   "last_ok": "2026-10-22T15:57:28.406963+00:00",
    "error": null
   },
   {
@@ -2378,19 +2389,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-22T15:25:05.525608+00:00",
+   "last_ok": "2026-10-22T15:57:28.406963+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-22T15:25:05.525608+00:00",
+   "last_ok": "2026-10-22T15:57:28.406963+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-22T15:25:05.525608+00:00",
+   "last_ok": "2026-10-22T15:57:28.406963+00:00",
    "error": null
   }
  ]
