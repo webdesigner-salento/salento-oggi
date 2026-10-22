@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-22T10:26:06.169916+00:00",
+ "updated_at": "2026-10-22T10:57:30.713137+00:00",
  "items": [
+  {
+   "id": "fca85c576c7c",
+   "title": "Venerdì 23 e sabato 24 ottobre la OLES – Orchestra Sinfonica di Lecce e del Salento propone Paesaggi sonori. Un viaggio musicale tra natura, emozioni e culture",
+   "summary": "SALENTO – Dalle danze rinascimentali alle suggestioni del jazz, dalle tradizioni balcaniche alla ricerca contemporanea: venerdì 23 e sabato 24 ottobre (ingresso 10 euro | biglietti disponibili al bot…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/venerdi-23-e-sabato-24-ottobre-la-oles-orchestra-sinfonica-di-lecce-e-del-salento-propone-paesaggi-sonori-un-viaggio-musicale-tra-natura-emozioni-e-culture/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T10:55:51+00:00"
+  },
+  {
+   "id": "37a629f992c9",
+   "title": "Il cardinale De Giorgi in ospedale dopo una caduta: apprensione nel Salento",
+   "summary": "ROMA/ VERNOLE (Lecce) – Ore di apprensione per il cardinale salentino Salvatore De Giorgi, originario di Vernole, ricoverato d’urgenza al Policlinico Gemelli di Roma dopo una caduta nella sua abitazi…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/il-cardinale-de-giorgi-in-ospedale-dopo-una-caduta-apprensione-nel-salento/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T10:30:42+00:00"
+  },
   {
    "id": "92f593813a37",
    "title": "Oss filmava le donne mentre erano in bagno nel Ser.D: nel cellulare trovate 97 foto, a processo",
@@ -44,17 +66,6 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-22T10:05:41+00:00"
-  },
-  {
-   "id": "37a629f992c9",
-   "title": "Il cardinale De Giorgi in ospedale dopo una caduta: apprensione nel Salento",
-   "summary": "ROMA/ VERNOLE (Lecce) – Ore di apprensione per il cardinale salentino Salvatore De Giorgi, originario di Vernole, ricoverato d’urgenza al Policlinico Gemelli di Roma dopo una caduta nella sua abitazi…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/il-cardinale-de-giorgi-in-ospedale-dopo-una-caduta-apprensione-nel-salento/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T10:00:42+00:00"
   },
   {
    "id": "b87ec4837d8e",
@@ -2140,13 +2151,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-22T10:26:06.169916+00:00",
+   "last_ok": "2026-10-22T10:57:30.713137+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-22T10:26:06.169916+00:00",
+   "last_ok": "2026-10-22T10:57:30.713137+00:00",
    "error": null
   },
   {
@@ -2158,19 +2169,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-22T10:26:06.169916+00:00",
+   "last_ok": "2026-10-22T10:57:30.713137+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-22T10:26:06.169916+00:00",
+   "last_ok": "2026-10-22T10:57:30.713137+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-22T10:26:06.169916+00:00",
+   "last_ok": "2026-10-22T10:57:30.713137+00:00",
    "error": null
   }
  ]
