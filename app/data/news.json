@@ -1,16 +1,60 @@
 {
- "updated_at": "2026-10-22T17:21:24.909274+00:00",
+ "updated_at": "2026-10-22T17:52:47.873030+00:00",
  "items": [
   {
-   "id": "83d6b9df8e00",
+   "id": "23439fac932f",
+   "title": "Si sarebbero sostituiti all’anziana zia per intascare denaro, concluse le indagini su due nipoti",
+   "summary": "Copertino (Lecce) – Si sarebbero sostituiti illecitamente alla zia per appropriarsi di rimborsi dell’Agenzia delle Entrate per oltre 8mila euro, spettanti alla parente. Per questo a due fratelli (lei…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/si-sarebbero-sostituiti-allanziana-zia-per-intascare-denaro-concluse-le-indagini-su-due-nipoti/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T17:37:59+00:00"
+  },
+  {
+   "id": "88e1d85242d5",
    "title": "Franco Castaldo, la penna che non si piegava alle mafie, ci lascia a 67 anni",
    "summary": "Morto il giornalista agrigentino massimo esperto di mafia siciliana, dirigeva il giornale indipendente Grandangolo, ed è stato un maestro per IrpiMedia L'articolo Franco Castaldo, la penna che non si…",
    "image": null,
-   "url": "https://irpimedia.irpi.eu/agrigento-franco-castaldo-grandangolo/?utm_source=rss&utm_medium=rss&utm_campaign=agrigento-franco-castaldo-grandangolo",
+   "url": "https://irpimedia.irpi.eu/agrigento-franco-castaldo-grandangolo-2/?utm_source=rss&utm_medium=rss&utm_campaign=agrigento-franco-castaldo-grandangolo-2",
    "source": "IrpiMedia",
    "category": "Altro",
    "zone": "Italia",
-   "published_at": "2026-10-22T17:11:13+00:00"
+   "published_at": "2026-10-22T17:26:39+00:00"
+  },
+  {
+   "id": "b2d0abf96df3",
+   "title": "Riforma pensionistica, il sindacato di polizia Fsp si confronta",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/convegno-polizia-1024x555.jpeg",
+   "url": "https://trnews.it/2026/10/22/riforma-pensionistica-il-sindacato-di-polizia-fsp-si-confronta",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T17:07:57+00:00"
+  },
+  {
+   "id": "74c1f4dcd07c",
+   "title": "Nardò, Di Costanzo è il nuovo allenatore",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-22-191651.png",
+   "url": "https://trnews.it/2026/10/22/nardo-di-costanzo-e-il-nuovo-allenatore",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T17:03:06+00:00"
+  },
+  {
+   "id": "0a5161ddd710",
+   "title": "Emergenza ratti: sopralluogo in via Benvenuto Cellini",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-77-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/22/emergenza-ratti-sopralluogo-in-via-benvenuto-cellini",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Brindisi",
+   "published_at": "2026-10-22T17:02:35+00:00"
   },
   {
    "id": "bd66fbbb9b2c",
@@ -235,7 +279,7 @@
   {
    "id": "3f8751caebc4",
    "title": "Droga nascosta in una cassaforte sotto una mattonella: arrestato 30enne",
-   "summary": "ARADEO (Lecce) – Marijuana, hashish e cocaina nascosti in una cassaforte ricavata sotto una mattonella, vicino al divano di casa. Un trentenne residente in provincia di Lecce è stato arrestato dalla…",
+   "summary": "ARADEO (Lecce) – Marijuana, hashish e cocaina nascosti in una cassaforte ricavata sotto una mattonella, vicino al divano di casa. Un trentenne residente in provincia di Lecce, Lucio Minerba è stato a…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/10/droga-nascosta-in-una-cassaforte-sotto-una-mattonella-arrestato-30enne/",
    "source": "Corriere Salentino",
@@ -2393,13 +2437,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-22T17:21:24.909274+00:00",
+   "last_ok": "2026-10-22T17:52:47.873030+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-22T17:21:24.909274+00:00",
+   "last_ok": "2026-10-22T17:52:47.873030+00:00",
    "error": null
   },
   {
@@ -2411,19 +2455,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-22T17:21:24.909274+00:00",
+   "last_ok": "2026-10-22T17:52:47.873030+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-22T17:21:24.909274+00:00",
+   "last_ok": "2026-10-22T17:52:47.873030+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-22T17:21:24.909274+00:00",
+   "last_ok": "2026-10-22T17:52:47.873030+00:00",
    "error": null
   }
  ]
