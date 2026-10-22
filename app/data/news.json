@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-22T16:24:29.971062+00:00",
+ "updated_at": "2026-10-22T16:58:00.516371+00:00",
  "items": [
+  {
+   "id": "bd66fbbb9b2c",
+   "title": "“Il lavoro che verrà”, al via a Lecce il convegno nazionale degli avvocati giuslavoristi italiani",
+   "summary": "Si è aperto a Lecce il Convegno nazionale di AGI – Avvocati Giuslavoristi Italiani. Il convegno, in programma fino al 24 ottobre al Teatro Apollo, riunisce oltre 500 giuslavoriste e giuslavoristi pro…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/il-lavoro-che-verra-al-via-a-lecce-il-convegno-nazionale-degli-avvocati-giuslavoristi-italiani/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T16:52:26+00:00"
+  },
   {
    "id": "a9948707a669",
    "title": "Amazon introduce un nuovo hub per la micromobilita’ a Lecce. Il Vicesindaco Roberto Giordano Anguilla: “ottima opportunità per il capoluogo salentino”",
@@ -8,7 +19,7 @@
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/10/amazon-introduce-un-nuovo-hub-per-la-micromobilita-a-lecce-il-vicesindaco-roberto-giordano-anguilla-ottima-opportunita-per-il-capoluogo-salentino/",
    "source": "Corriere Salentino",
-   "category": "Altro",
+   "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-22T15:37:26+00:00"
   },
@@ -2371,13 +2382,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-22T16:24:29.971062+00:00",
+   "last_ok": "2026-10-22T16:58:00.516371+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-22T16:24:29.971062+00:00",
+   "last_ok": "2026-10-22T16:58:00.516371+00:00",
    "error": null
   },
   {
@@ -2389,19 +2400,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-22T16:24:29.971062+00:00",
+   "last_ok": "2026-10-22T16:58:00.516371+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-22T16:24:29.971062+00:00",
+   "last_ok": "2026-10-22T16:58:00.516371+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-22T16:24:29.971062+00:00",
+   "last_ok": "2026-10-22T16:58:00.516371+00:00",
    "error": null
   }
  ]
