@@ -1,6 +1,50 @@
 {
- "updated_at": "2026-10-22T09:02:41.883265+00:00",
+ "updated_at": "2026-10-22T09:59:09.819319+00:00",
  "items": [
+  {
+   "id": "b87ec4837d8e",
+   "title": "La grande canzone italiana chiude “Illuminiamo l’Arte”: sabato agli Agostiniani l’ultimo appuntamento della rassegna di BPP",
+   "summary": "LECCE – Si avvia al termine la terza edizione di “Illuminiamo l’Arte”, la rassegna con cui la Banca Popolare Pugliese partecipa a “è cultura!”, la manifestazione promossa da ABI e ACRI per sostenere…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/la-grande-canzone-italiana-chiude-illuminiamo-larte-sabato-agli-agostiniani-lultimo-appuntamento-della-rassegna-di-bpp/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T09:58:38+00:00"
+  },
+  {
+   "id": "851a2205c575",
+   "title": "Notti Sacre” a Lecce: gli ultimi due appuntamenti tra Barocco e musica contemporanea",
+   "summary": "LECCE – Giunge al termine l’edizione leccese di “Notti Sacre”, la rassegna nata da un’idea di monsignor Antonio Parisi e promossa da ArtWork e Vallisa Cultura sotto l’alto patrocinio del Pontificio C…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/notti-sacre-a-lecce-gli-ultimi-due-appuntamenti-tra-barocco-e-musica-contemporanea/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T09:52:49+00:00"
+  },
+  {
+   "id": "310f7c07e38a",
+   "title": "Tutela e valorizzazione della costa a sud di Otranto: sabato al via il tavolo di confronto promosso dall’onorevole Caroppo",
+   "summary": "OTRANTO (Lecce) – Un appuntamento cruciale per delineare strategie condivise di tutela e fruizione del patrimonio paesaggistico, storico e archeologico del litorale adriatico. Sabato 24 ottobre, alle…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/tutela-e-valorizzazione-della-costa-a-sud-di-otranto-sabato-al-via-il-tavolo-di-confronto-promosso-dallonorevole-caroppo/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T09:41:16+00:00"
+  },
+  {
+   "id": "58cf4c3b6e54",
+   "title": "Meteo domani 23 ottobre nel Salento: previsioni, temperature e cosa aspettarsi",
+   "summary": "Puglia Tempo stabile nel corso della giornata su tutta la regione con cieli sereni o poco nuvolosi sia al mattino che al pomeriggio. Poche variazioni in serata e nottata con tempo per lo più asciutto…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/meteo-domani-23-ottobre-nel-salento-previsioni-temperature-e-cosa-aspettarsi/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-22T09:40:40+00:00"
+  },
   {
    "id": "9bd82e4cefb6",
    "title": "Fiabe e natura a Spongano: con “Avventura” il teatro all’aperto di Ultimi Fuochi incanta i più piccoli",
@@ -26,7 +70,7 @@
   {
    "id": "8562160bb2ad",
    "title": "Andrea Caroppo (FI), a Otranto un tavolo per discutere sul futuro dei luoghi più belli della costa adriatica",
-   "summary": "Otranto, Caroppo (FI): Sabato 24 ottobre, un tavolo per discutere del futuro dei luoghi più belli della costa adriatica OTRANTO, 22 ottobre – “A sud di Otranto si concentra uno straordinario patrimon…",
+   "summary": "OTRANTO, 22 ottobre – “A sud di Otranto si concentra uno straordinario patrimonio naturalistico, paesaggistico, storico e archeologico. Eppure, molti dei suoi luoghi più importanti sono di proprietà…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/10/andrea-caroppo-fi-a-otranto-un-tavolo-per-discutere-sul-futuro-dei-luoghi-piu-belli-della-costa-adriatica/",
    "source": "Corriere Salentino",
@@ -123,6 +167,17 @@
    "published_at": "2026-10-22T06:43:04+00:00"
   },
   {
+   "id": "78adac28d5db",
+   "title": "“Carmiano MediTerranea” 2026: sapori, tradizioni, cultura e pizzica. Tre giorni di festa in onore di San Vito Martire",
+   "summary": "CARMIANO – Il profumo dei piatti della tradizione, il gusto dei vini del territorio, la riscoperta delle radici popolari e il ritmo travolgente della pizzica salentina. Sabato 24 ottobre 2026 Carmian…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/PHOTO-2026-10-19-12-26-47-300x150.jpg",
+   "url": "https://www.corrieresalentino.it/2026/10/carmiano-mediterranea-2026-sapori-tradizioni-cultura-e-pizzica-tre-giorni-di-festa-in-onore-di-san-vito-martire/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T05:56:26+00:00"
+  },
+  {
    "id": "5520e010671d",
    "title": "Serie C: il Potenza in Puglia per consolidare la propria leadership",
    "summary": "",
@@ -200,6 +255,17 @@
    "published_at": "2026-10-21T21:27:34+00:00"
   },
   {
+   "id": "45e58ef99b2b",
+   "title": "“Favori a imprenditori in cambio di voti”; Delli Noci in aula: “Interlocuzioni sì ma mai favoritismi”",
+   "summary": "LECCE – È durato circa tre ore l’interrogatorio dell’ex assessore regionale allo Sviluppo Economico della Regione Puglia, Alessandro Delli Noci, coinvolto nell’inchiesta con cui la Guardia di finanza…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/favori-a-imprenditori-in-cambio-di-voti-delli-noci-in-aula-interlocuzioni-si-ma-mai-favoritismi/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T21:25:26+00:00"
+  },
+  {
    "id": "712660bdd7d1",
    "title": "Basket A2 - Rieti-Brindisi: 70-63",
    "summary": "",
@@ -220,6 +286,17 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-21T20:33:33+00:00"
+  },
+  {
+   "id": "183633650aa8",
+   "title": "Risonanza alla caviglia: a Lecce nessuna disponibilità",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/risonanza.jpg",
+   "url": "https://trnews.it/2026/10/21/risonanza-alla-caviglia-a-lecce-nessuna-disponibilita",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T19:26:08+00:00"
   },
   {
    "id": "84b486ba72ee",
@@ -297,17 +374,6 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-21T17:28:04+00:00"
-  },
-  {
-   "id": "183633650aa8",
-   "title": "Risonanza alla caviglia: a Lecce nessuna disponibilità",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/risonanza.jpg",
-   "url": "https://trnews.it/2026/10/21/risonanza-alla-caviglia-a-lecce-nessuna-disponibilita",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T17:26:08+00:00"
   },
   {
    "id": "e2ffa00d7b0f",
@@ -594,17 +660,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-21T14:29:31+00:00"
-  },
-  {
-   "id": "45e58ef99b2b",
-   "title": "“Favori a imprenditori in cambio di voti”; Delli Noci in aula: “Interlocuzioni sì ma mai favoritismi”",
-   "summary": "LECCE – È durato circa tre ore l’interrogatorio dell’ex assessore regionale allo Sviluppo Economico della Regione Puglia, Alessandro Delli Noci, coinvolto nell’inchiesta con cui la Guardia di finanza…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/favori-a-imprenditori-in-cambio-di-voti-delli-noci-in-aula-interlocuzioni-si-ma-mai-favoritismi/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T14:25:26+00:00"
   },
   {
    "id": "e0081509a02f",
@@ -2024,30 +2079,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-19T11:10:26+00:00"
-  },
-  {
-   "id": "763f5eca3ebd",
-   "title": "\"Quelli dell’Apollo\", chiuse le indagini su quattro minorenni: cinque aggressioni e minacce alle vittime",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/05/baby-gang-apollo.jpg",
-   "url": "https://trnews.it/2026/10/19/quelli-dellapollo-chiuse-le-indagini-su-quattro-minorenni-cinque-aggressioni-e-minacce-alle-vittime",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-19T09:55:55+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-22T09:02:41.883265+00:00",
+   "last_ok": "2026-10-22T09:59:09.819319+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-22T09:02:41.883265+00:00",
+   "last_ok": "2026-10-22T09:59:09.819319+00:00",
    "error": null
   },
   {
@@ -2059,19 +2103,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-22T09:02:41.883265+00:00",
+   "last_ok": "2026-10-22T09:59:09.819319+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-22T09:02:41.883265+00:00",
+   "last_ok": "2026-10-22T09:59:09.819319+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-22T09:02:41.883265+00:00",
+   "last_ok": "2026-10-22T09:59:09.819319+00:00",
    "error": null
   }
  ]
