@@ -1,6 +1,50 @@
 {
- "updated_at": "2026-10-22T07:15:11.050807+00:00",
+ "updated_at": "2026-10-22T08:04:36.493772+00:00",
  "items": [
+  {
+   "id": "8562160bb2ad",
+   "title": "Andrea Caroppo (FI), a Otranto un tavolo per discutere sul futuro dei luoghi più belli della costa adriatica",
+   "summary": "Otranto, Caroppo (FI): Sabato 24 ottobre, un tavolo per discutere del futuro dei luoghi più belli della costa adriatica OTRANTO, 22 ottobre – “A sud di Otranto si concentra uno straordinario patrimon…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/andrea-caroppo-fi-a-otranto-un-tavolo-per-discutere-sul-futuro-dei-luoghi-piu-belli-della-costa-adriatica/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T07:58:27+00:00"
+  },
+  {
+   "id": "7de717e2ff97",
+   "title": "Reddito di cittadinanza: 66 persone denunciate",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/04/guardia-finanza.jpg",
+   "url": "https://trnews.it/2026/10/22/reddito-di-cittadinanza-66-persone-denunciate",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T07:46:21+00:00"
+  },
+  {
+   "id": "786e5fcf76e2",
+   "title": "Dalila Spagnolo apre “Binario Sud” al Castello Carlo V di Lecce: al via il format musicale “Armonie al Castello”",
+   "summary": "LECCE – Prende il via venerdì 23 ottobre la rassegna “Binario Sud”, la nuova proposta inserita nel format musicale “Armonie al Castello” e curata da Art&Lab Lu Mbroia in collaborazione con Open Castl…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/dalila-spagnolo-apre-binario-sud-al-castello-carlo-v-di-lecce-al-via-il-format-musicale-armonie-al-castello/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T07:27:51+00:00"
+  },
+  {
+   "id": "4247ecfe7dda",
+   "title": "Reddito di cittadinanza con false dichiarazioni, nei guai in 66. Chiesto il sequestro dei 900mila euro percepiti indebitamente",
+   "summary": "SALENTO – Oltre 900mila euro di Reddito di cittadinanza ritenuti indebitamente percepiti e 66 persone segnalate all’Autorità giudiziaria. È il bilancio dei controlli condotti dalla Guardia di Finanza…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/reddito-di-cittadinanza-con-false-dichiarazioni-nei-guai-in-66-chiesto-il-sequestro-dei-900mila-euro-percepiti-indebitamente/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-10-22T07:24:20+00:00"
+  },
   {
    "id": "c4cee6fce876",
    "title": "Dal Kazakistan all’Italia: il petrolio che avvelena il Caspio",
@@ -1997,13 +2041,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-22T07:15:11.050807+00:00",
+   "last_ok": "2026-10-22T08:04:36.493772+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-22T07:15:11.050807+00:00",
+   "last_ok": "2026-10-22T08:04:36.493772+00:00",
    "error": null
   },
   {
@@ -2015,19 +2059,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-22T07:15:11.050807+00:00",
+   "last_ok": "2026-10-22T08:04:36.493772+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-22T07:15:11.050807+00:00",
+   "last_ok": "2026-10-22T08:04:36.493772+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-22T07:15:11.050807+00:00",
+   "last_ok": "2026-10-22T08:04:36.493772+00:00",
    "error": null
   }
  ]
