@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T19:56:08.748448+00:00",
+ "updated_at": "2026-10-22T20:17:38.975253+00:00",
  "items": [
   {
    "id": "10bb2b376196",
@@ -2409,52 +2409,19 @@
    "category": "Sport",
    "zone": "Salento",
    "published_at": "2026-10-19T20:59:59+00:00"
-  },
-  {
-   "id": "2f575d58e856",
-   "title": "Prima il compatimento poi lo sguardo del questore. Come non leggere “i giovani”",
-   "summary": "Negli ultimi anni, ormai forse decenni, l’universo giovanile è stato descritto da chi controlla il discorso pubblico -un pugno di politici, intellettuali, giornalisti, influencer- secondo il prevalen…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/IPA89885434-scaled.jpg",
-   "url": "https://altreconomia.it/prima-il-compatimento-poi-lo-sguardo-del-questore-come-non-leggere-i-giovani/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-19T20:08:11+00:00"
-  },
-  {
-   "id": "397b87352536",
-   "title": "Dogre, Consulte e bilancio: il Consiglio approva tra le polemiche. Fondi comunali per le rette dei nidi",
-   "summary": "LECCE – Quanto tempo ha un commerciante per sapere che un controllo ha rilevato un’irregolarità? E quali garanzie gli consentono di difendersi? Il confronto in Consiglio comunale a Lecce si è acceso…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/dogre-consulte-e-bilancio-il-consiglio-approva-tra-le-polemiche-fondi-comunali-per-le-rette-dei-nidi/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-19T20:07:08+00:00"
-  },
-  {
-   "id": "8355d8c099e4",
-   "title": "Il pane che sa aspettare",
-   "summary": "Il pane che sa aspettare di Vincenzo Candido Renna Nel 1957, a Veglie, qualcuno scavava le fondamenta di una casa quando la terra restituì una tomba. Accade così in Salento: si cerca un appoggio per…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/il-pane-che-sa-aspettare/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-10-19T20:04:42+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-22T19:56:08.748448+00:00",
+   "last_ok": "2026-10-22T20:17:38.975253+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-22T19:56:08.748448+00:00",
+   "last_ok": "2026-10-22T20:17:38.975253+00:00",
    "error": null
   },
   {
@@ -2466,19 +2433,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-22T19:56:08.748448+00:00",
+   "last_ok": "2026-10-22T20:17:38.975253+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-22T19:56:08.748448+00:00",
+   "last_ok": "2026-10-22T20:17:38.975253+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-22T19:56:08.748448+00:00",
+   "last_ok": "2026-10-22T20:17:38.975253+00:00",
    "error": null
   }
  ]
