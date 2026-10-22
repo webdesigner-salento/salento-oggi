@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T20:56:07.275900+00:00",
+ "updated_at": "2026-10-22T21:19:40.103371+00:00",
  "items": [
   {
    "id": "10bb2b376196",
@@ -2387,41 +2387,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-19T21:59:47+00:00"
-  },
-  {
-   "id": "377a81fdc234",
-   "title": "Presentata la 4^ edizione del progetto \"Sport, palestra di legalità\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-19-213138.png",
-   "url": "https://trnews.it/2026/10/19/presentata-la-4-edizione-del-progetto-sport-palestra-di-legalita",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-10-19T21:18:07+00:00"
-  },
-  {
-   "id": "4b190885635a",
-   "title": "Serie C: dall'illusione al crollo, il Foggia perde 3-1 contro il Giugliano",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-c-1024x576.png",
-   "url": "https://trnews.it/2026/10/19/serie-c-dallillusione-al-crollo-il-foggia-perde-3-1-contro-il-giugliano",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-10-19T20:59:59+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-22T20:56:07.275900+00:00",
+   "last_ok": "2026-10-22T21:19:40.103371+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-22T20:56:07.275900+00:00",
+   "last_ok": "2026-10-22T21:19:40.103371+00:00",
    "error": null
   },
   {
@@ -2433,19 +2411,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-22T20:56:07.275900+00:00",
+   "last_ok": "2026-10-22T21:19:40.103371+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-22T20:56:07.275900+00:00",
+   "last_ok": "2026-10-22T21:19:40.103371+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-22T20:56:07.275900+00:00",
+   "last_ok": "2026-10-22T21:19:40.103371+00:00",
    "error": null
   }
  ]
