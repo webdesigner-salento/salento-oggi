@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-22T04:59:06.382195+00:00",
+ "updated_at": "2026-10-22T05:24:15.209966+00:00",
  "items": [
+  {
+   "id": "5520e010671d",
+   "title": "Serie C: il Potenza in Puglia per consolidare la propria leadership",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-21-192015.png",
+   "url": "https://trnews.it/2026/10/22/serie-c-il-potenza-in-puglia-per-consolidare-la-propria-leadership",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-22T05:02:33+00:00"
+  },
+  {
+   "id": "edb0bfad08d7",
+   "title": "Taranto, momento delicato: è già in gioco una stagione",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-21-191327.png",
+   "url": "https://trnews.it/2026/10/22/taranto-momento-delicato-e-gia-in-gioco-una-stagione",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-10-22T04:58:33+00:00"
+  },
   {
    "id": "94d7734489ae",
    "title": "Call center, allarme occupazione nel Salento: migliaia di posti a rischio tra esuberi, delocalizzazioni e AI",
@@ -1920,13 +1942,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-22T04:59:06.382195+00:00",
+   "last_ok": "2026-10-22T05:24:15.209966+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-22T04:59:06.382195+00:00",
+   "last_ok": "2026-10-22T05:24:15.209966+00:00",
    "error": null
   },
   {
@@ -1938,19 +1960,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-22T04:59:06.382195+00:00",
+   "last_ok": "2026-10-22T05:24:15.209966+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-22T04:59:06.382195+00:00",
+   "last_ok": "2026-10-22T05:24:15.209966+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-22T04:59:06.382195+00:00",
+   "last_ok": "2026-10-22T05:24:15.209966+00:00",
    "error": null
   }
  ]
