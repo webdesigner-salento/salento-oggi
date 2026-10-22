@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-22T08:04:36.493772+00:00",
+ "updated_at": "2026-10-22T09:02:41.883265+00:00",
  "items": [
+  {
+   "id": "9bd82e4cefb6",
+   "title": "Fiabe e natura a Spongano: con “Avventura” il teatro all’aperto di Ultimi Fuochi incanta i più piccoli",
+   "summary": "SPONGANO (Lecce) – Un viaggio itinerante tra le campagne e i racconti classici per trasformare il paesaggio in uno spazio scenico vivente. La stagione teatrale “Fuochi Comuni”, promossa da Ultimi Fuo…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/6e6708c1-7559-4037-92c3-072d428f331b-240x300.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/10/fiabe-e-natura-a-spongano-con-avventura-il-teatro-allaperto-di-ultimi-fuochi-incanta-i-piu-piccoli/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T08:59:56+00:00"
+  },
+  {
+   "id": "5ab36202ee18",
+   "title": "Brindisi, con il Bisceglie per la manita",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2024/10/BRINDISI-CALCIO-NEWS-1024x586.jpeg",
+   "url": "https://trnews.it/2026/10/22/519461",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-10-22T08:19:49+00:00"
+  },
   {
    "id": "8562160bb2ad",
    "title": "Andrea Caroppo (FI), a Otranto un tavolo per discutere sul futuro dei luoghi più belli della costa adriatica",
@@ -288,6 +310,17 @@
    "published_at": "2026-10-21T17:26:08+00:00"
   },
   {
+   "id": "e2ffa00d7b0f",
+   "title": "Blocco autotrasportatori, scaffali vuoti e logistica al collasso nel Barese",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/scaffali-vuoti-1024x768.jpeg",
+   "url": "https://trnews.it/2026/10/21/blocco-autotrasportatori-scaffali-vuoti-e-logistica-al-collasso-nel-barese",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-21T17:21:04+00:00"
+  },
+  {
    "id": "88093b7c58e3",
    "title": "Consorzio Asi di Lecce commissariato, la Regione nomina Fabio Corvino",
    "summary": "",
@@ -354,6 +387,17 @@
    "published_at": "2026-10-21T15:50:04+00:00"
   },
   {
+   "id": "bb6893634ed7",
+   "title": "Caso Bertacchi, il sopralluogo del Ris nell'abitazione di via del Lavoro",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-69-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/21/caso-bertacchi-il-sopralluogo-del-ris-nellabitazione-di-via-del-lavoro",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-21T15:37:03+00:00"
+  },
+  {
    "id": "4631a42ece75",
    "title": "Galatone celebra vent’anni del Festival “Gabriele Inguscio”: due giornate di cinema, musica e creatività dedicate alle nuove generazioni",
    "summary": "GALATONE – Vent’anni di cinema, passione, amicizia e impegno culturale nel ricordo di un giovane che amava profondamente la settima arte. Galatone si prepara a celebrare, il 23 e 24 ottobre, la vente…",
@@ -418,17 +462,6 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-10-21T15:21:44+00:00"
-  },
-  {
-   "id": "e2ffa00d7b0f",
-   "title": "Blocco autotrasportatori, scaffali vuoti e logistica al collasso nel Barese",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/scaffali-vuoti-1024x768.jpeg",
-   "url": "https://trnews.it/2026/10/21/blocco-autotrasportatori-scaffali-vuoti-e-logistica-al-collasso-nel-barese",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-21T15:21:04+00:00"
   },
   {
    "id": "db69716f9adb",
@@ -583,17 +616,6 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-21T14:05:37+00:00"
-  },
-  {
-   "id": "bb6893634ed7",
-   "title": "Caso Bertacchi, il sopralluogo del Ris nell'abitazione di via del Lavoro",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-69-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/21/caso-bertacchi-il-sopralluogo-del-ris-nellabitazione-di-via-del-lavoro",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T13:37:03+00:00"
   },
   {
    "id": "fc0f93e1a69e",
@@ -2013,41 +2035,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-19T09:55:55+00:00"
-  },
-  {
-   "id": "4c13c7b7a31e",
-   "title": "Taviano, tre colpi di fucile contro un'abitazione: s’indaga",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/stazione-cc-taviano-1024x633.jpeg",
-   "url": "https://trnews.it/2026/10/19/taviano-tre-colpi-di-fucile-contro-unabitazione-sindaga",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-19T08:56:39+00:00"
-  },
-  {
-   "id": "44fe8a76ddf5",
-   "title": "Pescoluse, fiamme in due canneti a pochi passi dai chioschi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/857417073_10239472867652129_5238583756141971606_n-e1792397869833-1024x851.jpg",
-   "url": "https://trnews.it/2026/10/19/pescoluse-fiamme-in-due-canneti-a-pochi-passi-dai-chioschi",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-19T08:17:54+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-22T08:04:36.493772+00:00",
+   "last_ok": "2026-10-22T09:02:41.883265+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-22T08:04:36.493772+00:00",
+   "last_ok": "2026-10-22T09:02:41.883265+00:00",
    "error": null
   },
   {
@@ -2059,19 +2059,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-22T08:04:36.493772+00:00",
+   "last_ok": "2026-10-22T09:02:41.883265+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-22T08:04:36.493772+00:00",
+   "last_ok": "2026-10-22T09:02:41.883265+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-22T08:04:36.493772+00:00",
+   "last_ok": "2026-10-22T09:02:41.883265+00:00",
    "error": null
   }
  ]
