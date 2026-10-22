@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-22T18:14:42.717846+00:00",
+ "updated_at": "2026-10-22T19:05:44.720380+00:00",
  "items": [
+  {
+   "id": "92f593813a37",
+   "title": "Oss filmava le donne mentre erano in bagno nel Ser.D: nel cellulare trovate 97 foto, a processo",
+   "summary": "LECCE – Sessantasette anni, residente in un comune a pochi chilometri da Lecce, nel Ser.D di Lecce dove lavorava, avrebbe ripreso con il proprio telefonino le immagini del monitor collegato alla tele…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/oss-filmava-le-donne-mentre-erano-in-bagno-nel-ser-d-nel-cellulare-trovate-97-foto-a-processo/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T18:13:43+00:00"
+  },
   {
    "id": "6398ad879692",
    "title": "Uccise la madre dopo un litigio: “Era seminfermo”. Un 23enne a processo davanti alla Corte d’assise",
@@ -429,17 +440,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-22T10:30:42+00:00"
-  },
-  {
-   "id": "92f593813a37",
-   "title": "Oss filmava le donne mentre erano in bagno nel Ser.D: nel cellulare trovate 97 foto, a processo",
-   "summary": "LECCE – Sessantasette anni, residente in un comune a pochi chilometri da Lecce, nel Ser.D di Lecce dove lavorava, avrebbe ripreso con il proprio telefonino le immagini del monitor collegato alla tele…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/oss-filmava-le-donne-mentre-erano-in-bagno-nel-ser-d-nel-cellulare-trovate-97-foto-a-processo/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T10:25:43+00:00"
   },
   {
    "id": "954af0a9de74",
@@ -2420,30 +2420,19 @@
    "category": "Cultura",
    "zone": "Lecce",
    "published_at": "2026-10-19T20:04:42+00:00"
-  },
-  {
-   "id": "dc283926b7de",
-   "title": "Protesta degli agricoltori tra Torre S. Susanna e Mesagne",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-62-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/19/protesta-degli-agricoltori-tra-torre-s-susanna-e-mesagne",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Brindisi",
-   "published_at": "2026-10-19T18:25:42+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-22T18:14:42.717846+00:00",
+   "last_ok": "2026-10-22T19:05:44.720380+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-22T18:14:42.717846+00:00",
+   "last_ok": "2026-10-22T19:05:44.720380+00:00",
    "error": null
   },
   {
@@ -2455,19 +2444,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-22T18:14:42.717846+00:00",
+   "last_ok": "2026-10-22T19:05:44.720380+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-22T18:14:42.717846+00:00",
+   "last_ok": "2026-10-22T19:05:44.720380+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-22T18:14:42.717846+00:00",
+   "last_ok": "2026-10-22T19:05:44.720380+00:00",
    "error": null
   }
  ]
