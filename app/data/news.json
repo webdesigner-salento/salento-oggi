@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T03:59:22.451816+00:00",
+ "updated_at": "2026-10-22T04:25:54.431217+00:00",
  "items": [
   {
    "id": "94d7734489ae",
@@ -1914,30 +1914,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-19T06:15:28+00:00"
-  },
-  {
-   "id": "0f4562a53d86",
-   "title": "Tutti i rischi e le opportunità dell’Affordable housing act",
-   "summary": "La Commissione Ue propone di regolamentare gli affitti brevi e l’acquisto delle “seconde case”. L’iter per arrivare a un regolamento sarà lungo, ma già emergono elementi positivi e negativi. E due fo…",
-   "image": null,
-   "url": "https://irpimedia.irpi.eu/tutti-i-rischi-e-le-opportunita-affordable-housing-act/?utm_source=rss&utm_medium=rss&utm_campaign=tutti-i-rischi-e-le-opportunita-affordable-housing-act",
-   "source": "IrpiMedia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-19T04:00:00+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-22T03:59:22.451816+00:00",
+   "last_ok": "2026-10-22T04:25:54.431217+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-22T03:59:22.451816+00:00",
+   "last_ok": "2026-10-22T04:25:54.431217+00:00",
    "error": null
   },
   {
@@ -1949,19 +1938,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-22T03:59:22.451816+00:00",
+   "last_ok": "2026-10-22T04:25:54.431217+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-22T03:59:22.451816+00:00",
+   "last_ok": "2026-10-22T04:25:54.431217+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-22T03:59:22.451816+00:00",
+   "last_ok": "2026-10-22T04:25:54.431217+00:00",
    "error": null
   }
  ]
