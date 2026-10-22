@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T21:54:52.637075+00:00",
+ "updated_at": "2026-10-22T22:16:13.780683+00:00",
  "items": [
   {
    "id": "10bb2b376196",
@@ -2376,30 +2376,19 @@
    "category": "Sport",
    "zone": "Salento",
    "published_at": "2026-10-19T23:21:48+00:00"
-  },
-  {
-   "id": "e03f9e9c58ce",
-   "title": "Fatture false per centinaia di migliaia di euro: a processo in 17. Coinvolti imputati ed ex consulente del lavoro",
-   "summary": "LECCE – A processo nell’ambito di un’inchiesta condotta dalla Guardia di Finanza su un voluminoso giro di fatture false finalizzate, in parte, a evadere il fisco. Il gup Angelo Zizzari, al termine de…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/fatture-false-per-centinaia-di-migliaia-di-euro-a-processo-in-17-coinvolti-imputati-ed-ex-consulente-del-lavoro/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-19T21:59:47+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-22T21:54:52.637075+00:00",
+   "last_ok": "2026-10-22T22:16:13.780683+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-22T21:54:52.637075+00:00",
+   "last_ok": "2026-10-22T22:16:13.780683+00:00",
    "error": null
   },
   {
@@ -2411,19 +2400,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-22T21:54:52.637075+00:00",
+   "last_ok": "2026-10-22T22:16:13.780683+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-22T21:54:52.637075+00:00",
+   "last_ok": "2026-10-22T22:16:13.780683+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-22T21:54:52.637075+00:00",
+   "last_ok": "2026-10-22T22:16:13.780683+00:00",
    "error": null
   }
  ]
