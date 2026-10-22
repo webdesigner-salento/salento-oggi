@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T05:54:53.757878+00:00",
+ "updated_at": "2026-10-22T06:18:56.212197+00:00",
  "items": [
   {
    "id": "5520e010671d",
@@ -13,6 +13,17 @@
    "published_at": "2026-10-22T05:02:33+00:00"
   },
   {
+   "id": "5c106c5c47c8",
+   "title": "L’almanacco di oggi 22 ottobre",
+   "summary": "Il Santo del giorno: San Giovanni Paolo II. San Donato. Il proverbio di Mesciu Ronzu: Nisciunu nasce mparatu. Significato: Nessuno nasce con delle conoscenze particolari. – Sono nati in questo giorno…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lalmanacco-di-oggi-22-ottobre/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-22T05:00:26+00:00"
+  },
+  {
    "id": "edb0bfad08d7",
    "title": "Taranto, momento delicato: è già in gioco una stagione",
    "summary": "",
@@ -22,6 +33,17 @@
    "category": "Sport",
    "zone": "Taranto",
    "published_at": "2026-10-22T04:58:33+00:00"
+  },
+  {
+   "id": "97c7f4e68186",
+   "title": "La ricetta del giorno: Tiramisù",
+   "summary": "Qualche riga senza procedimento è così che scrivono, la maggior parte delle ricette, la mamma e le nonne.. il segreto è proprio nel procedimento, che puntualmente devo chiedere e farmi spiegare in ma…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/la-ricetta-del-giorno-tiramisu/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-22T04:20:58+00:00"
   },
   {
    "id": "94d7734489ae",
@@ -1925,30 +1947,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-19T06:56:03+00:00"
-  },
-  {
-   "id": "c52ee1bb978a",
-   "title": "Newsroom – UniPegaso-Multiversity, l’accusa: pubblicità in cambio di stampa favorevole. Il business delle università telematiche private",
-   "summary": "Tra i 22 indagati ci sono direttori e manager di grandi testate. Gli affari dietro i corsi per diventare insegnanti L'articolo Newsroom – UniPegaso-Multiversity, l’accusa: pubblicità in cambio di sta…",
-   "image": null,
-   "url": "https://irpimedia.irpi.eu/newsroom-103-multiversity-pegaso-universita-telematiche-inchiesta/?utm_source=rss&utm_medium=rss&utm_campaign=newsroom-103-multiversity-pegaso-universita-telematiche-inchiesta",
-   "source": "IrpiMedia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-19T06:15:28+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-22T05:54:53.757878+00:00",
+   "last_ok": "2026-10-22T06:18:56.212197+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-22T05:54:53.757878+00:00",
+   "last_ok": "2026-10-22T06:18:56.212197+00:00",
    "error": null
   },
   {
@@ -1960,19 +1971,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-22T05:54:53.757878+00:00",
+   "last_ok": "2026-10-22T06:18:56.212197+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-22T05:54:53.757878+00:00",
+   "last_ok": "2026-10-22T06:18:56.212197+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-22T05:54:53.757878+00:00",
+   "last_ok": "2026-10-22T06:18:56.212197+00:00",
    "error": null
   }
  ]
