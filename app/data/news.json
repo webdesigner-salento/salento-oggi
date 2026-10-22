@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-22T14:01:22.697965+00:00",
+ "updated_at": "2026-10-22T14:57:52.609201+00:00",
  "items": [
+  {
+   "id": "f1e755ebf6cd",
+   "title": "Carburanti, Lollobrigida: 70 milioni complessivi a sostegno di agricoltura e pesca",
+   "summary": "Il Consiglio dei Ministri ha approvato un nuovo pacchetto di aiuti da 70 milioni di euro per sostenere le imprese agricole e della pesca alle prese con il caro carburanti. Per l’agricoltura sono stan…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/carburanti-lollobrigida-70-milioni-complessivi-a-sostegno-di-agricoltura-e-pesca/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-10-22T14:56:46+00:00"
+  },
+  {
+   "id": "9960e5588c2f",
+   "title": "Presunte molestie su allieve durante esercizi per preparare corsi alle Forze armate: personal trainer a processo",
+   "summary": "SUPERSANO (Lecce) – Avrebbe molestato due ragazze salentine – rispettivamente di 20 e 25 anni – durante gli allenamenti propedeutici per partecipare ad alcuni concorsi nelle Forze armate. E.S., perso…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/supersanopresunte-molestie-su-allieve-durante-esercizi-per-preparare-corsi-alle-forze-armate-personal-trainer-a-processo/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T14:02:31+00:00"
+  },
   {
    "id": "7a45e5d6c18e",
    "title": "Varvaglione 1921 nel \"Comitato Leonardo\"",
@@ -46,17 +68,6 @@
    "published_at": "2026-10-22T13:18:00+00:00"
   },
   {
-   "id": "9960e5588c2f",
-   "title": "Presunte molestie su allieve durante esercizi per preparare corsi alle Forze armate: personal trainer a processo",
-   "summary": "SUPERSANO (Lecce) – Avrebbe molestato due ragazze salentine – rispettivamente di 20 e 25 anni – durante gli allenamenti propedeutici per partecipare ad alcuni concorsi nelle Forze armate. E.S., perso…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/supersanopresunte-molestie-su-allieve-durante-esercizi-per-preparare-corsi-alle-forze-armate-personal-trainer-a-processo/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T12:57:31+00:00"
-  },
-  {
    "id": "fd04295ae5dd",
    "title": "Droga occultata sotto una mattonella: arrestato 30enne",
    "summary": "",
@@ -88,6 +99,17 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-22T12:30:34+00:00"
+  },
+  {
+   "id": "4247ecfe7dda",
+   "title": "Reddito di cittadinanza con false dichiarazioni, nei guai in 66. Chiesto il sequestro dei 900mila euro percepiti indebitamente",
+   "summary": "SALENTO – Oltre 900mila euro di Reddito di cittadinanza ritenuti indebitamente percepiti e 66 persone segnalate all’Autorità giudiziaria. È il bilancio dei controlli condotti dalla Guardia di Finanza…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/reddito-di-cittadinanza-con-false-dichiarazioni-nei-guai-in-66-chiesto-il-sequestro-dei-900mila-euro-percepiti-indebitamente/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-10-22T12:24:20+00:00"
   },
   {
    "id": "9f0d673549f4",
@@ -132,6 +154,17 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-22T11:45:45+00:00"
+  },
+  {
+   "id": "e2a916b75d16",
+   "title": "Operazione “Core”: chiesto il processo per 44. Tra i neo imputati c’è un nuovo collaboratore di giustizia",
+   "summary": "SQUINZANO (Lecce) – C’è la richiesta di rinvio a giudizio con contestuale fissazione dell’udienza preliminare per i 44 soggetti coinvolti nell’inchiesta ribattezzata “Core”, sviluppata tra il 2015 e…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/operazione-core-chiesto-il-processo-per-44-tra-i-neo-imputati-ce-un-nuovo-collaboratore-di-giustizia/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T11:33:44+00:00"
   },
   {
    "id": "3f8751caebc4",
@@ -407,17 +440,6 @@
    "category": "Cultura",
    "zone": "Lecce",
    "published_at": "2026-10-22T07:27:51+00:00"
-  },
-  {
-   "id": "4247ecfe7dda",
-   "title": "Reddito di cittadinanza con false dichiarazioni, nei guai in 66. Chiesto il sequestro dei 900mila euro percepiti indebitamente",
-   "summary": "SALENTO – Oltre 900mila euro di Reddito di cittadinanza ritenuti indebitamente percepiti e 66 persone segnalate all’Autorità giudiziaria. È il bilancio dei controlli condotti dalla Guardia di Finanza…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/reddito-di-cittadinanza-con-false-dichiarazioni-nei-guai-in-66-chiesto-il-sequestro-dei-900mila-euro-percepiti-indebitamente/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-10-22T07:24:20+00:00"
   },
   {
    "id": "c4cee6fce876",
@@ -2310,63 +2332,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-19T15:04:51+00:00"
-  },
-  {
-   "id": "f03a551761fc",
-   "title": "Nuovo Piano sosta, il sindaco incontra le associazioni di categoria",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/05/strisce_blu_sosta-2-2-e1746293015663.jpg",
-   "url": "https://trnews.it/2026/10/19/nuovo-piano-sosta-il-sindaco-incontra-le-associazioni-di-categoria",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-19T14:39:11+00:00"
-  },
-  {
-   "id": "6f3613219a9a",
-   "title": "Incendi in calo, premiata la prevenzione",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-61-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/19/incendi-in-calo-premiata-la-prevenzione",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Brindisi",
-   "published_at": "2026-10-19T14:28:51+00:00"
-  },
-  {
-   "id": "843d05678af0",
-   "title": "La robotica per colmare deficit motori, sensoriali e cognitivi: Lecce all’avanguardia In Italia",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/CNR-NANOTEC-1024x546.jpg",
-   "url": "https://trnews.it/2026/10/19/la-robotica-per-colmare-deficit-motori-sensoriali-e-cognitivi-lecce-allavanguardia-in-italia",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-19T14:26:54+00:00"
-  },
-  {
-   "id": "e83094fcfd27",
-   "title": "Caro carburante e mancanza di un ricambio generazionale: a rischio il futuro degli ambulanti",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/ambulanti.jpg",
-   "url": "https://trnews.it/2026/10/19/caro-carburante-e-mancanza-di-un-ricambio-generazionale-a-rischio-il-futuro-degli-ambulanti",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-19T14:05:48+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-22T14:01:22.697965+00:00",
+   "last_ok": "2026-10-22T14:57:52.609201+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-22T14:01:22.697965+00:00",
+   "last_ok": "2026-10-22T14:57:52.609201+00:00",
    "error": null
   },
   {
@@ -2378,19 +2356,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-22T14:01:22.697965+00:00",
+   "last_ok": "2026-10-22T14:57:52.609201+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-22T14:01:22.697965+00:00",
+   "last_ok": "2026-10-22T14:57:52.609201+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-22T14:01:22.697965+00:00",
+   "last_ok": "2026-10-22T14:57:52.609201+00:00",
    "error": null
   }
  ]
