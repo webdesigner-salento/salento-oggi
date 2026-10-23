@@ -1,6 +1,50 @@
 {
- "updated_at": "2026-10-23T09:24:59.398768+00:00",
+ "updated_at": "2026-10-23T09:57:46.499952+00:00",
  "items": [
+  {
+   "id": "561af2f67c77",
+   "title": "Una Natività da salvare, a Santa Maria al Bagno si tenta il recupero",
+   "summary": "NARDO’ (Lecce) – Dopo decenni di abbandono, si riaccende una speranza per il gruppo scultoreo della Natività di Santa Maria al Bagno.Le statue, da tempo in condizioni precarie e ormai destinate a un…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/una-nativita-da-salvare-a-santa-maria-al-bagno-si-tenta-il-recupero/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T09:43:09+00:00"
+  },
+  {
+   "id": "a8122564955e",
+   "title": "Furti continui nelle chiese: chiesto il carcere per un ladro sacrilego seriale",
+   "summary": "GAGLIANO DEL CAPO (Lecce) – Rischia il carcere D.R., un 40enne di Gagliano del Capo, per una serie di furti consumati negli ultimi mesi. La decisione verrà adottata dalla giudice Anna Paola Capano su…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/furti-continui-nelle-chiese-chiesto-il-carcere-per-un-ladro-sacrilego-seriale/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T09:37:45+00:00"
+  },
+  {
+   "id": "bc8baaa2c3f9",
+   "title": "Lecce-Juve: Di Francesco punta sul tridente. Bianconeri in debito di ossigeno",
+   "summary": "Il Via del Mare si prepara a una domenica da vivere tutta d’un fiato. Lecce-Juventus, in programma il 25 ottobre alle 18, mette in palio punti pesanti e porta con sé una curiosità statistica che racc…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lecce-juve-di-francesco-punta-sul-tridente-bianconeri-in-debito-di-ossigeno/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T09:31:37+00:00"
+  },
+  {
+   "id": "70ee77c7785c",
+   "title": "Taranto, con il Trani per il riscatto",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/08/nuovo-logo-taranto-1024x594.png",
+   "url": "https://trnews.it/2026/10/23/taranto-con-il-trani-per-il-riscatto",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-10-23T09:28:10+00:00"
+  },
   {
    "id": "dfe148df7269",
    "title": "È stata aggiudicata la gara “in deroga” per la costruzione del Cpr di Castel Volturno",
@@ -22,6 +66,17 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-10-23T09:16:10+00:00"
+  },
+  {
+   "id": "0020830d4724",
+   "title": "Infortunio Pierotti: lungo stop",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG-20261023-WA0034-1024x698.jpg",
+   "url": "https://trnews.it/2026/10/23/infortunio-pierotti-lungo-stop",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T09:16:09+00:00"
   },
   {
    "id": "f392244bd7f1",
@@ -156,15 +211,37 @@
    "published_at": "2026-10-23T07:30:17+00:00"
   },
   {
-   "id": "a8122564955e",
-   "title": "Furti continui nelle chiese: chiesto il carcere per un ladro sacrilego seriale",
-   "summary": "GAGLIANO DEL CAPO (Lecce) – Rischia il carcere D.R., un 40enne di Gagliano del Capo, per una serie di furti consumati negli ultimi mesi. La decisione verrà adottata dalla giudice Anna Paola Capano su…",
+   "id": "d6d57dbd127d",
+   "title": "Reset Energia approda su Facile.it con una nuova offerta luce a consumo",
+   "summary": "La Puglia si conferma come uno degli hub di riferimento dell’Italia meridionale per quanto riguarda le fonti rinnovabili. Stando ai dati pubblicati dal Gruppo Terna, infatti, nel 2025 è stata la regi…",
    "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/furti-continui-nelle-chiese-chiesto-il-carcere-per-un-ladro-sacrilego-seriale/",
+   "url": "https://www.corrieresalentino.it/2026/10/reset-energia-approda-su-facile-it-con-una-nuova-offerta-luce-a-consumo/",
    "source": "Corriere Salentino",
-   "category": "Cronaca",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-23T06:50:03+00:00"
+  },
+  {
+   "id": "a239424401a0",
+   "title": "Giornata internazionale della spina bifida: domenica 25 ottobre Palazzo Adorno si colora di verde",
+   "summary": "LECCE – Una domenica tinta di verde. Il 25 ottobre anche la Provincia di Lecce partecipa alla Giornata internazionale della spina bifida e idrocefalo, e illuminerà di verde Palazzo Adorno. L’Ente di…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/giornata-internazionale-della-spina-bifida-domenica-25-ottobre-palazzo-adorno-si-colora-di-verde/",
+   "source": "Corriere Salentino",
+   "category": "Salute",
    "zone": "Lecce",
-   "published_at": "2026-10-23T07:27:45+00:00"
+   "published_at": "2026-10-23T06:38:27+00:00"
+  },
+  {
+   "id": "cef663d2245e",
+   "title": "Nanomateriali e riabilitazione: a Lecce la ricerca passa dal laboratorio alla prova sui modelli",
+   "summary": "Al campus Ecotekne inaugurati il centro di eccellenza del CNR e l’infrastruttura preclinica dell’Università del Salento, un percorso che lega materiali, sperimentazione e dati Progettare un materiale…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/nanomateriali-e-riabilitazione-a-lecce-la-ricerca-passa-dal-laboratorio-alla-prova-sui-modelli/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T06:35:32+00:00"
   },
   {
    "id": "91beaa245d36",
@@ -217,9 +294,31 @@
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/10/centinaia-di-agricoltori-pugliesi-a-roma-con-cia-puglia-non-ce-la-facciamo-piu/",
    "source": "Corriere Salentino",
-   "category": "Altro",
+   "category": "Politica",
    "zone": "Salento",
    "published_at": "2026-10-23T06:01:35+00:00"
+  },
+  {
+   "id": "1c61c7639c15",
+   "title": "Passaggio generazionale: come governare il brand quando il fondatore lascia. Francesco Acri sulle imprese familiari",
+   "summary": "Francesco Acri, advisor di brand, fondatore e amministratore delegato di Bliss, società di Brand Advisory e Brand Governance con sedi a Roma e Milano, considera il passaggio generazionale uno dei mom…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/passaggio-generazionale-come-governare-il-brand-quando-il-fondatore-lascia-francesco-acri-sulle-imprese-familiari/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-23T05:40:32+00:00"
+  },
+  {
+   "id": "585a33f342fe",
+   "title": "Conclusi i lavori di consolidamento e restauro della Chiesa di San Pietro dei Samari a Gallipoli resi possibili grazie al contributo “I Luoghi del Cuore”",
+   "summary": "GALLIPOLI (Lecce) – Un importante passo avanti per la tutela e la valorizzazione del patrimonio storico, architettonico e paesaggistico di Gallipoli (LE). Sabato 24 ottobre 2026 alle ore 12 saranno p…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/conclusi-i-lavori-di-consolidamento-e-restauro-della-chiesa-di-san-pietro-dei-samari-a-gallipoli-resi-possibili-grazie-al-contributo-i-luoghi-del-cuore/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T05:35:52+00:00"
   },
   {
    "id": "9aaedb329aaf",
@@ -2387,30 +2486,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-20T10:05:01+00:00"
-  },
-  {
-   "id": "78c01dba8eda",
-   "title": "Arti marziali, evento storico a Nardò: per la prima volta in puglia i campioni mondiali Bailey Murphy e Devon Hopper",
-   "summary": "NARDÒ (Lecce) – Un appuntamento senza precedenti per tutti gli appassionati e gli atleti di arti marziali del territorio. Per la prima volta in assoluto in Puglia, Nardò ospiterà uno stage internazio…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/arti-marziali-evento-storico-a-nardo-per-la-prima-volta-in-puglia-i-campioni-mondiali-bailey-murphy-e-devon-hopper/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T09:41:28+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-23T09:24:59.398768+00:00",
+   "last_ok": "2026-10-23T09:57:46.499952+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-23T09:24:59.398768+00:00",
+   "last_ok": "2026-10-23T09:57:46.499952+00:00",
    "error": null
   },
   {
@@ -2422,19 +2510,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-23T09:24:59.398768+00:00",
+   "last_ok": "2026-10-23T09:57:46.499952+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-23T09:24:59.398768+00:00",
+   "last_ok": "2026-10-23T09:57:46.499952+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-23T09:24:59.398768+00:00",
+   "last_ok": "2026-10-23T09:57:46.499952+00:00",
    "error": null
   }
  ]
