@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T04:22:37.306240+00:00",
+ "updated_at": "2026-10-23T04:56:15.299835+00:00",
  "items": [
   {
    "id": "10bb2b376196",
@@ -2343,41 +2343,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-20T05:00:56+00:00"
-  },
-  {
-   "id": "e66f5aab60e1",
-   "title": "Come la fruizione delle webcam modifica la vita di coppia",
-   "summary": "Gli show in webcam influenzano le relazioni di coppia in modi differenti. L’impatto dipende principalmente dagli accordi preventivi e dalla trasparenza tra i partner. I dati raccolti da ricerche sul…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/come-la-fruizione-delle-webcam-modifica-la-vita-di-coppia/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-20T04:45:50+00:00"
-  },
-  {
-   "id": "c35c59fd4410",
-   "title": "Ricetta del giorno: Arancini di riso con piselli e funghi",
-   "summary": "Ingredienti per 15 arancini: 500 gr di riso vialone nano 4 uova 150 gr di Parmigiano Reggiano grattugiato 100 gr di burro 1 bicchiere di vino bianco 2 bustine di zafferano 200 gr di funghi misti 250…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/ricetta-del-giorno-arancini-di-riso-con-piselli-e-funghi/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-20T04:36:45+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-23T04:22:37.306240+00:00",
+   "last_ok": "2026-10-23T04:56:15.299835+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-23T04:22:37.306240+00:00",
+   "last_ok": "2026-10-23T04:56:15.299835+00:00",
    "error": null
   },
   {
@@ -2389,19 +2367,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-23T04:22:37.306240+00:00",
+   "last_ok": "2026-10-23T04:56:15.299835+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-23T04:22:37.306240+00:00",
+   "last_ok": "2026-10-23T04:56:15.299835+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-23T04:22:37.306240+00:00",
+   "last_ok": "2026-10-23T04:56:15.299835+00:00",
    "error": null
   }
  ]
