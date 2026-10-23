@@ -1,6 +1,83 @@
 {
- "updated_at": "2026-10-23T08:01:19.699620+00:00",
+ "updated_at": "2026-10-23T08:58:49.669605+00:00",
  "items": [
+  {
+   "id": "95d3fe33ddde",
+   "title": "Morire di Caldo. Uno studio stima quanti sono stati i decessi in Europa e in italia quest’estate",
+   "summary": "Si stima che nell’estate del 2026 siano morte 13.303 persone nelle città italiane per il caldo. Due terzi di questi decessi sono conseguenza della crisi climatica L'articolo Morire di Caldo. Uno stud…",
+   "image": null,
+   "url": "https://irpimedia.irpi.eu/morire-di-caldo-cambiamento-climatico/?utm_source=rss&utm_medium=rss&utm_campaign=morire-di-caldo-cambiamento-climatico",
+   "source": "IrpiMedia",
+   "category": "Salute",
+   "zone": "Italia",
+   "published_at": "2026-10-23T08:53:11+00:00"
+  },
+  {
+   "id": "73ad701b732f",
+   "title": "Lecce, tegola Pierotti. L’infortunio lo terrà fuori a lungo",
+   "summary": "LECCE – Brutte notizie per il Lecce: gli esami strumentali a cui si è sottoposto Santiago Pierotti hanno evidenziato una frattura composta del malleolo mediale della caviglia destra, come comunicato…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lecce-tegola-pierotti-linfortunio-lo-terra-fuori-a-lungo/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T08:52:19+00:00"
+  },
+  {
+   "id": "92710a9355e3",
+   "title": "Giacomo Calò incanta ancora a X Factor e Nardò fa il tifo in piazza",
+   "summary": "NARDO‘ (Lecce) – Nessun problema al primo “live”di X Factor 2026 per Giacomo Calò che canta, emoziona il pubblico in studio e a casa e incassa il diritto a partecipare al prossimo round delle esibizi…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/giacomo-calo-incanta-ancora-a-x-factor-e-nardo-fa-il-tifo-in-piazza/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T08:45:36+00:00"
+  },
+  {
+   "id": "65396cf829d7",
+   "title": "Sabato 24 ottobre alla Biblioteca Bernardini: La poesia, la voce e i versi di Claudia Ruggeri",
+   "summary": "LECCE – Sabato 24 ottobre 2026 alle ore 18.30, negli spazi presso la Biblioteca Bernardini di Lecce (ex Convitto Palmieri – Piazzetta Carducci) – nell’ambito delle iniziative promosse da La poesia de…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/sabato-24-ottobre-alla-biblioteca-bernardini-la-poesia-la-voce-e-i-versi-di-claudia-ruggeri/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T08:39:44+00:00"
+  },
+  {
+   "id": "0ad7aedd72da",
+   "title": "Meteo del weekend (24 e 25 ottobre) nel Salento: previsioni, temperature e cosa aspettarsi",
+   "summary": "Puglia – Sabato. Condizioni di tempo stabile su tutta la regione nel corso della giornata con nubi sparse alternate a schiarite sia al mattino che al pomeriggio. In serata e nottata ancora tempo asci…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/meteo-del-weekend-24-e-25-ottobre-nel-salento-previsioni-temperature-e-cosa-aspettarsi/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T08:36:59+00:00"
+  },
+  {
+   "id": "41f7e684bba5",
+   "title": "Il talento del pianista Yifan Wu al SuperLocri∅ Festival",
+   "summary": "LECCE – Il SuperLocri∅ Festival – La musica in un altro modo porta a Lecce Yifan Wu, pianista cinese riconosciuto tra i più interessanti talenti mondiali, vincitore del Concorso Pianistico Internazio…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/il-talento-del-pianista-yifan-wu-al-superlocri%e2%88%85-festival/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T08:34:32+00:00"
+  },
+  {
+   "id": "2f896f507fa2",
+   "title": "Nasce il Lions Club Lecce Nociglia “Giacinto Urso”: la firma sulla Charter suggella il debutto",
+   "summary": "LECCE – Le firme dei soci fondatori su una pergamena hanno sancito la nascita ufficiale del Lions Club Lecce Nociglia “Giacinto Urso”. La cerimonia della Charter si è svolta sabato 17 ottobre, a due…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/MG_0285-300x200.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/10/nasce-il-lions-club-lecce-nociglia-giacinto-urso-la-firma-sulla-charter-suggella-il-debutto/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T08:03:43+00:00"
+  },
   {
    "id": "30c38898fa79",
    "title": "Italiani e Polacchi. Popoli fratelli uniti dal sogno della libertà. Inaugurazione della statua del Generale Władysław Anders",
@@ -2310,107 +2387,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-20T09:08:36+00:00"
-  },
-  {
-   "id": "ce631522ed42",
-   "title": "Taranto, parla Montervino: \"Chi non è da Taranto va via\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/01/montervino.png",
-   "url": "https://trnews.it/2026/10/20/taranto-parla-montervino-chi-non-e-da-taranto-va-via",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-10-20T08:55:32+00:00"
-  },
-  {
-   "id": "05660a215e02",
-   "title": "Bandadriatica, il viaggio del ventennale continua: online il video del concerto al Teatro Apollo e nuova tappa al Womex in Spagna",
-   "summary": "Proseguono le attività per i vent’anni di BandAdriatica, tra memoria condivisa e nuove rotte internazionali. È online su YouTube il video del concerto che lo scorso 6 maggio al Teatro Apollo di Lecce…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/bandadriatica-il-viaggio-del-ventennale-continua-online-il-video-del-concerto-al-teatro-apollo-e-nuova-tappa-al-womex-in-spagn/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T08:50:00+00:00"
-  },
-  {
-   "id": "d93b12e614c4",
-   "title": "Lecce, N'Dri: \"Il gol lo dedico a Dio. La Juventus? Battaglia difensiva\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot_20261020_103250_Instagram-1024x575.jpg",
-   "url": "https://trnews.it/2026/10/20/lecce-ndri-il-gol-lo-dedico-a-dio-la-juventus-battaglia-difensiva",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T08:43:17+00:00"
-  },
-  {
-   "id": "9fc658085f86",
-   "title": "Referendum Filovia, si discute direttamente il merito: udienza il 26 aprile. La corsa contro il tempo e le audizioni ministeriali",
-   "summary": "LECCE – Una corsa contro il tempo per evitare che il finanziamento ministeriale renda irreversibile la scelta di ampliare la filovia cittadina. La battaglia tra il comitato promotore del referendum e…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/referendum-filovia-si-discute-direttamente-il-merito-udienza-il-26-aprile-la-corsa-contro-il-tempo-e-le-audizioni-ministeriali/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T08:41:43+00:00"
-  },
-  {
-   "id": "e2fe489ca9ad",
-   "title": "Agrivoltaico, la nuova frontiera dell’energia pulita. Coccioli: “Come per il TAP, Corigliano scelga il dialogo e chieda compensazioni”",
-   "summary": "CORIGLIANO D’OTRANTO – Produrre energia pulita senza rinunciare a coltivare la terra, proteggere i raccolti dal caldo eccessivo, ridurre il consumo d’acqua e abbattere i costi energetici delle aziend…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/9a1aa676-3ccc-4a94-bb5a-2a0602318f11-225x300.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/10/agrivoltaico-la-nuova-frontiera-dellenergia-pulita-coccioli-come-per-il-tap-corigliano-scelga-il-dialogo-e-chieda-compensazioni/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T08:36:58+00:00"
-  },
-  {
-   "id": "de66e41c7ac9",
-   "title": "Mercoledì 21 ottobre il cantautore salentino Massimo Donno al Premio Tenco di Sanremo con “San Francesco Reloaded”",
-   "summary": "Dopo oltre cento tappe del tour, il viaggio musicale di Massimo Donno sulle orme di San Francesco d’Assisi approda a Sanremo per il Premio Tenco. Mercoledì 21 ottobre alle 18:00 nell’ex Chiesa Santa…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/mercoledi-21-ottobre-il-cantautore-salentino-massimo-donno-al-premio-tenco-di-sanremo-con-san-francesco-reloaded/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Salento",
-   "published_at": "2026-10-20T08:34:00+00:00"
-  },
-  {
-   "id": "5286a6785aec",
-   "title": "Al Teatro Paisiello la musica incontra i sapori con “Sapidi baci. Di pietanze e d’amori”",
-   "summary": "LECCE – Un modo diverso di vivere la musica, iniziando la domenica tra note, parole, storie e sapori. È quello proposto dalla Camerata Musicale Salentina con i “Concerti con Aperitivo”, la rassegna i…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/al-teatro-paisiello-la-musica-incontra-i-sapori-con-sapidi-baci-di-pietanze-e-damori-2/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T08:30:18+00:00"
-  },
-  {
-   "id": "500417e00ac6",
-   "title": "Un nuovo volto per Punta Palascia: in arrivo museo, bar e ostello",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/11706109423_359d30d50f_b.jpg",
-   "url": "https://trnews.it/2026/10/20/un-nuovo-volto-per-punta-palascia-in-arrivo-museo-bar-e-ostello",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T08:25:18+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-23T08:01:19.699620+00:00",
+   "last_ok": "2026-10-23T08:58:49.669605+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-23T08:01:19.699620+00:00",
+   "last_ok": "2026-10-23T08:58:49.669605+00:00",
    "error": null
   },
   {
@@ -2422,19 +2411,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-23T08:01:19.699620+00:00",
+   "last_ok": "2026-10-23T08:58:49.669605+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-23T08:01:19.699620+00:00",
+   "last_ok": "2026-10-23T08:58:49.669605+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-23T08:01:19.699620+00:00",
+   "last_ok": "2026-10-23T08:58:49.669605+00:00",
    "error": null
   }
  ]
