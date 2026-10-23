@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-23T17:03:12.500519+00:00",
+ "updated_at": "2026-10-23T17:52:54.306766+00:00",
  "items": [
+  {
+   "id": "985332eabd18",
+   "title": "Gli studenti del Liceo \"Capece\" in cammino per aiutare la ricerca oncologica di Airc",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/03/liceo-capece-1024x834.jpg",
+   "url": "https://trnews.it/2026/10/23/gli-studenti-del-liceo-capece-in-cammino-per-aiutare-la-ricerca-oncologica-di-airc",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T16:53:31+00:00"
+  },
   {
    "id": "c1ffd282e6a7",
    "title": "Erosione costiera, Della Valle attacca la Regione: “26 milioni per la sicurezza, ma le spiagge continuano a scomparire”",
@@ -11,6 +22,17 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-23T16:47:53+00:00"
+  },
+  {
+   "id": "b9871379de93",
+   "title": "Prevenzione delle maculopatie, due giornate di screening al \"Vito Fazzi\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/05/ospedale-vito-fazzi.jpg",
+   "url": "https://trnews.it/2026/10/23/prevenzione-delle-maculopatie-due-giornate-di-screening-al-vito-fazzi",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T16:46:56+00:00"
   },
   {
    "id": "8f73f0151d58",
@@ -2398,41 +2420,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-20T18:15:37+00:00"
-  },
-  {
-   "id": "fe816159005e",
-   "title": "Paura per un incidente tra scooter in tangenziale e due giovani restano feriti",
-   "summary": "Lecce – L’incidente, tanto spavento, ma fortunatamente nessuna conseguenza grave. Protagonisti due giovani che, nel pomeriggio di oggi, si sono scontrati a bordo dei rispettivi scooter lungo la tange…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/paura-per-un-incidente-tra-scooter-in-tangenziale-e-due-giovani-restano-feriti/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T17:37:53+00:00"
-  },
-  {
-   "id": "050459449ffb",
-   "title": "Caso Bertacchi, dagli stivali al sopralluogo: i nuovi accertamenti del Ris",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_4033-1024x548.jpeg",
-   "url": "https://trnews.it/2026/10/20/caso-bertacchi-dagli-stivali-al-sopralluogo-i-nuovi-accertamenti-del-ris",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T17:33:13+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-23T17:03:12.500519+00:00",
+   "last_ok": "2026-10-23T17:52:54.306766+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-23T17:03:12.500519+00:00",
+   "last_ok": "2026-10-23T17:52:54.306766+00:00",
    "error": null
   },
   {
@@ -2443,20 +2443,20 @@
   },
   {
    "source": "Valigia Blu",
-   "ok": false,
-   "last_ok": "2026-10-23T16:29:49.310406+00:00",
-   "error": "HTTPError: HTTP Error 522: <none>"
+   "ok": true,
+   "last_ok": "2026-10-23T17:52:54.306766+00:00",
+   "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-23T17:03:12.500519+00:00",
+   "last_ok": "2026-10-23T17:52:54.306766+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-23T17:03:12.500519+00:00",
+   "last_ok": "2026-10-23T17:52:54.306766+00:00",
    "error": null
   }
  ]
