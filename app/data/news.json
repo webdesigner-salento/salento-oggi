@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-23T10:55:12.740454+00:00",
+ "updated_at": "2026-10-23T11:17:56.039937+00:00",
  "items": [
+  {
+   "id": "8ed59da68269",
+   "title": "Casarano, sabato la targa torna a Palazzo Arditi: l’Università Popolare invita la cittadinanza alla “restituzione collettiva”",
+   "summary": "Casarano, 23 ottobre 2026 – Sabato 24 ottobre, alle ore 17:00, l’Università Popolare di Casarano (UniPopCasarano) ricollocherà sulla facciata di Palazzo Arditi, in Piazza Indipendenza, la targa che a…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/casarano-sabato-la-targa-torna-a-palazzo-arditi-luniversita-popolare-invita-la-cittadinanza-alla-restituzione-collettiva/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T11:14:10+00:00"
+  },
   {
    "id": "a9037b57b9b0",
    "title": "L’appuntamento a luci rosse si trasforma in un sequestro di persona nel centro di Lecce: condannata a 6 anni",
@@ -11,6 +22,39 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-23T10:52:07+00:00"
+  },
+  {
+   "id": "3c495ade16a2",
+   "title": "Serie A: Torino-Monza apre l'ottava giornata, il programma",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/09/DSC05872-1024x684.jpg",
+   "url": "https://trnews.it/2026/10/23/serie-a-torino-monza-apre-lottava-giornata-il-programma",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-23T10:50:13+00:00"
+  },
+  {
+   "id": "63ac5d0f591c",
+   "title": "Fine ottobre in sala: tra campagne inglesi, animazione e matrici",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/RUBRICA-23-10-2026-OK-1024x670.jpg",
+   "url": "https://trnews.it/2026/10/23/fine-ottobre-in-sala-tra-campagne-inglesi-animazione-e-matrici",
+   "source": "TeleRama News",
+   "category": "Cultura",
+   "zone": "Brindisi",
+   "published_at": "2026-10-23T10:49:39+00:00"
+  },
+  {
+   "id": "7ee2211de604",
+   "title": "Serie C, l'undicesimo turno: stasera Casertana-Bari e Altamura-Potenza",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-c-1024x576.png",
+   "url": "https://trnews.it/2026/10/23/serie-c-lundicesimo-turno-stasera-casertana-bari-e-altamura-potenza",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-23T10:38:35+00:00"
   },
   {
    "id": "e65099df19b9",
@@ -26,8 +70,8 @@
   {
    "id": "4c38290d6add",
    "title": "Droga nel borsello e in casa, un 18enne finisce agli arresti domiciliari",
-   "summary": "CASTRIGNANO DEL CAPO (Lecce) – Ha tentato di liberarsi del borsello contenente droga alla vista dei carabinieri, ma il gesto non è sfuggito ai militari. E alla fine è finito nei guai. Si tratta di un…",
-   "image": null,
+   "summary": "Castrignano de’ Greci (Lecce) – Ha tentato di liberarsi del borsello contenente droga alla vista dei carabinieri, ma il gesto non è sfuggito ai militari. E alla fine è finito nei guai. Si tratta di u…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/IMG_5778-225x300.jpeg",
    "url": "https://www.corrieresalentino.it/2026/10/droga-nel-borsello-e-in-casa-un-18enne-finisce-agli-arresti-domiciliari/",
    "source": "Corriere Salentino",
    "category": "Cronaca",
@@ -63,7 +107,7 @@
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/10/dopo-la-fine-della-relazione-manda-una-foto-con-una-pistola-alla-ex-guai-se-ti-tocca-indagato-30enne/",
    "source": "Corriere Salentino",
-   "category": "Altro",
+   "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-23T10:00:08+00:00"
   },
@@ -99,6 +143,17 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-23T09:31:37+00:00"
+  },
+  {
+   "id": "46b5051cae70",
+   "title": "Volley A2: Melendugno si carica per la sfida con Club Italia",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/856266723_10244738764432742_1009525569653744343_n-e1792684202535-1024x718.jpg",
+   "url": "https://trnews.it/2026/10/23/volley-a2-melendugno-si-carica-per-la-sfida-con-club-italia",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T09:30:17+00:00"
   },
   {
    "id": "70ee77c7785c",
@@ -266,15 +321,15 @@
    "published_at": "2026-10-23T07:45:28+00:00"
   },
   {
-   "id": "46b5051cae70",
-   "title": "Volley A2: Melendugno si carica per la sfida con Club Italia",
+   "id": "11a5e03e76df",
+   "title": "Serie C, riflettori accesi per Potenza e Bari",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/856266723_10244738764432742_1009525569653744343_n-e1792684202535-1024x718.jpg",
-   "url": "https://trnews.it/2026/10/23/volley-a2-melendugno-si-carica-per-la-sfida-con-club-italia",
+   "image": null,
+   "url": "https://trnews.it/2026/10/23/serie-c-riflettori-accesi-per-potenza-e-bari",
    "source": "TeleRama News",
    "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T07:30:17+00:00"
+   "zone": "Salento",
+   "published_at": "2026-10-23T07:10:50+00:00"
   },
   {
    "id": "d6d57dbd127d",
@@ -398,17 +453,6 @@
    "published_at": "2026-10-23T05:20:42+00:00"
   },
   {
-   "id": "11a5e03e76df",
-   "title": "Serie C, riflettori accesi per Potenza e Bari",
-   "summary": "",
-   "image": null,
-   "url": "https://trnews.it/2026/10/23/serie-c-riflettori-accesi-per-potenza-e-bari",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-10-23T05:10:50+00:00"
-  },
-  {
    "id": "728715bc9159",
    "title": "La ricetta del giorno: cozze gratinate",
    "summary": "Ingredienti 1 Kg di cozze nere 50 gr di formaggio Rodez grattugiato 80 gr di formaggio Parmigiano grattugiato Prezzemolo fresco tritato 1 spicchio di aglio grattugiato Pangrattato Olio evo Pepe Proce…",
@@ -442,6 +486,17 @@
    "published_at": "2026-10-22T19:08:26+00:00"
   },
   {
+   "id": "b2d0abf96df3",
+   "title": "Riforma pensionistica, il sindacato di polizia Fsp si confronta",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/convegno-polizia-1024x555.jpeg",
+   "url": "https://trnews.it/2026/10/22/riforma-pensionistica-il-sindacato-di-polizia-fsp-si-confronta",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T19:07:57+00:00"
+  },
+  {
    "id": "db6cb8ceca41",
    "title": "La Giornata sulla Sicurezza stradale in Piazza S.Oronzo a Lecce, domenica 25 Ottobre",
    "summary": "Domenica 25 ottobre in piazza San Oronzo Lecce si inaugura ” La giornata sulla sicurezza stradale”. Tale evento è organizzato da Lions Club Puglia Patrimoni dei Cittadini e il Comune di Lecce e coinv…",
@@ -451,6 +506,17 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-22T19:05:51+00:00"
+  },
+  {
+   "id": "74c1f4dcd07c",
+   "title": "Nardò, Di Costanzo è il nuovo allenatore",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-22-191651.png",
+   "url": "https://trnews.it/2026/10/22/nardo-di-costanzo-e-il-nuovo-allenatore",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T19:03:06+00:00"
   },
   {
    "id": "92f593813a37",
@@ -506,28 +572,6 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-22T17:26:39+00:00"
-  },
-  {
-   "id": "b2d0abf96df3",
-   "title": "Riforma pensionistica, il sindacato di polizia Fsp si confronta",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/convegno-polizia-1024x555.jpeg",
-   "url": "https://trnews.it/2026/10/22/riforma-pensionistica-il-sindacato-di-polizia-fsp-si-confronta",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T17:07:57+00:00"
-  },
-  {
-   "id": "74c1f4dcd07c",
-   "title": "Nardò, Di Costanzo è il nuovo allenatore",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-22-191651.png",
-   "url": "https://trnews.it/2026/10/22/nardo-di-costanzo-e-il-nuovo-allenatore",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T17:03:06+00:00"
   },
   {
    "id": "0a5161ddd710",
@@ -2398,63 +2442,19 @@
    "category": "Politica",
    "zone": "Salento",
    "published_at": "2026-10-20T11:20:34+00:00"
-  },
-  {
-   "id": "fea593a0d391",
-   "title": "Povertà minorile in Puglia, il Garante Abbaticchio: “Dobbiamo imparare ad ascoltare le giovani generazioni”",
-   "summary": "La povertà rappresenta una delle principali criticità sociali del territorio pugliese, con conseguenze significative sulle condizioni di vita delle famiglie e sulle opportunità di crescita dei bambin…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/poverta-minorile-in-puglia-il-garante-abbaticchio-dobbiamo-imparare-ad-ascoltare-le-giovani-generazioni/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-10-20T11:14:02+00:00"
-  },
-  {
-   "id": "781c60d88097",
-   "title": "Brindisi, Righi: \"I ragazzi della Curva ci hanno uniti\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/02/righi-1024x693.jpg",
-   "url": "https://trnews.it/2026/10/20/brindisi-righi-i-ragazzi-della-curva-ci-hanno-uniti",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-10-20T11:13:58+00:00"
-  },
-  {
-   "id": "a858a16cccd5",
-   "title": "Italia-Turchia la missione dei ministri della Cultura a Hierapolis",
-   "summary": "LECCE – Il ministro della Cultura Alessandro Giuli e il ministro della Cultura e del Turismo della Repubblica di Turchia MehmetNuriErsoy hanno inaugurato lunedì 13 ottobre a Hierapolis di Frigia il X…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/italia-turchia-la-missione-dei-ministri-della-cultura-a-hierapolis/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T11:00:11+00:00"
-  },
-  {
-   "id": "55ffcef7b00d",
-   "title": "Un nuovo Comandante della Polizia Locale a Salice Salentino",
-   "summary": "SALICE SALENTINO (Lecce) – Il Comune di Salice Salentino ha un nuovo Comandante della Polizia Locale: presentato ufficialmente il dott. Francesco Ciccarese. Stamane, presso la sede del Comando di Pol…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/un-nuovo-comandante-della-polizia-locale-a-salice-salentino/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T10:55:51+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-23T10:55:12.740454+00:00",
+   "last_ok": "2026-10-23T11:17:56.039937+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-23T10:55:12.740454+00:00",
+   "last_ok": "2026-10-23T11:17:56.039937+00:00",
    "error": null
   },
   {
@@ -2466,19 +2466,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-23T10:55:12.740454+00:00",
+   "last_ok": "2026-10-23T11:17:56.039937+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-23T10:55:12.740454+00:00",
+   "last_ok": "2026-10-23T11:17:56.039937+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-23T10:55:12.740454+00:00",
+   "last_ok": "2026-10-23T11:17:56.039937+00:00",
    "error": null
   }
  ]
