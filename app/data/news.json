@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-23T05:19:04.217369+00:00",
+ "updated_at": "2026-10-23T05:55:36.155691+00:00",
  "items": [
+  {
+   "id": "11a5e03e76df",
+   "title": "Serie C, riflettori accesi per Potenza e Bari",
+   "summary": "",
+   "image": null,
+   "url": "https://trnews.it/2026/10/23/serie-c-riflettori-accesi-per-potenza-e-bari",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-23T05:10:50+00:00"
+  },
+  {
+   "id": "9960e5588c2f",
+   "title": "Presunte molestie su allieve durante esercizi per preparare corsi alle Forze armate: personal trainer a processo",
+   "summary": "SUPERSANO (Lecce) – Avrebbe molestato due ragazze salentine – rispettivamente di 20 e 25 anni – durante gli allenamenti propedeutici per partecipare ad alcuni concorsi nelle Forze armate. E.S., perso…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/supersanopresunte-molestie-su-allieve-durante-esercizi-per-preparare-corsi-alle-forze-armate-personal-trainer-a-processo/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-22T21:02:31+00:00"
+  },
   {
    "id": "10bb2b376196",
    "title": "Nuova mensa scolastica a San Donato di Lecce",
@@ -187,17 +209,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-22T14:43:44+00:00"
-  },
-  {
-   "id": "9960e5588c2f",
-   "title": "Presunte molestie su allieve durante esercizi per preparare corsi alle Forze armate: personal trainer a processo",
-   "summary": "SUPERSANO (Lecce) – Avrebbe molestato due ragazze salentine – rispettivamente di 20 e 25 anni – durante gli allenamenti propedeutici per partecipare ad alcuni concorsi nelle Forze armate. E.S., perso…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/supersanopresunte-molestie-su-allieve-durante-esercizi-per-preparare-corsi-alle-forze-armate-personal-trainer-a-processo/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T14:02:31+00:00"
   },
   {
    "id": "7a45e5d6c18e",
@@ -2321,30 +2332,19 @@
    "category": "Salute",
    "zone": "Lecce",
    "published_at": "2026-10-20T06:03:46+00:00"
-  },
-  {
-   "id": "41f2d4a0da04",
-   "title": "Carmiano accoglie 32 nuovi nati: il Comune consegna “Kit Nascita” alle famiglie",
-   "summary": "CARMIANO – Si è svolta domenica, presso il Cine-Teatro Fratelli Lumière in piazza del Tempo, la quinta edizione di “Accogliamo i nuovi nati – Kit Nascita”. L’iniziativa, promossa dal Comune di Carmia…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/carmiano-accoglie-32-nuovi-nati-il-comune-consegna-kit-nascita-alle-famiglie/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T05:53:15+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-23T05:19:04.217369+00:00",
+   "last_ok": "2026-10-23T05:55:36.155691+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-23T05:19:04.217369+00:00",
+   "last_ok": "2026-10-23T05:55:36.155691+00:00",
    "error": null
   },
   {
@@ -2356,19 +2356,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-23T05:19:04.217369+00:00",
+   "last_ok": "2026-10-23T05:55:36.155691+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-23T05:19:04.217369+00:00",
+   "last_ok": "2026-10-23T05:55:36.155691+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-23T05:19:04.217369+00:00",
+   "last_ok": "2026-10-23T05:55:36.155691+00:00",
    "error": null
   }
  ]
