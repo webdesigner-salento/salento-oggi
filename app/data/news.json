@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-23T17:52:54.306766+00:00",
+ "updated_at": "2026-10-23T18:14:22.977061+00:00",
  "items": [
+  {
+   "id": "a95efd2a3027",
+   "title": "Andrea Guido dopo la condanna a rischio prescrizione: “Ho la coscienza pulita e la schiena dritta”",
+   "summary": "LECCE – “Ho sempre dichiarato la mia innocenza e continuo a farlo, oggi più che mai. Non sono mai stato corrotto da nessuno”. Andrea Guido rompe il silenzio dopo la condanna a due anni di reclusione,…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/andrea-guido-dopo-la-condanna-a-rischio-prescrizione-ho-la-coscienza-pulita-e-la-schiena-dritta/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T18:07:33+00:00"
+  },
   {
    "id": "985332eabd18",
    "title": "Gli studenti del Liceo \"Capece\" in cammino per aiutare la ricerca oncologica di Airc",
@@ -2426,13 +2437,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-23T17:52:54.306766+00:00",
+   "last_ok": "2026-10-23T18:14:22.977061+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-23T17:52:54.306766+00:00",
+   "last_ok": "2026-10-23T18:14:22.977061+00:00",
    "error": null
   },
   {
@@ -2444,19 +2455,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-23T17:52:54.306766+00:00",
+   "last_ok": "2026-10-23T18:14:22.977061+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-23T17:52:54.306766+00:00",
+   "last_ok": "2026-10-23T18:14:22.977061+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-23T17:52:54.306766+00:00",
+   "last_ok": "2026-10-23T18:14:22.977061+00:00",
    "error": null
   }
  ]
