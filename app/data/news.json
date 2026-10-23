@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T04:56:15.299835+00:00",
+ "updated_at": "2026-10-23T05:19:04.217369+00:00",
  "items": [
   {
    "id": "10bb2b376196",
@@ -2332,30 +2332,19 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-20T05:53:15+00:00"
-  },
-  {
-   "id": "dadaf34d31a3",
-   "title": "L’almanacco di oggi 20 ottobre",
-   "summary": "Il Santo del giorno: Sant’Irene. Il proverbio di Mesciu Ronzu: Nà parola gentile te inche lu core. Significato: Una parola gentile ti riempie il cuore. Chi è gentile viene accettato dal prossimo. – S…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lalmanacco-di-oggi-20-ottobre/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-20T05:00:56+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-23T04:56:15.299835+00:00",
+   "last_ok": "2026-10-23T05:19:04.217369+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-23T04:56:15.299835+00:00",
+   "last_ok": "2026-10-23T05:19:04.217369+00:00",
    "error": null
   },
   {
@@ -2367,19 +2356,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-23T04:56:15.299835+00:00",
+   "last_ok": "2026-10-23T05:19:04.217369+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-23T04:56:15.299835+00:00",
+   "last_ok": "2026-10-23T05:19:04.217369+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-23T04:56:15.299835+00:00",
+   "last_ok": "2026-10-23T05:19:04.217369+00:00",
    "error": null
   }
  ]
