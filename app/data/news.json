@@ -1,6 +1,50 @@
 {
- "updated_at": "2026-10-23T16:29:49.310406+00:00",
+ "updated_at": "2026-10-23T17:03:12.500519+00:00",
  "items": [
+  {
+   "id": "c1ffd282e6a7",
+   "title": "Erosione costiera, Della Valle attacca la Regione: “26 milioni per la sicurezza, ma le spiagge continuano a scomparire”",
+   "summary": "LECCE – Ventisei milioni di euro per tutelare la costa pugliese, ma il rischio è che gli interventi finanziati abbiano poco a che vedere con il contrasto all’erosione delle spiagge. A sollevare il pr…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/erosione-costiera-della-valle-attacca-la-regione-26-milioni-per-la-sicurezza-ma-le-spiagge-continuano-a-scomparire/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T16:47:53+00:00"
+  },
+  {
+   "id": "8f73f0151d58",
+   "title": "Blitz antidroga nel Salento con roccaforte a Nardò: Dda chiede 25 condanne",
+   "summary": "NARDO‘ (Lecce) – Il bilancio complessivo dell’operazione fu eloquente: dieci arresti in flagranza, il sequestro di quantitativi di cocaina, eroina, hashish e marijuana, che avrebbero potuto inondare…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/blitz-antidroga-nel-salento-con-roccaforte-a-nardo-dda-chiede-25-condanne/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T16:42:45+00:00"
+  },
+  {
+   "id": "f39a4e972510",
+   "title": "Presunti appalti con il clan Moccia: cade l’aggravante mafiosa, lievi condanne per assessore Guido e imprenditore D’Elia",
+   "summary": "LECCE – Si chiude con una condanna a 2 anni (con il beneficio della pena sospesa) il processo di primo grado a carico dell’assessore al Welfare del Comune di Lecce, Andrea Guido, finito sotto process…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/presunti-appalti-con-il-clan-moccia-cade-laggravante-mafiosa-lievi-condanne-per-assessore-guido-e-imprenditore-delia/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T16:41:57+00:00"
+  },
+  {
+   "id": "992443f34259",
+   "title": "Processo clan Moccia, due anni per l'assessore Guido",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2024/09/andrea-guido.jpg",
+   "url": "https://trnews.it/2026/10/23/processo-clan-moccia-due-anni-per-lassessore-guido",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T16:07:43+00:00"
+  },
   {
    "id": "876e65ecd783",
    "title": "Virtus Scherma Salento in vetrina a Bitritto e Budapest",
@@ -187,17 +231,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-23T13:32:24+00:00"
-  },
-  {
-   "id": "8f73f0151d58",
-   "title": "Blitz antidroga nel Salento con roccaforte a Nardò: Dda chiede 25 condanne",
-   "summary": "NARDO‘ (Lecce) – Il bilancio complessivo dell’operazione fu eloquente: dieci arresti in flagranza, il sequestro di quantitativi di cocaina, eroina, hashish e marijuana, che avrebbero potuto inondare…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/blitz-antidroga-nel-salento-con-roccaforte-a-nardo-dda-chiede-25-condanne/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T13:30:45+00:00"
   },
   {
    "id": "dd8e410eb994",
@@ -2387,30 +2420,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-20T17:33:13+00:00"
-  },
-  {
-   "id": "e480f36517f4",
-   "title": "Via XXV Luglio, conto alla rovescia per la fine dei lavori: entro dicembre la strada sarà pronta",
-   "summary": "LECCE – Il centro cittadino si prepara a liberarsi di uno dei cantieri che negli ultimi mesi hanno creato maggiori disagi alla circolazione e alle attività commerciali. In via XXV Luglio si lavora pe…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/via-xxv-luglio-conto-alla-rovescia-per-la-fine-dei-lavori-entro-dicembre-la-strada-sara-pronta/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T16:34:13+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-23T16:29:49.310406+00:00",
+   "last_ok": "2026-10-23T17:03:12.500519+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-23T16:29:49.310406+00:00",
+   "last_ok": "2026-10-23T17:03:12.500519+00:00",
    "error": null
   },
   {
@@ -2421,20 +2443,20 @@
   },
   {
    "source": "Valigia Blu",
-   "ok": true,
+   "ok": false,
    "last_ok": "2026-10-23T16:29:49.310406+00:00",
-   "error": null
+   "error": "HTTPError: HTTP Error 522: <none>"
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-23T16:29:49.310406+00:00",
+   "last_ok": "2026-10-23T17:03:12.500519+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-23T16:29:49.310406+00:00",
+   "last_ok": "2026-10-23T17:03:12.500519+00:00",
    "error": null
   }
  ]
