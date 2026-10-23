@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T20:12:55.922814+00:00",
+ "updated_at": "2026-10-23T20:54:59.041910+00:00",
  "items": [
   {
    "id": "f39a4e972510",
@@ -2431,30 +2431,19 @@
    "category": "Salute",
    "zone": "Lecce",
    "published_at": "2026-10-20T21:30:17+00:00"
-  },
-  {
-   "id": "ecf146a3b836",
-   "title": "Lecce, a Santa Rosa arrivano 15 nuovi alberi al posto delle yucche e marciapiedi rimessi a nuovo. Ma c’è anche un esposto",
-   "summary": "LECCE – Il quartiere Santa Rosa cambia volto e prova a lasciarsi alle spalle le polemiche sul taglio delle yucche. Al loro posto arrivano 15 lagerstroemie, alberi ornamentali alti tre metri, caratter…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/203ed8b6-634b-4415-891f-4fe42c37b601-1-295x300.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/10/lecce-a-santa-rosa-arrivano-15-nuovi-alberi-al-posto-delle-yucche-e-marciapiedi-rimessi-a-nuovo-ma-ce-anche-un-esposto/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T20:15:37+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-23T20:12:55.922814+00:00",
+   "last_ok": "2026-10-23T20:54:59.041910+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-23T20:12:55.922814+00:00",
+   "last_ok": "2026-10-23T20:54:59.041910+00:00",
    "error": null
   },
   {
@@ -2466,19 +2455,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-23T20:12:55.922814+00:00",
+   "last_ok": "2026-10-23T20:54:59.041910+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-23T20:12:55.922814+00:00",
+   "last_ok": "2026-10-23T20:54:59.041910+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-23T20:12:55.922814+00:00",
+   "last_ok": "2026-10-23T20:54:59.041910+00:00",
    "error": null
   }
  ]
