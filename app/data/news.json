@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-23T06:19:11.375766+00:00",
+ "updated_at": "2026-10-23T07:12:39.655958+00:00",
  "items": [
+  {
+   "id": "91beaa245d36",
+   "title": "Un argento e molte altre soddisfazioni: ottimi risultati per i padelisti del Csi Lecce ai campionati nazionali di Modena",
+   "summary": "Dal 16 al 18 ottobre al Mammut Club di Modena si sono tenute le finali nazionali del Padel CSI coinvolgendo i diversi comitati del Centro Sportivo Italiano. Ben 44 squadre provenienti da 7 regioni d’…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/1000428816-225x300.jpg",
+   "url": "https://www.corrieresalentino.it/2026/10/un-argento-e-molte-altre-soddisfazioni-ottimi-risultati-per-i-padelisti-del-csi-lecce-ai-campionati-nazionali-di-modena/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T06:28:22+00:00"
+  },
   {
    "id": "8850bd3285a6",
    "title": "Smartphone sotto il sole, il pericolo invisibile: «Il calore può danneggiare la batteria senza che ce ne accorgiamo»",
@@ -1498,6 +1509,17 @@
    "published_at": "2026-10-21T08:34:08+00:00"
   },
   {
+   "id": "a17ac926ad05",
+   "title": "Dhoui Lassoued è morto in un Cpr ma per tre volte era stato dichiarato inidoneo a entrarci",
+   "summary": "Con la voce rotta Sana Lassoued ricordando suo fratello Dhoui, morto nel Centro di permanenza per il rimpatrio di Palazzo San Gervasio il 10 agosto 2026, ripete più volte una frase: “Si vedeva anche…",
+   "image": "https://altreconomia.it/app/uploads/2026/10/WhatsApp-Image-2026-09-23-at-15.17.57.jpeg",
+   "url": "https://altreconomia.it/dhoui-lassoued-e-morto-in-un-cpr-ma-per-tre-volte-era-stato-dichiarato-inidoneo-a-entrarci/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-21T08:21:22+00:00"
+  },
+  {
    "id": "fc15a647a96d",
    "title": "Dohui Lassoued è morto in un Cpr ma per tre volte era stato dichiarato inidoneo a entrarci",
    "summary": "Con la voce rotta Sana Lassoued ricordando suo fratello Dhoui, morto nel Centro di permanenza per il rimpatrio di Palazzo San Gervasio il 10 agosto 2026, ripete più volte una frase: “Si vedeva anche…",
@@ -2354,41 +2376,19 @@
    "category": "Cronaca",
    "zone": "Salento",
    "published_at": "2026-10-20T07:23:08+00:00"
-  },
-  {
-   "id": "cd0955966702",
-   "title": "Ospedale Vito Fazzi, riaperta la stanza di Pediatria dopo mesi di chiusura: già ricoverato un bambino",
-   "summary": "LECCE – Dopo mesi di chiusura a causa di un’infiltrazione d’acqua, torna finalmente disponibile una delle nove stanze di degenza del reparto di Pediatria dell’ospedale “Vito Fazzi” di Lecce. I lavori…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/ospedale-vito-fazzi-riaperta-la-stanza-di-pediatria-dopo-mesi-di-chiusura-gia-ricoverato-un-bambino/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T07:08:19+00:00"
-  },
-  {
-   "id": "51ec49032fec",
-   "title": "Brasile, il ritorno di Bolsonaro e dell’estrema destra",
-   "summary": "Dietro l'ascesa dell'estrema destra e il ritorno di un Bolsonaro in Brasile pesano radici coloniali non risolte, l'influenza della Teologia della Prosperità, le disparità algoritmiche sanzionate a Me…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/21a9.png",
-   "url": "https://www.valigiablu.it/elezioni-brasile-bolsonaro-lula-estrema-destra/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-20T06:33:45+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-23T06:19:11.375766+00:00",
+   "last_ok": "2026-10-23T07:12:39.655958+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-23T06:19:11.375766+00:00",
+   "last_ok": "2026-10-23T07:12:39.655958+00:00",
    "error": null
   },
   {
@@ -2400,19 +2400,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-23T06:19:11.375766+00:00",
+   "last_ok": "2026-10-23T07:12:39.655958+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-23T06:19:11.375766+00:00",
+   "last_ok": "2026-10-23T07:12:39.655958+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-23T06:19:11.375766+00:00",
+   "last_ok": "2026-10-23T07:12:39.655958+00:00",
    "error": null
   }
  ]
