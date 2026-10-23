@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-23T16:00:07.748685+00:00",
+ "updated_at": "2026-10-23T16:29:49.310406+00:00",
  "items": [
+  {
+   "id": "876e65ecd783",
+   "title": "Virtus Scherma Salento in vetrina a Bitritto e Budapest",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/278f4545-267c-4af9-bff8-0e4b47f048a8-e1792770908324.jpg",
+   "url": "https://trnews.it/2026/10/23/virtus-scherma-salento-in-vetrina-a-bitritto-e-budapest",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T15:55:21+00:00"
+  },
   {
    "id": "033145c2976a",
    "title": "La “Staffetta dell’Amore” arriva a Martano",
@@ -22,6 +33,39 @@
    "category": "Politica",
    "zone": "Salento",
    "published_at": "2026-10-23T15:13:21+00:00"
+  },
+  {
+   "id": "b41ca637b76c",
+   "title": "Torna Tricase VINtage: cantine, cibo locale ed eventi in centro",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-16.13.23-1024x768.jpeg",
+   "url": "https://trnews.it/2026/10/23/torna-tricase-vintage-cantine-cibo-locale-ed-eventi-in-centro",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T15:05:46+00:00"
+  },
+  {
+   "id": "2c42b233f1d6",
+   "title": "Presentata la IV edizione di Tricase VINtage, tra vino e tradizione",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-16.47.35-1024x768.jpeg",
+   "url": "https://trnews.it/2026/10/23/presentata-la-iv-edizione-di-tricase-vintage-tra-vino-e-tradizione",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T14:56:58+00:00"
+  },
+  {
+   "id": "b31c9ecd7df5",
+   "title": "Studente trovato morto, la ricostruzione della madre e l'ipotesi della sfida social",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/ragazzo-collepasso.jpg",
+   "url": "https://trnews.it/2026/10/23/studente-trovato-morto-la-ricostruzione-della-madre-e-lipotesi-della-sfida-social",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T14:48:31+00:00"
   },
   {
    "id": "b9b48c278698",
@@ -2354,31 +2398,20 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-20T16:34:13+00:00"
-  },
-  {
-   "id": "6ce47e193966",
-   "title": "“Il tuo punto di vista conta” – screening per le maculopatie 23 e 24 ottobre al Fazzi",
-   "summary": "Arriva in ASL Lecce la nuova tappa della campagna “Il tuo punto di vista conta – non lasciare che le maculopatie ti fermino”, iniziativa dedicata alla sensibilizzazione e alla prevenzione delle macul…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/il-tuo-punto-di-vista-conta-screening-per-le-maculopatie-23-e-24-ottobre-al-fazzi/",
-   "source": "Corriere Salentino",
-   "category": "Salute",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T16:08:01+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-23T16:00:07.748685+00:00",
+   "last_ok": "2026-10-23T16:29:49.310406+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
-   "ok": false,
-   "last_ok": "2026-10-23T15:00:18.913209+00:00",
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "last_ok": "2026-10-23T16:29:49.310406+00:00",
+   "error": null
   },
   {
    "source": "Il Post",
@@ -2389,19 +2422,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-23T16:00:07.748685+00:00",
+   "last_ok": "2026-10-23T16:29:49.310406+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-23T16:00:07.748685+00:00",
+   "last_ok": "2026-10-23T16:29:49.310406+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-23T16:00:07.748685+00:00",
+   "last_ok": "2026-10-23T16:29:49.310406+00:00",
    "error": null
   }
  ]
