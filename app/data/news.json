@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-23T19:03:44.793857+00:00",
+ "updated_at": "2026-10-23T19:51:21.035259+00:00",
  "items": [
+  {
+   "id": "f39a4e972510",
+   "title": "Presunti appalti con il clan Moccia: cade l’aggravante mafiosa, lievi condanne per assessore Guido e imprenditore D’Elia",
+   "summary": "LECCE – Si chiude con una condanna a 2 anni (con il beneficio della pena sospesa) il processo di primo grado a carico dell’assessore al Welfare del Comune di Lecce, Andrea Guido, finito sotto process…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/presunti-appalti-con-il-clan-moccia-cade-laggravante-mafiosa-lievi-condanne-per-assessore-guido-e-imprenditore-delia/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T19:39:57+00:00"
+  },
   {
    "id": "a95efd2a3027",
    "title": "Andrea Guido dopo la condanna a rischio prescrizione: “Ho la coscienza pulita e la schiena dritta”",
@@ -10,7 +21,29 @@
    "source": "Corriere Salentino",
    "category": "Politica",
    "zone": "Lecce",
-   "published_at": "2026-10-23T18:07:33+00:00"
+   "published_at": "2026-10-23T19:37:33+00:00"
+  },
+  {
+   "id": "fef35ecd8731",
+   "title": "Nardò, centrosinistra diviso e Pd senza guida: Sequestro si dimette e accusa, “Ostacoli e pressioni esterne”",
+   "summary": "NARDÒ – Il centrosinistra di Nardò perde pezzi ancora prima di cominciare la campagna elettorale per le amministrative della primavera 2027. Le dimissioni irrevocabili della segretaria cittadina del…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/nardo-centrosinistra-diviso-e-pd-senza-guida-sequestro-si-dimette-e-accusa-ostacoli-e-pressioni-esterne/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T19:19:01+00:00"
+  },
+  {
+   "id": "ef6b50b30b2f",
+   "title": "Foggia, il Campese Amadori festeggia 25 anni di storia",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-81-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/23/foggia-il-campese-amadori-festeggia-25-anni-di-storia",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-23T18:43:02+00:00"
   },
   {
    "id": "f392244bd7f1",
@@ -66,17 +99,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-23T16:42:45+00:00"
-  },
-  {
-   "id": "f39a4e972510",
-   "title": "Presunti appalti con il clan Moccia: cade l’aggravante mafiosa, lievi condanne per assessore Guido e imprenditore D’Elia",
-   "summary": "LECCE – Si chiude con una condanna a 2 anni (con il beneficio della pena sospesa) il processo di primo grado a carico dell’assessore al Welfare del Comune di Lecce, Andrea Guido, finito sotto process…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/presunti-appalti-con-il-clan-moccia-cade-laggravante-mafiosa-lievi-condanne-per-assessore-guido-e-imprenditore-delia/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T16:41:57+00:00"
   },
   {
    "id": "992443f34259",
@@ -220,6 +242,28 @@
    "category": "Cultura",
    "zone": "Lecce",
    "published_at": "2026-10-23T14:14:08+00:00"
+  },
+  {
+   "id": "34c1c3e8fd6f",
+   "title": "A 8 anni scappa da casa inseguito dal padre con in mano un catenaccio: indagati genitori per maltrattamenti",
+   "summary": "SALENTO – A 8 anni – il 9 settembre scorso – si allontanò da casa dopo un litigio inseguito per le strade di un paese salentino dal padre che in mano aveva un catenaccio munito di lucchetto. Ma dopo…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/a-8-anni-scappa-da-casa-inseguito-dal-padre-con-in-mano-un-catenaccio-indagati-genitori-per-maltrattamenti/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-10-23T14:10:21+00:00"
+  },
+  {
+   "id": "f023ecc83af3",
+   "title": "Rogo partito dal camion della raccolta rifiuti: inflitti 3 anni a uno dei due dipendenti Monteco già licenziati",
+   "summary": "LECCE/FRIGOLE/TREPUZZI – C’è un primo verdetto nell’inchiesta sull’incendio appiccato, in località Masseria Olmo, a Frigole, ai danni di una vasta superficie di macchia mediterranea. Farudin Bejtaj,…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/rogo-partito-dal-camion-della-raccolta-rifiuti-inflitti-3-anni-a-uno-dei-due-dipendenti-monteco-gia-licenziati/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T14:10:17+00:00"
   },
   {
    "id": "02b693c4710e",
@@ -2404,13 +2448,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-23T19:03:44.793857+00:00",
+   "last_ok": "2026-10-23T19:51:21.035259+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-23T19:03:44.793857+00:00",
+   "last_ok": "2026-10-23T19:51:21.035259+00:00",
    "error": null
   },
   {
@@ -2422,19 +2466,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-23T19:03:44.793857+00:00",
+   "last_ok": "2026-10-23T19:51:21.035259+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-23T19:03:44.793857+00:00",
+   "last_ok": "2026-10-23T19:51:21.035259+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-23T19:03:44.793857+00:00",
+   "last_ok": "2026-10-23T19:51:21.035259+00:00",
    "error": null
   }
  ]
