@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T18:14:22.977061+00:00",
+ "updated_at": "2026-10-23T19:03:44.793857+00:00",
  "items": [
   {
    "id": "a95efd2a3027",
@@ -11,6 +11,17 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-23T18:07:33+00:00"
+  },
+  {
+   "id": "f392244bd7f1",
+   "title": "Annuncia il suicidio via sms alla fidanzata, scatta l’allarme e viene salvato dalla polizia",
+   "summary": "TORRE MOZZA (Lecce) – Era su un pontile a Torre Mozza, pronto a gettarsi in acqua, ma fortunatamente è stato salvato dagli agenti di polizia, intervenuti dopo l’allarme lanciato dai genitori. I fatti…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/annuncia-il-suicidio-via-sms-alla-fidanzata-scatta-lallarme-e-viene-salvato-dalla-polizia/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T18:07:14+00:00"
   },
   {
    "id": "985332eabd18",
@@ -517,17 +528,6 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-10-23T09:16:10+00:00"
-  },
-  {
-   "id": "f392244bd7f1",
-   "title": "Annuncia il suicidio via sms alla fidanzata, scatta l’allarme e viene salvato dalla polizia",
-   "summary": "TORRE MOZZA (Lecce) – Era su un pontile a Torre Mozza, pronto a gettarsi in acqua, ma fortunatamente è stato salvato dagli agenti di polizia, intervenuti dopo l’allarme lanciato dai genitori. I fatti…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/annuncia-il-suicidio-via-sms-alla-fidanzata-scatta-lallarme-e-viene-salvato-dalla-polizia/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T09:07:14+00:00"
   },
   {
    "id": "1a2550edae10",
@@ -2398,52 +2398,19 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-20T20:15:37+00:00"
-  },
-  {
-   "id": "7f77a866beef",
-   "title": "Consiglio regionale approva la nuova legge sulle locazioni turistiche o brevi Decaro: “Legge che permetterà ai sindaci di tutelare popolazione più fragile”",
-   "summary": "Il Consiglio regionale ha approvato la legge “Disposizioni in materia di locazioni turistiche e modifiche alla legge regionale 1 dicembre 2017, n. 49” (disegno di legge n. 76 del 19 maggio 2026). La…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/consiglio-regionale-approva-la-nuova-legge-sulle-locazioni-turistiche-o-brevi-decaro-legge-che-permettera-ai-sindaci-di-tutelare-popolazione-piu-fragile/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-10-20T18:58:37+00:00"
-  },
-  {
-   "id": "a2a93a1aab7c",
-   "title": "Agrivoltaico a Corigliano, la sindaca Ada Fiore dice no al confronto pubblico: “Il Comune ha già deciso e avviato il ricorso”",
-   "summary": "CORIGLIANO D’OTRANTO – Il progetto agrivoltaico da 43 megawatt previsto nelle campagne di Corigliano d’Otranto continua a dividere la politica e ad alimentare il dibattito sul futuro energetico del t…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/agrivoltaico-a-corigliano-la-sindaca-ada-fiore-dice-no-al-confronto-pubblico-il-comune-ha-gia-deciso-e-avviato-il-ricorso/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T18:51:26+00:00"
-  },
-  {
-   "id": "dfa739311227",
-   "title": "Lasciata con pochi viveri e senza riscaldamento per giorni infermiera condannata per maltrattamenti sulla madre",
-   "summary": "CASARANO (Lecce) – Nella vita di tutti i giorni è un’infermiera: per lavoro assiste, accudisce i malati e le persone bisognose. In casa, invece, avrebbe abbandonato e maltrattato la madre malata lasc…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lasciata-con-pochi-viveri-e-senza-riscaldamento-per-giorni-infermiera-condannata-per-maltrattamenti-sulla-madre/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-20T18:15:37+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-23T18:14:22.977061+00:00",
+   "last_ok": "2026-10-23T19:03:44.793857+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-23T18:14:22.977061+00:00",
+   "last_ok": "2026-10-23T19:03:44.793857+00:00",
    "error": null
   },
   {
@@ -2455,19 +2422,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-23T18:14:22.977061+00:00",
+   "last_ok": "2026-10-23T19:03:44.793857+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-23T18:14:22.977061+00:00",
+   "last_ok": "2026-10-23T19:03:44.793857+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-23T18:14:22.977061+00:00",
+   "last_ok": "2026-10-23T19:03:44.793857+00:00",
    "error": null
   }
  ]
