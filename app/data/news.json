@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-23T21:54:40.076042+00:00",
+ "updated_at": "2026-10-23T22:16:33.428007+00:00",
  "items": [
+  {
+   "id": "c5f95167e097",
+   "title": "La “generazione repressa” dentro l’onda globale di protesta che stiamo attraversando",
+   "summary": "Alla notizia dell'invio di 500 militari a Milano dopo i fatti del 17 e 18 ottobre, il sindaco della città, Giuseppe Sala, ci ha tenuto a dire \"senza ambiguità\" che \"prima di tutto in questa fase crit…",
+   "image": "https://altreconomia.it/app/uploads/2026/10/IPA89885369-scaled.jpg",
+   "url": "https://altreconomia.it/la-generazione-repressa-dentro-londa-globale-di-protesta-che-stiamo-attraversando/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-23T22:01:35+00:00"
+  },
   {
    "id": "b35cbd1367c7",
    "title": "Serie C: gli anticipi finiscono in parità. Potenza e Bari costretti ad inseguire",
@@ -2437,13 +2448,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-23T21:54:40.076042+00:00",
+   "last_ok": "2026-10-23T22:16:33.428007+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-23T21:54:40.076042+00:00",
+   "last_ok": "2026-10-23T22:16:33.428007+00:00",
    "error": null
   },
   {
@@ -2455,19 +2466,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-23T21:54:40.076042+00:00",
+   "last_ok": "2026-10-23T22:16:33.428007+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-23T21:54:40.076042+00:00",
+   "last_ok": "2026-10-23T22:16:33.428007+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-23T21:54:40.076042+00:00",
+   "last_ok": "2026-10-23T22:16:33.428007+00:00",
    "error": null
   }
  ]
