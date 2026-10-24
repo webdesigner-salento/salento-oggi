@@ -1,9 +1,20 @@
 {
- "updated_at": "2026-10-24T14:11:25.008989+00:00",
+ "updated_at": "2026-10-24T14:50:14.992325+00:00",
  "items": [
   {
+   "id": "d074a3acb7d3",
+   "title": "Lecce-Juve, il messaggio di Di Francesco alla sua squadra. Il modulo? Potrebbe cambiare",
+   "summary": "LECCE – Il Lecce si presenta alla sfida contro la Juventus con il morale rinforzato dalla vittoria di Udine e dalla consapevolezza di poter mettere in difficoltà anche avversari sulla carta più attre…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lecce-juve-il-messaggio-di-di-francesco-alla-sua-squadra-il-modulo-potrebbe-cambiare/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T14:21:33+00:00"
+  },
+  {
    "id": "8c63f9e4e09a",
-   "title": "SPACCIO IN AUTO TRA ALESSANO E LUCUGNANO: INCASTRATI CON LA COCAINA E 500 EURO IN CONTANTI",
+   "title": "Spaccio in auto tra Alessano e Lucugnano: incastrati con la cocaina e 500 euro in contanti",
    "summary": "TAURISANO (Lecce): Un’operazione lampo condotta dagli agenti della Polizia di Stato del Commissariato di Taurisano ha portato all’arresto in flagranza di due persone, sorpresi a cedere dosi di sostan…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/10/spaccio-in-auto-tra-alessano-e-lucugnano-incastrati-con-la-cocaina-e-500-euro-in-contanti/",
@@ -2464,63 +2475,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-21T14:56:31+00:00"
-  },
-  {
-   "id": "f13b9a6af4c1",
-   "title": "Trasparenza e tempi ridotti, parte il nuovo corso della giustizia civile",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/05/TRIBUNALE-LECCE--1024x576.jpg",
-   "url": "https://trnews.it/2026/10/21/trasparenza-e-tempi-ridotti-parte-il-nuovo-corso-della-giustizia-civile",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T14:30:34+00:00"
-  },
-  {
-   "id": "a290f8ac1459",
-   "title": "Il racconto di una donna: “Costretta a prostituirmi per anni dal mio fidanzato e da un suo amico”: condannati entrambi",
-   "summary": "LECCE – Costretta a prostituirsi dal suo fidanzato e da un amico in una casa di Lecce trova il coraggio di ribellarsi e di denunciare i suoi aguzzini. È l’incubo vissuto da una 44enne salentina tossi…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/il-racconto-di-una-donna-costretta-a-prostituirmi-per-anni-dal-mio-fidanzato-e-da-un-suo-amico-condannati-entrambi/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T14:30:00+00:00"
-  },
-  {
-   "id": "b7c6dab71562",
-   "title": "Vigili del Fuoco: in Puglia quasi 400 unità in meno rispetto al fabbisogno. La FP CGIL Puglia: “Il Governo si fermi e apra un confronto reale",
-   "summary": "«La proposta di riordino del Corpo Nazionale dei Vigili del Fuoco all’esame delle Commissioni riunite 1ª e 5ª del Senato rappresenta un intervento strutturale che, anziché rafforzare la capacità oper…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/vigili-del-fuoco-in-puglia-quasi-400-unita-in-meno-rispetto-al-fabbisogno-la-fp-cgil-puglia-il-governo-si-fermi-e-apra-un-confronto-reale/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-21T14:29:59+00:00"
-  },
-  {
-   "id": "0243f0c0afd8",
-   "title": "Morte Bertacchi, il Ris al lavoro in casa della ragazza. Lo sfogo della madre: “Falcone ha mentito”",
-   "summary": "CASARANO/RUFFANO (Lecce) – Prosegue su più fronti l’inchiesta sulla morte di Roberta Bertacchi. Indagini sul posto dopo l’arrivo del Ris e accertamenti con l’ausilio della tecnologia per fare piena l…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/bertacchi-2-770x420.jpg",
-   "url": "https://www.corrieresalentino.it/2026/10/morte-bertacchi-il-ris-al-lavoro-in-casa-della-ragazza-lo-sfogo-della-madre-falcone-ha-mentito/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T14:29:31+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T14:11:25.008989+00:00",
+   "last_ok": "2026-10-24T14:50:14.992325+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T14:11:25.008989+00:00",
+   "last_ok": "2026-10-24T14:50:14.992325+00:00",
    "error": null
   },
   {
@@ -2532,19 +2499,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T14:11:25.008989+00:00",
+   "last_ok": "2026-10-24T14:50:14.992325+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T14:11:25.008989+00:00",
+   "last_ok": "2026-10-24T14:50:14.992325+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T14:11:25.008989+00:00",
+   "last_ok": "2026-10-24T14:50:14.992325+00:00",
    "error": null
   }
  ]
