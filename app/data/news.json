@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-24T19:15:10.886499+00:00",
+ "updated_at": "2026-10-24T19:45:30.402444+00:00",
  "items": [
+  {
+   "id": "4c6a9e05fb2c",
+   "title": "Mare d'autunno, boom di turisti stranieri a Tricase",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Still0414_00000-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/24/mare-dautunno-boom-di-turisti-stranieri-a-tricase",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T19:27:08+00:00"
+  },
   {
    "id": "96bf0366c291",
    "title": "Un 50enne trovato morto in casa: “intossicazione da cocaina”, ma il presunto pusher viene assolto",
@@ -189,6 +200,17 @@
    "published_at": "2026-10-24T12:27:06+00:00"
   },
   {
+   "id": "083b3918eea0",
+   "title": "Lecce, brutte notizie per Ilić: sarà operato al tendine",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-11.47.15-1024x698.jpeg",
+   "url": "https://trnews.it/2026/10/24/lecce-brutte-notizie-per-ilic-sara-operato-al-tendine",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T11:53:33+00:00"
+  },
+  {
    "id": "e5f0d1953edb",
    "title": "Primavera 1: La Juventus batte il Lecce 3-2 al fotofinish",
    "summary": "",
@@ -288,6 +310,17 @@
    "published_at": "2026-10-24T10:54:42+00:00"
   },
   {
+   "id": "f5f70f49d685",
+   "title": "Lecce, addio a Giulio Musca: il cuore e l'anima della Saicar",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/giulio-musca.jpg",
+   "url": "https://trnews.it/2026/10/24/lecce-addio-a-giulio-musca-il-cuore-e-lanima-della-saicar",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T10:19:54+00:00"
+  },
+  {
    "id": "bbdfbcd10c20",
    "title": "Filctem e Fillea replicano al vicesindaco Anguilla: “La politica non scarichi sui lavoratori colpe che non hanno”",
    "summary": "“I lavoratori meritano rispetto. La politica si assuma le proprie responsabilità”. I segretari generali di Fillea Cgil Lecce e Filctem Cgil Lecce, Luca Toma e Franco Giancane, replicano all’assessore…",
@@ -330,17 +363,6 @@
    "category": "Cultura",
    "zone": "Lecce",
    "published_at": "2026-10-24T10:04:22+00:00"
-  },
-  {
-   "id": "083b3918eea0",
-   "title": "Lecce, brutte notizie per Ilić: sarà operato al tendine",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-11.47.15-1024x698.jpeg",
-   "url": "https://trnews.it/2026/10/24/lecce-brutte-notizie-per-ilic-sara-operato-al-tendine",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T09:53:33+00:00"
   },
   {
    "id": "0447870b4b87",
@@ -407,17 +429,6 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-10-24T08:36:28+00:00"
-  },
-  {
-   "id": "f5f70f49d685",
-   "title": "Lecce, addio a Giulio Musca: il cuore e l'anima della Saicar",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/giulio-musca.jpg",
-   "url": "https://trnews.it/2026/10/24/lecce-addio-a-giulio-musca-il-cuore-e-lanima-della-saicar",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T08:19:54+00:00"
   },
   {
    "id": "2bc0aa67b714",
@@ -2288,30 +2299,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-21T20:34:04+00:00"
-  },
-  {
-   "id": "183633650aa8",
-   "title": "Risonanza alla caviglia: a Lecce nessuna disponibilità",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/risonanza.jpg",
-   "url": "https://trnews.it/2026/10/21/risonanza-alla-caviglia-a-lecce-nessuna-disponibilita",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T19:26:08+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T19:15:10.886499+00:00",
+   "last_ok": "2026-10-24T19:45:30.402444+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T19:15:10.886499+00:00",
+   "last_ok": "2026-10-24T19:45:30.402444+00:00",
    "error": null
   },
   {
@@ -2323,19 +2323,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T19:15:10.886499+00:00",
+   "last_ok": "2026-10-24T19:45:30.402444+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T19:15:10.886499+00:00",
+   "last_ok": "2026-10-24T19:45:30.402444+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T19:15:10.886499+00:00",
+   "last_ok": "2026-10-24T19:45:30.402444+00:00",
    "error": null
   }
  ]
