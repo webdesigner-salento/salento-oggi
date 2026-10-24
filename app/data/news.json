@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T03:56:38.075770+00:00",
+ "updated_at": "2026-10-24T04:17:23.900720+00:00",
  "items": [
   {
    "id": "05b33a7d43f8",
@@ -24,6 +24,17 @@
    "published_at": "2026-10-23T23:28:23+00:00"
   },
   {
+   "id": "b35cbd1367c7",
+   "title": "Serie C: gli anticipi finiscono in parità. Potenza e Bari costretti ad inseguire",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/tifosi-potenza-1024x683.jpg",
+   "url": "https://trnews.it/2026/10/23/serie-c-gli-anticipi-finiscono-in-parita-potenza-e-bari-costrette-ad-inseguire",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T22:50:29+00:00"
+  },
+  {
    "id": "c5f95167e097",
    "title": "La “generazione repressa” dentro l’onda globale di protesta che stiamo attraversando",
    "summary": "Alla notizia dell'invio di 500 militari a Milano dopo i fatti del 17 e 18 ottobre, il sindaco della città, Giuseppe Sala, ci ha tenuto a dire \"senza ambiguità\" che \"prima di tutto in questa fase crit…",
@@ -35,15 +46,15 @@
    "published_at": "2026-10-23T22:01:35+00:00"
   },
   {
-   "id": "b35cbd1367c7",
-   "title": "Serie C: gli anticipi finiscono in parità. Potenza e Bari costretti ad inseguire",
+   "id": "ef6b50b30b2f",
+   "title": "Foggia, il Campese Amadori festeggia 25 anni di storia",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/tifosi-potenza-1024x683.jpg",
-   "url": "https://trnews.it/2026/10/23/serie-c-gli-anticipi-finiscono-in-parita-potenza-e-bari-costrette-ad-inseguire",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-81-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/23/foggia-il-campese-amadori-festeggia-25-anni-di-storia",
    "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T20:50:29+00:00"
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-23T20:43:02+00:00"
   },
   {
    "id": "f39a4e972510",
@@ -79,15 +90,37 @@
    "published_at": "2026-10-23T19:19:01+00:00"
   },
   {
-   "id": "ef6b50b30b2f",
-   "title": "Foggia, il Campese Amadori festeggia 25 anni di storia",
+   "id": "985332eabd18",
+   "title": "Gli studenti del Liceo \"Capece\" in cammino per aiutare la ricerca oncologica di Airc",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-81-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/23/foggia-il-campese-amadori-festeggia-25-anni-di-storia",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/03/liceo-capece-1024x834.jpg",
+   "url": "https://trnews.it/2026/10/23/gli-studenti-del-liceo-capece-in-cammino-per-aiutare-la-ricerca-oncologica-di-airc",
    "source": "TeleRama News",
    "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-23T18:43:02+00:00"
+   "zone": "Lecce",
+   "published_at": "2026-10-23T18:53:31+00:00"
+  },
+  {
+   "id": "b9871379de93",
+   "title": "Prevenzione delle maculopatie, due giornate di screening al \"Vito Fazzi\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/05/ospedale-vito-fazzi.jpg",
+   "url": "https://trnews.it/2026/10/23/prevenzione-delle-maculopatie-due-giornate-di-screening-al-vito-fazzi",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T18:46:56+00:00"
+  },
+  {
+   "id": "992443f34259",
+   "title": "Processo clan Moccia, due anni per l'assessore Guido",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2024/09/andrea-guido.jpg",
+   "url": "https://trnews.it/2026/10/23/processo-clan-moccia-due-anni-per-lassessore-guido",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T18:07:43+00:00"
   },
   {
    "id": "f392244bd7f1",
@@ -101,15 +134,48 @@
    "published_at": "2026-10-23T18:07:14+00:00"
   },
   {
-   "id": "985332eabd18",
-   "title": "Gli studenti del Liceo \"Capece\" in cammino per aiutare la ricerca oncologica di Airc",
+   "id": "876e65ecd783",
+   "title": "Virtus Scherma Salento in vetrina a Bitritto e Budapest",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/03/liceo-capece-1024x834.jpg",
-   "url": "https://trnews.it/2026/10/23/gli-studenti-del-liceo-capece-in-cammino-per-aiutare-la-ricerca-oncologica-di-airc",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/278f4545-267c-4af9-bff8-0e4b47f048a8-e1792770908324.jpg",
+   "url": "https://trnews.it/2026/10/23/virtus-scherma-salento-in-vetrina-a-bitritto-e-budapest",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T17:55:21+00:00"
+  },
+  {
+   "id": "b41ca637b76c",
+   "title": "Torna Tricase VINtage: cantine, cibo locale ed eventi in centro",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-16.13.23-1024x768.jpeg",
+   "url": "https://trnews.it/2026/10/23/torna-tricase-vintage-cantine-cibo-locale-ed-eventi-in-centro",
    "source": "TeleRama News",
    "category": "Altro",
    "zone": "Lecce",
-   "published_at": "2026-10-23T16:53:31+00:00"
+   "published_at": "2026-10-23T17:05:46+00:00"
+  },
+  {
+   "id": "2c42b233f1d6",
+   "title": "Presentata la IV edizione di Tricase VINtage, tra vino e tradizione",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-16.47.35-1024x768.jpeg",
+   "url": "https://trnews.it/2026/10/23/presentata-la-iv-edizione-di-tricase-vintage-tra-vino-e-tradizione",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T16:56:58+00:00"
+  },
+  {
+   "id": "b31c9ecd7df5",
+   "title": "Studente trovato morto, la ricostruzione della madre e l'ipotesi della sfida social",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/ragazzo-collepasso.jpg",
+   "url": "https://trnews.it/2026/10/23/studente-trovato-morto-la-ricostruzione-della-madre-e-lipotesi-della-sfida-social",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T16:48:31+00:00"
   },
   {
    "id": "c1ffd282e6a7",
@@ -123,17 +189,6 @@
    "published_at": "2026-10-23T16:47:53+00:00"
   },
   {
-   "id": "b9871379de93",
-   "title": "Prevenzione delle maculopatie, due giornate di screening al \"Vito Fazzi\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/05/ospedale-vito-fazzi.jpg",
-   "url": "https://trnews.it/2026/10/23/prevenzione-delle-maculopatie-due-giornate-di-screening-al-vito-fazzi",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T16:46:56+00:00"
-  },
-  {
    "id": "8f73f0151d58",
    "title": "Blitz antidroga nel Salento con roccaforte a Nardò: Dda chiede 25 condanne",
    "summary": "NARDO‘ (Lecce) – Il bilancio complessivo dell’operazione fu eloquente: dieci arresti in flagranza, il sequestro di quantitativi di cocaina, eroina, hashish e marijuana, che avrebbero potuto inondare…",
@@ -145,26 +200,37 @@
    "published_at": "2026-10-23T16:42:45+00:00"
   },
   {
-   "id": "992443f34259",
-   "title": "Processo clan Moccia, due anni per l'assessore Guido",
+   "id": "02b693c4710e",
+   "title": "Sannicola, annullate le misure cautelari per Piccione e Miglietta",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2024/09/andrea-guido.jpg",
-   "url": "https://trnews.it/2026/10/23/processo-clan-moccia-due-anni-per-lassessore-guido",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/07/cosimo-piccione-696x485.jpg.webp",
+   "url": "https://trnews.it/2026/10/23/sannicola-annullate-le-misure-cautelari-per-piccione-e-miglietta",
    "source": "TeleRama News",
    "category": "Cronaca",
    "zone": "Lecce",
-   "published_at": "2026-10-23T16:07:43+00:00"
+   "published_at": "2026-10-23T15:54:18+00:00"
   },
   {
-   "id": "876e65ecd783",
-   "title": "Virtus Scherma Salento in vetrina a Bitritto e Budapest",
+   "id": "68eca5507f21",
+   "title": "Liste d’attesa, Regione ultima in Italia. Botta e risposta tra i gruppi consiliari",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/278f4545-267c-4af9-bff8-0e4b47f048a8-e1792770908324.jpg",
-   "url": "https://trnews.it/2026/10/23/virtus-scherma-salento-in-vetrina-a-bitritto-e-budapest",
+   "image": "https://wp.trnews.it/wp-content/uploads/2024/11/chirurgo-sito.jpg",
+   "url": "https://trnews.it/2026/10/23/liste-dattesa-regione-ultima-in-italia-botta-e-risposta-tra-i-gruppi-consiliari",
    "source": "TeleRama News",
-   "category": "Sport",
+   "category": "Altro",
    "zone": "Lecce",
-   "published_at": "2026-10-23T15:55:21+00:00"
+   "published_at": "2026-10-23T15:53:26+00:00"
+  },
+  {
+   "id": "817f8ba4c2da",
+   "title": "Rimborsi fiscali sottratti alla zia: due nipoti davanti al giudice",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-80-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/23/rimborsi-fiscali-sottratti-alla-zia-due-nipoti-davanti-al-giudice",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T15:32:24+00:00"
   },
   {
    "id": "033145c2976a",
@@ -187,39 +253,6 @@
    "category": "Politica",
    "zone": "Salento",
    "published_at": "2026-10-23T15:13:21+00:00"
-  },
-  {
-   "id": "b41ca637b76c",
-   "title": "Torna Tricase VINtage: cantine, cibo locale ed eventi in centro",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-16.13.23-1024x768.jpeg",
-   "url": "https://trnews.it/2026/10/23/torna-tricase-vintage-cantine-cibo-locale-ed-eventi-in-centro",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T15:05:46+00:00"
-  },
-  {
-   "id": "2c42b233f1d6",
-   "title": "Presentata la IV edizione di Tricase VINtage, tra vino e tradizione",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-16.47.35-1024x768.jpeg",
-   "url": "https://trnews.it/2026/10/23/presentata-la-iv-edizione-di-tricase-vintage-tra-vino-e-tradizione",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T14:56:58+00:00"
-  },
-  {
-   "id": "b31c9ecd7df5",
-   "title": "Studente trovato morto, la ricostruzione della madre e l'ipotesi della sfida social",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/ragazzo-collepasso.jpg",
-   "url": "https://trnews.it/2026/10/23/studente-trovato-morto-la-ricostruzione-della-madre-e-lipotesi-della-sfida-social",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T14:48:31+00:00"
   },
   {
    "id": "b9b48c278698",
@@ -310,28 +343,6 @@
    "published_at": "2026-10-23T14:10:17+00:00"
   },
   {
-   "id": "02b693c4710e",
-   "title": "Sannicola, annullate le misure cautelari per Piccione e Miglietta",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/07/cosimo-piccione-696x485.jpg.webp",
-   "url": "https://trnews.it/2026/10/23/sannicola-annullate-le-misure-cautelari-per-piccione-e-miglietta",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T13:54:18+00:00"
-  },
-  {
-   "id": "68eca5507f21",
-   "title": "Liste d’attesa, Regione ultima in Italia. Botta e risposta tra i gruppi consiliari",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2024/11/chirurgo-sito.jpg",
-   "url": "https://trnews.it/2026/10/23/liste-dattesa-regione-ultima-in-italia-botta-e-risposta-tra-i-gruppi-consiliari",
-   "source": "TeleRama News",
-   "category": "Salute",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T13:53:26+00:00"
-  },
-  {
    "id": "3db0ed22a32b",
    "title": "Consiglio provinciale BAT, ok a nuovo istituto scolastico per Barletta",
    "summary": "",
@@ -352,17 +363,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-23T13:32:48+00:00"
-  },
-  {
-   "id": "817f8ba4c2da",
-   "title": "Rimborsi fiscali sottratti alla zia: due nipoti davanti al giudice",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-80-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/23/rimborsi-fiscali-sottratti-alla-zia-due-nipoti-davanti-al-giudice",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T13:32:24+00:00"
   },
   {
    "id": "dd8e410eb994",
@@ -2470,13 +2470,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T03:56:38.075770+00:00",
+   "last_ok": "2026-10-24T04:17:23.900720+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T03:56:38.075770+00:00",
+   "last_ok": "2026-10-24T04:17:23.900720+00:00",
    "error": null
   },
   {
@@ -2488,19 +2488,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T03:56:38.075770+00:00",
+   "last_ok": "2026-10-24T04:17:23.900720+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T03:56:38.075770+00:00",
+   "last_ok": "2026-10-24T04:17:23.900720+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T03:56:38.075770+00:00",
+   "last_ok": "2026-10-24T04:17:23.900720+00:00",
    "error": null
   }
  ]
