@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-24T11:51:59.627031+00:00",
+ "updated_at": "2026-10-24T12:12:38.723180+00:00",
  "items": [
+  {
+   "id": "e5f0d1953edb",
+   "title": "Primavera 1: La Juventus batte il Lecce 3-2 al fotofinish",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/09/primavera-scaled-e1788522724842-1024x636.jpg",
+   "url": "https://trnews.it/2026/10/24/primavera-1-la-juventus-batte-il-lecce-3-2-al-fotofinish",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T11:48:14+00:00"
+  },
   {
    "id": "9c6e9b25c259",
    "title": "Protesta agricoltori, oltre 800 in corteo: \"Ora basta\"",
@@ -2464,30 +2475,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-21T12:55:02+00:00"
-  },
-  {
-   "id": "c5a89b96d297",
-   "title": "Pesca illegale, sequestrati 115 chili di prodotto ittico e reti a strascico, multa da 8mila euro",
-   "summary": "Otranto-San Foca (Lecce) – Controlli, multe e sequestri contro la pesca illegale. Nell’ambito delle attività istituzionali di vigilanza e controllo finalizzate alla tutela delle risorse biologiche ma…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/pesca-illegale-sequestrati-115-chili-di-prodotto-ittico-e-reti-a-strascico-multa-da-8mila-euro/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T12:00:39+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T11:51:59.627031+00:00",
+   "last_ok": "2026-10-24T12:12:38.723180+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T11:51:59.627031+00:00",
+   "last_ok": "2026-10-24T12:12:38.723180+00:00",
    "error": null
   },
   {
@@ -2499,19 +2499,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T11:51:59.627031+00:00",
+   "last_ok": "2026-10-24T12:12:38.723180+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T11:51:59.627031+00:00",
+   "last_ok": "2026-10-24T12:12:38.723180+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T11:51:59.627031+00:00",
+   "last_ok": "2026-10-24T12:12:38.723180+00:00",
    "error": null
   }
  ]
