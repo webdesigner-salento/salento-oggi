@@ -1,6 +1,50 @@
 {
- "updated_at": "2026-10-24T07:53:39.896847+00:00",
+ "updated_at": "2026-10-24T08:13:12.748991+00:00",
  "items": [
+  {
+   "id": "9fc26ef0e3e5",
+   "title": "È morto Giulio Musca, fondatore di Saicar Industriali S.p.A.: aveva 84 anni",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-09.45.48-1024x576.jpeg",
+   "url": "https://trnews.it/2026/10/24/e-morto-giulio-musca-fondatore-di-saicar-industriali-s-p-a-aveva-84-anni",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T08:08:55+00:00"
+  },
+  {
+   "id": "83c910f05983",
+   "title": "Nasce Destinazione Galatina, il brand che porta la città oltre i suoi confini",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/logo_destinazione_galatina_2x-1024x456.png",
+   "url": "https://trnews.it/2026/10/24/nasce-destinazione-galatina",
+   "source": "TeleRama News",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T08:04:22+00:00"
+  },
+  {
+   "id": "08dfae8f8c76",
+   "title": "POS scollegati e registratori fantasma: 43 verbali della Finanza nel Salento",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/FOTO-POS-finanza-2-e1792828428859-1024x626.jpg",
+   "url": "https://trnews.it/2026/10/24/pos-scollegati-e-registratori-fantasma-43-verbali-della-finanza-nel-salento",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T07:54:06+00:00"
+  },
+  {
+   "id": "0447870b4b87",
+   "title": "Basket A2, Brindisi ospita Avellino per il rilancio",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/09/valtur-brindisi-Cinciarini-contro-Ruvo-Memorial-Pentassuglia-1024x819.jpeg",
+   "url": "https://trnews.it/2026/10/24/519610",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-10-24T07:45:32+00:00"
+  },
   {
    "id": "9817a879b519",
    "title": "Cortei di trattori verso Maglie: agricoltori in strada, viabilità a rilento",
@@ -2475,41 +2519,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-21T08:21:22+00:00"
-  },
-  {
-   "id": "efe7e57e84d3",
-   "title": "Basket A2, Valtur in campo a Rieti per il riscatto",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-13-201244.png",
-   "url": "https://trnews.it/2026/10/21/basket-a2-valtur-in-campo-a-rieti-per-il-riscatto",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-10-21T08:11:59+00:00"
-  },
-  {
-   "id": "7013e247cf8d",
-   "title": "L’Italia è il primo importatore di rottami ferrosi da Israele. Una crescita problematica",
-   "summary": "Dal 2025 il nostro Paese è diventato il principale importatore di rottami ferrosi da Israele superando e sostituendosi alla Turchia che dal maggio 2024 ha annunciato l'interruzione dei rapporti comme…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/incendio-porto-marghera-2.jpg",
-   "url": "https://altreconomia.it/litalia-e-il-primo-importatore-di-rottami-ferrosi-da-israele-una-crescita-problematica/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-21T08:02:47+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T07:53:39.896847+00:00",
+   "last_ok": "2026-10-24T08:13:12.748991+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T07:53:39.896847+00:00",
+   "last_ok": "2026-10-24T08:13:12.748991+00:00",
    "error": null
   },
   {
@@ -2521,19 +2543,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T07:53:39.896847+00:00",
+   "last_ok": "2026-10-24T08:13:12.748991+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T07:53:39.896847+00:00",
+   "last_ok": "2026-10-24T08:13:12.748991+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T07:53:39.896847+00:00",
+   "last_ok": "2026-10-24T08:13:12.748991+00:00",
    "error": null
   }
  ]
