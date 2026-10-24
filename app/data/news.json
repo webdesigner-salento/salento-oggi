@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T21:09:59.852883+00:00",
+ "updated_at": "2026-10-24T21:50:01.214665+00:00",
  "items": [
   {
    "id": "4c6a9e05fb2c",
@@ -2244,41 +2244,19 @@
    "category": "Economia",
    "zone": "Lecce",
    "published_at": "2026-10-21T22:16:49+00:00"
-  },
-  {
-   "id": "2596b9bad73c",
-   "title": "Insulti social, la Poli si oppone. Tutte le incongruenze e spunta una differente valutazione di un altro pm",
-   "summary": "LECCE – La sindaca di Lecce, Adriana Poli Bortone, non alza bandiera bianca e si oppone alla richiesta di archiviazione dell’inchiesta sugli insulti comparsi qua e là sui social e sul web dopo il fur…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2015/05/AVVOCATO-FRANCESCA-CONTE-400x262.jpg",
-   "url": "https://www.corrieresalentino.it/2026/10/insulti-social-la-poli-si-oppone-tutte-le-incongruenze-e-spunta-una-differente-valutazione-di-un-altro-pm/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T21:27:34+00:00"
-  },
-  {
-   "id": "45e58ef99b2b",
-   "title": "“Favori a imprenditori in cambio di voti”; Delli Noci in aula: “Interlocuzioni sì ma mai favoritismi”",
-   "summary": "LECCE – È durato circa tre ore l’interrogatorio dell’ex assessore regionale allo Sviluppo Economico della Regione Puglia, Alessandro Delli Noci, coinvolto nell’inchiesta con cui la Guardia di finanza…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/favori-a-imprenditori-in-cambio-di-voti-delli-noci-in-aula-interlocuzioni-si-ma-mai-favoritismi/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T21:25:26+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T21:09:59.852883+00:00",
+   "last_ok": "2026-10-24T21:50:01.214665+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T21:09:59.852883+00:00",
+   "last_ok": "2026-10-24T21:50:01.214665+00:00",
    "error": null
   },
   {
@@ -2290,19 +2268,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T21:09:59.852883+00:00",
+   "last_ok": "2026-10-24T21:50:01.214665+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T21:09:59.852883+00:00",
+   "last_ok": "2026-10-24T21:50:01.214665+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T21:09:59.852883+00:00",
+   "last_ok": "2026-10-24T21:50:01.214665+00:00",
    "error": null
   }
  ]
