@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-24T12:12:38.723180+00:00",
+ "updated_at": "2026-10-24T13:02:03.379495+00:00",
  "items": [
+  {
+   "id": "9ab0f6430767",
+   "title": "Elezioni amministrative 2027, Obiettivo Comune al fianco di Maria Grazia Sodero",
+   "summary": "NARDÒ – Obiettivo Comune prosegue il proprio percorso politico e conferma il sostegno a Maria Grazia Sodero in vista delle elezioni amministrative del 2027. In vista del prossimo appuntamento elettor…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/elezioni-amministrative-2027-obiettivo-comune-al-fianco-di-maria-grazia-sodero/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T12:50:21+00:00"
+  },
+  {
+   "id": "7e9a35363ed2",
+   "title": "Di Francesco: \"Sognare è possibile, dobbiamo restare umili\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/di-fra-3-e1792844797633-1024x612.jpg",
+   "url": "https://trnews.it/2026/10/24/di-francesco-sognare-e-possibile-dobbiamo-restare-umili",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T12:27:06+00:00"
+  },
   {
    "id": "e5f0d1953edb",
    "title": "Primavera 1: La Juventus batte il Lecce 3-2 al fotofinish",
@@ -2453,41 +2475,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-21T13:12:52+00:00"
-  },
-  {
-   "id": "4210eef94235",
-   "title": "Alto rischio di scontri violenti, vietata la trasferta ai tifosi ospiti per il derby",
-   "summary": "Cutrofiano–Scorrano (Lecce) – Derby di Terza categoria vietato perché è stato ravvisato il concreto pericolo di azioni violente da parte delle tifoserie appartenenti alle squadre di calcio del Cutrof…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/alto-rischio-di-scontri-violenti-vietata-la-trasferta-ai-tifosi-ospiti-per-il-derby/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T12:59:27+00:00"
-  },
-  {
-   "id": "d3f2671b0811",
-   "title": "Lecce - Juventus sarà diretta da Fabio Maresca",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maresca.jpeg",
-   "url": "https://trnews.it/2026/10/21/lecce-juventus-sara-diretta-da-fabio-maresca",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T12:55:02+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T12:12:38.723180+00:00",
+   "last_ok": "2026-10-24T13:02:03.379495+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T12:12:38.723180+00:00",
+   "last_ok": "2026-10-24T13:02:03.379495+00:00",
    "error": null
   },
   {
@@ -2499,19 +2499,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T12:12:38.723180+00:00",
+   "last_ok": "2026-10-24T13:02:03.379495+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T12:12:38.723180+00:00",
+   "last_ok": "2026-10-24T13:02:03.379495+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T12:12:38.723180+00:00",
+   "last_ok": "2026-10-24T13:02:03.379495+00:00",
    "error": null
   }
  ]
