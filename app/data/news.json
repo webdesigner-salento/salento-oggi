@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T20:48:13.686619+00:00",
+ "updated_at": "2026-10-24T21:09:59.852883+00:00",
  "items": [
   {
    "id": "4c6a9e05fb2c",
@@ -2266,41 +2266,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-21T21:25:26+00:00"
-  },
-  {
-   "id": "84b486ba72ee",
-   "title": "Cutrofiano-Scorrano a rischio scontri: la Prefettura vieta la trasferta ai tifosi ospiti",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2024/10/prefettura-1-678x381-1.jpeg",
-   "url": "https://trnews.it/2026/10/21/cutrofiano-scorrano-a-rischio-scontri-la-prefettura-vieta-la-trasferta-ai-tifosi-ospiti",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T20:57:48+00:00"
-  },
-  {
-   "id": "b55bc95d3bc8",
-   "title": "Eccellenza, Novoli: Luperto squalificato fino al 22 novembre",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/Eccellenza-750x500-1.jpg",
-   "url": "https://trnews.it/2026/10/21/eccellenza-novoli-luperto-squalificato-fino-al-22-novembre",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T20:51:12+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T20:48:13.686619+00:00",
+   "last_ok": "2026-10-24T21:09:59.852883+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T20:48:13.686619+00:00",
+   "last_ok": "2026-10-24T21:09:59.852883+00:00",
    "error": null
   },
   {
@@ -2312,19 +2290,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T20:48:13.686619+00:00",
+   "last_ok": "2026-10-24T21:09:59.852883+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T20:48:13.686619+00:00",
+   "last_ok": "2026-10-24T21:09:59.852883+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T20:48:13.686619+00:00",
+   "last_ok": "2026-10-24T21:09:59.852883+00:00",
    "error": null
   }
  ]
