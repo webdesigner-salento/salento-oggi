@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T08:54:21.764871+00:00",
+ "updated_at": "2026-10-24T09:13:58.254164+00:00",
  "items": [
   {
    "id": "b25766f11378",
@@ -2453,52 +2453,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-21T09:19:10+00:00"
-  },
-  {
-   "id": "95340b897c8f",
-   "title": "Autotrasporto, Federdistribuzione: A rischio approvvigionamenti e chiusura dei punti vendita",
-   "summary": "Federdistribuzione ha preso atto con favore degli esiti del tavolo che si è svolto ieri tra il Ministro delle Infrastrutture e dei Trasporti, Matteo Salvini, e le associazioni dell’autotrasporto, che…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/autotrasporto-federdistribuzione-a-rischio-approvvigionamenti-e-chiusura-dei-punti-vendita/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-21T09:03:06+00:00"
-  },
-  {
-   "id": "024ec0a4363d",
-   "title": "Spinge il conducente, si impossessa del suo furgone e se lo porta via, il mezzo è stato poi ritrovato vuoto",
-   "summary": "Lido Marini (Lecce) – Si impossessa del furgone e spintona il conducente, fino a farlo cadere sull’asfalto. Il furto si è verificato ieri mattina, attorno a mezzogiorno, a Lido Marini, località balne…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/spinge-il-conducente-si-impossessa-del-suo-furgone-e-se-lo-porta-via-il-mezzo-e-stato-poi-ritrovato-vuoto/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T08:59:09+00:00"
-  },
-  {
-   "id": "a58a5ad4d3d6",
-   "title": "“Hai un PhD ma l’esperienza?”. Il paradosso professionale del dottorato umanistico",
-   "summary": "Può accadere di arrivare a trent’anni con un dottorato di ricerca (PhD) in Storia, Filosofia o Letteratura, di aver pubblicato, insegnato, lavorato in archivi esteri, organizzato convegni e condotto…",
-   "image": "https://altreconomia.it/app/uploads/2026/09/allen-y-6Bae9-46yeU-unsplash-scaled.jpg",
-   "url": "https://altreconomia.it/hhai-un-phd-ma-lesperienza-il-paradosso-professionale-del-dottorato-umanistico/",
-   "source": "Altreconomia",
-   "category": "Economia",
-   "zone": "Italia",
-   "published_at": "2026-10-21T08:54:44+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T08:54:21.764871+00:00",
+   "last_ok": "2026-10-24T09:13:58.254164+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T08:54:21.764871+00:00",
+   "last_ok": "2026-10-24T09:13:58.254164+00:00",
    "error": null
   },
   {
@@ -2510,19 +2477,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T08:54:21.764871+00:00",
+   "last_ok": "2026-10-24T09:13:58.254164+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T08:54:21.764871+00:00",
+   "last_ok": "2026-10-24T09:13:58.254164+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T08:54:21.764871+00:00",
+   "last_ok": "2026-10-24T09:13:58.254164+00:00",
    "error": null
   }
  ]
