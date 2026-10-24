@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-24T22:11:02.677242+00:00",
+ "updated_at": "2026-10-24T22:48:23.826687+00:00",
  "items": [
+  {
+   "id": "b3ee68716692",
+   "title": "Il Lecce vuole stupire, al Via del Mare c'è la vecchia signora. Le probabili formazioni",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Probabili-formazioni-TeleRama-3-1024x580.jpg",
+   "url": "https://trnews.it/2026/10/25/il-lecce-vuole-stupire-al-via-del-mare-ce-la-vecchia-signora-le-probabili-formazioni",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T22:10:44+00:00"
+  },
   {
    "id": "d0a8d3244ac3",
    "title": "Il Calcio di Tutti. A Sternatia grande successo per la manifestazione sportiva",
@@ -2222,52 +2233,19 @@
    "category": "Sport",
    "zone": "Brindisi",
    "published_at": "2026-10-21T22:55:32+00:00"
-  },
-  {
-   "id": "b7b2047cb7f0",
-   "title": "Salentino premiato tra i migliori laureati d’Italia",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG-20261021-WA0101-1024x668.jpg",
-   "url": "https://trnews.it/2026/10/21/salentino-premiato-tra-i-migliori-laureati-ditalia",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T22:33:33+00:00"
-  },
-  {
-   "id": "94d7734489ae",
-   "title": "Call center, allarme occupazione nel Salento: migliaia di posti a rischio tra esuberi, delocalizzazioni e AI",
-   "summary": "LECCE – Il settore dei call center rischia una crisi occupazionale senza precedenti, con migliaia di lavoratori che potrebbero perdere il posto e pesanti ripercussioni anche nel Salento. Le procedure…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/call-center-allarme-occupazione-nel-salento-migliaia-di-posti-a-rischio-tra-esuberi-delocalizzazioni-e-ai/",
-   "source": "Corriere Salentino",
-   "category": "Economia",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T22:16:49+00:00"
-  },
-  {
-   "id": "ddf009bb8756",
-   "title": "Call center, allarme occupazione nel Salento: migliaia di posti a rischio tra esuberi, delocalizzazioni e intelligenza artificiale",
-   "summary": "LECCE – Il settore dei call center rischia una crisi occupazionale senza precedenti, con migliaia di lavoratori che potrebbero perdere il posto e pesanti ripercussioni anche nel Salento. Le procedure…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/call-center-allarme-occupazione-nel-salento-migliaia-di-posti-a-rischio-tra-esuberi-delocalizzazioni-e-intelligenza-artificiale/",
-   "source": "Corriere Salentino",
-   "category": "Economia",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T22:16:49+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T22:11:02.677242+00:00",
+   "last_ok": "2026-10-24T22:48:23.826687+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T22:11:02.677242+00:00",
+   "last_ok": "2026-10-24T22:48:23.826687+00:00",
    "error": null
   },
   {
@@ -2279,19 +2257,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T22:11:02.677242+00:00",
+   "last_ok": "2026-10-24T22:48:23.826687+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T22:11:02.677242+00:00",
+   "last_ok": "2026-10-24T22:48:23.826687+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T22:11:02.677242+00:00",
+   "last_ok": "2026-10-24T22:48:23.826687+00:00",
    "error": null
   }
  ]
