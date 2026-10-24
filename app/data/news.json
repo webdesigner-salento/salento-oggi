@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-24T21:50:01.214665+00:00",
+ "updated_at": "2026-10-24T22:11:02.677242+00:00",
  "items": [
+  {
+   "id": "d0a8d3244ac3",
+   "title": "Il Calcio di Tutti. A Sternatia grande successo per la manifestazione sportiva",
+   "summary": "Sternatia – “Il Calcio di Tutti”, è questo il titolo della manifestazione sportiva e sociale che si è tenuta a Sternatia, presso il Giardino dei Pavoni. Tante le scuole calcio che hanno preso parte a…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/il-calcio-di-tutti-a-sternatia-grande-successo-per-la-manifestazione-sportiva/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T21:58:34+00:00"
+  },
   {
    "id": "4c6a9e05fb2c",
    "title": "Mare d'autunno, boom di turisti stranieri a Tricase",
@@ -2250,13 +2261,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T21:50:01.214665+00:00",
+   "last_ok": "2026-10-24T22:11:02.677242+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T21:50:01.214665+00:00",
+   "last_ok": "2026-10-24T22:11:02.677242+00:00",
    "error": null
   },
   {
@@ -2268,19 +2279,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T21:50:01.214665+00:00",
+   "last_ok": "2026-10-24T22:11:02.677242+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T21:50:01.214665+00:00",
+   "last_ok": "2026-10-24T22:11:02.677242+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T21:50:01.214665+00:00",
+   "last_ok": "2026-10-24T22:11:02.677242+00:00",
    "error": null
   }
  ]
