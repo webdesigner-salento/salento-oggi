@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T16:53:06.642972+00:00",
+ "updated_at": "2026-10-24T17:13:16.943509+00:00",
  "items": [
   {
    "id": "290d6b56ab2f",
@@ -180,7 +180,7 @@
   {
    "id": "37eaf11b9cd3",
    "title": "Sorpreso a rubare rame in un ex plesso sanitario della ASL: 57enne ai domiciliari",
-   "summary": "GALLIPOLI – Un intervento condotto dagli agenti del Commissariato di Polizia di Gallipoli ha portato all’arresto di un cinquantasettenne del posto, sorpreso all’interno di un immobile pubblico dismes…",
+   "summary": "GALLIPOLI – Un intervento condotto dagli agenti del Commissariato di Polizia di Gallipoli ha portato all’arresto di un cinquantasettenne del posto, Massimiliano Esposito, sorpreso all’interno di un i…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/10/sorpreso-a-rubare-rame-in-un-ex-plesso-sanitario-della-asl-57enne-ai-domiciliari/",
    "source": "Corriere Salentino",
@@ -2343,30 +2343,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-21T17:15:30+00:00"
-  },
-  {
-   "id": "96e96e6123e8",
-   "title": "Sparatoria Gallipoli, fu un conflitto a fuoco tra bande diverse: tre sentenze di patteggiamento per i responsabili",
-   "summary": "GALLIPOLI (Lecce) – Un conflitto a fuoco con un botta e risposta interrotto soltanto dall’intervento della madre di uno dei tre soggetti coinvolti. Per i responsabili di quella sparatoria avvenuta il…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/sparatoria-gallipoli-fu-un-conflitto-a-fuoco-tra-bande-diverse-tre-sentenze-di-patteggiamento-per-i-responsabili/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T17:11:57+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T16:53:06.642972+00:00",
+   "last_ok": "2026-10-24T17:13:16.943509+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T16:53:06.642972+00:00",
+   "last_ok": "2026-10-24T17:13:16.943509+00:00",
    "error": null
   },
   {
@@ -2378,19 +2367,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T16:53:06.642972+00:00",
+   "last_ok": "2026-10-24T17:13:16.943509+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T16:53:06.642972+00:00",
+   "last_ok": "2026-10-24T17:13:16.943509+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T16:53:06.642972+00:00",
+   "last_ok": "2026-10-24T17:13:16.943509+00:00",
    "error": null
   }
  ]
