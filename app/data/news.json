@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-10-24T13:02:03.379495+00:00",
+ "updated_at": "2026-10-24T13:50:22.895147+00:00",
  "items": [
+  {
+   "id": "323af8796f50",
+   "title": "Roca, tremila anni di storia mediterranea: un patrimonio da tutelare con il FAI",
+   "summary": "La candidatura al XIII censimento nazionale “I Luoghi del Cuore” richiama l’attenzione su uno dei più significativi siti archeologici del Salento. Roca, sulla costa adriatica salentina, nel territori…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/roca-tremila-anni-di-storia-mediterranea-un-patrimonio-da-tutelare-con-il-fai/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-24T13:46:39+00:00"
+  },
+  {
+   "id": "99ace8782bf3",
+   "title": "Il Brasile incontra il Salento: musica senza confini a Galatina",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/GALATINA.jpg",
+   "url": "https://trnews.it/2026/10/24/il-brasile-incontra-il-salento-musica-senza-confini-a-galatina",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T12:55:52+00:00"
+  },
+  {
+   "id": "9d359c3d286f",
+   "title": "Lecce ricorda il generale Anders: il legame tra Italia e Polonia nel segno della Liberazione",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/liceo.jpg",
+   "url": "https://trnews.it/2026/10/24/lecce-ricorda-il-generale-anders-il-legame-tra-italia-e-polonia-nel-segno-della-liberazione",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T12:53:04+00:00"
+  },
   {
    "id": "9ab0f6430767",
    "title": "Elezioni amministrative 2027, Obiettivo Comune al fianco di Maria Grazia Sodero",
@@ -145,6 +178,28 @@
    "published_at": "2026-10-24T10:15:26+00:00"
   },
   {
+   "id": "9fc26ef0e3e5",
+   "title": "È morto Giulio Musca, fondatore di Saicar Industriali S.p.A.: aveva 84 anni",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-09.45.48-1024x576.jpeg",
+   "url": "https://trnews.it/2026/10/24/e-morto-giulio-musca-fondatore-di-saicar-industriali-s-p-a-aveva-84-anni",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T10:08:55+00:00"
+  },
+  {
+   "id": "83c910f05983",
+   "title": "Nasce Destinazione Galatina, il brand che porta la città oltre i suoi confini",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/logo_destinazione_galatina_2x-1024x456.png",
+   "url": "https://trnews.it/2026/10/24/nasce-destinazione-galatina",
+   "source": "TeleRama News",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T10:04:22+00:00"
+  },
+  {
    "id": "083b3918eea0",
    "title": "Lecce, brutte notizie per Ilić: sarà operato al tendine",
    "summary": "",
@@ -154,6 +209,28 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-24T09:53:33+00:00"
+  },
+  {
+   "id": "0447870b4b87",
+   "title": "Basket A2, Brindisi ospita Avellino per il rilancio",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/09/valtur-brindisi-Cinciarini-contro-Ruvo-Memorial-Pentassuglia-1024x819.jpeg",
+   "url": "https://trnews.it/2026/10/24/519610",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-10-24T09:45:32+00:00"
+  },
+  {
+   "id": "8b14fad40566",
+   "title": "Serie D, è lotta in testa. Riflettori su Bisceglie-Brindisi",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/brindisi-1024x683.jpg",
+   "url": "https://trnews.it/2026/10/24/serie-d-e-lotta-in-testa-riflettori-su-bisceglie-brindisi",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-10-24T09:28:39+00:00"
   },
   {
    "id": "062b5106e855",
@@ -189,6 +266,17 @@
    "published_at": "2026-10-24T08:46:17+00:00"
   },
   {
+   "id": "a116a3f60cd9",
+   "title": "“Millesuoni” per Tuglie, serata di live e convivialità",
+   "summary": "TUGLIE (LECCE): Tuglie, a partire dalle 20,00, si prepara a vivere una serata speciale all’insegna dell’amore per la musica. L’associazione musicale “Millesuoni” apre infatti le sue porte a tutta la…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/millesuoni-per-tuglie-serata-di-live-e-convivialita/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T08:36:28+00:00"
+  },
+  {
    "id": "f5f70f49d685",
    "title": "Lecce, addio a Giulio Musca: il cuore e l'anima della Saicar",
    "summary": "",
@@ -211,28 +299,6 @@
    "published_at": "2026-10-24T08:14:58+00:00"
   },
   {
-   "id": "9fc26ef0e3e5",
-   "title": "È morto Giulio Musca, fondatore di Saicar Industriali S.p.A.: aveva 84 anni",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-09.45.48-1024x576.jpeg",
-   "url": "https://trnews.it/2026/10/24/e-morto-giulio-musca-fondatore-di-saicar-industriali-s-p-a-aveva-84-anni",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T08:08:55+00:00"
-  },
-  {
-   "id": "83c910f05983",
-   "title": "Nasce Destinazione Galatina, il brand che porta la città oltre i suoi confini",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/logo_destinazione_galatina_2x-1024x456.png",
-   "url": "https://trnews.it/2026/10/24/nasce-destinazione-galatina",
-   "source": "TeleRama News",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T08:04:22+00:00"
-  },
-  {
    "id": "08dfae8f8c76",
    "title": "POS scollegati e registratori fantasma: 43 verbali della Finanza nel Salento",
    "summary": "",
@@ -244,17 +310,6 @@
    "published_at": "2026-10-24T07:54:06+00:00"
   },
   {
-   "id": "0447870b4b87",
-   "title": "Basket A2, Brindisi ospita Avellino per il rilancio",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/09/valtur-brindisi-Cinciarini-contro-Ruvo-Memorial-Pentassuglia-1024x819.jpeg",
-   "url": "https://trnews.it/2026/10/24/519610",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-10-24T07:45:32+00:00"
-  },
-  {
    "id": "9817a879b519",
    "title": "Cortei di trattori verso Maglie: agricoltori in strada, viabilità a rilento",
    "summary": "MAGLIE (Lecce) – La protesta dei nostri agricoltori si sposta verso Maglie, dove nella mattinata di oggi centinaia di operatori del settore si sono dati appuntamento per dare vita a una grande mobili…",
@@ -264,17 +319,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-24T07:43:15+00:00"
-  },
-  {
-   "id": "8b14fad40566",
-   "title": "Serie D, è lotta in testa. Riflettori su Bisceglie-Brindisi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/brindisi-1024x683.jpg",
-   "url": "https://trnews.it/2026/10/24/serie-d-e-lotta-in-testa-riflettori-su-bisceglie-brindisi",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-10-24T07:28:39+00:00"
   },
   {
    "id": "7593787c80f4",
@@ -2453,41 +2497,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-21T14:05:37+00:00"
-  },
-  {
-   "id": "fc0f93e1a69e",
-   "title": "Impianto di rifiuti tra Sanarica e Giuggianello, il Tar boccia il progetto Cesa: il bosco cambia tutto, autorizzazione annullata",
-   "summary": "GIUGGIANELLO /SANARICA – Il Comune di Giuggianello vince la battaglia giudiziaria contro il via libera della Provincia di Lecce. Decisivi il bosco tutelato a meno di 27 metri, le lacune nella valutaz…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/impianto-di-rifiuti-tra-sanarica-e-giuggianello-il-tar-boccia-il-progetto-cesa-il-bosco-cambia-tutto-autorizzazione-annullata/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T13:32:06+00:00"
-  },
-  {
-   "id": "795fcf09f140",
-   "title": "Gasolio “bene prezioso” letteralmente a ruba, i carabinieri arrestano due ladri",
-   "summary": "Maglie (Lecce) – Beccati mentre depredavano carburante, sono finiti nei guai. Non si arresta il presidio capillare dell’Arma dei Carabinieri nel Salento, a tutela della sicurezza dei cittadini, dei b…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/gasolio-bene-prezioso-letteralmente-a-ruba-i-carabinieri-arrestano-due-ladri/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T13:12:52+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T13:02:03.379495+00:00",
+   "last_ok": "2026-10-24T13:50:22.895147+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T13:02:03.379495+00:00",
+   "last_ok": "2026-10-24T13:50:22.895147+00:00",
    "error": null
   },
   {
@@ -2499,19 +2521,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T13:02:03.379495+00:00",
+   "last_ok": "2026-10-24T13:50:22.895147+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T13:02:03.379495+00:00",
+   "last_ok": "2026-10-24T13:50:22.895147+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T13:02:03.379495+00:00",
+   "last_ok": "2026-10-24T13:50:22.895147+00:00",
    "error": null
   }
  ]
