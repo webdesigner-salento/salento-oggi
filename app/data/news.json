@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-10-24T08:13:12.748991+00:00",
+ "updated_at": "2026-10-24T08:54:21.764871+00:00",
  "items": [
+  {
+   "id": "b25766f11378",
+   "title": "Lecce, piano da 730mila euro contro le barriere architettoniche: ecco dove si interverrà",
+   "summary": "LECCE – Un marciapiede impraticabile, una rampa che manca, un attraversamento difficile da raggiungere: ostacoli quotidiani che possono impedire anche il più semplice degli spostamenti. Parte da ques…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lecce-piano-da-730mila-euro-contro-le-barriere-architettoniche-ecco-dove-si-interverra/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T08:46:17+00:00"
+  },
+  {
+   "id": "f5f70f49d685",
+   "title": "Lecce, addio a Giulio Musca: il cuore e l'anima della Saicar",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/giulio-musca.jpg",
+   "url": "https://trnews.it/2026/10/24/lecce-addio-a-giulio-musca-il-cuore-e-lanima-della-saicar",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T08:19:54+00:00"
+  },
+  {
+   "id": "2bc0aa67b714",
+   "title": "Lecce, raid vandalico al liceo Ciardo Pellegrino: vernice blu su colonne e portone",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/959d387c-e70d-4af1-989b-5dd19b80b281-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/24/lecce-raid-vandalico-al-liceo-ciardo-pellegrino-vernice-blu-su-colonne-e-portone",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T08:14:58+00:00"
+  },
   {
    "id": "9fc26ef0e3e5",
    "title": "È morto Giulio Musca, fondatore di Saicar Industriali S.p.A.: aveva 84 anni",
@@ -2453,85 +2486,19 @@
    "category": "Economia",
    "zone": "Italia",
    "published_at": "2026-10-21T08:54:44+00:00"
-  },
-  {
-   "id": "3ca265a1dd47",
-   "title": "Sabato 24 ottobre ad Arnesano “Paesaggi sonori: da Grieg a Prokofiev”, secondo appuntamento della Stagione concertistica Opera Prima 2026-2027",
-   "summary": "ARNESANO (Lecce) – Undici appuntamenti, tra cui quello con il tradizionale Festival di Pasqua, quattro comuni coinvolti e un percorso musicale che attraversa epoche, linguaggi e formazioni diverse. D…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/sabato-24-ottobre-ad-arnesano-paesaggi-sonori-da-grieg-a-prokofiev-secondo-appuntamento-della-stagione-concertistica-opera-prima-2026-2027/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T08:47:20+00:00"
-  },
-  {
-   "id": "215e7181d4ff",
-   "title": "Transiti di armi nei porti e trasparenza. La storica sentenza del Consiglio di Stato",
-   "summary": "Il 16 ottobre il Consiglio di Stato in sede giurisdizionale (sezione sesta) ha pronunciato una sentenza storica che farà giurisprudenza nel campo della trasparenza, la numero 06259 del 2026. Ha respi…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/rinson-chory-2vPGGOU-wLA-unsplash-scaled.jpg",
-   "url": "https://altreconomia.it/transito-di-armi-nei-porti-e-trasparenza-la-sentenza-storica-del-consiglio-di-stato/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-21T08:44:06+00:00"
-  },
-  {
-   "id": "86f5aa3ea75b",
-   "title": "La professoressa Auriemma nominata Consigliera Scientifica della Marina Militare per il biennio 2026-2027",
-   "summary": "LECCE – La Marina Militare ha conferito alla professoressa Rita Auriemma il titolo di “Consigliera Scientifica della Marina Militare” per il biennio 2026-2027. Auriemma è archeologa subacquea e profe…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/la-professoressa-auriemma-nominata-consigliera-scientifica-della-marina-militare-per-il-biennio-2026-2027/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T08:41:06+00:00"
-  },
-  {
-   "id": "0ef16bfc477a",
-   "title": "Lecce Città Pubblica chiede approfondimenti: “Caso Yucche, oggi sappiamo di più, ma non tutto”",
-   "summary": "LECCE – Mentre la Lupiae è al lavoro sulle nuove alberature per porre rimedio ai tagli non autorizzati in via Po, nel quartiere Santa Rosa, per l’opposizione il “caso Yucche” non è chiuso. “Dopo quan…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lecce-citta-pubblica-chiede-approfondimenti-caso-yucche-oggi-sappiamo-di-piu-ma-non-tutto/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T08:34:08+00:00"
-  },
-  {
-   "id": "a17ac926ad05",
-   "title": "Dhoui Lassoued è morto in un Cpr ma per tre volte era stato dichiarato inidoneo a entrarci",
-   "summary": "Con la voce rotta Sana Lassoued ricordando suo fratello Dhoui, morto nel Centro di permanenza per il rimpatrio di Palazzo San Gervasio il 10 agosto 2026, ripete più volte una frase: “Si vedeva anche…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/WhatsApp-Image-2026-09-23-at-15.17.57.jpeg",
-   "url": "https://altreconomia.it/dhoui-lassoued-e-morto-in-un-cpr-ma-per-tre-volte-era-stato-dichiarato-inidoneo-a-entrarci/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-21T08:21:22+00:00"
-  },
-  {
-   "id": "fc15a647a96d",
-   "title": "Dohui Lassoued è morto in un Cpr ma per tre volte era stato dichiarato inidoneo a entrarci",
-   "summary": "Con la voce rotta Sana Lassoued ricordando suo fratello Dhoui, morto nel Centro di permanenza per il rimpatrio di Palazzo San Gervasio il 10 agosto 2026, ripete più volte una frase: “Si vedeva anche…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/WhatsApp-Image-2026-09-23-at-15.17.57.jpeg",
-   "url": "https://altreconomia.it/dohui-lassoued-e-morto-in-un-cpr-ma-per-tre-volte-era-stato-dichiarato-inidoneo-a-entrarci/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-21T08:21:22+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T08:13:12.748991+00:00",
+   "last_ok": "2026-10-24T08:54:21.764871+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T08:13:12.748991+00:00",
+   "last_ok": "2026-10-24T08:54:21.764871+00:00",
    "error": null
   },
   {
@@ -2543,19 +2510,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T08:13:12.748991+00:00",
+   "last_ok": "2026-10-24T08:54:21.764871+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T08:13:12.748991+00:00",
+   "last_ok": "2026-10-24T08:54:21.764871+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T08:13:12.748991+00:00",
+   "last_ok": "2026-10-24T08:54:21.764871+00:00",
    "error": null
   }
  ]
