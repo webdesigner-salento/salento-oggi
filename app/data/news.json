@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-24T11:12:31.077889+00:00",
+ "updated_at": "2026-10-24T11:51:59.627031+00:00",
  "items": [
+  {
+   "id": "9c6e9b25c259",
+   "title": "Protesta agricoltori, oltre 800 in corteo: \"Ora basta\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_4196-1024x707.jpeg",
+   "url": "https://trnews.it/2026/10/24/protesta-agricoltori-oltre-800-in-corteo-ora-basta",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T11:39:04+00:00"
+  },
+  {
+   "id": "af4a30ed6c1f",
+   "title": "Lecce, sport e inclusione: gli Special Day di Special Olympics",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_4195-1024x576.jpeg",
+   "url": "https://trnews.it/2026/10/24/lecce-sport-e-inclusione-gli-special-day-di-special-olympics",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T11:36:47+00:00"
+  },
   {
    "id": "37eaf11b9cd3",
    "title": "Sorpreso a rubare rame in un ex plesso sanitario della ASL: 57enne ai domiciliari",
@@ -2453,41 +2475,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-21T12:00:39+00:00"
-  },
-  {
-   "id": "454e008cefb5",
-   "title": "Gagliano del Capo, il sindaco Melcarne: «L’unica ipotesi che mi riguarda è l’omissione di atti d’ufficio. Nessuna contestazione per abusi edilizi o falso»",
-   "summary": "In merito alle notizie diffuse negli ultimi giorni sulla richiesta di rinvio a giudizio formulata dalla Procura della Repubblica di Lecce, il sindaco di Gagliano del Capo, Gianfranco Melcarne, ritien…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/gagliano-del-capo-il-sindaco-melcarne-lunica-ipotesi-che-mi-riguarda-e-lomissione-di-atti-dufficio-nessuna-contestazione-per-abusi-edilizi-o-falso/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T11:47:17+00:00"
-  },
-  {
-   "id": "e01ce945201b",
-   "title": "Taekwondo, Sofia De Marianis vince l'oro ai campionati italiani",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/sofia-e1792582189655-1024x782.jpg",
-   "url": "https://trnews.it/2026/10/21/taekwondo-sofia-de-marianis-vince-loro-ai-campionati-italiani",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T11:28:52+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T11:12:31.077889+00:00",
+   "last_ok": "2026-10-24T11:51:59.627031+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T11:12:31.077889+00:00",
+   "last_ok": "2026-10-24T11:51:59.627031+00:00",
    "error": null
   },
   {
@@ -2499,19 +2499,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T11:12:31.077889+00:00",
+   "last_ok": "2026-10-24T11:51:59.627031+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T11:12:31.077889+00:00",
+   "last_ok": "2026-10-24T11:51:59.627031+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T11:12:31.077889+00:00",
+   "last_ok": "2026-10-24T11:51:59.627031+00:00",
    "error": null
   }
  ]
