@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-24T09:13:58.254164+00:00",
+ "updated_at": "2026-10-24T09:53:10.974824+00:00",
  "items": [
+  {
+   "id": "062b5106e855",
+   "title": "POS e cassa non collegati: scattano i controlli: 43 sanzioni",
+   "summary": "SALENTO – Una vasta operazione di verifica fiscale condotta sul territorio della provincia salentina dal Comando Provinciale della Guardia di Finanza di Lecce ha riacceso i riflettori sul rispetto de…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/pos-e-cassa-non-collegati-scattano-i-controlli-43-sanzioni/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T09:24:03+00:00"
+  },
+  {
+   "id": "d8ae45c1e262",
+   "title": "Basket C, Monteroni ospita Martina Franca",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG-20261023-WA00641-1024x990.jpg",
+   "url": "https://trnews.it/2026/10/24/basket-c-monteroni-ospita-martina-franca",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-10-24T09:12:09+00:00"
+  },
   {
    "id": "b25766f11378",
    "title": "Lecce, piano da 730mila euro contro le barriere architettoniche: ecco dove si interverrà",
@@ -288,6 +310,17 @@
    "published_at": "2026-10-23T22:01:35+00:00"
   },
   {
+   "id": "f023ecc83af3",
+   "title": "Rogo partito dal camion della raccolta rifiuti: inflitti 3 anni a uno dei due dipendenti Monteco già licenziati",
+   "summary": "LECCE/FRIGOLE/TREPUZZI – C’è un primo verdetto nell’inchiesta sull’incendio appiccato, in località Masseria Olmo, a Frigole, ai danni di una vasta superficie di macchia mediterranea. Farudin Bejtaj,…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/rogo-partito-dal-camion-della-raccolta-rifiuti-inflitti-3-anni-a-uno-dei-due-dipendenti-monteco-gia-licenziati/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-23T21:10:17+00:00"
+  },
+  {
    "id": "ef6b50b30b2f",
    "title": "Foggia, il Campese Amadori festeggia 25 anni di storia",
    "summary": "",
@@ -572,17 +605,6 @@
    "category": "Cronaca",
    "zone": "Salento",
    "published_at": "2026-10-23T14:10:21+00:00"
-  },
-  {
-   "id": "f023ecc83af3",
-   "title": "Rogo partito dal camion della raccolta rifiuti: inflitti 3 anni a uno dei due dipendenti Monteco già licenziati",
-   "summary": "LECCE/FRIGOLE/TREPUZZI – C’è un primo verdetto nell’inchiesta sull’incendio appiccato, in località Masseria Olmo, a Frigole, ai danni di una vasta superficie di macchia mediterranea. Farudin Bejtaj,…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/rogo-partito-dal-camion-della-raccolta-rifiuti-inflitti-3-anni-a-uno-dei-due-dipendenti-monteco-gia-licenziati/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T14:10:17+00:00"
   },
   {
    "id": "3db0ed22a32b",
@@ -2409,63 +2431,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-21T10:11:55+00:00"
-  },
-  {
-   "id": "6bf4d0409212",
-   "title": "Meteo di domani 22 ottobre nel Salento: previsioni, temperature e cosa aspettarsi",
-   "summary": "Puglia – Condizioni di tempo asciutto nel corso della giornata con cieli sereni o poco nuvolosi su tutta la regione sia al mattino che al pomeriggio. Nuvolosità in aumento in serata con possibilità d…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/meteo-di-domani-22-ottobre-nel-salento-previsioni-temperature-e-cosa-aspettarsi/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T09:35:49+00:00"
-  },
-  {
-   "id": "c226e27c88cb",
-   "title": "Identificati dalla Polizia oltre 3mila soggetti e sanzionati diversi esercizi commerciali",
-   "summary": "Lecce – Controlli a tappeto da parte della Polizia di Stato. La scorsa settimana, la Polizia di Stato ha proseguito l’attuazione dei servizi straordinari di controllo del territorio su disposizione d…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/identificati-dalla-polizia-oltre-3mila-soggetti-e-sanzionati-diversi-esercizi-commerciali/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T09:32:31+00:00"
-  },
-  {
-   "id": "2859c7a5b2da",
-   "title": "Le case popolari devono scomparire dalla faccia di Milano e fare spazio alla rendita",
-   "summary": "Le riflessioni che intendo proporre appartengono a quella bellissima e dura esperienza che è il Sicet, il Sindacato inquilini casa e territorio, voce spesso inascoltata e scomoda, nata nel lontanissi…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/IMG_5715-scaled.jpg",
-   "url": "https://altreconomia.it/le-case-popolari-devono-scomparire-dalla-faccia-di-milano-e-fare-spazio-alla-rendita/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-21T09:19:33+00:00"
-  },
-  {
-   "id": "f1252ff2140d",
-   "title": "Morte di Roberta Bertacchi, riesumata la salma della 26enne alla ricerca di tracce utili alle indagini",
-   "summary": "Casarano (Lecce) – Riesumata la salma alla ricerca di tracce utili per fare luce sulla morte di Roberta Bertacchi, la 26enne trovata morta a Casarano all’alba del 6 gennaio del 2024. Per questo, nel…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/morte-di-roberta-bertacchi-riesumata-la-salma-della-26enne-alla-ricerca-di-tracce-utili-alle-indagini/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T09:19:10+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T09:13:58.254164+00:00",
+   "last_ok": "2026-10-24T09:53:10.974824+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T09:13:58.254164+00:00",
+   "last_ok": "2026-10-24T09:53:10.974824+00:00",
    "error": null
   },
   {
@@ -2477,19 +2455,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T09:13:58.254164+00:00",
+   "last_ok": "2026-10-24T09:53:10.974824+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T09:13:58.254164+00:00",
+   "last_ok": "2026-10-24T09:53:10.974824+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T09:13:58.254164+00:00",
+   "last_ok": "2026-10-24T09:53:10.974824+00:00",
    "error": null
   }
  ]
