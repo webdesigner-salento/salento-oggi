@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T05:53:13.358069+00:00",
+ "updated_at": "2026-10-24T06:13:59.688273+00:00",
  "items": [
   {
    "id": "8b5ac1097790",
@@ -2442,30 +2442,19 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-21T06:17:16+00:00"
-  },
-  {
-   "id": "68e20cfe4ba9",
-   "title": "Scontri Milano: sondaggio Only Numbers a Filorosso (Rai 3): il 66% degli italiani chiede più misure per l’ordine pubblico",
-   "summary": "Gli italiani condannano nettamente le manifestazioni che degenerano in violenza e chiedono interventi più incisivi sul fronte dell’ordine pubblico. È quanto emerge dal sondaggio realizzato da Only Nu…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/scontri-milano-sondaggio-only-numbers-a-filorosso-rai-3-il-66-degli-italiani-chiede-piu-misure-per-lordine-pubblico/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-21T06:04:30+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T05:53:13.358069+00:00",
+   "last_ok": "2026-10-24T06:13:59.688273+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T05:53:13.358069+00:00",
+   "last_ok": "2026-10-24T06:13:59.688273+00:00",
    "error": null
   },
   {
@@ -2477,19 +2466,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T05:53:13.358069+00:00",
+   "last_ok": "2026-10-24T06:13:59.688273+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T05:53:13.358069+00:00",
+   "last_ok": "2026-10-24T06:13:59.688273+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T05:53:13.358069+00:00",
+   "last_ok": "2026-10-24T06:13:59.688273+00:00",
    "error": null
   }
  ]
