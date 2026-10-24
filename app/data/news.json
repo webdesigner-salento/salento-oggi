@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T20:07:01.809255+00:00",
+ "updated_at": "2026-10-24T20:48:13.686619+00:00",
  "items": [
   {
    "id": "4c6a9e05fb2c",
@@ -2288,30 +2288,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-21T20:51:12+00:00"
-  },
-  {
-   "id": "db42f0010c07",
-   "title": "Inchiesta Delli Noci, l’ex assessore risponde alle accuse davanti al giudice",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/07/delli-noci-inchiesta.jpg",
-   "url": "https://trnews.it/2026/10/21/inchiesta-delli-noci-lex-assessore-risponde-alle-accuse-davanti-al-giudice",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T20:34:04+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T20:07:01.809255+00:00",
+   "last_ok": "2026-10-24T20:48:13.686619+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T20:07:01.809255+00:00",
+   "last_ok": "2026-10-24T20:48:13.686619+00:00",
    "error": null
   },
   {
@@ -2323,19 +2312,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T20:07:01.809255+00:00",
+   "last_ok": "2026-10-24T20:48:13.686619+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T20:07:01.809255+00:00",
+   "last_ok": "2026-10-24T20:48:13.686619+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T20:07:01.809255+00:00",
+   "last_ok": "2026-10-24T20:48:13.686619+00:00",
    "error": null
   }
  ]
