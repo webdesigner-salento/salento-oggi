@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T22:48:23.826687+00:00",
+ "updated_at": "2026-10-24T23:10:06.448084+00:00",
  "items": [
   {
    "id": "b3ee68716692",
@@ -2222,30 +2222,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-22T04:20:58+00:00"
-  },
-  {
-   "id": "712660bdd7d1",
-   "title": "Basket A2 - Rieti-Brindisi: 70-63",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot_20261021_225018_Facebook-990x1024.jpg",
-   "url": "https://trnews.it/2026/10/21/basket-a2-rieti-brindisi-70-63",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-10-21T22:55:32+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T22:48:23.826687+00:00",
+   "last_ok": "2026-10-24T23:10:06.448084+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T22:48:23.826687+00:00",
+   "last_ok": "2026-10-24T23:10:06.448084+00:00",
    "error": null
   },
   {
@@ -2257,19 +2246,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T22:48:23.826687+00:00",
+   "last_ok": "2026-10-24T23:10:06.448084+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T22:48:23.826687+00:00",
+   "last_ok": "2026-10-24T23:10:06.448084+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T22:48:23.826687+00:00",
+   "last_ok": "2026-10-24T23:10:06.448084+00:00",
    "error": null
   }
  ]
