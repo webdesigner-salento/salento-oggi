@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-24T10:13:24.019831+00:00",
+ "updated_at": "2026-10-24T10:51:52.478934+00:00",
  "items": [
+  {
+   "id": "bbdfbcd10c20",
+   "title": "Filctem e Fillea replicano al vicesindaco Anguilla: “La politica non scarichi sui lavoratori colpe che non hanno”",
+   "summary": "“I lavoratori meritano rispetto. La politica si assuma le proprie responsabilità”. I segretari generali di Fillea Cgil Lecce e Filctem Cgil Lecce, Luca Toma e Franco Giancane, replicano all’assessore…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/filctem-e-fillea-replicano-al-vicesindaco-anguilla-la-politica-non-scarichi-sui-lavoratori-colpe-che-non-hanno/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T10:17:46+00:00"
+  },
+  {
+   "id": "c5044add9b37",
+   "title": "Ilić, nuovi esami e operazione in Finlandia: ecco cosa è emerso e quali sono i tempi di recupero",
+   "summary": "LECCE – Gli ulteriori accertamenti hanno confermato per Ivan Ilić una lesione miotendinea del retto femorale sinistro, con lesione parziale del tendine, in seguito all’infortunio riportato contro il…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/ilic-nuovi-esami-e-operazione-in-finlandia-ecco-cosa-e-emerso-e-quali-sono-i-tempi-di-recupero/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T10:15:26+00:00"
+  },
   {
    "id": "083b3918eea0",
    "title": "Lecce, brutte notizie per Ilić: sarà operato al tendine",
@@ -25,13 +47,13 @@
   },
   {
    "id": "d8ae45c1e262",
-   "title": "Basket C, Monteroni ospita Martina Franca",
+   "title": "Basket C, Np Monteroni ospite doMartina Franca",
    "summary": "",
    "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG-20261023-WA00641-1024x990.jpg",
    "url": "https://trnews.it/2026/10/24/basket-c-monteroni-ospita-martina-franca",
    "source": "TeleRama News",
    "category": "Sport",
-   "zone": "Taranto",
+   "zone": "Salento",
    "published_at": "2026-10-24T09:12:09+00:00"
   },
   {
@@ -2398,52 +2420,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-21T10:54:24+00:00"
-  },
-  {
-   "id": "454bba85f910",
-   "title": "Droni nel Mar Nero e navi mercantili colpite: la guerra ibrida russa sfida la NATO?",
-   "summary": "Sei attacchi con droni nel Mar Nero riaccendono l'allarme guerra ibrida ai confini NATO tra Romania e Bulgaria: quando diventa una minaccia per la NATO?",
-   "image": null,
-   "url": "https://www.valigiablu.it/droni-guerra-ibrida-mar-nero-russia-nato/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-21T10:43:01+00:00"
-  },
-  {
-   "id": "9caaef416df9",
-   "title": "Eccellenza Pugliese, ultimatum in casa Taranto prima della sfida col Trani",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/tara-scaled-e1792572033587-1024x869.jpg",
-   "url": "https://trnews.it/2026/10/21/eccellenza-pugliese-ultimatum-in-casa-taranto-prima-della-sfida-col-trani",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-10-21T10:40:42+00:00"
-  },
-  {
-   "id": "a939c506060a",
-   "title": "Il tessuto industriale logoro di Maserati a Modena, un altro pezzo del declino di Stellantis",
-   "summary": "A pesare su produzione e occupazione non è stato solo il calo delle vendite ma anche la decisione dell'allora Fca di trasferire dal 2013 parte della produzione in Piemonte, a Grugliasco e a Mirafiori…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/maseratistabilimento-scaled.jpg",
-   "url": "https://altreconomia.it/il-tessuto-industriale-logoro-di-maserati-a-modena-un-altro-pezzo-del-declino-di-stellantis/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-21T10:13:34+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T10:13:24.019831+00:00",
+   "last_ok": "2026-10-24T10:51:52.478934+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T10:13:24.019831+00:00",
+   "last_ok": "2026-10-24T10:51:52.478934+00:00",
    "error": null
   },
   {
@@ -2455,19 +2444,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T10:13:24.019831+00:00",
+   "last_ok": "2026-10-24T10:51:52.478934+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T10:13:24.019831+00:00",
+   "last_ok": "2026-10-24T10:51:52.478934+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T10:13:24.019831+00:00",
+   "last_ok": "2026-10-24T10:51:52.478934+00:00",
    "error": null
   }
  ]
