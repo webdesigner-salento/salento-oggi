@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T17:47:36.649842+00:00",
+ "updated_at": "2026-10-24T18:09:21.006071+00:00",
  "items": [
   {
    "id": "787868e625a2",
@@ -22,6 +22,17 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-24T16:33:37+00:00"
+  },
+  {
+   "id": "e83ee09f3d94",
+   "title": "Derubava pazienti in condizioni critiche: oss, nel frattempo licenziata, condannata a 2 anni. Ora è libera",
+   "summary": "LECCE – Derubava pazienti all’interno pronto soccorso dell’ospedale Vito Fazzi approfittando delle loro gravi condizioni di salute. Sfilava soldi, carte bancomat e oggetti di valore. C.P., un’operatr…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/derubava-pazienti-in-condizioni-critiche-oss-nel-frattempo-licenziata-condannata-a-2-anni-ora-e-libera/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T15:40:19+00:00"
   },
   {
    "id": "ab99fb857c10",
@@ -2277,41 +2288,19 @@
    "category": "Altro",
    "zone": "Taranto",
    "published_at": "2026-10-21T18:27:34+00:00"
-  },
-  {
-   "id": "437f2b307e1d",
-   "title": "Lecce, il Barocco torna a splendere: “Anima pietra” restituisce alla città la facciata della Basilica del Rosario",
-   "summary": "LECCE – Un milione di euro per restituire alla città uno dei suoi capolavori barocchi. La Basilica di San Giovanni Battista, conosciuta come Chiesa del Rosario, si mostra nuovamente in tutta la sua b…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/962e52b4-39c7-4ec8-bc40-ed43b943eea6-300x167.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/10/lecce-il-barocco-torna-a-splendere-anima-pietra-restituisce-alla-citta-la-facciata-della-basilica-del-rosario/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T18:05:53+00:00"
-  },
-  {
-   "id": "a15696062131",
-   "title": "Casarano, ufficializzato lo staff tecnico",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/07/conferenza-Casarano.jpg",
-   "url": "https://trnews.it/2026/10/21/casarano-ufficializzato-lo-staff-tecnico",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T17:59:24+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T17:47:36.649842+00:00",
+   "last_ok": "2026-10-24T18:09:21.006071+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T17:47:36.649842+00:00",
+   "last_ok": "2026-10-24T18:09:21.006071+00:00",
    "error": null
   },
   {
@@ -2323,19 +2312,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T17:47:36.649842+00:00",
+   "last_ok": "2026-10-24T18:09:21.006071+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T17:47:36.649842+00:00",
+   "last_ok": "2026-10-24T18:09:21.006071+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T17:47:36.649842+00:00",
+   "last_ok": "2026-10-24T18:09:21.006071+00:00",
    "error": null
   }
  ]
