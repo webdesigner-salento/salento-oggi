@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T15:51:34.572002+00:00",
+ "updated_at": "2026-10-24T16:12:29.730267+00:00",
  "items": [
   {
    "id": "f993a7e78c23",
@@ -2354,30 +2354,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-21T16:21:24+00:00"
-  },
-  {
-   "id": "cb62ad66fe9d",
-   "title": "Attentati al bar, in Appello condanna dimezzata per Lucio Mancino",
-   "summary": "PRESICCE-ACQUARICA (Lecce) – Si riduce ulteriormente la pena per Lucio Mancino, noto come u’mama, ritenuto responsabile dei reati di tentata estorsione e stalking ai danni della titolare di un bar di…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/attentati-al-bar-in-appello-condanna-dimezzata-per-lucio-mancino/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T16:00:19+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T15:51:34.572002+00:00",
+   "last_ok": "2026-10-24T16:12:29.730267+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T15:51:34.572002+00:00",
+   "last_ok": "2026-10-24T16:12:29.730267+00:00",
    "error": null
   },
   {
@@ -2389,19 +2378,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T15:51:34.572002+00:00",
+   "last_ok": "2026-10-24T16:12:29.730267+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T15:51:34.572002+00:00",
+   "last_ok": "2026-10-24T16:12:29.730267+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T15:51:34.572002+00:00",
+   "last_ok": "2026-10-24T16:12:29.730267+00:00",
    "error": null
   }
  ]
