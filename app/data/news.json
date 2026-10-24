@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-24T09:53:10.974824+00:00",
+ "updated_at": "2026-10-24T10:13:24.019831+00:00",
  "items": [
+  {
+   "id": "083b3918eea0",
+   "title": "Lecce, brutte notizie per Ilić: sarà operato al tendine",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-11.47.15-1024x698.jpeg",
+   "url": "https://trnews.it/2026/10/24/lecce-brutte-notizie-per-ilic-sara-operato-al-tendine",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T09:53:33+00:00"
+  },
   {
    "id": "062b5106e855",
    "title": "POS e cassa non collegati: scattano i controlli: 43 sanzioni",
@@ -104,7 +115,7 @@
    "id": "9817a879b519",
    "title": "Cortei di trattori verso Maglie: agricoltori in strada, viabilità a rilento",
    "summary": "MAGLIE (Lecce) – La protesta dei nostri agricoltori si sposta verso Maglie, dove nella mattinata di oggi centinaia di operatori del settore si sono dati appuntamento per dare vita a una grande mobili…",
-   "image": null,
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/Corriere-salentino-5-1-700x420.jpeg",
    "url": "https://www.corrieresalentino.it/2026/10/cortei-di-trattori-verso-maglie-agricoltori-in-strada-viabilita-a-rilento/",
    "source": "Corriere Salentino",
    "category": "Cronaca",
@@ -165,6 +176,17 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-24T07:01:52+00:00"
+  },
+  {
+   "id": "8b5ac1097790",
+   "title": "Oggi su Tele Rama Sport Club",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Sport-Club-2.jpg",
+   "url": "https://trnews.it/2026/10/24/oggi-su-tele-rama-sport-club",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-24T06:53:36+00:00"
   },
   {
    "id": "418fac284336",
@@ -253,17 +275,6 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-24T04:56:21+00:00"
-  },
-  {
-   "id": "8b5ac1097790",
-   "title": "Oggi su Tele Rama Sport Club",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Sport-Club-2.jpg",
-   "url": "https://trnews.it/2026/10/24/oggi-su-tele-rama-sport-club",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-10-24T04:53:36+00:00"
   },
   {
    "id": "05b33a7d43f8",
@@ -2420,30 +2431,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-21T10:13:34+00:00"
-  },
-  {
-   "id": "faf349fcd85d",
-   "title": "Serie D/H: Martina, Turris e V. Francavilla tentano la fuga",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/francavilla-1024x683.png",
-   "url": "https://trnews.it/2026/10/21/serie-d-h-martina-turris-e-v-francavilla-tentano-la-fuga",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T10:11:55+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T09:53:10.974824+00:00",
+   "last_ok": "2026-10-24T10:13:24.019831+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T09:53:10.974824+00:00",
+   "last_ok": "2026-10-24T10:13:24.019831+00:00",
    "error": null
   },
   {
@@ -2455,19 +2455,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T09:53:10.974824+00:00",
+   "last_ok": "2026-10-24T10:13:24.019831+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T09:53:10.974824+00:00",
+   "last_ok": "2026-10-24T10:13:24.019831+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T09:53:10.974824+00:00",
+   "last_ok": "2026-10-24T10:13:24.019831+00:00",
    "error": null
   }
  ]
