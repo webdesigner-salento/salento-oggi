@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-24T04:53:45.668037+00:00",
+ "updated_at": "2026-10-24T05:14:57.411110+00:00",
  "items": [
+  {
+   "id": "8b5ac1097790",
+   "title": "Oggi su Tele Rama Sport Club",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Sport-Club-2.jpg",
+   "url": "https://trnews.it/2026/10/24/oggi-su-tele-rama-sport-club",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-24T04:53:36+00:00"
+  },
   {
    "id": "05b33a7d43f8",
    "title": "Israele al voto: una occasione mancata per il futuro democratico del paese?",
@@ -2442,30 +2453,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-21T06:04:30+00:00"
-  },
-  {
-   "id": "531a6cbdcabf",
-   "title": "L’almanacco di oggi 21 ottobre",
-   "summary": "Il Santo del giorno: Sant’Orsola. Il proverbio di Mesciu Ronzu: Petre mini, petre ccueji. Significato: Pietre butti e pietre prendi. – Sono nati in questo giorno 1833 Alfred Nobel 1898 Amedeo d’Aosta…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lalmanacco-di-oggi-21-ottobre/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-21T05:00:20+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T04:53:45.668037+00:00",
+   "last_ok": "2026-10-24T05:14:57.411110+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T04:53:45.668037+00:00",
+   "last_ok": "2026-10-24T05:14:57.411110+00:00",
    "error": null
   },
   {
@@ -2477,19 +2477,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T04:53:45.668037+00:00",
+   "last_ok": "2026-10-24T05:14:57.411110+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T04:53:45.668037+00:00",
+   "last_ok": "2026-10-24T05:14:57.411110+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T04:53:45.668037+00:00",
+   "last_ok": "2026-10-24T05:14:57.411110+00:00",
    "error": null
   }
  ]
