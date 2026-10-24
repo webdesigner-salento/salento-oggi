@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-24T17:13:16.943509+00:00",
+ "updated_at": "2026-10-24T17:47:36.649842+00:00",
  "items": [
+  {
+   "id": "787868e625a2",
+   "title": "Melendugno, a Parma terza sconfitta in quattro partite",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-24-192921.png",
+   "url": "https://trnews.it/2026/10/24/melendugno-a-parma-terza-sconfitta-in-quattro-partite",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T17:15:37+00:00"
+  },
   {
    "id": "290d6b56ab2f",
    "title": "Strisce blu, sit-in a San Pio. Lecce Città Pubblica: “Ritirate la delibera”. De Matteis: “Una tassa sulla periferia”",
@@ -2288,74 +2299,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-21T17:59:24+00:00"
-  },
-  {
-   "id": "1948970b43a6",
-   "title": "Autotrasporto, Confindustria Lecce: \"Comprendiamo le ragioni della protesta, ma serve accordo immediato\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/images-22-e1792596475342.jpg",
-   "url": "https://trnews.it/2026/10/21/autotrasporto-confindustria-lecce-comprendiamo-le-ragioni-della-protesta-ma-serve-accordo-immediato",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T17:28:26+00:00"
-  },
-  {
-   "id": "80cd003a33aa",
-   "title": "ASI Lecce, la Regione azzera i vertici e nomina Fabio Corvino commissario: conti in difficoltà e debiti da saldare",
-   "summary": "LECCE – La crisi del Consorzio ASI arriva alla resa dei conti. La Regione Puglia ha deciso di sciogliere gli organi dell’ente che gestisce e promuove lo sviluppo delle aree industriali salentine, aff…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/asi-lecce-la-regione-azzera-i-vertici-e-nomina-fabio-corvino-commissario-conti-in-difficolta-e-debiti-da-saldare/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T17:28:04+00:00"
-  },
-  {
-   "id": "a2558863bac1",
-   "title": "Rifiuti, Tar annulla autorizzazione all’impianto di Giuggianello: accolto il ricorso",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-72-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/21/rifiuti-tar-annulla-autorizzazione-allimpianto-di-giuggianello-accolto-il-ricorso",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T17:21:51+00:00"
-  },
-  {
-   "id": "e2ffa00d7b0f",
-   "title": "Blocco autotrasportatori, scaffali vuoti e logistica al collasso nel Barese",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/scaffali-vuoti-1024x768.jpeg",
-   "url": "https://trnews.it/2026/10/21/blocco-autotrasportatori-scaffali-vuoti-e-logistica-al-collasso-nel-barese",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-21T17:21:04+00:00"
-  },
-  {
-   "id": "88093b7c58e3",
-   "title": "Consorzio Asi di Lecce commissariato, la Regione nomina Fabio Corvino",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/01/fabio-corvino.jpg",
-   "url": "https://trnews.it/2026/10/21/consorzio-asi-di-lecce-commissariato-la-regione-nomina-fabio-corvino",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T17:15:30+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T17:13:16.943509+00:00",
+   "last_ok": "2026-10-24T17:47:36.649842+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T17:13:16.943509+00:00",
+   "last_ok": "2026-10-24T17:47:36.649842+00:00",
    "error": null
   },
   {
@@ -2367,19 +2323,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T17:13:16.943509+00:00",
+   "last_ok": "2026-10-24T17:47:36.649842+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T17:13:16.943509+00:00",
+   "last_ok": "2026-10-24T17:47:36.649842+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T17:13:16.943509+00:00",
+   "last_ok": "2026-10-24T17:47:36.649842+00:00",
    "error": null
   }
  ]
