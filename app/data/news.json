@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-24T18:09:21.006071+00:00",
+ "updated_at": "2026-10-24T18:55:20.588949+00:00",
  "items": [
+  {
+   "id": "96bf0366c291",
+   "title": "Un 50enne trovato morto in casa: “intossicazione da cocaina”, ma il presunto pusher viene assolto",
+   "summary": "MONTERONI (Lecce) – Venne trovato morto in casa della madre con la quale conviveva dopo aver assunto cocaina il 4 dicembre 2020. Per la morte di un 50enne di Monteroni, F.S., un 55enne compaesano, è…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/un-50enne-trovato-morto-in-casa-intossicazione-da-cocaina-ma-il-presunto-pusher-viene-assolto/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T18:44:25+00:00"
+  },
+  {
+   "id": "75eecd266b87",
+   "title": "Lecce, 24 convocati",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/DSC_5468-1024x698.jpg",
+   "url": "https://trnews.it/2026/10/24/lecce-24-convocati",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T18:07:36+00:00"
+  },
   {
    "id": "787868e625a2",
    "title": "Melendugno, a Parma terza sconfitta in quattro partite",
@@ -2277,30 +2299,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-21T19:26:08+00:00"
-  },
-  {
-   "id": "02ccd3660b4d",
-   "title": "Tromba d'aria sradica tendoni e vigneti nel Tarantino",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Tromba-daria-sradica-tendoni-e-vigneti-nel-tarantino___.jpg",
-   "url": "https://trnews.it/2026/10/21/tromba-daria-sradica-tendoni-e-vigneti-nel-tarantino",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Taranto",
-   "published_at": "2026-10-21T18:27:34+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T18:09:21.006071+00:00",
+   "last_ok": "2026-10-24T18:55:20.588949+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T18:09:21.006071+00:00",
+   "last_ok": "2026-10-24T18:55:20.588949+00:00",
    "error": null
   },
   {
@@ -2312,19 +2323,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T18:09:21.006071+00:00",
+   "last_ok": "2026-10-24T18:55:20.588949+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T18:09:21.006071+00:00",
+   "last_ok": "2026-10-24T18:55:20.588949+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T18:09:21.006071+00:00",
+   "last_ok": "2026-10-24T18:55:20.588949+00:00",
    "error": null
   }
  ]
