@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-24T13:50:22.895147+00:00",
+ "updated_at": "2026-10-24T14:11:25.008989+00:00",
  "items": [
+  {
+   "id": "8c63f9e4e09a",
+   "title": "SPACCIO IN AUTO TRA ALESSANO E LUCUGNANO: INCASTRATI CON LA COCAINA E 500 EURO IN CONTANTI",
+   "summary": "TAURISANO (Lecce): Un’operazione lampo condotta dagli agenti della Polizia di Stato del Commissariato di Taurisano ha portato all’arresto in flagranza di due persone, sorpresi a cedere dosi di sostan…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/spaccio-in-auto-tra-alessano-e-lucugnano-incastrati-con-la-cocaina-e-500-euro-in-contanti/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T14:11:04+00:00"
+  },
+  {
+   "id": "3996158179ef",
+   "title": "Casa svaligiata mentre è in chiesa, furto da 160mila euro e due arresti",
+   "summary": "Campi Salentina (Lecce): Un piano studiato nei dettagli, approfittando della conoscenza intima dei luoghi e della consueta assenza domenicale della proprietaria di casa. È la ricostruzione alla base…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/casa-svaligiata-mentre-e-in-chiesa-furto-da-160mila-euro-e-due-arresti/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T14:00:43+00:00"
+  },
   {
    "id": "323af8796f50",
    "title": "Roca, tremila anni di storia mediterranea: un patrimonio da tutelare con il FAI",
@@ -2486,30 +2508,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-21T14:29:31+00:00"
-  },
-  {
-   "id": "e0081509a02f",
-   "title": "Lecce, rami pericolanti in Viale Grassi: intervengono i vigili del fuoco ed i vigili urbani",
-   "summary": ".LECCE – Intervento dei vigili del fuoco in viale Grassi, a Lecce, dove è stata riscontrata una situazione di potenziale pericolo legata a un grosso albero con rami inclinati e pericolanti. A notare…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lecce-rami-pericolanti-in-viale-grassi-intervengono-i-vigili-del-fuoco-ed-i-vigili-urbani/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-21T14:05:37+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-24T13:50:22.895147+00:00",
+   "last_ok": "2026-10-24T14:11:25.008989+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-24T13:50:22.895147+00:00",
+   "last_ok": "2026-10-24T14:11:25.008989+00:00",
    "error": null
   },
   {
@@ -2521,19 +2532,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-24T13:50:22.895147+00:00",
+   "last_ok": "2026-10-24T14:11:25.008989+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-24T13:50:22.895147+00:00",
+   "last_ok": "2026-10-24T14:11:25.008989+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-24T13:50:22.895147+00:00",
+   "last_ok": "2026-10-24T14:11:25.008989+00:00",
    "error": null
   }
  ]
