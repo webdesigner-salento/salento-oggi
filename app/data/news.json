@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-25T19:17:21.755246+00:00",
+ "updated_at": "2026-10-25T19:47:01.814718+00:00",
  "items": [
+  {
+   "id": "05c5351fe7f3",
+   "title": "Congresso della Lega, Brizio Maggiore: “Grande fiducia in Salvini. Con Roberto Marti, il Sud sempre più protagonista”",
+   "summary": "“La riconferma di Matteo Salvini alla guida della Lega, con un ampio consenso anche dal Mezzogiorno, conferma la fiducia nella sua leadership e nel progetto di un partito sempre più nazionale”. Lo di…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/congresso-della-lega-brizio-maggiore-grande-fiducia-in-salvini-con-roberto-marti-il-sud-sempre-piu-protagonista/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-10-25T19:40:44+00:00"
+  },
+  {
+   "id": "29182a0bdb5b",
+   "title": "Blitz della Juve nel Salento: Lecce sconfitto 2-0",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/840f75b9-f2cb-415b-b420-fa185621c010-1024x682.jpg",
+   "url": "https://trnews.it/2026/10/25/blitz-della-juve-nel-salento-lecce-sconfitto-2-0",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T19:16:55+00:00"
+  },
   {
    "id": "d1a02164adaf",
    "title": "Il Lecce regala un tempo e la Juve lo punisce, ripresa arrembante ma il gol non arriva: 0 a 2",
@@ -112,6 +134,17 @@
    "published_at": "2026-10-25T13:57:31+00:00"
   },
   {
+   "id": "ffbc6de24ed5",
+   "title": "Motori, musica e solidarietà: pienone al raduno per auto e moto nell'ex Foro Boario",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/SERGIO2-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/25/motori-musica-e-solidarieta-pienone-al-raduno-per-auto-e-moto-nellex-foro-boario",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T13:50:50+00:00"
+  },
+  {
    "id": "af0aef79aed1",
    "title": "Movimento 17 ottobre, appelli social alla protesta: indagato 17enne di Leverano",
    "summary": "",
@@ -154,17 +187,6 @@
    "category": "Politica",
    "zone": "Salento",
    "published_at": "2026-10-25T13:11:32+00:00"
-  },
-  {
-   "id": "ffbc6de24ed5",
-   "title": "Motori, musica e solidarietà: pienone al raduno per auto e moto nell'ex Foro Boario",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/SERGIO2-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/25/motori-musica-e-solidarieta-pienone-al-raduno-per-auto-e-moto-nellex-foro-boario",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-25T12:50:50+00:00"
   },
   {
    "id": "525d08d944b9",
@@ -211,6 +233,17 @@
    "published_at": "2026-10-25T09:47:05+00:00"
   },
   {
+   "id": "85a6cdc9c43c",
+   "title": "Eccellenza: Taranto - Trani, punti pesanti in palio",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2024/05/Taranto-foto-W.-Nobile-2-1024x684.jpg",
+   "url": "https://trnews.it/2026/10/25/eccellenza-taranto-trani-punti-pesanti-in-palio",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-10-25T09:30:27+00:00"
+  },
+  {
    "id": "0ec3e9f8e253",
    "title": "Lecce, per la prima volta arrivano gli alloggi sociali: la giunta dà il via libera al bando per 11 appartamenti a canone sostenibile",
    "summary": "LECCE – Per la prima volta a Lecce si apre la strada all’assegnazione di alloggi sociali, una nuova formula abitativa pensata per sostenere le famiglie che non possono accedere alle case popolari, ma…",
@@ -231,17 +264,6 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-25T08:42:23+00:00"
-  },
-  {
-   "id": "85a6cdc9c43c",
-   "title": "Eccellenza: Taranto - Trani, punti pesanti in palio",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2024/05/Taranto-foto-W.-Nobile-2-1024x684.jpg",
-   "url": "https://trnews.it/2026/10/25/eccellenza-taranto-trani-punti-pesanti-in-palio",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-10-25T08:30:27+00:00"
   },
   {
    "id": "15de750c7bf9",
@@ -2019,13 +2041,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T19:17:21.755246+00:00",
+   "last_ok": "2026-10-25T19:47:01.814718+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T19:17:21.755246+00:00",
+   "last_ok": "2026-10-25T19:47:01.814718+00:00",
    "error": null
   },
   {
@@ -2037,19 +2059,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T19:17:21.755246+00:00",
+   "last_ok": "2026-10-25T19:47:01.814718+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T19:17:21.755246+00:00",
+   "last_ok": "2026-10-25T19:47:01.814718+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T19:17:21.755246+00:00",
+   "last_ok": "2026-10-25T19:47:01.814718+00:00",
    "error": null
   }
  ]
