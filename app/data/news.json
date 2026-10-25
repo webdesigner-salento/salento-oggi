@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T12:12:26.680227+00:00",
+ "updated_at": "2026-10-25T13:02:40.674741+00:00",
  "items": [
   {
    "id": "525d08d944b9",
@@ -2090,63 +2090,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-22T13:18:00+00:00"
-  },
-  {
-   "id": "fd04295ae5dd",
-   "title": "Droga occultata sotto una mattonella: arrestato 30enne",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Foto-materiale-sequestrato-logo.jpg",
-   "url": "https://trnews.it/2026/10/22/droga-occultata-sotto-una-mattonella-arrestato-30enne",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T12:38:55+00:00"
-  },
-  {
-   "id": "270fc7d05fa1",
-   "title": "Lecce, Maleh: \"Con la Juventus dare il 100%\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG-20261022-WA0049-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/22/lecce-maleh-con-la-juventus-dare-il-100",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T12:30:43+00:00"
-  },
-  {
-   "id": "bf4dc4fbeb9d",
-   "title": "Studente trovato morto, l'ombra della \"blackout challenge\". La famiglia vuole la verità",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/pc-challenge.jpeg",
-   "url": "https://trnews.it/2026/10/22/studente-trovato-morto-lombra-della-blackout-challenge-la-famiglia-vuole-la-verita",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T12:30:34+00:00"
-  },
-  {
-   "id": "4247ecfe7dda",
-   "title": "Reddito di cittadinanza con false dichiarazioni, nei guai in 66. Chiesto il sequestro dei 900mila euro percepiti indebitamente",
-   "summary": "SALENTO – Oltre 900mila euro di Reddito di cittadinanza ritenuti indebitamente percepiti e 66 persone segnalate all’Autorità giudiziaria. È il bilancio dei controlli condotti dalla Guardia di Finanza…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/reddito-di-cittadinanza-con-false-dichiarazioni-nei-guai-in-66-chiesto-il-sequestro-dei-900mila-euro-percepiti-indebitamente/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-10-22T12:24:20+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T12:12:26.680227+00:00",
+   "last_ok": "2026-10-25T13:02:40.674741+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T12:12:26.680227+00:00",
+   "last_ok": "2026-10-25T13:02:40.674741+00:00",
    "error": null
   },
   {
@@ -2158,19 +2114,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T12:12:26.680227+00:00",
+   "last_ok": "2026-10-25T13:02:40.674741+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T12:12:26.680227+00:00",
+   "last_ok": "2026-10-25T13:02:40.674741+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T12:12:26.680227+00:00",
+   "last_ok": "2026-10-25T13:02:40.674741+00:00",
    "error": null
   }
  ]
