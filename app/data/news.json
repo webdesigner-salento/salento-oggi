@@ -1,6 +1,61 @@
 {
- "updated_at": "2026-10-25T13:02:40.674741+00:00",
+ "updated_at": "2026-10-25T13:51:22.567235+00:00",
  "items": [
+  {
+   "id": "af0aef79aed1",
+   "title": "Movimento 17 ottobre, appelli social alla protesta: indagato 17enne di Leverano",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-83-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/25/movimento-17-ottobre-appelli-social-alla-protesta-indagato-17enne-di-leverano",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T13:47:01+00:00"
+  },
+  {
+   "id": "dec09f014929",
+   "title": "Lecce, la grande canzone italiana chiude “Illuminiamo l’Arte” agli Agostiniani",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-82-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/25/lecce-la-grande-canzone-italiana-chiude-illuminiamo-larte-agli-agostiniani",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T13:46:17+00:00"
+  },
+  {
+   "id": "c1cbd119f42c",
+   "title": "Fermato in auto con due panetti di hashish: 39enne arrestato",
+   "summary": "TAURISANO (Lecce) – Un controllo su strada condotto dagli agenti della Polizia di Stato del Commissariato di Taurisano ha portato all’arresto di un trentanovenne del posto per detenzione di sostanze…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/fermato-in-auto-con-due-panetti-di-hashish-39enne-arrestato/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T13:36:21+00:00"
+  },
+  {
+   "id": "66659a437eca",
+   "title": "“Il primato Meloni” oltre la politica, nella storia: Briguglio presenta il suo libro a Bari",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Il-primato-Meloni-presentazione-libro-Carmelo-Briguglio-a-Bari-1024x768.jpg",
+   "url": "https://trnews.it/2026/10/25/il-primato-meloni-oltre-la-politica-nella-storia-briguglio-presenta-il-suo-libro-a-bari",
+   "source": "TeleRama News",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-10-25T13:11:32+00:00"
+  },
+  {
+   "id": "ffbc6de24ed5",
+   "title": "Motori, musica e solidarietà: pienone al raduno per auto e moto nell'ex Foro Boario",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/SERGIO2-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/25/motori-musica-e-solidarieta-pienone-al-raduno-per-auto-e-moto-nellex-foro-boario",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T12:50:50+00:00"
+  },
   {
    "id": "525d08d944b9",
    "title": "Appello sui social per un’adunata in centro: denunciato un minore, sequestrati passamontagna e coltello",
@@ -266,6 +321,17 @@
    "published_at": "2026-10-25T06:37:40+00:00"
   },
   {
+   "id": "ca487d37c661",
+   "title": "Serie D/H, in campo per la 9ª giornata, programma e classifica",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-d-1024x538.jpg",
+   "url": "https://trnews.it/2026/10/25/serie-d-h-in-campo-per-la-9a-giornata-programma-e-classifica",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-25T06:15:01+00:00"
+  },
+  {
    "id": "ed9b05ed804c",
    "title": "Valtur Brindisi, contro Avellino servono risposte",
    "summary": "",
@@ -275,6 +341,17 @@
    "category": "Sport",
    "zone": "Brindisi",
    "published_at": "2026-10-25T06:00:53+00:00"
+  },
+  {
+   "id": "34498a19b727",
+   "title": "Lecce-Juventus live su TeleRama con gli aggiornamenti di Lecce Channel in Campo",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_20261023_060913-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/25/lecce-juventus-live-su-telerama-con-gli-aggiornamenti-di-lecce-channel-in-campo",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T06:00:05+00:00"
   },
   {
    "id": "254eb45f0b51",
@@ -319,28 +396,6 @@
    "category": "Sport",
    "zone": "Salento",
    "published_at": "2026-10-25T05:20:59+00:00"
-  },
-  {
-   "id": "ca487d37c661",
-   "title": "Serie D/H, in campo per la 9ª giornata, programma e classifica",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-d-1024x538.jpg",
-   "url": "https://trnews.it/2026/10/25/serie-d-h-in-campo-per-la-9a-giornata-programma-e-classifica",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-10-25T05:15:01+00:00"
-  },
-  {
-   "id": "34498a19b727",
-   "title": "Lecce-Juventus live su TeleRama con gli aggiornamenti di Lecce Channel in Campo",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_20261023_060913-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/25/lecce-juventus-live-su-telerama-con-gli-aggiornamenti-di-lecce-channel-in-campo",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-25T05:00:05+00:00"
   },
   {
    "id": "f5a81d2dc7df",
@@ -2057,52 +2112,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-22T14:43:44+00:00"
-  },
-  {
-   "id": "7a45e5d6c18e",
-   "title": "Varvaglione 1921 nel \"Comitato Leonardo\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-75-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/22/varvaglione-1921-nel-comitato-leonardo",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Taranto",
-   "published_at": "2026-10-22T13:27:29+00:00"
-  },
-  {
-   "id": "d06c5376c9f6",
-   "title": "Taranto, sanità: case di comunità e San Cataldo, organici insufficienti",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-74-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/22/taranto-sanita-case-di-comunita-e-san-cataldo-organici-insufficienti",
-   "source": "TeleRama News",
-   "category": "Salute",
-   "zone": "Taranto",
-   "published_at": "2026-10-22T13:27:09+00:00"
-  },
-  {
-   "id": "e1e24017ca01",
-   "title": "Lecce, il riscatto di Maleh: il centrocampista racconta il suo “ritorno”",
-   "summary": "LECCE – Sette presenze nelle prime sette giornate, quattro da titolare nelle ultime quattro: il centrocampista si è ripreso il Lecce con il lavoro e la determinazione. Adesso nel mirino c’è la Juvent…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lecce-il-riscatto-di-maleh-il-centrocampista-racconta-il-suo-ritorno/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T13:18:00+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T13:02:40.674741+00:00",
+   "last_ok": "2026-10-25T13:51:22.567235+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T13:02:40.674741+00:00",
+   "last_ok": "2026-10-25T13:51:22.567235+00:00",
    "error": null
   },
   {
@@ -2114,19 +2136,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T13:02:40.674741+00:00",
+   "last_ok": "2026-10-25T13:51:22.567235+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T13:02:40.674741+00:00",
+   "last_ok": "2026-10-25T13:51:22.567235+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T13:02:40.674741+00:00",
+   "last_ok": "2026-10-25T13:51:22.567235+00:00",
    "error": null
   }
  ]
