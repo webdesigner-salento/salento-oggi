@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-25T04:56:54.111222+00:00",
+ "updated_at": "2026-10-25T05:18:40.933781+00:00",
  "items": [
+  {
+   "id": "34498a19b727",
+   "title": "Lecce-Juventus live su TeleRama con gli aggiornamenti di Lecce Channel in Campo",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_20261023_060913-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/25/lecce-juventus-live-su-telerama-con-gli-aggiornamenti-di-lecce-channel-in-campo",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T05:00:05+00:00"
+  },
   {
    "id": "b3ee68716692",
    "title": "Il Lecce vuole stupire, al Via del Mare c'è la vecchia signora. Le probabili formazioni",
@@ -178,6 +189,17 @@
    "published_at": "2026-10-24T13:46:39+00:00"
   },
   {
+   "id": "af4a30ed6c1f",
+   "title": "Lecce, sport e inclusione: gli Special Day di Special Olympics",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_4195-1024x576.jpeg",
+   "url": "https://trnews.it/2026/10/24/lecce-sport-e-inclusione-gli-special-day-di-special-olympics",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T13:36:47+00:00"
+  },
+  {
    "id": "99ace8782bf3",
    "title": "Il Brasile incontra il Salento: musica senza confini a Galatina",
    "summary": "",
@@ -253,17 +275,6 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-24T11:39:04+00:00"
-  },
-  {
-   "id": "af4a30ed6c1f",
-   "title": "Lecce, sport e inclusione: gli Special Day di Special Olympics",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_4195-1024x576.jpeg",
-   "url": "https://trnews.it/2026/10/24/lecce-sport-e-inclusione-gli-special-day-di-special-olympics",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T11:36:47+00:00"
   },
   {
    "id": "37eaf11b9cd3",
@@ -2189,41 +2200,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-22T05:46:25+00:00"
-  },
-  {
-   "id": "5520e010671d",
-   "title": "Serie C: il Potenza in Puglia per consolidare la propria leadership",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-21-192015.png",
-   "url": "https://trnews.it/2026/10/22/serie-c-il-potenza-in-puglia-per-consolidare-la-propria-leadership",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-10-22T05:02:33+00:00"
-  },
-  {
-   "id": "5c106c5c47c8",
-   "title": "L’almanacco di oggi 22 ottobre",
-   "summary": "Il Santo del giorno: San Giovanni Paolo II. San Donato. Il proverbio di Mesciu Ronzu: Nisciunu nasce mparatu. Significato: Nessuno nasce con delle conoscenze particolari. – Sono nati in questo giorno…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lalmanacco-di-oggi-22-ottobre/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-22T05:00:26+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T04:56:54.111222+00:00",
+   "last_ok": "2026-10-25T05:18:40.933781+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T04:56:54.111222+00:00",
+   "last_ok": "2026-10-25T05:18:40.933781+00:00",
    "error": null
   },
   {
@@ -2235,19 +2224,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T04:56:54.111222+00:00",
+   "last_ok": "2026-10-25T05:18:40.933781+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T04:56:54.111222+00:00",
+   "last_ok": "2026-10-25T05:18:40.933781+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T04:56:54.111222+00:00",
+   "last_ok": "2026-10-25T05:18:40.933781+00:00",
    "error": null
   }
  ]
