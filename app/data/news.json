@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-25T08:53:56.719865+00:00",
+ "updated_at": "2026-10-25T09:14:10.485959+00:00",
  "items": [
+  {
+   "id": "0ec3e9f8e253",
+   "title": "Lecce, per la prima volta arrivano gli alloggi sociali: la giunta dà il via libera al bando per 11 appartamenti a canone sostenibile",
+   "summary": "LECCE – Per la prima volta a Lecce si apre la strada all’assegnazione di alloggi sociali, una nuova formula abitativa pensata per sostenere le famiglie che non possono accedere alle case popolari, ma…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lecce-per-la-prima-volta-arrivano-gli-alloggi-sociali-la-giunta-da-il-via-libera-al-bando-per-11-appartamenti-a-canone-sostenibile/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T09:06:47+00:00"
+  },
   {
    "id": "de192884c583",
    "title": "Lequile, due nuovi finanziamenti per le scuole",
@@ -2321,30 +2332,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-22T09:40:40+00:00"
-  },
-  {
-   "id": "9bd82e4cefb6",
-   "title": "Fiabe e natura a Spongano: con “Avventura” il teatro all’aperto di Ultimi Fuochi incanta i più piccoli",
-   "summary": "SPONGANO (Lecce) – Un viaggio itinerante tra le campagne e i racconti classici per trasformare il paesaggio in uno spazio scenico vivente. La stagione teatrale “Fuochi Comuni”, promossa da Ultimi Fuo…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/6e6708c1-7559-4037-92c3-072d428f331b-240x300.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/10/fiabe-e-natura-a-spongano-con-avventura-il-teatro-allaperto-di-ultimi-fuochi-incanta-i-piu-piccoli/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T08:59:56+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T08:53:56.719865+00:00",
+   "last_ok": "2026-10-25T09:14:10.485959+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T08:53:56.719865+00:00",
+   "last_ok": "2026-10-25T09:14:10.485959+00:00",
    "error": null
   },
   {
@@ -2356,19 +2356,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T08:53:56.719865+00:00",
+   "last_ok": "2026-10-25T09:14:10.485959+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T08:53:56.719865+00:00",
+   "last_ok": "2026-10-25T09:14:10.485959+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T08:53:56.719865+00:00",
+   "last_ok": "2026-10-25T09:14:10.485959+00:00",
    "error": null
   }
  ]
