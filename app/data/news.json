@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-25T09:14:10.485959+00:00",
+ "updated_at": "2026-10-25T09:52:50.664400+00:00",
  "items": [
+  {
+   "id": "b59dc0403020",
+   "title": "Piano delle Coste di Ugento, il Tar dà ragione alle imprese balneari: “Il Piano non esiste”",
+   "summary": "UGENTO – Il Piano Comunale delle Coste di Ugento finisce al centro di una serie di pronunce del Tribunale amministrativo regionale di Lecce che segnano un passaggio importante per il futuro delle con…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/piano-delle-coste-di-ugento-il-tar-da-ragione-alle-imprese-balneari-il-piano-non-esiste/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T09:47:05+00:00"
+  },
   {
    "id": "0ec3e9f8e253",
    "title": "Lecce, per la prima volta arrivano gli alloggi sociali: la giunta dà il via libera al bando per 11 appartamenti a canone sostenibile",
@@ -255,6 +266,17 @@
    "published_at": "2026-10-25T05:58:25+00:00"
   },
   {
+   "id": "a758deef5ccd",
+   "title": "Serie A, programma, risultati e classifica 8ª giornata, Lazio notte da capolista",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/05/PALLONE-SERIE-A-202627.webp",
+   "url": "https://trnews.it/2026/10/25/serie-a-programma-risultati-e-classifica-8a-giornata-lazio-notte-da-capolista",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-25T05:26:49+00:00"
+  },
+  {
    "id": "5e73c2e6150e",
    "title": "Ricetta del giorno: Torta Pasticciotto",
    "summary": "Ingredienti per 8 persone: Pasta frolla 500 gr di farina 200 gr di strutto 1 bustina di lievito per dolci 150 gr di zucchero 3 uova Buccia grattugiata di 2 limoni biologici Crema pasticcera 3 tuorli…",
@@ -266,6 +288,28 @@
    "published_at": "2026-10-25T05:22:52+00:00"
   },
   {
+   "id": "9e809e9affdc",
+   "title": "Serie C Girone C, oggi e domani per concludere l’11ª giornata. Programma e classifica",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/pallone_serie_c-1024x642.avif",
+   "url": "https://trnews.it/2026/10/25/serie-c-girone-c-oggi-e-domani-per-concludere-l11a-giornata-programma-e-classifica",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-25T05:20:59+00:00"
+  },
+  {
+   "id": "ca487d37c661",
+   "title": "Serie D/H, in campo per la 9ª giornata, programma e classifica",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-d-1024x538.jpg",
+   "url": "https://trnews.it/2026/10/25/serie-d-h-in-campo-per-la-9a-giornata-programma-e-classifica",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-25T05:15:01+00:00"
+  },
+  {
    "id": "34498a19b727",
    "title": "Lecce-Juventus live su TeleRama con gli aggiornamenti di Lecce Channel in Campo",
    "summary": "",
@@ -275,6 +319,17 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-25T05:00:05+00:00"
+  },
+  {
+   "id": "f5a81d2dc7df",
+   "title": "Eccellenza, programma della 10ª giornata e classifica",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/Eccellenza-750x500-1.jpg",
+   "url": "https://trnews.it/2026/10/25/eccellenza-programma-della-10a-giornata-e-classifica",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-25T05:00:00+00:00"
   },
   {
    "id": "b3ee68716692",
@@ -398,6 +453,17 @@
    "published_at": "2026-10-24T14:53:06+00:00"
   },
   {
+   "id": "9d359c3d286f",
+   "title": "Lecce ricorda il generale Anders: il legame tra Italia e Polonia nel segno della Liberazione",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/liceo.jpg",
+   "url": "https://trnews.it/2026/10/24/lecce-ricorda-il-generale-anders-il-legame-tra-italia-e-polonia-nel-segno-della-liberazione",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T14:53:04+00:00"
+  },
+  {
    "id": "d074a3acb7d3",
    "title": "Lecce-Juve, il messaggio di Di Francesco alla sua squadra. Il modulo? Potrebbe cambiare",
    "summary": "LECCE – Il Lecce si presenta alla sfida contro la Juventus con il morale rinforzato dalla vittoria di Udine e dalla consapevolezza di poter mettere in difficoltà anche avversari sulla carta più attre…",
@@ -484,17 +550,6 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-10-24T12:55:52+00:00"
-  },
-  {
-   "id": "9d359c3d286f",
-   "title": "Lecce ricorda il generale Anders: il legame tra Italia e Polonia nel segno della Liberazione",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/liceo.jpg",
-   "url": "https://trnews.it/2026/10/24/lecce-ricorda-il-generale-anders-il-legame-tra-italia-e-polonia-nel-segno-della-liberazione",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T12:53:04+00:00"
   },
   {
    "id": "9ab0f6430767",
@@ -2288,63 +2343,19 @@
    "category": "Cultura",
    "zone": "Lecce",
    "published_at": "2026-10-22T09:58:38+00:00"
-  },
-  {
-   "id": "851a2205c575",
-   "title": "Notti Sacre” a Lecce: gli ultimi due appuntamenti tra Barocco e musica contemporanea",
-   "summary": "LECCE – Giunge al termine l’edizione leccese di “Notti Sacre”, la rassegna nata da un’idea di monsignor Antonio Parisi e promossa da ArtWork e Vallisa Cultura sotto l’alto patrocinio del Pontificio C…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/notti-sacre-a-lecce-gli-ultimi-due-appuntamenti-tra-barocco-e-musica-contemporanea/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T09:52:49+00:00"
-  },
-  {
-   "id": "7de717e2ff97",
-   "title": "Reddito di cittadinanza: 66 persone denunciate",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/04/guardia-finanza.jpg",
-   "url": "https://trnews.it/2026/10/22/reddito-di-cittadinanza-66-persone-denunciate",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T09:46:21+00:00"
-  },
-  {
-   "id": "310f7c07e38a",
-   "title": "Tutela e valorizzazione della costa a sud di Otranto: sabato al via il tavolo di confronto promosso dall’onorevole Caroppo",
-   "summary": "OTRANTO (Lecce) – Un appuntamento cruciale per delineare strategie condivise di tutela e fruizione del patrimonio paesaggistico, storico e archeologico del litorale adriatico. Sabato 24 ottobre, alle…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/tutela-e-valorizzazione-della-costa-a-sud-di-otranto-sabato-al-via-il-tavolo-di-confronto-promosso-dallonorevole-caroppo/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T09:41:16+00:00"
-  },
-  {
-   "id": "58cf4c3b6e54",
-   "title": "Meteo domani 23 ottobre nel Salento: previsioni, temperature e cosa aspettarsi",
-   "summary": "Puglia Tempo stabile nel corso della giornata su tutta la regione con cieli sereni o poco nuvolosi sia al mattino che al pomeriggio. Poche variazioni in serata e nottata con tempo per lo più asciutto…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/meteo-domani-23-ottobre-nel-salento-previsioni-temperature-e-cosa-aspettarsi/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-22T09:40:40+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T09:14:10.485959+00:00",
+   "last_ok": "2026-10-25T09:52:50.664400+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T09:14:10.485959+00:00",
+   "last_ok": "2026-10-25T09:52:50.664400+00:00",
    "error": null
   },
   {
@@ -2356,19 +2367,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T09:14:10.485959+00:00",
+   "last_ok": "2026-10-25T09:52:50.664400+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T09:14:10.485959+00:00",
+   "last_ok": "2026-10-25T09:52:50.664400+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T09:14:10.485959+00:00",
+   "last_ok": "2026-10-25T09:52:50.664400+00:00",
    "error": null
   }
  ]
