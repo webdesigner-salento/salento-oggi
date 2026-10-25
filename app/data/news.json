@@ -1,9 +1,97 @@
 {
- "updated_at": "2026-10-25T07:08:18.808395+00:00",
+ "updated_at": "2026-10-25T07:54:50.936788+00:00",
  "items": [
   {
+   "id": "8880cd38437e",
+   "title": "Eccellenze gastronomiche salentine: Vino Primitivo, il gigante caldo e avvolgente",
+   "summary": "Un vino rosso monumentale, dal colore rubino profondo con sfumature granata. Al naso regala profumi intensi di prugna matura, ciliegia sotto spirito, fichi secchi, liquirizia e spezie calde. Al palat…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/eccellenze-gastronomiche-salentine-vino-primitivo-il-gigante-caldo-e-avvolgente/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-25T07:45:00+00:00"
+  },
+  {
+   "id": "afbdff6eae2c",
+   "title": "La fauna del Salento: Tarantola, il ragno che inventò il ballo",
+   "summary": "Conosciuta anche come Ragno Lupo mediterraneo, la nostra tarantola autoctona non ha nulla a che vedere con i giganti pelosi sudamericani che si vedono nei film horror. Sviluppa una dimensione di circ…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/la-fauna-del-salento-tarantola-il-ragno-che-invento-il-ballo/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-25T07:42:43+00:00"
+  },
+  {
+   "id": "a788b17d4e09",
+   "title": "Manifestazioni, Mario Capanna a “L’Elefante” (Rai 3): “Non giustifico le violenze, ma bisogna capire le ragioni di una generazione senza futuro”",
+   "summary": "«Confesso una mia inclinazione: tengo a difendere i giovani anche quando hanno torto, cercando però di capire e spiegare le ragioni che li spingono ad agire». Lo ha detto lo scrittore e attivista Mar…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/vetrine-rotte-manifestazione-17-ottobre-3-300x225.jpg",
+   "url": "https://www.corrieresalentino.it/2026/10/manifestazioni-mario-capanna-a-lelefante-rai-3-non-giustifico-le-violenze-ma-bisogna-capire-le-ragioni-di-una-generazione-senza-futuro/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-10-25T07:39:34+00:00"
+  },
+  {
+   "id": "1743f61fb16e",
+   "title": "Lavori sulle linee elettriche, chiusure e divieti intorno a via XX Settembre",
+   "summary": "NARDO‘ (Lecce) – E-Distribuzione, per il tramite della SO.I.GE.A s.r.l., dovrà effettuare nei prossimi giorni un importante intervento per la realizzazione di alcune linee elettriche nella zona di vi…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lavori-sulle-linee-elettriche-chiusure-e-divieti-intorno-a-via-xx-settembre/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T07:28:50+00:00"
+  },
+  {
+   "id": "7d35ef23aa61",
+   "title": "“Notti Sacre”, domenica 25 ottobre a Lecce con “Trasfigurazioni”. Appuntamento nella Basilica del Rosario con le musiche di don Antonio Parisi",
+   "summary": "LECCE – Ultimo appuntamento, domani sera, per l’edizione leccese di “Notti Sacre”, la rassegna musicale nata a Bari da un’idea di monsignor Antonio Parisi e realizzata da ArtWork e Vallisa Cultura, s…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/notti-sacre-domenica-25-ottobre-a-lecce-con-trasfigurazioni-appuntamento-nella-basilica-del-rosario-con-le-musiche-di-don-antonio-parisi/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T07:25:59+00:00"
+  },
+  {
+   "id": "6a0c7ef928f8",
+   "title": "Sotto gli occhi di Velasco, Melendugno lotta fino all’ultimo pallone: il Club Italia vince tre a uno",
+   "summary": "Sipario al PalaRaschi di Parma dopo 1 ora e 54 minuti di pallavolo intensissima, combattuta punto su punto, giocata davanti a più di 1000 persone e sotto gli occhi attenti del Commissario Tecnico del…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/sotto-gli-occhi-di-velasco-melendugno-lotta-fino-allultimo-pallone-il-club-italia-vince-tre-a-uno/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T07:22:36+00:00"
+  },
+  {
+   "id": "ddfa232c84e0",
+   "title": "Difesa di granito e vittoria in tasca: la Cce Lsb Lecce espugna il pala poli di Molfetta",
+   "summary": "Seconda vittoria in trasferta per la Cce Lsb Lecce e 4 punti in classifica guadagnati in altrettante gare di campionato sinora disputate. Gli uomini di coach Michelutti hanno saccheggiato il parquet…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/difesa-di-granito-e-vittoria-in-tasca-la-cce-lsb-lecce-espugna-il-pala-poli-di-molfetta/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T07:19:39+00:00"
+  },
+  {
+   "id": "57c25483473e",
+   "title": "L’A9 Nardò ritrova la vittoria e si lascia alle spalle la deludente trasferta di Corato",
+   "summary": "NARDÒ – Nella quinta giornata di Serie B Interregionale, i granata superano 83-73 l’Amatori Pescara 1976, conquistando il terzo successo stagionale al termine di una gara costruita soprattutto nei pr…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/la9-nardo-ritrova-la-vittoria-e-si-lascia-alle-spalle-la-deludente-trasferta-di-corato/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T07:17:13+00:00"
+  },
+  {
    "id": "50b30bcc8512",
-   "title": "Intervento dei Vigili del Fuoco nella notte a Gallipoli: auto distrutta dal fuoco",
+   "title": "Auto in fiamme a Gallipoli: rogo distrugge una C3",
    "summary": "GALLIPOLI (Lecce) – Un rogo notturno ha richiesto il tempestivo intervento dei Vigili del Fuoco a Gallipoli, dove poco dopo la mezzanotte una squadra del Distaccamento locale si è precipitata in via…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/10/intervento-dei-vigili-del-fuoco-nella-notte-a-gallipoli-auto-distrutta-dal-fuoco/",
@@ -2156,30 +2244,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-22T07:58:27+00:00"
-  },
-  {
-   "id": "786e5fcf76e2",
-   "title": "Dalila Spagnolo apre “Binario Sud” al Castello Carlo V di Lecce: al via il format musicale “Armonie al Castello”",
-   "summary": "LECCE – Prende il via venerdì 23 ottobre la rassegna “Binario Sud”, la nuova proposta inserita nel format musicale “Armonie al Castello” e curata da Art&Lab Lu Mbroia in collaborazione con Open Castl…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/dalila-spagnolo-apre-binario-sud-al-castello-carlo-v-di-lecce-al-via-il-format-musicale-armonie-al-castello/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T07:27:51+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T07:08:18.808395+00:00",
+   "last_ok": "2026-10-25T07:54:50.936788+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T07:08:18.808395+00:00",
+   "last_ok": "2026-10-25T07:54:50.936788+00:00",
    "error": null
   },
   {
@@ -2191,19 +2268,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T07:08:18.808395+00:00",
+   "last_ok": "2026-10-25T07:54:50.936788+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T07:08:18.808395+00:00",
+   "last_ok": "2026-10-25T07:54:50.936788+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T07:08:18.808395+00:00",
+   "last_ok": "2026-10-25T07:54:50.936788+00:00",
    "error": null
   }
  ]
