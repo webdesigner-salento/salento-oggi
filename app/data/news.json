@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-10-25T16:12:58.830874+00:00",
+ "updated_at": "2026-10-25T16:53:13.582070+00:00",
  "items": [
+  {
+   "id": "2d589e83f429",
+   "title": "Vini d’Italia 2027 del Gambero Rosso: a Tommasi Family Estates il premio Cantina dell’anno",
+   "summary": "Roma – Quarant’anni di assaggi, territori e generazioni di produttori. La guida Vini d’Italia 2027 del Gambero Rosso celebra la quarantesima edizione con 2.614 aziende e oltre 23.000 vini, affiancand…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/vini-ditalia-2027-del-gambero-rosso-a-tommasi-family-estates-il-premio-cantina-dellanno/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-25T16:38:54+00:00"
+  },
+  {
+   "id": "bc3fadcc2bcb",
+   "title": "Unisalento apre le porte alle future matricole: il 29 e il 30 ottobre tornano gli open day",
+   "summary": "Per giovedì 29 e venerdì 30 ottobre l’Università del Salento organizza gli Open Day dedicati all’orientamento universitario. Le giornate saranno rivolte soprattutto a studentesse e studenti del quart…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/unisalento-apre-le-porte-alle-future-matricole-il-29-e-il-30-ottobre-tornano-gli-open-day/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-25T16:33:31+00:00"
+  },
+  {
+   "id": "6368a17190a1",
+   "title": "Strade dissestate a Lecce, Rotundo incalza il Comune: “Quante fideiussioni sono state incamerate per i ripristini eseguiti male?”",
+   "summary": "LECCE – Strade che cedono, asfalto che si sgretola, carreggiate segnate da avvallamenti e dissesti spesso riconducibili a lavori di scavo e successivi ripristini eseguiti in maniera inadeguata. A Lec…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/strade-dissestate-a-lecce-rotundo-incalza-il-comune-quante-fideiussioni-sono-state-incamerate-per-i-ripristini-eseguiti-male/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T16:16:32+00:00"
+  },
   {
    "id": "1e1b08bf89d9",
    "title": "“Sì all’Amore!”, a Villa Zaira il Wedding Day dedicato ai futuri sposi",
@@ -2035,30 +2068,19 @@
    "category": "Altro",
    "zone": "Brindisi",
    "published_at": "2026-10-22T17:02:35+00:00"
-  },
-  {
-   "id": "bd66fbbb9b2c",
-   "title": "“Il lavoro che verrà”, al via a Lecce il convegno nazionale degli avvocati giuslavoristi italiani",
-   "summary": "Si è aperto a Lecce il Convegno nazionale di AGI – Avvocati Giuslavoristi Italiani. Il convegno, in programma fino al 24 ottobre al Teatro Apollo, riunisce oltre 500 giuslavoriste e giuslavoristi pro…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/il-lavoro-che-verra-al-via-a-lecce-il-convegno-nazionale-degli-avvocati-giuslavoristi-italiani/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T16:52:26+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T16:12:58.830874+00:00",
+   "last_ok": "2026-10-25T16:53:13.582070+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T16:12:58.830874+00:00",
+   "last_ok": "2026-10-25T16:53:13.582070+00:00",
    "error": null
   },
   {
@@ -2070,19 +2092,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T16:12:58.830874+00:00",
+   "last_ok": "2026-10-25T16:53:13.582070+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T16:12:58.830874+00:00",
+   "last_ok": "2026-10-25T16:53:13.582070+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T16:12:58.830874+00:00",
+   "last_ok": "2026-10-25T16:53:13.582070+00:00",
    "error": null
   }
  ]
