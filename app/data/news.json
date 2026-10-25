@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T11:50:45.315380+00:00",
+ "updated_at": "2026-10-25T12:12:26.680227+00:00",
  "items": [
   {
    "id": "525d08d944b9",
@@ -2134,41 +2134,19 @@
    "category": "Cronaca",
    "zone": "Salento",
    "published_at": "2026-10-22T12:24:20+00:00"
-  },
-  {
-   "id": "9f0d673549f4",
-   "title": "Ipotesi sfida del soffocamento dietro la morte di un 20enne. Madre: “Era felice, non si è suicidato”",
-   "summary": "COLLEPASSO (Lecce) – Si allunga l’ombra inquietante di una sfida del soffocamento – la pratica estremamente pericolosa diffusa soprattutto tra bambini e adolescenti attraverso le piattaforme social –…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/__trashed-31__trashed/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T12:05:39+00:00"
-  },
-  {
-   "id": "29669c5fb242",
-   "title": "Spiava le donne nei bagni del Ser.D: rinviato a giudizio",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/rinvio-a-giudizio-oss-1024x519.png",
-   "url": "https://trnews.it/2026/10/22/spiava-le-donne-nei-bagni-del-ser-d-rinviato-a-giudizio",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T11:52:29+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T11:50:45.315380+00:00",
+   "last_ok": "2026-10-25T12:12:26.680227+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T11:50:45.315380+00:00",
+   "last_ok": "2026-10-25T12:12:26.680227+00:00",
    "error": null
   },
   {
@@ -2180,19 +2158,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T11:50:45.315380+00:00",
+   "last_ok": "2026-10-25T12:12:26.680227+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T11:50:45.315380+00:00",
+   "last_ok": "2026-10-25T12:12:26.680227+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T11:50:45.315380+00:00",
+   "last_ok": "2026-10-25T12:12:26.680227+00:00",
    "error": null
   }
  ]
