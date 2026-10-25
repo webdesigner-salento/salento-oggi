@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T16:53:13.582070+00:00",
+ "updated_at": "2026-10-25T17:13:57.892292+00:00",
  "items": [
   {
    "id": "2d589e83f429",
@@ -2057,30 +2057,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-22T17:26:39+00:00"
-  },
-  {
-   "id": "0a5161ddd710",
-   "title": "Emergenza ratti: sopralluogo in via Benvenuto Cellini",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-77-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/22/emergenza-ratti-sopralluogo-in-via-benvenuto-cellini",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Brindisi",
-   "published_at": "2026-10-22T17:02:35+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T16:53:13.582070+00:00",
+   "last_ok": "2026-10-25T17:13:57.892292+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T16:53:13.582070+00:00",
+   "last_ok": "2026-10-25T17:13:57.892292+00:00",
    "error": null
   },
   {
@@ -2092,19 +2081,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T16:53:13.582070+00:00",
+   "last_ok": "2026-10-25T17:13:57.892292+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T16:53:13.582070+00:00",
+   "last_ok": "2026-10-25T17:13:57.892292+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T16:53:13.582070+00:00",
+   "last_ok": "2026-10-25T17:13:57.892292+00:00",
    "error": null
   }
  ]
