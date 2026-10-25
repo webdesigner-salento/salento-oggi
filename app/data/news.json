@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-25T17:13:57.892292+00:00",
+ "updated_at": "2026-10-25T17:49:00.605897+00:00",
  "items": [
+  {
+   "id": "5e0bfbf0dc94",
+   "title": "Serie D: la nona giornata, i risultati",
+   "summary": "",
+   "image": null,
+   "url": "https://trnews.it/2026/10/25/serie-d-la-nona-giornata-i-risultati",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-25T17:16:25+00:00"
+  },
+  {
+   "id": "3864edfae2f4",
+   "title": "Serie C: il Foggia supera di misura la Cavese: domani si chiude la giornata",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-c-1024x576.png",
+   "url": "https://trnews.it/2026/10/25/serie-c-il-foggia-supera-di-misura-la-cavese-domani-si-chiude-la-giornata",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-25T17:11:38+00:00"
+  },
   {
    "id": "2d589e83f429",
    "title": "Vini d’Italia 2027 del Gambero Rosso: a Tommasi Family Estates il premio Cantina dell’anno",
@@ -2035,41 +2057,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-22T18:06:47+00:00"
-  },
-  {
-   "id": "23439fac932f",
-   "title": "Si sarebbero sostituiti all’anziana zia per intascare denaro, concluse le indagini su due nipoti",
-   "summary": "Copertino (Lecce) – Si sarebbero sostituiti illecitamente alla zia per appropriarsi di rimborsi dell’Agenzia delle Entrate per oltre 8mila euro, spettanti alla parente. Per questo a due fratelli (lei…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/si-sarebbero-sostituiti-allanziana-zia-per-intascare-denaro-concluse-le-indagini-su-due-nipoti/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T17:37:59+00:00"
-  },
-  {
-   "id": "88e1d85242d5",
-   "title": "Franco Castaldo, la penna che non si piegava alle mafie, ci lascia a 67 anni",
-   "summary": "Morto il giornalista agrigentino massimo esperto di mafia siciliana, dirigeva il giornale indipendente Grandangolo, ed è stato un maestro per IrpiMedia L'articolo Franco Castaldo, la penna che non si…",
-   "image": null,
-   "url": "https://irpimedia.irpi.eu/agrigento-franco-castaldo-grandangolo-2/?utm_source=rss&utm_medium=rss&utm_campaign=agrigento-franco-castaldo-grandangolo-2",
-   "source": "IrpiMedia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-22T17:26:39+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T17:13:57.892292+00:00",
+   "last_ok": "2026-10-25T17:49:00.605897+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T17:13:57.892292+00:00",
+   "last_ok": "2026-10-25T17:49:00.605897+00:00",
    "error": null
   },
   {
@@ -2081,19 +2081,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T17:13:57.892292+00:00",
+   "last_ok": "2026-10-25T17:49:00.605897+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T17:13:57.892292+00:00",
+   "last_ok": "2026-10-25T17:49:00.605897+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T17:13:57.892292+00:00",
+   "last_ok": "2026-10-25T17:49:00.605897+00:00",
    "error": null
   }
  ]
