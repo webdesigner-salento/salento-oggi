@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T15:52:09.150210+00:00",
+ "updated_at": "2026-10-25T16:12:58.830874+00:00",
  "items": [
   {
    "id": "1e1b08bf89d9",
@@ -2052,13 +2052,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T15:52:09.150210+00:00",
+   "last_ok": "2026-10-25T16:12:58.830874+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T15:52:09.150210+00:00",
+   "last_ok": "2026-10-25T16:12:58.830874+00:00",
    "error": null
   },
   {
@@ -2070,19 +2070,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T15:52:09.150210+00:00",
+   "last_ok": "2026-10-25T16:12:58.830874+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T15:52:09.150210+00:00",
+   "last_ok": "2026-10-25T16:12:58.830874+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T15:52:09.150210+00:00",
+   "last_ok": "2026-10-25T16:12:58.830874+00:00",
    "error": null
   }
  ]
