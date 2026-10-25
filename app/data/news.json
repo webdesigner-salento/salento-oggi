@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T14:51:46.522404+00:00",
+ "updated_at": "2026-10-25T15:12:33.617815+00:00",
  "items": [
   {
    "id": "1e1b08bf89d9",
@@ -2079,52 +2079,19 @@
    "category": "Eventi",
    "zone": "Salento",
    "published_at": "2026-10-22T15:19:17+00:00"
-  },
-  {
-   "id": "f1f036895734",
-   "title": "Regione Puglia, approvato il progetto FoodExp Skills 2026 per l’innovazione del turismo e dell’accoglienza",
-   "summary": "La Giunta regionale ha approvato il progetto “FoodExp Skills 2026: Laboratorio avanzato di studio, monitoraggio dei fabbisogni formativi e innovazione delle professioni turistiche”. L’iniziativa raff…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/regione-puglia-approvato-il-progetto-foodexp-skills-2026-per-linnovazione-del-turismo-e-dellaccoglienza/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-10-22T15:03:51+00:00"
-  },
-  {
-   "id": "fe967a5281f5",
-   "title": "Autovelox: il Giudice di Pace annulla gli ennesimi verbali per mancanza di omologazione",
-   "summary": "I Comuni salentini tentano la carta del nuovo decreto ministeriale per blindare i verbali stradali, ma i giudici continuano a dare torto alle amministrazioni. Il Giudice di Pace di Lecce, nella perso…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/autovelox-il-giudice-di-pace-annulla-gli-ennesimi-verbali-per-mancanza-di-omologazione/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T15:01:25+00:00"
-  },
-  {
-   "id": "f1e755ebf6cd",
-   "title": "Carburanti, Lollobrigida: 70 milioni complessivi a sostegno di agricoltura e pesca",
-   "summary": "Il Consiglio dei Ministri ha approvato un nuovo pacchetto di aiuti da 70 milioni di euro per sostenere le imprese agricole e della pesca alle prese con il caro carburanti. Per l’agricoltura sono stan…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/carburanti-lollobrigida-70-milioni-complessivi-a-sostegno-di-agricoltura-e-pesca/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-10-22T14:56:46+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T14:51:46.522404+00:00",
+   "last_ok": "2026-10-25T15:12:33.617815+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T14:51:46.522404+00:00",
+   "last_ok": "2026-10-25T15:12:33.617815+00:00",
    "error": null
   },
   {
@@ -2136,19 +2103,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T14:51:46.522404+00:00",
+   "last_ok": "2026-10-25T15:12:33.617815+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T14:51:46.522404+00:00",
+   "last_ok": "2026-10-25T15:12:33.617815+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T14:51:46.522404+00:00",
+   "last_ok": "2026-10-25T15:12:33.617815+00:00",
    "error": null
   }
  ]
