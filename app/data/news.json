@@ -1,11 +1,22 @@
 {
- "updated_at": "2026-10-25T17:49:00.605897+00:00",
+ "updated_at": "2026-10-25T18:10:55.724395+00:00",
  "items": [
+  {
+   "id": "6eeb654022b0",
+   "title": "Eccellenza, i risultati della 10ª giornata",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/Eccellenza-750x500-1.jpg",
+   "url": "https://trnews.it/2026/10/25/eccellenza-i-risultati-della-10a-giornata",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-25T17:41:41+00:00"
+  },
   {
    "id": "5e0bfbf0dc94",
    "title": "Serie D: la nona giornata, i risultati",
    "summary": "",
-   "image": null,
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-d-1024x538.jpg",
    "url": "https://trnews.it/2026/10/25/serie-d-la-nona-giornata-i-risultati",
    "source": "TeleRama News",
    "category": "Sport",
@@ -2046,30 +2057,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-22T18:13:10+00:00"
-  },
-  {
-   "id": "6492838c452b",
-   "title": "Lui, 25 anni; lei, 52. E hanno una relazione ma quando la donna chiude la storia, lui diventa uno stalker",
-   "summary": "UGGIANO LA CHIESA (Lecce) Lei, 52 anni; lui, di 25. Per un periodo i due hanno una relazione nonostante 27 anni di differenza di età. Ma quando lei decide di interrompere la relazione, lui, che vive…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lui-25-anni-lei-52-e-hanno-una-relazione-ma-quando-la-donna-chiude-la-storia-lui-diventa-uno-stalker/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T18:06:47+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T17:49:00.605897+00:00",
+   "last_ok": "2026-10-25T18:10:55.724395+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T17:49:00.605897+00:00",
+   "last_ok": "2026-10-25T18:10:55.724395+00:00",
    "error": null
   },
   {
@@ -2081,19 +2081,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T17:49:00.605897+00:00",
+   "last_ok": "2026-10-25T18:10:55.724395+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T17:49:00.605897+00:00",
+   "last_ok": "2026-10-25T18:10:55.724395+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T17:49:00.605897+00:00",
+   "last_ok": "2026-10-25T18:10:55.724395+00:00",
    "error": null
   }
  ]
