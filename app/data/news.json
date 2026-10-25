@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-25T18:10:55.724395+00:00",
+ "updated_at": "2026-10-25T18:56:57.537777+00:00",
  "items": [
+  {
+   "id": "e283b237e8db",
+   "title": "Serie C: i risultati, domani due posticipi",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Serie_C_sky_wifi_2025-2026-701x1024.png",
+   "url": "https://trnews.it/2026/10/25/serie-c-i-risultati-domani-due-posticipi",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-25T18:18:40+00:00"
+  },
   {
    "id": "6eeb654022b0",
    "title": "Eccellenza, i risultati della 10ª giornata",
@@ -2035,41 +2046,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-22T19:03:06+00:00"
-  },
-  {
-   "id": "92f593813a37",
-   "title": "Oss filmava le donne mentre erano in bagno nel Ser.D: nel cellulare trovate 97 foto, a processo",
-   "summary": "LECCE – Sessantasette anni, residente in un comune a pochi chilometri da Lecce, nel Ser.D di Lecce dove lavorava, avrebbe ripreso con il proprio telefonino le immagini del monitor collegato alla tele…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/oss-filmava-le-donne-mentre-erano-in-bagno-nel-ser-d-nel-cellulare-trovate-97-foto-a-processo/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T18:13:43+00:00"
-  },
-  {
-   "id": "6398ad879692",
-   "title": "Uccise la madre dopo un litigio: “Era seminfermo”. Un 23enne a processo davanti alla Corte d’assise",
-   "summary": "RACALE (Lecce) – Dovrà comparire davanti ai giudici della Corte d’assise di Lecce, il 15 dicembre prossimo, Filippo Manni, il 23enne di Racale, studente di Economia all’Università La Sapienza di Roma…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/uccise-la-madre-dopo-un-litigio-era-seminfermo-un-23enne-a-processo-davanti-alla-corte-dassise/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T18:13:10+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T18:10:55.724395+00:00",
+   "last_ok": "2026-10-25T18:56:57.537777+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T18:10:55.724395+00:00",
+   "last_ok": "2026-10-25T18:56:57.537777+00:00",
    "error": null
   },
   {
@@ -2081,19 +2070,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T18:10:55.724395+00:00",
+   "last_ok": "2026-10-25T18:56:57.537777+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T18:10:55.724395+00:00",
+   "last_ok": "2026-10-25T18:56:57.537777+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T18:10:55.724395+00:00",
+   "last_ok": "2026-10-25T18:56:57.537777+00:00",
    "error": null
   }
  ]
