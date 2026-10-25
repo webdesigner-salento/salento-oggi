@@ -1,6 +1,61 @@
 {
- "updated_at": "2026-10-25T08:12:12.136900+00:00",
+ "updated_at": "2026-10-25T08:53:56.719865+00:00",
  "items": [
+  {
+   "id": "de192884c583",
+   "title": "Lequile, due nuovi finanziamenti per le scuole",
+   "summary": "LEQUILE – Dopo aver ottenuto più di un milione e mezzo di euro per rimettere completamente a nuovo la scuola dell’infanzia Unicef, il Comune di Lequile guidato dal sindaco Vincenzo Carlà, ottiene due…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/69c42757-af70-4d4f-ae4e-65a993a44523-300x225.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/10/lequile-due-nuovi-finanziamenti-per-le-scuole/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T08:42:23+00:00"
+  },
+  {
+   "id": "96bf0366c291",
+   "title": "Un 50enne trovato morto in casa: “intossicazione da cocaina”, ma il presunto pusher viene assolto",
+   "summary": "MONTERONI (Lecce) – Venne trovato morto in casa della madre con la quale conviveva dopo aver assunto cocaina il 4 dicembre 2020. Per la morte di un 50enne di Monteroni, F.S., un 55enne compaesano, è…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/un-50enne-trovato-morto-in-casa-intossicazione-da-cocaina-ma-il-presunto-pusher-viene-assolto/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T08:32:25+00:00"
+  },
+  {
+   "id": "85a6cdc9c43c",
+   "title": "Eccellenza: Taranto - Trani, punti pesanti in palio",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2024/05/Taranto-foto-W.-Nobile-2-1024x684.jpg",
+   "url": "https://trnews.it/2026/10/25/eccellenza-taranto-trani-punti-pesanti-in-palio",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-10-25T08:30:27+00:00"
+  },
+  {
+   "id": "15de750c7bf9",
+   "title": "Classi pollaio, aule-forno e disuguaglianze: la denuncia degli studenti sulle condizioni delle scuole in Europa",
+   "summary": "Dalle aule sovraffollate di Parigi ai prefabbricati in Grecia: la protesta degli studenti europei denuncia il collasso delle scuole e le disuguaglianze in tutta Europa.",
+   "image": null,
+   "url": "https://www.valigiablu.it/crisi-scuola-europa-proteste-studenti-europa/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-25T08:25:13+00:00"
+  },
+  {
+   "id": "fb4965a06405",
+   "title": "Alla scoperta del Salento: la Grotta Romanelli",
+   "summary": "Dopo aver visitato la splendida grotta “Zinzulusa”, è opportuno descrivere anche l’altra grotta situata nel tratto di costa che va da Santa Cesarea Terme sino a Castro e che ha un grande rilievo dal…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/alla-scoperta-del-salento-la-grotta-romanelli/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T08:11:40+00:00"
+  },
   {
    "id": "020496e8dcf5",
    "title": "Alla scoperta del Salento: l’obelisco di Lecce, che dal 1822 accoglie chi arriva e chi torna",
@@ -242,17 +297,6 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-10-24T19:27:08+00:00"
-  },
-  {
-   "id": "96bf0366c291",
-   "title": "Un 50enne trovato morto in casa: “intossicazione da cocaina”, ma il presunto pusher viene assolto",
-   "summary": "MONTERONI (Lecce) – Venne trovato morto in casa della madre con la quale conviveva dopo aver assunto cocaina il 4 dicembre 2020. Per la morte di un 50enne di Monteroni, F.S., un 55enne compaesano, è…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/un-50enne-trovato-morto-in-casa-intossicazione-da-cocaina-ma-il-presunto-pusher-viene-assolto/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T18:44:25+00:00"
   },
   {
    "id": "75eecd266b87",
@@ -2294,13 +2338,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T08:12:12.136900+00:00",
+   "last_ok": "2026-10-25T08:53:56.719865+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T08:12:12.136900+00:00",
+   "last_ok": "2026-10-25T08:53:56.719865+00:00",
    "error": null
   },
   {
@@ -2312,19 +2356,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T08:12:12.136900+00:00",
+   "last_ok": "2026-10-25T08:53:56.719865+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T08:12:12.136900+00:00",
+   "last_ok": "2026-10-25T08:53:56.719865+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T08:12:12.136900+00:00",
+   "last_ok": "2026-10-25T08:53:56.719865+00:00",
    "error": null
   }
  ]
