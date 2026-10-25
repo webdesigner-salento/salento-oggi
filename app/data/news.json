@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-25T14:12:29.720740+00:00",
+ "updated_at": "2026-10-25T14:51:46.522404+00:00",
  "items": [
+  {
+   "id": "1e1b08bf89d9",
+   "title": "“Sì all’Amore!”, a Villa Zaira il Wedding Day dedicato ai futuri sposi",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-84-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/25/si-allamore-a-villa-zaira-il-wedding-day-dedicato-ai-futuri-sposi",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T13:57:31+00:00"
+  },
   {
    "id": "af0aef79aed1",
    "title": "Movimento 17 ottobre, appelli social alla protesta: indagato 17enne di Leverano",
@@ -59,7 +70,7 @@
   {
    "id": "525d08d944b9",
    "title": "Appello sui social per un’adunata in centro: denunciato un minore, sequestrati passamontagna e coltello",
-   "summary": "LECCE – Un’attività di prevenzione e monitoraggio condotta dai Carabinieri del Comando Provinciale di Lecce ha portato alla denuncia in stato di libertà di un giovane presso la Procura della Repubbli…",
+   "summary": "LECCE – Un’attività di prevenzione e monitoraggio condotta dai Carabinieri del Comando Provinciale di Lecce ha sventato sul nascere il tentativo di organizzare una manifestazione non autorizzata nel…",
    "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/57f34ead-b473-477a-930e-b9a7d90c93bc-246x300.jpeg",
    "url": "https://www.corrieresalentino.it/2026/10/appello-sui-social-per-unadunata-in-centro-denunciato-un-minore-sequestrati-passamontagna-e-coltello/",
    "source": "Corriere Salentino",
@@ -2101,30 +2112,19 @@
    "category": "Politica",
    "zone": "Salento",
    "published_at": "2026-10-22T14:56:46+00:00"
-  },
-  {
-   "id": "e2a916b75d16",
-   "title": "Operazione “Core”: chiesto il processo per 44. Tra i neo imputati c’è un nuovo collaboratore di giustizia",
-   "summary": "SQUINZANO (Lecce) – C’è la richiesta di rinvio a giudizio con contestuale fissazione dell’udienza preliminare per i 44 soggetti coinvolti nell’inchiesta ribattezzata “Core”, sviluppata tra il 2015 e…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/operazione-core-chiesto-il-processo-per-44-tra-i-neo-imputati-ce-un-nuovo-collaboratore-di-giustizia/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T14:43:44+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T14:12:29.720740+00:00",
+   "last_ok": "2026-10-25T14:51:46.522404+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T14:12:29.720740+00:00",
+   "last_ok": "2026-10-25T14:51:46.522404+00:00",
    "error": null
   },
   {
@@ -2136,19 +2136,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T14:12:29.720740+00:00",
+   "last_ok": "2026-10-25T14:51:46.522404+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T14:12:29.720740+00:00",
+   "last_ok": "2026-10-25T14:51:46.522404+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T14:12:29.720740+00:00",
+   "last_ok": "2026-10-25T14:51:46.522404+00:00",
    "error": null
   }
  ]
