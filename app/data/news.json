@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T10:12:45.027930+00:00",
+ "updated_at": "2026-10-25T10:51:58.535738+00:00",
  "items": [
   {
    "id": "b59dc0403020",
@@ -362,7 +362,18 @@
    "source": "TeleRama News",
    "category": "Eventi",
    "zone": "Lecce",
-   "published_at": "2026-10-24T19:27:08+00:00"
+   "published_at": "2026-10-24T21:27:08+00:00"
+  },
+  {
+   "id": "787868e625a2",
+   "title": "Melendugno, a Parma terza sconfitta in quattro partite",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-24-192921.png",
+   "url": "https://trnews.it/2026/10/24/melendugno-a-parma-terza-sconfitta-in-quattro-partite",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T19:15:37+00:00"
   },
   {
    "id": "75eecd266b87",
@@ -374,17 +385,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-24T18:07:36+00:00"
-  },
-  {
-   "id": "787868e625a2",
-   "title": "Melendugno, a Parma terza sconfitta in quattro partite",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-24-192921.png",
-   "url": "https://trnews.it/2026/10/24/melendugno-a-parma-terza-sconfitta-in-quattro-partite",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T17:15:37+00:00"
   },
   {
    "id": "290d6b56ab2f",
@@ -440,6 +440,17 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-24T15:03:16+00:00"
+  },
+  {
+   "id": "99ace8782bf3",
+   "title": "Il Brasile incontra il Salento: musica senza confini a Galatina",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/GALATINA.jpg",
+   "url": "https://trnews.it/2026/10/24/il-brasile-incontra-il-salento-musica-senza-confini-a-galatina",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T14:55:52+00:00"
   },
   {
    "id": "eba72615216e",
@@ -539,17 +550,6 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-10-24T13:36:47+00:00"
-  },
-  {
-   "id": "99ace8782bf3",
-   "title": "Il Brasile incontra il Salento: musica senza confini a Galatina",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/GALATINA.jpg",
-   "url": "https://trnews.it/2026/10/24/il-brasile-incontra-il-salento-musica-senza-confini-a-galatina",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T12:55:52+00:00"
   },
   {
    "id": "9ab0f6430767",
@@ -2277,52 +2277,19 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-10-22T10:55:51+00:00"
-  },
-  {
-   "id": "37a629f992c9",
-   "title": "Il cardinale De Giorgi in ospedale dopo una caduta: apprensione nel Salento",
-   "summary": "ROMA/ VERNOLE (Lecce) – Ore di apprensione per il cardinale salentino Salvatore De Giorgi, originario di Vernole, ricoverato d’urgenza al Policlinico Gemelli di Roma dopo una caduta nella sua abitazi…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/il-cardinale-de-giorgi-in-ospedale-dopo-una-caduta-apprensione-nel-salento/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T10:30:42+00:00"
-  },
-  {
-   "id": "5ab36202ee18",
-   "title": "Brindisi, con il Bisceglie per la manita",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2024/10/BRINDISI-CALCIO-NEWS-1024x586.jpeg",
-   "url": "https://trnews.it/2026/10/22/519461",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-10-22T10:19:49+00:00"
-  },
-  {
-   "id": "954af0a9de74",
-   "title": "Piano sosta e strisce blu a Lecce: dura presa di posizione del Codacons contro l’estensione dei parcheggi a pagamento",
-   "summary": "LECCE – Un duro attacco all’indirizzo dell’amministrazione comunale di Lecce sul tema della mobilità urbana e della riorganizzazione dei parcheggi in città. A sollevare una forte protesta è la sede p…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/piano-sosta-e-strisce-blu-a-lecce-dura-presa-di-posizione-del-codacons-contro-lestensione-dei-parcheggi-a-pagamento/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T10:19:00+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T10:12:45.027930+00:00",
+   "last_ok": "2026-10-25T10:51:58.535738+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T10:12:45.027930+00:00",
+   "last_ok": "2026-10-25T10:51:58.535738+00:00",
    "error": null
   },
   {
@@ -2334,19 +2301,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T10:12:45.027930+00:00",
+   "last_ok": "2026-10-25T10:51:58.535738+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T10:12:45.027930+00:00",
+   "last_ok": "2026-10-25T10:51:58.535738+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T10:12:45.027930+00:00",
+   "last_ok": "2026-10-25T10:51:58.535738+00:00",
    "error": null
   }
  ]
