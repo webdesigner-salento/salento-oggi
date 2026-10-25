@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-25T20:07:41.007410+00:00",
+ "updated_at": "2026-10-25T20:49:23.648284+00:00",
  "items": [
+  {
+   "id": "a9a04de33808",
+   "title": "Lecce – Juventus, Saverio Sticchi Damiani: nella ripresa il cambio di modulo ha dato maggiore intensità",
+   "summary": "Il presidente del Lecce Saverio Sticchi Damiani ha commentato la sconfitta contro la Juventus.",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lecce-juventus-saverio-sticchi-damiani-nella-ripresa-il-cambio-di-modulo-ha-dato-maggiore-intensita/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T20:35:40+00:00"
+  },
   {
    "id": "0cdda84ae682",
    "title": "San Cesario, scontro politico dopo il Consiglio fiume: “Una maggioranza tenuta in piedi dai campioni della coerenza”",
@@ -57,6 +68,17 @@
    "published_at": "2026-10-25T19:05:30+00:00"
   },
   {
+   "id": "6eeb654022b0",
+   "title": "Eccellenza, i risultati della 10ª giornata",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/Eccellenza-750x500-1.jpg",
+   "url": "https://trnews.it/2026/10/25/eccellenza-i-risultati-della-10a-giornata",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-25T18:41:41+00:00"
+  },
+  {
    "id": "e283b237e8db",
    "title": "Serie C: i risultati, domani due posticipi",
    "summary": "",
@@ -68,17 +90,6 @@
    "published_at": "2026-10-25T18:18:40+00:00"
   },
   {
-   "id": "6eeb654022b0",
-   "title": "Eccellenza, i risultati della 10ª giornata",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/Eccellenza-750x500-1.jpg",
-   "url": "https://trnews.it/2026/10/25/eccellenza-i-risultati-della-10a-giornata",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-10-25T17:41:41+00:00"
-  },
-  {
    "id": "5e0bfbf0dc94",
    "title": "Serie D: la nona giornata, i risultati",
    "summary": "",
@@ -87,7 +98,7 @@
    "source": "TeleRama News",
    "category": "Sport",
    "zone": "Salento",
-   "published_at": "2026-10-25T17:16:25+00:00"
+   "published_at": "2026-10-25T18:16:25+00:00"
   },
   {
    "id": "3864edfae2f4",
@@ -98,7 +109,7 @@
    "source": "TeleRama News",
    "category": "Sport",
    "zone": "Salento",
-   "published_at": "2026-10-25T17:11:38+00:00"
+   "published_at": "2026-10-25T18:11:38+00:00"
   },
   {
    "id": "50b30bcc8512",
@@ -153,7 +164,40 @@
    "source": "TeleRama News",
    "category": "Eventi",
    "zone": "Lecce",
-   "published_at": "2026-10-25T13:57:31+00:00"
+   "published_at": "2026-10-25T14:57:31+00:00"
+  },
+  {
+   "id": "af0aef79aed1",
+   "title": "Movimento 17 ottobre, appelli social alla protesta: indagato 17enne di Leverano",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-83-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/25/movimento-17-ottobre-appelli-social-alla-protesta-indagato-17enne-di-leverano",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T14:47:01+00:00"
+  },
+  {
+   "id": "dec09f014929",
+   "title": "Lecce, la grande canzone italiana chiude “Illuminiamo l’Arte” agli Agostiniani",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-82-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/25/lecce-la-grande-canzone-italiana-chiude-illuminiamo-larte-agli-agostiniani",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T14:46:17+00:00"
+  },
+  {
+   "id": "66659a437eca",
+   "title": "“Il primato Meloni” oltre la politica, nella storia: Briguglio presenta il suo libro a Bari",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Il-primato-Meloni-presentazione-libro-Carmelo-Briguglio-a-Bari-1024x768.jpg",
+   "url": "https://trnews.it/2026/10/25/il-primato-meloni-oltre-la-politica-nella-storia-briguglio-presenta-il-suo-libro-a-bari",
+   "source": "TeleRama News",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-10-25T14:11:32+00:00"
   },
   {
    "id": "ffbc6de24ed5",
@@ -167,28 +211,6 @@
    "published_at": "2026-10-25T13:50:50+00:00"
   },
   {
-   "id": "af0aef79aed1",
-   "title": "Movimento 17 ottobre, appelli social alla protesta: indagato 17enne di Leverano",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-83-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/25/movimento-17-ottobre-appelli-social-alla-protesta-indagato-17enne-di-leverano",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-25T13:47:01+00:00"
-  },
-  {
-   "id": "dec09f014929",
-   "title": "Lecce, la grande canzone italiana chiude “Illuminiamo l’Arte” agli Agostiniani",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-82-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/25/lecce-la-grande-canzone-italiana-chiude-illuminiamo-larte-agli-agostiniani",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-25T13:46:17+00:00"
-  },
-  {
    "id": "c1cbd119f42c",
    "title": "Fermato in auto con due panetti di hashish: 39enne arrestato",
    "summary": "TAURISANO (Lecce) – Un controllo su strada condotto dagli agenti della Polizia di Stato del Commissariato di Taurisano ha portato all’arresto di un trentanovenne del posto per detenzione di sostanze…",
@@ -198,17 +220,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-25T13:36:21+00:00"
-  },
-  {
-   "id": "66659a437eca",
-   "title": "“Il primato Meloni” oltre la politica, nella storia: Briguglio presenta il suo libro a Bari",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Il-primato-Meloni-presentazione-libro-Carmelo-Briguglio-a-Bari-1024x768.jpg",
-   "url": "https://trnews.it/2026/10/25/il-primato-meloni-oltre-la-politica-nella-storia-briguglio-presenta-il-suo-libro-a-bari",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-10-25T13:11:32+00:00"
   },
   {
    "id": "525d08d944b9",
@@ -560,7 +571,7 @@
    "source": "TeleRama News",
    "category": "Sport",
    "zone": "Lecce",
-   "published_at": "2026-10-24T22:10:44+00:00"
+   "published_at": "2026-10-25T00:10:44+00:00"
   },
   {
    "id": "d0a8d3244ac3",
@@ -2063,13 +2074,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T20:07:41.007410+00:00",
+   "last_ok": "2026-10-25T20:49:23.648284+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T20:07:41.007410+00:00",
+   "last_ok": "2026-10-25T20:49:23.648284+00:00",
    "error": null
   },
   {
@@ -2081,19 +2092,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T20:07:41.007410+00:00",
+   "last_ok": "2026-10-25T20:49:23.648284+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T20:07:41.007410+00:00",
+   "last_ok": "2026-10-25T20:49:23.648284+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T20:07:41.007410+00:00",
+   "last_ok": "2026-10-25T20:49:23.648284+00:00",
    "error": null
   }
  ]
