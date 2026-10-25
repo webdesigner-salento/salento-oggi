@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T05:18:40.933781+00:00",
+ "updated_at": "2026-10-25T05:52:59.603126+00:00",
  "items": [
   {
    "id": "34498a19b727",
@@ -2189,30 +2189,19 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-10-22T05:56:26+00:00"
-  },
-  {
-   "id": "73e337d8b189",
-   "title": "ADHD: Rompere il silenzio e abbattere i pregiudizi. Tra diagnosi precoce, età adulta e diritti in Puglia",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/6a8835a9a3b90.jpeg",
-   "url": "https://trnews.it/2026/10/22/adhd-rompere-il-silenzio-e-abbattere-i-pregiudizi-tra-diagnosi-precoce-eta-adulta-e-diritti-in-puglia",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T05:46:25+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T05:18:40.933781+00:00",
+   "last_ok": "2026-10-25T05:52:59.603126+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T05:18:40.933781+00:00",
+   "last_ok": "2026-10-25T05:52:59.603126+00:00",
    "error": null
   },
   {
@@ -2224,19 +2213,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T05:18:40.933781+00:00",
+   "last_ok": "2026-10-25T05:52:59.603126+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T05:18:40.933781+00:00",
+   "last_ok": "2026-10-25T05:52:59.603126+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T05:18:40.933781+00:00",
+   "last_ok": "2026-10-25T05:52:59.603126+00:00",
    "error": null
   }
  ]
