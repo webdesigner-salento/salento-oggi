@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T04:20:55.665381+00:00",
+ "updated_at": "2026-10-25T04:56:54.111222+00:00",
  "items": [
   {
    "id": "b3ee68716692",
@@ -2211,30 +2211,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-22T05:00:26+00:00"
-  },
-  {
-   "id": "97c7f4e68186",
-   "title": "La ricetta del giorno: Tiramisù",
-   "summary": "Qualche riga senza procedimento è così che scrivono, la maggior parte delle ricette, la mamma e le nonne.. il segreto è proprio nel procedimento, che puntualmente devo chiedere e farmi spiegare in ma…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/la-ricetta-del-giorno-tiramisu/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-22T04:20:58+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T04:20:55.665381+00:00",
+   "last_ok": "2026-10-25T04:56:54.111222+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T04:20:55.665381+00:00",
+   "last_ok": "2026-10-25T04:56:54.111222+00:00",
    "error": null
   },
   {
@@ -2246,19 +2235,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T04:20:55.665381+00:00",
+   "last_ok": "2026-10-25T04:56:54.111222+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T04:20:55.665381+00:00",
+   "last_ok": "2026-10-25T04:56:54.111222+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T04:20:55.665381+00:00",
+   "last_ok": "2026-10-25T04:56:54.111222+00:00",
    "error": null
   }
  ]
