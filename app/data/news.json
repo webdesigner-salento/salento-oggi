@@ -1,6 +1,61 @@
 {
- "updated_at": "2026-10-25T06:14:35.816572+00:00",
+ "updated_at": "2026-10-25T07:08:18.808395+00:00",
  "items": [
+  {
+   "id": "50b30bcc8512",
+   "title": "Intervento dei Vigili del Fuoco nella notte a Gallipoli: auto distrutta dal fuoco",
+   "summary": "GALLIPOLI (Lecce) – Un rogo notturno ha richiesto il tempestivo intervento dei Vigili del Fuoco a Gallipoli, dove poco dopo la mezzanotte una squadra del Distaccamento locale si è precipitata in via…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/intervento-dei-vigili-del-fuoco-nella-notte-a-gallipoli-auto-distrutta-dal-fuoco/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T07:06:41+00:00"
+  },
+  {
+   "id": "7c54f4ec45ea",
+   "title": "L’almanacco di oggi 25 ottobre",
+   "summary": "Il Santo del giorno: S. Crispino. Il proverbio di Mesciu Ronzu: N’ha fritti purpi! Significato: Ne ha fritti polpi! Espressione di solito riferita a una ragazza dai costumi lascivi. – Sono nati in qu…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lalmanacco-di-oggi-25-ottobre/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-25T06:37:40+00:00"
+  },
+  {
+   "id": "ed9b05ed804c",
+   "title": "Valtur Brindisi, contro Avellino servono risposte",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/09/valtur-brindisi-Cinciarini-contro-Ruvo-Memorial-Pentassuglia-1024x819.jpeg",
+   "url": "https://trnews.it/2026/10/25/valtur-brindisi-contro-avellino-servono-risposte",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-10-25T06:00:53+00:00"
+  },
+  {
+   "id": "254eb45f0b51",
+   "title": "Il Casarano a Crotone. Debutto per Zauri sulla panchina rossoazzurra",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-24-211458.png",
+   "url": "https://trnews.it/2026/10/25/il-casarano-a-crotone-debutto-per-zauri-sulla-panchina-rossoazzurra",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T05:58:25+00:00"
+  },
+  {
+   "id": "5e73c2e6150e",
+   "title": "Ricetta del giorno: Torta Pasticciotto",
+   "summary": "Ingredienti per 8 persone: Pasta frolla 500 gr di farina 200 gr di strutto 1 bustina di lievito per dolci 150 gr di zucchero 3 uova Buccia grattugiata di 2 limoni biologici Crema pasticcera 3 tuorli…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/ricetta-del-giorno-torta-pasticciotto/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-25T05:22:52+00:00"
+  },
   {
    "id": "34498a19b727",
    "title": "Lecce-Juventus live su TeleRama con gli aggiornamenti di Lecce Channel in Campo",
@@ -178,6 +233,17 @@
    "published_at": "2026-10-24T14:00:43+00:00"
   },
   {
+   "id": "e5f0d1953edb",
+   "title": "Primavera 1: La Juventus batte il Lecce 3-2 al fotofinish",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/09/primavera-scaled-e1788522724842-1024x636.jpg",
+   "url": "https://trnews.it/2026/10/24/primavera-1-la-juventus-batte-il-lecce-3-2-al-fotofinish",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T13:48:14+00:00"
+  },
+  {
    "id": "323af8796f50",
    "title": "Roca, tremila anni di storia mediterranea: un patrimonio da tutelare con il FAI",
    "summary": "La candidatura al XIII censimento nazionale “I Luoghi del Cuore” richiama l’attenzione su uno dei più significativi siti archeologici del Salento. Roca, sulla costa adriatica salentina, nel territori…",
@@ -187,6 +253,17 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-24T13:46:39+00:00"
+  },
+  {
+   "id": "9c6e9b25c259",
+   "title": "Protesta agricoltori, oltre 800 in corteo: \"Ora basta\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_4196-1024x707.jpeg",
+   "url": "https://trnews.it/2026/10/24/protesta-agricoltori-oltre-800-in-corteo-ora-basta",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-24T13:39:04+00:00"
   },
   {
    "id": "af4a30ed6c1f",
@@ -253,28 +330,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-24T11:53:33+00:00"
-  },
-  {
-   "id": "e5f0d1953edb",
-   "title": "Primavera 1: La Juventus batte il Lecce 3-2 al fotofinish",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/09/primavera-scaled-e1788522724842-1024x636.jpg",
-   "url": "https://trnews.it/2026/10/24/primavera-1-la-juventus-batte-il-lecce-3-2-al-fotofinish",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T11:48:14+00:00"
-  },
-  {
-   "id": "9c6e9b25c259",
-   "title": "Protesta agricoltori, oltre 800 in corteo: \"Ora basta\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_4196-1024x707.jpeg",
-   "url": "https://trnews.it/2026/10/24/protesta-agricoltori-oltre-800-in-corteo-ora-basta",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T11:39:04+00:00"
   },
   {
    "id": "37eaf11b9cd3",
@@ -2112,85 +2167,19 @@
    "category": "Cultura",
    "zone": "Lecce",
    "published_at": "2026-10-22T07:27:51+00:00"
-  },
-  {
-   "id": "c4cee6fce876",
-   "title": "Dal Kazakistan all’Italia: il petrolio che avvelena il Caspio",
-   "summary": "Il Kazakistan fornisce il 12% del greggio importato dall’Italia. Partendo da Atyrau, abbiamo seguito le sue tracce: tra immagini satellitari e campionamenti sul campo, l’inchiesta documenta l’inquina…",
-   "image": null,
-   "url": "https://irpimedia.irpi.eu/inquinamento-petrolio-mar-caspio-kazakistan/?utm_source=rss&utm_medium=rss&utm_campaign=inquinamento-petrolio-mar-caspio-kazakistan",
-   "source": "IrpiMedia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-22T06:59:02+00:00"
-  },
-  {
-   "id": "edb0bfad08d7",
-   "title": "Taranto, momento delicato: è già in gioco una stagione",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-21-191327.png",
-   "url": "https://trnews.it/2026/10/22/taranto-momento-delicato-e-gia-in-gioco-una-stagione",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-10-22T06:58:33+00:00"
-  },
-  {
-   "id": "3fc6d4126ca4",
-   "title": "“Sportello dei Diritti”: Cassazione, non è reato restare nella casa popolare dopo l’annullamento dell’assegnazione",
-   "summary": "Restare all’interno di una casa popolare anche dopo l’annullamento dell’assegnazione in capo al precedente inquilino non costituisce il reato di invasione di edifici (art. 633 c.p.), ma configura un…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/sportello-dei-diritti-cassazione-non-e-reato-restare-nella-casa-popolare-dopo-lannullamento-dellassegnazione/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-22T06:50:06+00:00"
-  },
-  {
-   "id": "334016f124c9",
-   "title": "Treni, Linea Bari-Lecce: circolazione in graduale ripresa dalle 6.30",
-   "summary": "Dalle 6.30 di questa mattina è ripresa la circolazione ferroviaria sulla linea Bari- Lecce. Le squadre tecniche di Rete Ferroviaria Italiana hanno lavorato tutta la notte con mezzi d’opera per ripris…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/treni-linea-bari-lecce-circolazione-in-graduale-ripresa-dalle-6-30/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T06:45:14+00:00"
-  },
-  {
-   "id": "76f79a2d5087",
-   "title": "Dalla rivoluzione dei fenicotteri alle rivolte di ottobre: i giovani albanesi contro il governo Rama",
-   "summary": "A Tirana la rabbia sociale è esplosa in guerriglia urbana, tra incendi, gas lacrimogeni e oltre 150 arresti. La miccia è stata il resort di lusso legato a Jared Kushner nella laguna di Narta, da cui…",
-   "image": null,
-   "url": "https://www.valigiablu.it/proteste-albania-fenicotteri-kushner-edi-rama/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-22T06:43:14+00:00"
-  },
-  {
-   "id": "e0c4f38349b0",
-   "title": "Ambulatori mobili, Asl Lecce: Non c’è alcuno spreco, i due mezzi completano un servizio già attivo da un anno e mezzo",
-   "summary": "LECCE – In merito alla nota del consigliere regionale Paolo Pagliaro sui motorhome, gli ambulatori medici mobili, l’ASL Lecce precisa che: “Non c’è alcuno spreco: i due mezzi completano un servizio g…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/ambulatori-mobili-asl-lecce-non-ce-alcuno-spreco-i-due-mezzi-completano-un-servizio-gia-attivo-da-un-anno-e-mezzo/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T06:43:04+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T06:14:35.816572+00:00",
+   "last_ok": "2026-10-25T07:08:18.808395+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T06:14:35.816572+00:00",
+   "last_ok": "2026-10-25T07:08:18.808395+00:00",
    "error": null
   },
   {
@@ -2202,19 +2191,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T06:14:35.816572+00:00",
+   "last_ok": "2026-10-25T07:08:18.808395+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T06:14:35.816572+00:00",
+   "last_ok": "2026-10-25T07:08:18.808395+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T06:14:35.816572+00:00",
+   "last_ok": "2026-10-25T07:08:18.808395+00:00",
    "error": null
   }
  ]
