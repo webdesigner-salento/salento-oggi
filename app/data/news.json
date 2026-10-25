@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T15:12:33.617815+00:00",
+ "updated_at": "2026-10-25T15:52:09.150210+00:00",
  "items": [
   {
    "id": "1e1b08bf89d9",
@@ -2046,52 +2046,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-22T16:52:26+00:00"
-  },
-  {
-   "id": "a9948707a669",
-   "title": "Amazon introduce un nuovo hub per la micromobilita’ a Lecce. Il Vicesindaco Roberto Giordano Anguilla: “ottima opportunità per il capoluogo salentino”",
-   "summary": "Lecce, 21 ottobre 2026 – Amazon annuncia l’introduzione di unnuovo hub di micromobilità a Lecce: nelle zone a traffico limitato del centro cittadino, l’azienda effettua ora consegne a zero emissioni…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/amazon-introduce-un-nuovo-hub-per-la-micromobilita-a-lecce-il-vicesindaco-roberto-giordano-anguilla-ottima-opportunita-per-il-capoluogo-salentino/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T15:37:26+00:00"
-  },
-  {
-   "id": "3bd67aa5e17f",
-   "title": "Ex Ilva, i sindacati: \"Ora le soluzioni\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-73-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/22/ex-ilva-i-sindacati-ora-le-soluzioni",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Taranto",
-   "published_at": "2026-10-22T15:26:46+00:00"
-  },
-  {
-   "id": "2a3dfd9f99f1",
-   "title": "Sud Sound System, live a Milano. Il 7 novembre è grande festa all’Alcatraz con un concerto per i 35 anni di musica",
-   "summary": "C’è una città, fuori dal Salento, che i Sud Sound System possono chiamare casa. È Milano. Qui, il 21 gennaio 1989, il gruppo suonò per la prima volta lontano dalla propria terra, al centro sociale Le…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/sud-sound-system-live-a-milano-il-7-novembre-e-grande-festa-allalcatraz-con-un-concerto-per-i-35-anni-di-musica/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Salento",
-   "published_at": "2026-10-22T15:19:17+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T15:12:33.617815+00:00",
+   "last_ok": "2026-10-25T15:52:09.150210+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T15:12:33.617815+00:00",
+   "last_ok": "2026-10-25T15:52:09.150210+00:00",
    "error": null
   },
   {
@@ -2103,19 +2070,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T15:12:33.617815+00:00",
+   "last_ok": "2026-10-25T15:52:09.150210+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T15:12:33.617815+00:00",
+   "last_ok": "2026-10-25T15:52:09.150210+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T15:12:33.617815+00:00",
+   "last_ok": "2026-10-25T15:52:09.150210+00:00",
    "error": null
   }
  ]
