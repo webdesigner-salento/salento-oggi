@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-25T20:49:23.648284+00:00",
+ "updated_at": "2026-10-25T21:11:14.632861+00:00",
  "items": [
+  {
+   "id": "c237e22a8781",
+   "title": "Lecce, Sticchi Damiani: \"Il primo tempo non mi ha entusiasmato, bene nella ripresa\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG-20261025-WA01481-1-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/25/lecce-sticchi-damiani-il-primo-tempo-non-mi-ha-entusiasmato-bene-nella-ripresa",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T20:43:40+00:00"
+  },
   {
    "id": "a9a04de33808",
    "title": "Lecce – Juventus, Saverio Sticchi Damiani: nella ripresa il cambio di modulo ha dato maggiore intensità",
@@ -2057,30 +2068,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-23T04:43:19+00:00"
-  },
-  {
-   "id": "9960e5588c2f",
-   "title": "Presunte molestie su allieve durante esercizi per preparare corsi alle Forze armate: personal trainer a processo",
-   "summary": "SUPERSANO (Lecce) – Avrebbe molestato due ragazze salentine – rispettivamente di 20 e 25 anni – durante gli allenamenti propedeutici per partecipare ad alcuni concorsi nelle Forze armate. E.S., perso…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/supersanopresunte-molestie-su-allieve-durante-esercizi-per-preparare-corsi-alle-forze-armate-personal-trainer-a-processo/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-22T21:02:31+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-25T20:49:23.648284+00:00",
+   "last_ok": "2026-10-25T21:11:14.632861+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-25T20:49:23.648284+00:00",
+   "last_ok": "2026-10-25T21:11:14.632861+00:00",
    "error": null
   },
   {
@@ -2092,19 +2092,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-25T20:49:23.648284+00:00",
+   "last_ok": "2026-10-25T21:11:14.632861+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-25T20:49:23.648284+00:00",
+   "last_ok": "2026-10-25T21:11:14.632861+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-25T20:49:23.648284+00:00",
+   "last_ok": "2026-10-25T21:11:14.632861+00:00",
    "error": null
   }
  ]
