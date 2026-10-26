@@ -1,16 +1,93 @@
 {
- "updated_at": "2026-10-26T06:28:02.080746+00:00",
+ "updated_at": "2026-10-26T07:22:59.098358+00:00",
  "items": [
+  {
+   "id": "484ba6dacac4",
+   "title": "Il 31 ottobre il Party Salento Show Live fa tappa a Carpignano Salentino",
+   "summary": "CARPIGNANO (Lecce) – Sabato 31 ottobre, la macchina del tempo del “Party Salento Show Live” farà tappa a Carpignano in piazza Duda D’Aosta a partite dalle 21:30. Un grande spettacolo che farà riviver…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/il-31-ottobre-il-party-salento-show-live-fa-tappa-a-carpignano-salentino/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T06:51:52+00:00"
+  },
+  {
+   "id": "8c338e34903d",
+   "title": "Venerdì 30 ottobre presentazione del libro “Il mondo sulle spalle” di Giulio Napolitano",
+   "summary": "LECCE – Venerdì 30 ottobre 2026, alle ore 18, il Teatrino del Convitto Palmieri ospita la presentazione de Il mondo sulle spalle. Una storia famigliare e politica (Mondadori), il libro in cui Giulio…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/venerdi-30-ottobre-presentazione-del-libro-il-mondo-sulle-spalle-di-giulio-napolitano/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T06:50:15+00:00"
+  },
+  {
+   "id": "070ddbf3a1fe",
+   "title": "Volley, B1: Nardò in festa, la Dream piega Isernia nell’ esordio casalingo",
+   "summary": "NARDO’ (Lecce) – Il DS Dell’Anna: “La forza del gruppo e la spinta del pubblico le nostre armi vincenti “Se la trasferta di Jesi al debutto aveva già regalato nitidi segnali sulla tempra e sul caratt…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/volley-b1-nardo-in-festa-la-dream-piega-isernia-nell-esordio-casalingo/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T06:47:55+00:00"
+  },
+  {
+   "id": "dc5ce2e75d4d",
+   "title": "Newsroom – Cosa c’è dietro il greggio kazako che arriva in Italia. E perché siamo un petrostato senza petrolio",
+   "summary": "Le analisi confermano le denunce degli abitanti. In Italia si protesta per il gasolio mentre l’elettricità è tassata più del gas L'articolo Newsroom – Cosa c’è dietro il greggio kazako che arriva in…",
+   "image": null,
+   "url": "https://irpimedia.irpi.eu/newsroom-104-petrolio-kazakistan-protesta-gas/?utm_source=rss&utm_medium=rss&utm_campaign=newsroom-104-petrolio-kazakistan-protesta-gas",
+   "source": "IrpiMedia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-26T06:37:44+00:00"
+  },
+  {
+   "id": "6d2899b436a7",
+   "title": "Elezioni in Israele, chi si oppone a Netanyahu",
+   "summary": "Sono indietro nei sondaggi o non hanno proprio espressione partitica. Ma esistono. Voci da partiti e movimenti che esprimono una diversa visione della società israeliana. E che non si accontentano di…",
+   "image": null,
+   "url": "https://irpimedia.irpi.eu/elezioni-in-israele-chi-si-oppone-a-netanyahu/?utm_source=rss&utm_medium=rss&utm_campaign=elezioni-in-israele-chi-si-oppone-a-netanyahu",
+   "source": "IrpiMedia",
+   "category": "Politica",
+   "zone": "Italia",
+   "published_at": "2026-10-26T06:29:02+00:00"
+  },
   {
    "id": "fd7c0338458d",
    "title": "Questa sera Silvia Carofalo, dirigente del Lecce, ospite a Piazza Giallorossa",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/SILVIA-CAROFALO--1024x1024.jpeg",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/SILVIA-CAROFALO-.jpeg-2--1024x806.jpeg",
    "url": "https://trnews.it/2026/10/26/questa-sera-silvia-carofalo-dirigente-del-lecce-ospite-a-piazza-giallorossa",
    "source": "TeleRama News",
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-26T06:00:03+00:00"
+  },
+  {
+   "id": "8c0034142425",
+   "title": "L’almanacco di oggi 26 ottobre",
+   "summary": "Il Santo del giorno: Sant’Evaristo papa. Il proverbio di Mesciu Ronzu: No sulu ci chianta favi mangia unguli. Significato: Non solo chi pianta semi di fave mangia le fave fresche. – Sono nati in ques…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lalmanacco-di-oggi-26-ottobre/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-26T06:00:01+00:00"
+  },
+  {
+   "id": "871f9c6e5a6f",
+   "title": "Ricetta del giorno: Riso patate e cozze",
+   "summary": "Ingredienti per 4 persone: 250 gr di riso carnaroli 1 kg di cozze 500 gr di patate 3 pomodori Una manciata di prezzemolo fresco tritato 150 gr di Parmigiano Reggiano o pecorino grattugiato 300 gr di…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/ricetta-del-giorno-riso-patate-e-cozze/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-26T05:22:28+00:00"
   },
   {
    "id": "b0f9d179b845",
@@ -1958,74 +2035,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-23T07:55:12+00:00"
-  },
-  {
-   "id": "11a5e03e76df",
-   "title": "Serie C, riflettori accesi per Potenza e Bari",
-   "summary": "",
-   "image": null,
-   "url": "https://trnews.it/2026/10/23/serie-c-riflettori-accesi-per-potenza-e-bari",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-10-23T07:10:50+00:00"
-  },
-  {
-   "id": "d6d57dbd127d",
-   "title": "Reset Energia approda su Facile.it con una nuova offerta luce a consumo",
-   "summary": "La Puglia si conferma come uno degli hub di riferimento dell’Italia meridionale per quanto riguarda le fonti rinnovabili. Stando ai dati pubblicati dal Gruppo Terna, infatti, nel 2025 è stata la regi…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/reset-energia-approda-su-facile-it-con-una-nuova-offerta-luce-a-consumo/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-23T06:50:03+00:00"
-  },
-  {
-   "id": "a239424401a0",
-   "title": "Giornata internazionale della spina bifida: domenica 25 ottobre Palazzo Adorno si colora di verde",
-   "summary": "LECCE – Una domenica tinta di verde. Il 25 ottobre anche la Provincia di Lecce partecipa alla Giornata internazionale della spina bifida e idrocefalo, e illuminerà di verde Palazzo Adorno. L’Ente di…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/giornata-internazionale-della-spina-bifida-domenica-25-ottobre-palazzo-adorno-si-colora-di-verde/",
-   "source": "Corriere Salentino",
-   "category": "Salute",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T06:38:27+00:00"
-  },
-  {
-   "id": "cef663d2245e",
-   "title": "Nanomateriali e riabilitazione: a Lecce la ricerca passa dal laboratorio alla prova sui modelli",
-   "summary": "Al campus Ecotekne inaugurati il centro di eccellenza del CNR e l’infrastruttura preclinica dell’Università del Salento, un percorso che lega materiali, sperimentazione e dati Progettare un materiale…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/nanomateriali-e-riabilitazione-a-lecce-la-ricerca-passa-dal-laboratorio-alla-prova-sui-modelli/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T06:35:32+00:00"
-  },
-  {
-   "id": "91beaa245d36",
-   "title": "Un argento e molte altre soddisfazioni: ottimi risultati per i padelisti del Csi Lecce ai campionati nazionali di Modena",
-   "summary": "Dal 16 al 18 ottobre al Mammut Club di Modena si sono tenute le finali nazionali del Padel CSI coinvolgendo i diversi comitati del Centro Sportivo Italiano. Ben 44 squadre provenienti da 7 regioni d’…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/1000428816-225x300.jpg",
-   "url": "https://www.corrieresalentino.it/2026/10/un-argento-e-molte-altre-soddisfazioni-ottimi-risultati-per-i-padelisti-del-csi-lecce-ai-campionati-nazionali-di-modena/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T06:28:22+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-26T06:28:02.080746+00:00",
+   "last_ok": "2026-10-26T07:22:59.098358+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-26T06:28:02.080746+00:00",
+   "last_ok": "2026-10-26T07:22:59.098358+00:00",
    "error": null
   },
   {
@@ -2037,19 +2059,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-26T06:28:02.080746+00:00",
+   "last_ok": "2026-10-26T07:22:59.098358+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-26T06:28:02.080746+00:00",
+   "last_ok": "2026-10-26T07:22:59.098358+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-26T06:28:02.080746+00:00",
+   "last_ok": "2026-10-26T07:22:59.098358+00:00",
    "error": null
   }
  ]
