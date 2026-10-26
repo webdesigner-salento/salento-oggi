@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T04:01:32.378087+00:00",
+ "updated_at": "2026-10-26T05:00:50.956960+00:00",
  "items": [
   {
    "id": "b0f9d179b845",
@@ -2079,30 +2079,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-23T05:20:42+00:00"
-  },
-  {
-   "id": "728715bc9159",
-   "title": "La ricetta del giorno: cozze gratinate",
-   "summary": "Ingredienti 1 Kg di cozze nere 50 gr di formaggio Rodez grattugiato 80 gr di formaggio Parmigiano grattugiato Prezzemolo fresco tritato 1 spicchio di aglio grattugiato Pangrattato Olio evo Pepe Proce…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/la-ricetta-del-giorno-cozze-gratinate/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-23T04:43:19+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-26T04:01:32.378087+00:00",
+   "last_ok": "2026-10-26T05:00:50.956960+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-26T04:01:32.378087+00:00",
+   "last_ok": "2026-10-26T05:00:50.956960+00:00",
    "error": null
   },
   {
@@ -2114,19 +2103,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-26T04:01:32.378087+00:00",
+   "last_ok": "2026-10-26T05:00:50.956960+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-26T04:01:32.378087+00:00",
+   "last_ok": "2026-10-26T05:00:50.956960+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-26T04:01:32.378087+00:00",
+   "last_ok": "2026-10-26T05:00:50.956960+00:00",
    "error": null
   }
  ]
