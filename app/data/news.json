@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T23:19:22.741422+00:00",
+ "updated_at": "2026-10-26T23:52:03.442651+00:00",
  "items": [
   {
    "id": "75cbb047519d",
@@ -2068,30 +2068,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-24T02:35:00+00:00"
-  },
-  {
-   "id": "f5a167531c60",
-   "title": "Festival Organistico del Salento, due appuntamenti con la buona musica a Maglie e Bagnolo del Salento",
-   "summary": "Prosegue la seconda parte della XII edizione del Festival Organistico del Salento, la prestigiosa rassegna musicale che valorizza il patrimonio organistico del territorio e promuove la conoscenza del…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/PHOTO-2026-10-22-17-53-44-300x300.jpg",
-   "url": "https://www.corrieresalentino.it/2026/10/festival-organistico-del-salento-due-appuntamenti-con-la-buona-musica-a-maglie-e-bagnolo-del-salento/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T23:28:23+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-26T23:19:22.741422+00:00",
+   "last_ok": "2026-10-26T23:52:03.442651+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-26T23:19:22.741422+00:00",
+   "last_ok": "2026-10-26T23:52:03.442651+00:00",
    "error": null
   },
   {
@@ -2103,19 +2092,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-26T23:19:22.741422+00:00",
+   "last_ok": "2026-10-26T23:52:03.442651+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-26T23:19:22.741422+00:00",
+   "last_ok": "2026-10-26T23:52:03.442651+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-26T23:19:22.741422+00:00",
+   "last_ok": "2026-10-26T23:52:03.442651+00:00",
    "error": null
   }
  ]
