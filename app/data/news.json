@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T05:00:50.956960+00:00",
+ "updated_at": "2026-10-26T05:58:05.906112+00:00",
  "items": [
   {
    "id": "b0f9d179b845",
@@ -2046,52 +2046,19 @@
    "category": "Politica",
    "zone": "Salento",
    "published_at": "2026-10-23T06:01:35+00:00"
-  },
-  {
-   "id": "1c61c7639c15",
-   "title": "Passaggio generazionale: come governare il brand quando il fondatore lascia. Francesco Acri sulle imprese familiari",
-   "summary": "Francesco Acri, advisor di brand, fondatore e amministratore delegato di Bliss, società di Brand Advisory e Brand Governance con sedi a Roma e Milano, considera il passaggio generazionale uno dei mom…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/passaggio-generazionale-come-governare-il-brand-quando-il-fondatore-lascia-francesco-acri-sulle-imprese-familiari/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-23T05:40:32+00:00"
-  },
-  {
-   "id": "585a33f342fe",
-   "title": "Conclusi i lavori di consolidamento e restauro della Chiesa di San Pietro dei Samari a Gallipoli resi possibili grazie al contributo “I Luoghi del Cuore”",
-   "summary": "GALLIPOLI (Lecce) – Un importante passo avanti per la tutela e la valorizzazione del patrimonio storico, architettonico e paesaggistico di Gallipoli (LE). Sabato 24 ottobre 2026 alle ore 12 saranno p…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/conclusi-i-lavori-di-consolidamento-e-restauro-della-chiesa-di-san-pietro-dei-samari-a-gallipoli-resi-possibili-grazie-al-contributo-i-luoghi-del-cuore/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T05:35:52+00:00"
-  },
-  {
-   "id": "9aaedb329aaf",
-   "title": "L’almanacco di oggi 23 ottobre",
-   "summary": "Il Santo del giorno: S. Giovanni da Cap. Il proverbio di Mesciu Ronzu: Nchianu susu cullu culu, scinnu sutta cullu cazzu. Significato: Salgo sopra per colarlo, scendo sotto per schiacciarlo. – Sono n…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lalmanacco-di-oggi-23-ottobre/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-23T05:20:42+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-26T05:00:50.956960+00:00",
+   "last_ok": "2026-10-26T05:58:05.906112+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-26T05:00:50.956960+00:00",
+   "last_ok": "2026-10-26T05:58:05.906112+00:00",
    "error": null
   },
   {
@@ -2103,19 +2070,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-26T05:00:50.956960+00:00",
+   "last_ok": "2026-10-26T05:58:05.906112+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-26T05:00:50.956960+00:00",
+   "last_ok": "2026-10-26T05:58:05.906112+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-26T05:00:50.956960+00:00",
+   "last_ok": "2026-10-26T05:58:05.906112+00:00",
    "error": null
   }
  ]
