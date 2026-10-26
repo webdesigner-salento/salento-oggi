@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-26T21:23:11.614570+00:00",
+ "updated_at": "2026-10-26T21:55:13.974280+00:00",
  "items": [
+  {
+   "id": "bb1ccccade0a",
+   "title": "Rinnovo Consiglio Superiore della Magistratura: in corsa il professore Fernando Greco e l’avvocato Andrea Sambati",
+   "summary": "Rinnovo Consiglio Superiore della Magistratura per il quadriennio 2027/2031. In corsa oltre ai togati Fabrizio Malagnino e Filippo Di Todaro, secondo le indiscrezioni che circolano in queste ore, anc…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/421ac378-02b3-4aa0-ab2b-2ae952810709-203x300.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/10/rinnovo-consiglio-superiore-della-magistratura-in-corsa-il-professore-fernando-greco-e-lavvocato-andrea-sambati/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-26T21:34:55+00:00"
+  },
   {
    "id": "b2d525a1ad61",
    "title": "L’amministrazione comunale di Lecce con il Vicesindaco Roberto Giordano Anguilla incontra l’associazione dedicata ad Eleonora e Daniele",
@@ -2063,13 +2074,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-26T21:23:11.614570+00:00",
+   "last_ok": "2026-10-26T21:55:13.974280+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-26T21:23:11.614570+00:00",
+   "last_ok": "2026-10-26T21:55:13.974280+00:00",
    "error": null
   },
   {
@@ -2081,19 +2092,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-26T21:23:11.614570+00:00",
+   "last_ok": "2026-10-26T21:55:13.974280+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-26T21:23:11.614570+00:00",
+   "last_ok": "2026-10-26T21:55:13.974280+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-26T21:23:11.614570+00:00",
+   "last_ok": "2026-10-26T21:55:13.974280+00:00",
    "error": null
   }
  ]
