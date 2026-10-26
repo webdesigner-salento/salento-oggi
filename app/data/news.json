@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T03:26:00.795975+00:00",
+ "updated_at": "2026-10-26T04:01:32.378087+00:00",
  "items": [
   {
    "id": "b0f9d179b845",
@@ -10,7 +10,7 @@
    "source": "TeleRama News",
    "category": "Sport",
    "zone": "Brindisi",
-   "published_at": "2026-10-25T22:01:45+00:00"
+   "published_at": "2026-10-25T23:01:45+00:00"
   },
   {
    "id": "a7307d33b45c",
@@ -21,7 +21,7 @@
    "source": "TeleRama News",
    "category": "Sport",
    "zone": "Lecce",
-   "published_at": "2026-10-25T20:47:16+00:00"
+   "published_at": "2026-10-25T21:47:16+00:00"
   },
   {
    "id": "c237e22a8781",
@@ -32,7 +32,7 @@
    "source": "TeleRama News",
    "category": "Sport",
    "zone": "Lecce",
-   "published_at": "2026-10-25T20:43:40+00:00"
+   "published_at": "2026-10-25T21:43:40+00:00"
   },
   {
    "id": "a9a04de33808",
@@ -44,6 +44,17 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-25T20:35:40+00:00"
+  },
+  {
+   "id": "29182a0bdb5b",
+   "title": "Blitz della Juve nel Salento: Lecce sconfitto 2-0",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/840f75b9-f2cb-415b-b420-fa185621c010-1024x682.jpg",
+   "url": "https://trnews.it/2026/10/25/blitz-della-juve-nel-salento-lecce-sconfitto-2-0",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T20:16:55+00:00"
   },
   {
    "id": "0cdda84ae682",
@@ -79,15 +90,15 @@
    "published_at": "2026-10-25T19:40:44+00:00"
   },
   {
-   "id": "29182a0bdb5b",
-   "title": "Blitz della Juve nel Salento: Lecce sconfitto 2-0",
+   "id": "e283b237e8db",
+   "title": "Serie C: i risultati, domani due posticipi",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/840f75b9-f2cb-415b-b420-fa185621c010-1024x682.jpg",
-   "url": "https://trnews.it/2026/10/25/blitz-della-juve-nel-salento-lecce-sconfitto-2-0",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Serie_C_sky_wifi_2025-2026-701x1024.png",
+   "url": "https://trnews.it/2026/10/25/serie-c-i-risultati-domani-due-posticipi",
    "source": "TeleRama News",
    "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-25T19:16:55+00:00"
+   "zone": "Salento",
+   "published_at": "2026-10-25T19:18:40+00:00"
   },
   {
    "id": "d1a02164adaf",
@@ -110,17 +121,6 @@
    "category": "Sport",
    "zone": "Salento",
    "published_at": "2026-10-25T18:41:41+00:00"
-  },
-  {
-   "id": "e283b237e8db",
-   "title": "Serie C: i risultati, domani due posticipi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Serie_C_sky_wifi_2025-2026-701x1024.png",
-   "url": "https://trnews.it/2026/10/25/serie-c-i-risultati-domani-due-posticipi",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-10-25T18:18:40+00:00"
   },
   {
    "id": "5e0bfbf0dc94",
@@ -2096,13 +2096,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-26T03:26:00.795975+00:00",
+   "last_ok": "2026-10-26T04:01:32.378087+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-26T03:26:00.795975+00:00",
+   "last_ok": "2026-10-26T04:01:32.378087+00:00",
    "error": null
   },
   {
@@ -2114,19 +2114,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-26T03:26:00.795975+00:00",
+   "last_ok": "2026-10-26T04:01:32.378087+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-26T03:26:00.795975+00:00",
+   "last_ok": "2026-10-26T04:01:32.378087+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-26T03:26:00.795975+00:00",
+   "last_ok": "2026-10-26T04:01:32.378087+00:00",
    "error": null
   }
  ]
