@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-26T20:02:52.249865+00:00",
+ "updated_at": "2026-10-26T20:58:23.502003+00:00",
  "items": [
+  {
+   "id": "e20ec7dee96c",
+   "title": "Lecce ospita Achille Giuliani, 15 anni, bronzo mondiale: il karate incontra la città d’oro",
+   "summary": "LECCE- Achille Giuliani, quindici anni, bronzo ai Mondiali giovanili di karate, domenica 25 ottobre è ospite del maestro Vito Barletti della palestra Athlon. Con il papà attraversa la città barocca,…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lecce-ospita-achille-giuliani-15-anni-bronzo-mondiale-il-karate-incontra-la-citta-doro/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T20:52:37+00:00"
+  },
+  {
+   "id": "02522801ed63",
+   "title": "Le condizioni disumane dei richiedenti asilo “accolti” nell’ex caserma Cavarzerani di Udine",
+   "summary": "Infestazioni di topi, blatte e cimici. Bagni fatiscenti e fognature rotte all'esterno dei moduli. E poi ritardi nel pagamento del pocket money , mancato ricambio dei materassi e dei cuscini ed estint…",
+   "image": "https://altreconomia.it/app/uploads/2026/10/WhatsApp-Image-2026-10-24-at-11.23.20-1-e1793022555944.jpeg",
+   "url": "https://altreconomia.it/le-condizioni-disumane-dei-richiedenti-asilo-accolti-nellex-caserma-cavarzerani-di-udine/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-26T20:10:33+00:00"
+  },
   {
    "id": "a14a424a496c",
    "title": "La vittoria di Lula letta attraverso l’architettura finanziaria del Brasile. Tra Stati Uniti e Cina",
@@ -11,6 +33,17 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-26T19:56:19+00:00"
+  },
+  {
+   "id": "40138d713a8b",
+   "title": "Case di comunità, Pagliaro replica a Pentassuglia: \"Dove sono gli arredi acquistati?\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-93-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/26/case-di-comunita-pagliaro-replica-a-pentassuglia-dove-sono-gli-arredi-acquistati",
+   "source": "TeleRama News",
+   "category": "Salute",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T19:35:22+00:00"
   },
   {
    "id": "938d3dcefaa1",
@@ -178,6 +211,17 @@
    "published_at": "2026-10-26T15:56:41+00:00"
   },
   {
+   "id": "175a5b40d632",
+   "title": "Cis Taranto: fondi europei e capacità di spesa degli enti locali",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-88-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/26/cis-taranto-fondi-europei-e-capacita-di-spesa-degli-enti-locali",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Taranto",
+   "published_at": "2026-10-26T15:47:08+00:00"
+  },
+  {
    "id": "a2ede66fdd6f",
    "title": "Il mega parcheggio del Foro Boario arriva al TAR",
    "summary": "Mercoledì prossimo è fissata la Camera di Consiglio innanzi al TAR Lecce, sotto la presidenza del Dott. Antonio Pasca, per la discussione dell’istanza di sospensiva richiesta dal Comitato cittadino F…",
@@ -286,17 +330,6 @@
    "category": "Eventi",
    "zone": "Taranto",
    "published_at": "2026-10-26T14:47:50+00:00"
-  },
-  {
-   "id": "175a5b40d632",
-   "title": "Cis Taranto: fondi europei e capacità di spesa degli enti locali",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-88-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/26/cis-taranto-fondi-europei-e-capacita-di-spesa-degli-enti-locali",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Taranto",
-   "published_at": "2026-10-26T14:47:08+00:00"
   },
   {
    "id": "2b5944d2169c",
@@ -2024,30 +2057,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-23T21:10:17+00:00"
-  },
-  {
-   "id": "ef6b50b30b2f",
-   "title": "Foggia, il Campese Amadori festeggia 25 anni di storia",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-81-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/23/foggia-il-campese-amadori-festeggia-25-anni-di-storia",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-23T20:43:02+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-26T20:02:52.249865+00:00",
+   "last_ok": "2026-10-26T20:58:23.502003+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-26T20:02:52.249865+00:00",
+   "last_ok": "2026-10-26T20:58:23.502003+00:00",
    "error": null
   },
   {
@@ -2059,19 +2081,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-26T20:02:52.249865+00:00",
+   "last_ok": "2026-10-26T20:58:23.502003+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-26T20:02:52.249865+00:00",
+   "last_ok": "2026-10-26T20:58:23.502003+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-26T20:02:52.249865+00:00",
+   "last_ok": "2026-10-26T20:58:23.502003+00:00",
    "error": null
   }
  ]
