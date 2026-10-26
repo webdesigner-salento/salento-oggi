@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T22:18:56.062741+00:00",
+ "updated_at": "2026-10-26T22:57:55.956360+00:00",
  "items": [
   {
    "id": "4a29df9e40a3",
@@ -46,6 +46,17 @@
    "published_at": "2026-10-26T20:52:37+00:00"
   },
   {
+   "id": "40138d713a8b",
+   "title": "Case di comunità, Pagliaro replica a Pentassuglia: \"Dove sono gli arredi acquistati?\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-93-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/26/case-di-comunita-pagliaro-replica-a-pentassuglia-dove-sono-gli-arredi-acquistati",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T20:35:22+00:00"
+  },
+  {
    "id": "02522801ed63",
    "title": "Le condizioni disumane dei richiedenti asilo “accolti” nell’ex caserma Cavarzerani di Udine",
    "summary": "Infestazioni di topi, blatte e cimici. Bagni fatiscenti e fognature rotte all'esterno dei moduli. E poi ritardi nel pagamento del pocket money , mancato ricambio dei materassi e dei cuscini ed estint…",
@@ -66,17 +77,6 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-26T19:56:19+00:00"
-  },
-  {
-   "id": "40138d713a8b",
-   "title": "Case di comunità, Pagliaro replica a Pentassuglia: \"Dove sono gli arredi acquistati?\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-93-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/26/case-di-comunita-pagliaro-replica-a-pentassuglia-dove-sono-gli-arredi-acquistati",
-   "source": "TeleRama News",
-   "category": "Salute",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T19:35:22+00:00"
   },
   {
    "id": "938d3dcefaa1",
@@ -134,6 +134,28 @@
    "published_at": "2026-10-26T18:04:58+00:00"
   },
   {
+   "id": "8ebee2e75ee1",
+   "title": "Volley A3: bene Capo di Leuca, cadono Galatone e Taviano",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/DSC07153-2-1024x683.jpg",
+   "url": "https://trnews.it/2026/10/26/volley-a3-bene-capo-di-leuca-cadono-galatone-e-taviano",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T17:45:24+00:00"
+  },
+  {
+   "id": "58adc28fce19",
+   "title": "Bari, prostituzione minorile, condannato a un anno e 4 mesi l’avvocato leccese Chiriatti",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/palazzo-giustizia-bari-2_d0.jpg",
+   "url": "https://trnews.it/2026/10/26/bari-prostituzione-minorile-condannato-a-un-anno-e-4-mesi-lavvocato-leccese-chiriatti",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T17:29:20+00:00"
+  },
+  {
    "id": "9db24a4dfe18",
    "title": "Scontro sulla statale 275: cinque feriti e lunghe code",
    "summary": "SALENTO – Un grave scontro stradale si è verificato ieri sera, poco prima delle 19:30, lungo la statale 275, a pochi chilometri dal centro abitato di Montesano Salentino. Nel bilancio complessivo si…",
@@ -178,17 +200,6 @@
    "published_at": "2026-10-26T16:59:24+00:00"
   },
   {
-   "id": "8ebee2e75ee1",
-   "title": "Volley A3: bene Capo di Leuca, cadono Galatone e Taviano",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/DSC07153-2-1024x683.jpg",
-   "url": "https://trnews.it/2026/10/26/volley-a3-bene-capo-di-leuca-cadono-galatone-e-taviano",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T16:45:24+00:00"
-  },
-  {
    "id": "d7acda9139ba",
    "title": "Commissione Politiche Agricole e nuova PAC, Paolicelli: “Approvato il documento delle Regioni. Più flessibilità per sostenere gli agricoltori nelle crisi”",
    "summary": "A Firenze, al Festival delle Regioni, definita una posizione comune sulla PAC 2028-2034. Al centro la gestione del rischio, la tutela del reddito e la capacità di intervenire sulle crisi di mercato.…",
@@ -200,15 +211,48 @@
    "published_at": "2026-10-26T16:37:38+00:00"
   },
   {
-   "id": "58adc28fce19",
-   "title": "Bari, prostituzione minorile, condannato a un anno e 4 mesi l’avvocato leccese Chiriatti",
+   "id": "0b852a1b4f81",
+   "title": "Accoltellamento a Merine, 28enne arrestato per tentato omicidio",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/palazzo-giustizia-bari-2_d0.jpg",
-   "url": "https://trnews.it/2026/10/26/bari-prostituzione-minorile-condannato-a-un-anno-e-4-mesi-lavvocato-leccese-chiriatti",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-12.26.58-1024x920.jpeg",
+   "url": "https://trnews.it/2026/10/26/accoltellamento-a-merine-28enne-arrestato-per-tentato-omicidio",
    "source": "TeleRama News",
    "category": "Cronaca",
    "zone": "Lecce",
-   "published_at": "2026-10-26T16:29:20+00:00"
+   "published_at": "2026-10-26T16:16:59+00:00"
+  },
+  {
+   "id": "4f9a224ac667",
+   "title": "“Gang del bosco”, sette chiedono la messa alla prova: uno a processo",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/02/lecce-tribunale-2.jpg",
+   "url": "https://trnews.it/2026/10/26/gang-del-bosco-sette-chiedono-la-messa-alla-prova-uno-a-processo",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T16:16:04+00:00"
+  },
+  {
+   "id": "baf666650eaa",
+   "title": "Al Vito Fazzi intervento su una 15enne con una rara forma di \"milza mobile\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Equipe-intervento-Chir-Pediatrica-Fazzi-1024x575.jpg",
+   "url": "https://trnews.it/2026/10/26/al-vito-fazzi-intervento-su-una-15enne-con-una-rara-forma-di-milza-mobile",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T16:06:58+00:00"
+  },
+  {
+   "id": "1302bcc1af3b",
+   "title": "Tentata estorsione a un imprenditore, arrestato 56enne vicino alla Scu",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-92-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/26/tentata-estorsione-a-un-imprenditore-arrestato-56enne-vicino-alla-scu",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T16:05:04+00:00"
   },
   {
    "id": "ac52c5033e6a",
@@ -220,6 +264,28 @@
    "category": "Politica",
    "zone": "Salento",
    "published_at": "2026-10-26T16:04:08+00:00"
+  },
+  {
+   "id": "096aef5fd557",
+   "title": "Coniugi aggrediti sotto la minaccia di una pistola e privati della loro Bmw",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-91-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/26/coniugi-aggrediti-sotto-la-minaccia-di-una-pistola-e-privati-della-loro-bmw",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T16:03:41+00:00"
+  },
+  {
+   "id": "19934a2a55dc",
+   "title": "Leverano, “Lecce come Parigi”, i messaggi dietro l’inchiesta",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-90-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/26/leverano-lecce-come-parigi-i-messaggi-dietro-linchiesta",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T16:02:35+00:00"
   },
   {
    "id": "fb1980498a0c",
@@ -244,6 +310,17 @@
    "published_at": "2026-10-26T15:56:41+00:00"
   },
   {
+   "id": "0fd577de3f45",
+   "title": "Taranto, tumori al seno: \"La prevenzione è il nostro capolavoro\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-89-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/26/taranto-tumori-al-seno-la-prevenzione-e-il-nostro-capolavoro",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Taranto",
+   "published_at": "2026-10-26T15:47:50+00:00"
+  },
+  {
    "id": "175a5b40d632",
    "title": "Cis Taranto: fondi europei e capacità di spesa degli enti locali",
    "summary": "",
@@ -253,6 +330,17 @@
    "category": "Altro",
    "zone": "Taranto",
    "published_at": "2026-10-26T15:47:08+00:00"
+  },
+  {
+   "id": "2b5944d2169c",
+   "title": "Gaspar, due giornate di squalifica",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/11/DSC_9259-1024x698.jpg",
+   "url": "https://trnews.it/2026/10/26/gaspar-due-giornate-di-squalifica",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T15:35:30+00:00"
   },
   {
    "id": "a2ede66fdd6f",
@@ -277,72 +365,6 @@
    "published_at": "2026-10-26T15:20:19+00:00"
   },
   {
-   "id": "0b852a1b4f81",
-   "title": "Accoltellamento a Merine, 28enne arrestato per tentato omicidio",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-12.26.58-1024x920.jpeg",
-   "url": "https://trnews.it/2026/10/26/accoltellamento-a-merine-28enne-arrestato-per-tentato-omicidio",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T15:16:59+00:00"
-  },
-  {
-   "id": "4f9a224ac667",
-   "title": "“Gang del bosco”, sette chiedono la messa alla prova: uno a processo",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/02/lecce-tribunale-2.jpg",
-   "url": "https://trnews.it/2026/10/26/gang-del-bosco-sette-chiedono-la-messa-alla-prova-uno-a-processo",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T15:16:04+00:00"
-  },
-  {
-   "id": "baf666650eaa",
-   "title": "Al Vito Fazzi intervento su una 15enne con una rara forma di \"milza mobile\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Equipe-intervento-Chir-Pediatrica-Fazzi-1024x575.jpg",
-   "url": "https://trnews.it/2026/10/26/al-vito-fazzi-intervento-su-una-15enne-con-una-rara-forma-di-milza-mobile",
-   "source": "TeleRama News",
-   "category": "Salute",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T15:06:58+00:00"
-  },
-  {
-   "id": "1302bcc1af3b",
-   "title": "Tentata estorsione a un imprenditore, arrestato 56enne vicino alla Scu",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-92-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/26/tentata-estorsione-a-un-imprenditore-arrestato-56enne-vicino-alla-scu",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T15:05:04+00:00"
-  },
-  {
-   "id": "096aef5fd557",
-   "title": "Coniugi aggrediti sotto la minaccia di una pistola e privati della loro Bmw",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-91-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/26/coniugi-aggrediti-sotto-la-minaccia-di-una-pistola-e-privati-della-loro-bmw",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T15:03:41+00:00"
-  },
-  {
-   "id": "19934a2a55dc",
-   "title": "Leverano, “Lecce come Parigi”, i messaggi dietro l’inchiesta",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-90-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/26/leverano-lecce-come-parigi-i-messaggi-dietro-linchiesta",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T15:02:35+00:00"
-  },
-  {
    "id": "3c1b8b2c0ca2",
    "title": "“Non consentiva al padre di vedere le figlie”: dopo la condanna, assolta una 44enne",
    "summary": "GAGLIANO DEL CAPO (Lecce) – Era finita sul banco degli imputati perché in più occasioni avrebbe eluso il provvedimento emesso dal giudice della seconda sezione civile del tribunale di Lecce che regol…",
@@ -352,28 +374,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-26T15:00:19+00:00"
-  },
-  {
-   "id": "0fd577de3f45",
-   "title": "Taranto, tumori al seno: \"La prevenzione è il nostro capolavoro\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-89-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/26/taranto-tumori-al-seno-la-prevenzione-e-il-nostro-capolavoro",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Taranto",
-   "published_at": "2026-10-26T14:47:50+00:00"
-  },
-  {
-   "id": "2b5944d2169c",
-   "title": "Gaspar, due giornate di squalifica",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/11/DSC_9259-1024x698.jpg",
-   "url": "https://trnews.it/2026/10/26/gaspar-due-giornate-di-squalifica",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T14:35:30+00:00"
   },
   {
    "id": "02f9cac8b536",
@@ -442,6 +442,17 @@
    "published_at": "2026-10-26T13:26:08+00:00"
   },
   {
+   "id": "c1fd26b01f3f",
+   "title": "Lecce, è ripresa la preparazione",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/bf32647a-3ca3-46cf-bff6-60f2d567ca18-1024x698.jpg",
+   "url": "https://trnews.it/2026/10/26/lecce-e-ripresa-la-preparazione-2",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T13:25:54+00:00"
+  },
+  {
    "id": "0fc9962676fa",
    "title": "Minore diabetico ripreso e filmato durante il pestaggio in stazione: in sette chiedono la messa alla prova",
    "summary": "GALATINA (Lecce) – In sette chiedono la messa alla prova mentre un altro baby imputato finisce sotto processo. Questo l’esito dell’udienza preliminare davanti in cui sono comparsi gli otto presunti c…",
@@ -495,17 +506,6 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-26T12:30:42+00:00"
-  },
-  {
-   "id": "c1fd26b01f3f",
-   "title": "Lecce, è ripresa la preparazione",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/bf32647a-3ca3-46cf-bff6-60f2d567ca18-1024x698.jpg",
-   "url": "https://trnews.it/2026/10/26/lecce-e-ripresa-la-preparazione-2",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T12:25:54+00:00"
   },
   {
    "id": "997451dd0890",
@@ -2057,30 +2057,19 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-10-23T23:28:23+00:00"
-  },
-  {
-   "id": "b35cbd1367c7",
-   "title": "Serie C: gli anticipi finiscono in parità. Potenza e Bari costretti ad inseguire",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/tifosi-potenza-1024x683.jpg",
-   "url": "https://trnews.it/2026/10/23/serie-c-gli-anticipi-finiscono-in-parita-potenza-e-bari-costrette-ad-inseguire",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T22:50:29+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-26T22:18:56.062741+00:00",
+   "last_ok": "2026-10-26T22:57:55.956360+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-26T22:18:56.062741+00:00",
+   "last_ok": "2026-10-26T22:57:55.956360+00:00",
    "error": null
   },
   {
@@ -2092,19 +2081,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-26T22:18:56.062741+00:00",
+   "last_ok": "2026-10-26T22:57:55.956360+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-26T22:18:56.062741+00:00",
+   "last_ok": "2026-10-26T22:57:55.956360+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-26T22:18:56.062741+00:00",
+   "last_ok": "2026-10-26T22:57:55.956360+00:00",
    "error": null
   }
  ]
