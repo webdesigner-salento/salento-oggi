@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-26T20:58:23.502003+00:00",
+ "updated_at": "2026-10-26T21:23:11.614570+00:00",
  "items": [
+  {
+   "id": "b2d525a1ad61",
+   "title": "L’amministrazione comunale di Lecce con il Vicesindaco Roberto Giordano Anguilla incontra l’associazione dedicata ad Eleonora e Daniele",
+   "summary": "Lecce, il vicesindaco Roberto Giordano Anguilla incontra l’associazione in memoria di “Eleonora e Daniele” Il vicesindaco del Comune di Lecce, Roberto Giordano Anguilla, ha partecipato il 26 ottobre…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lamministrazione-comunale-di-lecce-con-il-vicesindaco-roberto-giordano-anguilla-incontra-lassociazione-dedicata-ad-eleonora-e-daniele/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T21:00:17+00:00"
+  },
   {
    "id": "e20ec7dee96c",
    "title": "Lecce ospita Achille Giuliani, 15 anni, bronzo mondiale: il karate incontra la città d’oro",
@@ -2046,30 +2057,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-23T22:01:35+00:00"
-  },
-  {
-   "id": "f023ecc83af3",
-   "title": "Rogo partito dal camion della raccolta rifiuti: inflitti 3 anni a uno dei due dipendenti Monteco già licenziati",
-   "summary": "LECCE/FRIGOLE/TREPUZZI – C’è un primo verdetto nell’inchiesta sull’incendio appiccato, in località Masseria Olmo, a Frigole, ai danni di una vasta superficie di macchia mediterranea. Farudin Bejtaj,…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/rogo-partito-dal-camion-della-raccolta-rifiuti-inflitti-3-anni-a-uno-dei-due-dipendenti-monteco-gia-licenziati/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T21:10:17+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-26T20:58:23.502003+00:00",
+   "last_ok": "2026-10-26T21:23:11.614570+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-26T20:58:23.502003+00:00",
+   "last_ok": "2026-10-26T21:23:11.614570+00:00",
    "error": null
   },
   {
@@ -2081,19 +2081,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-26T20:58:23.502003+00:00",
+   "last_ok": "2026-10-26T21:23:11.614570+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-26T20:58:23.502003+00:00",
+   "last_ok": "2026-10-26T21:23:11.614570+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-26T20:58:23.502003+00:00",
+   "last_ok": "2026-10-26T21:23:11.614570+00:00",
    "error": null
   }
  ]
