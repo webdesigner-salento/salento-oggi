@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-26T17:06:33.318900+00:00",
+ "updated_at": "2026-10-26T17:58:41.946911+00:00",
  "items": [
+  {
+   "id": "9db24a4dfe18",
+   "title": "Scontro sulla statale 275: cinque feriti e lunghe code",
+   "summary": "SALENTO – Un grave scontro stradale si è verificato ieri sera, poco prima delle 19:30, lungo la statale 275, a pochi chilometri dal centro abitato di Montesano Salentino. Nel bilancio complessivo si…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/Corriere-salentino-4-1-747x420.png",
+   "url": "https://www.corrieresalentino.it/2026/10/scontro-sulla-statale-275-cinque-feriti-e-lunghe-code/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T17:24:05+00:00"
+  },
+  {
+   "id": "56f3672fa1c0",
+   "title": "Sesso a pagamento con due ragazze minorenni in un hotel: condannato un avvocato",
+   "summary": "LECCE – Si chiude con una condanna a 1 anno e 4 mesi di reclusione (a fronte di una richiesta di 2 anni) il processo a carico dell’avvocato Leccese Stefano Chiriatti, di 58 anni, al termine del giudi…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/sesso-a-pagamento-con-due-ragazze-minorenni-in-un-hotel-condannato-un-avvocato/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T17:23:12+00:00"
+  },
   {
    "id": "20f6ac2f85ca",
    "title": "Il sindaco Bruni ringrazia il Prefetto Manno per il provvedimento circa la strada litoranea Otranto-Porto Badisco",
@@ -473,17 +495,6 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-26T09:11:00+00:00"
-  },
-  {
-   "id": "9db24a4dfe18",
-   "title": "Scontro sulla statale 275: cinque feriti e lunghe code",
-   "summary": "SALENTO – Un grave scontro stradale si è verificato ieri sera, poco prima delle 19:30, lungo la statale 275, a pochi chilometri dal centro abitato di Montesano Salentino. Nel bilancio complessivo si…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/Corriere-salentino-4-1-747x420.png",
-   "url": "https://www.corrieresalentino.it/2026/10/scontro-sulla-statale-275-cinque-feriti-e-lunghe-code/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T09:07:05+00:00"
   },
   {
    "id": "d6f768586088",
@@ -2024,30 +2035,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-23T18:07:14+00:00"
-  },
-  {
-   "id": "876e65ecd783",
-   "title": "Virtus Scherma Salento in vetrina a Bitritto e Budapest",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/278f4545-267c-4af9-bff8-0e4b47f048a8-e1792770908324.jpg",
-   "url": "https://trnews.it/2026/10/23/virtus-scherma-salento-in-vetrina-a-bitritto-e-budapest",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T17:55:21+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-26T17:06:33.318900+00:00",
+   "last_ok": "2026-10-26T17:58:41.946911+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-26T17:06:33.318900+00:00",
+   "last_ok": "2026-10-26T17:58:41.946911+00:00",
    "error": null
   },
   {
@@ -2059,19 +2059,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-26T17:06:33.318900+00:00",
+   "last_ok": "2026-10-26T17:58:41.946911+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-26T17:06:33.318900+00:00",
+   "last_ok": "2026-10-26T17:58:41.946911+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-26T17:06:33.318900+00:00",
+   "last_ok": "2026-10-26T17:58:41.946911+00:00",
    "error": null
   }
  ]
