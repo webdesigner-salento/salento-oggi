@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-26T05:58:05.906112+00:00",
+ "updated_at": "2026-10-26T06:28:02.080746+00:00",
  "items": [
+  {
+   "id": "fd7c0338458d",
+   "title": "Questa sera Silvia Carofalo, dirigente del Lecce, ospite a Piazza Giallorossa",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/SILVIA-CAROFALO--1024x1024.jpeg",
+   "url": "https://trnews.it/2026/10/26/questa-sera-silvia-carofalo-dirigente-del-lecce-ospite-a-piazza-giallorossa",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T06:00:03+00:00"
+  },
   {
    "id": "b0f9d179b845",
    "title": "Valtur Brindisi torna alla vittoria e ferma la capolista Avellino",
@@ -2002,63 +2013,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-23T06:28:22+00:00"
-  },
-  {
-   "id": "8850bd3285a6",
-   "title": "Smartphone sotto il sole, il pericolo invisibile: «Il calore può danneggiare la batteria senza che ce ne accorgiamo»",
-   "summary": "LECCE – Un telefono dimenticato sul cruscotto dell’automobile, appoggiato sul lettino in spiaggia o lasciato sotto il sole mentre siamo impegnati in altre attività. Gesti apparentemente innocui, che…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/smartphone-sotto-il-sole-il-pericolo-invisibile-il-calore-puo-danneggiare-la-batteria-senza-che-ce-ne-accorgiamo/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T06:17:36+00:00"
-  },
-  {
-   "id": "42cff7d115ca",
-   "title": "A un passo dal cielo, a un passo dal vuoto",
-   "summary": "NEW YORK. Quanto in alto bisogna arrivare per farsi ascoltare? Nel mondo in cui ogni emozione cerca uno spettatore, a volte non bastano nemmeno 443 metri. Il 1° luglio 2026, sulla sommità dell’Empire…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/Foto-NY2-300x169.png",
-   "url": "https://www.corrieresalentino.it/2026/10/a-un-passo-dal-cielo-a-un-passo-dal-vuoto/",
-   "source": "Corriere Salentino",
-   "category": "Salute",
-   "zone": "Salento",
-   "published_at": "2026-10-23T06:13:35+00:00"
-  },
-  {
-   "id": "6db0ea47223e",
-   "title": "La Dream Volley torna a casa: al Pala Pasca la sfida infinita con Isernia",
-   "summary": "NARDÒ – L’attesa è finita. Domenica alle ore 18:00, la Dream Volley torna ad abbracciare il proprio pubblico al Pala “Andrea Pasca”, a cinque mesi di distanza da quella notte magica in cui, superando…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/la-dream-volley-torna-a-casa-al-pala-pasca-la-sfida-infinita-con-isernia/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T06:09:41+00:00"
-  },
-  {
-   "id": "86d15acb5961",
-   "title": "Centinaia di agricoltori pugliesi a Roma con CIA Puglia: “Non ce la facciamo più”",
-   "summary": "Sono partiti giovedì all’alba da tutta la Puglia. Olivicoltori, cerealicoltori, agricoltori dei settori vitivinicolo, ortofrutticolo, zootecnico, agrituristico e poi, ancora, florovivaisti, apicoltor…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/centinaia-di-agricoltori-pugliesi-a-roma-con-cia-puglia-non-ce-la-facciamo-piu/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-10-23T06:01:35+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-26T05:58:05.906112+00:00",
+   "last_ok": "2026-10-26T06:28:02.080746+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-26T05:58:05.906112+00:00",
+   "last_ok": "2026-10-26T06:28:02.080746+00:00",
    "error": null
   },
   {
@@ -2070,19 +2037,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-26T05:58:05.906112+00:00",
+   "last_ok": "2026-10-26T06:28:02.080746+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-26T05:58:05.906112+00:00",
+   "last_ok": "2026-10-26T06:28:02.080746+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-26T05:58:05.906112+00:00",
+   "last_ok": "2026-10-26T06:28:02.080746+00:00",
    "error": null
   }
  ]
