@@ -1,6 +1,50 @@
 {
- "updated_at": "2026-10-26T13:41:49.297745+00:00",
+ "updated_at": "2026-10-26T15:25:05.656541+00:00",
  "items": [
+  {
+   "id": "314554f68f59",
+   "title": "Caro Carburanti, il Pd presenta una mozione. De Santis e Minerva: “Serve salvaguardare l’intera rete a tutela dei consumatori e dei distributori indipendenti",
+   "summary": "Le misure di contenimento dei prezzi dei carburanti devono essere estese all’intera rete distributiva e accessibili a tutti i consumatori, intervenendo sulle vendite all’ingrosso del canale extrarete…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/caro-carburanti-il-pd-presenta-una-mozione-de-santis-e-minerva-serve-salvaguardare-lintera-rete-a-tutela-dei-consumatori-e-dei-distributori-indipendenti/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-10-26T15:20:19+00:00"
+  },
+  {
+   "id": "0fd577de3f45",
+   "title": "Taranto, tumori al seno: \"La prevenzione è il nostro capolavoro\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-89.jpg",
+   "url": "https://trnews.it/2026/10/26/taranto-tumori-al-seno-la-prevenzione-e-il-nostro-capolavoro",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Taranto",
+   "published_at": "2026-10-26T14:47:50+00:00"
+  },
+  {
+   "id": "175a5b40d632",
+   "title": "Cis Taranto: fondi europei e capacità di spesa degli enti locali",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-88-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/26/cis-taranto-fondi-europei-e-capacita-di-spesa-degli-enti-locali",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Taranto",
+   "published_at": "2026-10-26T14:47:08+00:00"
+  },
+  {
+   "id": "2b5944d2169c",
+   "title": "Gaspar, due giornate di squalifica",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/11/DSC_9259-1024x698.jpg",
+   "url": "https://trnews.it/2026/10/26/gaspar-due-giornate-di-squalifica",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T14:35:30+00:00"
+  },
   {
    "id": "a536ef5fed3b",
    "title": "Parcheggio multipiano \"Foro Boario\", il Comune si oppone al ricorso al Tar",
@@ -16,7 +60,7 @@
    "id": "02f9cac8b536",
    "title": "Tragedia sul lavoro, morto un uomo di 51 anni",
    "summary": "",
-   "image": "https://i.ytimg.com/vi/BXDYLJTqKNc/hqdefault.jpg",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-87-1024x576.jpg",
    "url": "https://trnews.it/2026/10/26/tragedia-sul-lavoro-morto-un-uomo-di-51-anni",
    "source": "TeleRama News",
    "category": "Cronaca",
@@ -27,7 +71,7 @@
    "id": "03985814a438",
    "title": "Minorenne in fuga alla guida di in auto, denunciato",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-86.jpg",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-86-1024x576.jpg",
    "url": "https://trnews.it/2026/10/26/minorenne-in-fuga-alla-guida-di-in-auto-denunciato",
    "source": "TeleRama News",
    "category": "Cronaca",
@@ -134,6 +178,17 @@
    "published_at": "2026-10-26T12:20:38+00:00"
   },
   {
+   "id": "997451dd0890",
+   "title": "Lecce, due giornate di squalifica per Gaspar",
+   "summary": "LECCE – Il giudice sportivo della Serie A, Gerardo Mastrandrea, ha disposto due giornate di squalifica per il calciatore del Lecce Kialonda Gaspar, espulso per «comportamento scorretto nei confronti…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lecce-due-giornate-di-squalifica-per-gaspar/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T12:07:22+00:00"
+  },
+  {
    "id": "6f66d63d72be",
    "title": "Il cuore si ferma durante Lecce-Juve: la Croce Rossa salva la vita a 60enne",
    "summary": "",
@@ -187,6 +242,28 @@
    "category": "Cultura",
    "zone": "Salento",
    "published_at": "2026-10-26T10:23:28+00:00"
+  },
+  {
+   "id": "cf4cca922c16",
+   "title": "Al Vito Fazzi intervento su una 15enne con una rara forma di “milza mobile”",
+   "summary": "La paziente, una ragazza di 15 anni affetta da una sindrome rara, presentava un quadro clinico particolarmente delicato, caratterizzato da infarto splenico ascessualizzato e da un marcato ingrossamen…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/al-vito-fazzi-intervento-su-una-15enne-con-una-rara-forma-di-milza-mobile/",
+   "source": "Corriere Salentino",
+   "category": "Salute",
+   "zone": "Salento",
+   "published_at": "2026-10-26T10:06:07+00:00"
+  },
+  {
+   "id": "128d8ddcd8e9",
+   "title": "Lecce: Di Francesco, dubbi verso Frosinone e attesa Tiago Gabriel. Terapie per il giocatore",
+   "summary": "LECCE – “Mi auguro di poterlo recuperare per giovedì”. Le parole pronunciate da Eusebio Di Francesco dopo la sconfitta per 2-0 contro la Juventus raccontano il principale interrogativo che accompagna…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lecce-di-francesco-dubbi-verso-frosinone-e-attesa-tiago-gabriel-terapie-per-il-giocatore/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T09:52:35+00:00"
   },
   {
    "id": "f52e1143e6eb",
@@ -1903,118 +1980,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-23T15:32:24+00:00"
-  },
-  {
-   "id": "033145c2976a",
-   "title": "La “Staffetta dell’Amore” arriva a Martano",
-   "summary": "Martano (Lecce) – Prosegue il cammino della “Staffetta dell’Amore”, il progetto itinerante promosso dal Lions Club Maglie con l’obiettivo di sensibilizzare l’opinione pubblica sul tema della violenza…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/la-staffetta-dellamore-arriva-a-martano/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T15:14:06+00:00"
-  },
-  {
-   "id": "0c7cb3a53d91",
-   "title": "Minerva, Sanità: “200mila prestazioni anticipate: il lavoro continua, servono più risorse dal Governo”",
-   "summary": "“Sulle liste d’attesa sappiamo che c’è ancora molto da fare e non cerchiamo scuse. Ma i risultati vanno riconosciuti. Abbiamo anticipato 200mila prestazioni e anche AGENAS registra un miglioramento n…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/minerva-sanita-200mila-prestazioni-anticipate-il-lavoro-continua-servono-piu-risorse-dal-governo/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-10-23T15:13:21+00:00"
-  },
-  {
-   "id": "b9b48c278698",
-   "title": "Pd Lecce, si dimette il segretario cittadino Romeo Russo. I vertici escludono fratture: “Una scelta personale”",
-   "summary": "LECCE – Si chiude l’esperienza di Romeo Russo alla guida del Partito Democratico cittadino di Lecce. Il segretario ha deciso di lasciare l’incarico, una scelta che inevitabilmente ha alimentato inter…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/pd-lecce-si-dimette-il-segretario-cittadino-romeo-russo-i-vertici-escludono-fratture-una-scelta-personale/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T14:38:18+00:00"
-  },
-  {
-   "id": "11dd1e01d91d",
-   "title": "Il paradosso della tecnologia: “Non hanno ritenuto di renderlo accessibile”",
-   "summary": "Riceviamo e pubblichiamo l’amaro e lucido sfogo di Gianni di Noi, giovane salentino e attivo membro dell’Ente Nazionale Sordi. Al centro della sua denuncia c’è un paradosso inaccettabile legato alla…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/il-paradosso-della-tecnologia-non-hanno-ritenuto-di-renderlo-accessibile/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-23T14:35:19+00:00"
-  },
-  {
-   "id": "2497cd04d1cb",
-   "title": "A Brindisi protesta degli autotrasportatori in stand-by: \"Ora aiuti concreti\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-79-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/23/a-brindisi-protesta-degli-autotrasportatori-in-stand-by-ora-aiuti-concreti",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Brindisi",
-   "published_at": "2026-10-23T14:25:13+00:00"
-  },
-  {
-   "id": "9805bc31542a",
-   "title": "A Ostuni autorizzazioni solo con tributi in regola",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-78-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/23/a-ostuni-autorizzazioni-solo-con-tributi-in-regola",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Brindisi",
-   "published_at": "2026-10-23T14:20:50+00:00"
-  },
-  {
-   "id": "c51a01af33cf",
-   "title": "L’estrema destra israeliana non ha mai avuto tanto potere. Eppure non è ancora soddisfatta",
-   "summary": "Dalla Cisgiordania a Gaza, l'estrema destra israeliana ha accumulato un potere illimitato. Eppure, mancata la vittoria totale, chiede un'escalation di violenza.",
-   "image": null,
-   "url": "https://www.valigiablu.it/israele-estrema-destra-violenza-potere/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-23T14:15:12+00:00"
-  },
-  {
-   "id": "6c6db5a78873",
-   "title": "​L’arte e la mente in scena a Lecce: al Convitto Palmieri arriva “Nuda Mentis” di Mario Borrelli",
-   "summary": "​L’arte e la mente in scena a Lecce: al Convitto Palmieri arriva “Nuda Mentis” di Mario Borrelli Di Maria Taccogna ​LECCE – La grande arte contemporanea torna protagonista nel cuore del Salento. Dal…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/larte-e-la-mente-in-scena-a-lecce-al-convitto-palmieri-arriva-nuda-mentis-di-mario-borrelli/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T14:14:08+00:00"
-  },
-  {
-   "id": "34c1c3e8fd6f",
-   "title": "A 8 anni scappa da casa inseguito dal padre con in mano un catenaccio: indagati genitori per maltrattamenti",
-   "summary": "SALENTO – A 8 anni – il 9 settembre scorso – si allontanò da casa dopo un litigio inseguito per le strade di un paese salentino dal padre che in mano aveva un catenaccio munito di lucchetto. Ma dopo…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/a-8-anni-scappa-da-casa-inseguito-dal-padre-con-in-mano-un-catenaccio-indagati-genitori-per-maltrattamenti/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-10-23T14:10:21+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-26T13:41:49.297745+00:00",
+   "last_ok": "2026-10-26T15:25:05.656541+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-26T13:41:49.297745+00:00",
+   "last_ok": "2026-10-26T15:25:05.656541+00:00",
    "error": null
   },
   {
@@ -2026,19 +2004,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-26T13:41:49.297745+00:00",
+   "last_ok": "2026-10-26T15:25:05.656541+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-26T13:41:49.297745+00:00",
+   "last_ok": "2026-10-26T15:25:05.656541+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-26T13:41:49.297745+00:00",
+   "last_ok": "2026-10-26T15:25:05.656541+00:00",
    "error": null
   }
  ]
