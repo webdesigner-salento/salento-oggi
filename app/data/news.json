@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T07:22:59.098358+00:00",
+ "updated_at": "2026-10-26T08:11:43.583999+00:00",
  "items": [
   {
    "id": "484ba6dacac4",
@@ -2013,41 +2013,19 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-10-23T08:34:32+00:00"
-  },
-  {
-   "id": "2f896f507fa2",
-   "title": "Nasce il Lions Club Lecce Nociglia “Giacinto Urso”: la firma sulla Charter suggella il debutto",
-   "summary": "LECCE – Le firme dei soci fondatori su una pergamena hanno sancito la nascita ufficiale del Lions Club Lecce Nociglia “Giacinto Urso”. La cerimonia della Charter si è svolta sabato 17 ottobre, a due…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/MG_0285-300x200.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/10/nasce-il-lions-club-lecce-nociglia-giacinto-urso-la-firma-sulla-charter-suggella-il-debutto/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T08:03:43+00:00"
-  },
-  {
-   "id": "30c38898fa79",
-   "title": "Italiani e Polacchi. Popoli fratelli uniti dal sogno della libertà. Inaugurazione della statua del Generale Władysław Anders",
-   "summary": "LECCE – Nel segno della memoria, della gratitudine e dell’amicizia tra i popoli europei, sabato 24 ottobre 2026, alle ore 10.00, presso il foyer dell’ex Liceo Musicale “Tito Schipa”, si svolgerà la m…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/italiani-e-polacchi-popoli-fratelli-uniti-dal-sogno-della-liberta-inaugurazione-della-statua-del-generale-wladyslaw-anders/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T07:55:12+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-26T07:22:59.098358+00:00",
+   "last_ok": "2026-10-26T08:11:43.583999+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-26T07:22:59.098358+00:00",
+   "last_ok": "2026-10-26T08:11:43.583999+00:00",
    "error": null
   },
   {
@@ -2059,19 +2037,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-26T07:22:59.098358+00:00",
+   "last_ok": "2026-10-26T08:11:43.583999+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-26T07:22:59.098358+00:00",
+   "last_ok": "2026-10-26T08:11:43.583999+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-26T07:22:59.098358+00:00",
+   "last_ok": "2026-10-26T08:11:43.583999+00:00",
    "error": null
   }
  ]
