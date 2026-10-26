@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-26T21:55:13.974280+00:00",
+ "updated_at": "2026-10-26T22:18:56.062741+00:00",
  "items": [
+  {
+   "id": "4a29df9e40a3",
+   "title": "Rent to buy e rogito: esclusa la sinallagmaticità. Il Giudice di Pace accoglie le tesi dell’avvocato Russo",
+   "summary": "LECCE – Con una recentissima sentenza, l’Ufficio del Giudice di Pace di Lecce ha chiarito i limiti applicativi dell’eccezione di inadempimento (ex art. 1460 c.c.), accogliendo integralmente la linea…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/rent-to-buy-e-rogito-esclusa-la-sinallagmaticita-il-giudice-di-pace-accoglie-le-tesi-dellavvocato-russo/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T22:02:49+00:00"
+  },
   {
    "id": "bb1ccccade0a",
    "title": "Rinnovo Consiglio Superiore della Magistratura: in corsa il professore Fernando Greco e l’avvocato Andrea Sambati",
@@ -2057,30 +2068,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-23T22:50:29+00:00"
-  },
-  {
-   "id": "c5f95167e097",
-   "title": "La “generazione repressa” dentro l’onda globale di protesta che stiamo attraversando",
-   "summary": "Alla notizia dell'invio di 500 militari a Milano dopo i fatti del 17 e 18 ottobre, il sindaco della città, Giuseppe Sala, ci ha tenuto a dire \"senza ambiguità\" che \"prima di tutto in questa fase crit…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/IPA89885369-scaled.jpg",
-   "url": "https://altreconomia.it/la-generazione-repressa-dentro-londa-globale-di-protesta-che-stiamo-attraversando/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-23T22:01:35+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-26T21:55:13.974280+00:00",
+   "last_ok": "2026-10-26T22:18:56.062741+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-26T21:55:13.974280+00:00",
+   "last_ok": "2026-10-26T22:18:56.062741+00:00",
    "error": null
   },
   {
@@ -2092,19 +2092,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-26T21:55:13.974280+00:00",
+   "last_ok": "2026-10-26T22:18:56.062741+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-26T21:55:13.974280+00:00",
+   "last_ok": "2026-10-26T22:18:56.062741+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-26T21:55:13.974280+00:00",
+   "last_ok": "2026-10-26T22:18:56.062741+00:00",
    "error": null
   }
  ]
