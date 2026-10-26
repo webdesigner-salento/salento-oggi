@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-26T10:07:45.347576+00:00",
+ "updated_at": "2026-10-26T11:02:49.019488+00:00",
  "items": [
+  {
+   "id": "e985f78fe660",
+   "title": "Mercoledì 28 ottobre la cantautrice maliana Rokia Traoré e la salentina Alessia Tondo aprono il festival Salento Jazz al Teatro Apollo",
+   "summary": "LECCE – Mercoledì 28 ottobre (ore 20:00 | ingresso 30, 28, 25 e 20 euro | prevendite attive su TicketOne e Ticketmaster) al Teatro Apollo di Lecce con il concerto di Rokia Traoré e Alessia Tondo pren…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/mercoledi-28-ottobre-la-cantautrice-maliana-rokia-traore-e-la-salentina-alessia-tondo-aprono-il-festival-salento-jazz-al-teatro-apollo/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T10:27:58+00:00"
+  },
+  {
+   "id": "6a641ac09f66",
+   "title": "Gli ultimi giorni di Pasolini e la Grecìa Salentina: esce “Terre Feconde”, raccolta di poesie e scatti di Antonio Tommasi",
+   "summary": "La fotografia affiancata alla poesia, la civiltà contadina e la cultura industriale, l’approdo dell’Odin Teatret e di Pier Paolo Pasolini in Salento. Tutto ciò è racchiuso in “Terre Feconde” (pp. 138…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/gli-ultimi-giorni-di-pasolini-e-la-grecia-salentina-esce-terre-feconde-raccolta-di-poesie-e-scatti-di-antonio-tommasi/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Salento",
+   "published_at": "2026-10-26T10:23:28+00:00"
+  },
   {
    "id": "f52e1143e6eb",
    "title": "Oltre le “mele marce”. Il nodo irrisolto di una polizia democratica in Italia",
@@ -71,7 +93,7 @@
    "id": "9db24a4dfe18",
    "title": "Scontro sulla statale 275: cinque feriti e lunghe code",
    "summary": "SALENTO – Un grave scontro stradale si è verificato ieri sera, poco prima delle 19:30, lungo la statale 275, a pochi chilometri dal centro abitato di Montesano Salentino. Nel bilancio complessivo si…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/Corriere-salentino-4-1-150x150.png",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/Corriere-salentino-4-1-747x420.png",
    "url": "https://www.corrieresalentino.it/2026/10/scontro-sulla-statale-275-cinque-feriti-e-lunghe-code/",
    "source": "Corriere Salentino",
    "category": "Cronaca",
@@ -178,6 +200,17 @@
    "published_at": "2026-10-26T06:02:04+00:00"
   },
   {
+   "id": "fa98f6a5b593",
+   "title": "Fideiussione per affitto: quali garanzie consigliare a proprietari e inquilini",
+   "summary": "L’equilibrio del mercato delle locazioni in Italia è sempre più legato alla capacità di gestire i rischi connessi al mancato pagamento dei canoni. Nel 2025, secondo i dati ufficiali del Ministero del…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/fideiussione-per-affitto-quali-garanzie-consigliare-a-proprietari-e-inquilini/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-26T06:01:38+00:00"
+  },
+  {
    "id": "fd7c0338458d",
    "title": "Questa sera Silvia Carofalo, dirigente del Lecce, ospite a Piazza Giallorossa",
    "summary": "",
@@ -198,6 +231,17 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-26T06:00:01+00:00"
+  },
+  {
+   "id": "41f7248ed2ad",
+   "title": "Lavoro nel Salento, 665 posizioni aperte nel leccese",
+   "summary": "LECCE – Ritornano i CDay di Università del Salento, in collaborazione con Regione Puglia attraverso ARPAL Puglia. Dal 27 al 29 ottobre 2026, dalle 09.00 alle 16.00, presso l’ EDIFICIO “ALDO ROMANO” –…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lavoro-nel-salento-665-posizioni-aperte-nel-leccese/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-26T05:52:17+00:00"
   },
   {
    "id": "871f9c6e5a6f",
@@ -253,6 +297,17 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-25T20:35:40+00:00"
+  },
+  {
+   "id": "a186c7de185a",
+   "title": "Di Francesco: peccato non avere trovato la rete",
+   "summary": "Vede il bicchiere mezzo pieno il tecnico del Lecce, Eusebio Di Francesco. “Ci avevamo provato, ma loro sono stati bravi più di noi nell’interpretarla – dichiara il tecnico negli spogliatoi -. Abbiamo…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/di-francesco-peccato-non-avere-trovato-la-rete/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-25T20:25:49+00:00"
   },
   {
    "id": "29182a0bdb5b",
@@ -1892,74 +1947,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-23T11:14:10+00:00"
-  },
-  {
-   "id": "a9037b57b9b0",
-   "title": "L’appuntamento a luci rosse si trasforma in un sequestro di persona nel centro di Lecce: condannata a 6 anni",
-   "summary": "LECCE – Si chiude con una condanna a 6 anni di reclusione – a fronte di una richiesta di 13 anni e 4 mesi invocata dalla pm erika Tarquini – il processo, celebratosi in abbreviato, a carico di M.L.,…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lappuntamento-a-luci-rosse-si-trasforma-in-un-sequestro-di-persona-nel-centro-di-lecce-condannata-a-6-anni/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T10:52:07+00:00"
-  },
-  {
-   "id": "4c38290d6add",
-   "title": "Droga nel borsello e in casa, un 18enne finisce agli arresti domiciliari",
-   "summary": "Castrignano de’ Greci (Lecce) – Ha tentato di liberarsi del borsello contenente droga alla vista dei carabinieri, ma il gesto non è sfuggito ai militari. E alla fine è finito nei guai. Si tratta di u…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/IMG_5778-225x300.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/10/droga-nel-borsello-e-in-casa-un-18enne-finisce-agli-arresti-domiciliari/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T10:21:07+00:00"
-  },
-  {
-   "id": "d3e34c6d1d61",
-   "title": "Dopo la fine della relazione manda una foto con una pistola alla ex: “Guai se ti tocca”: indagato 30enne",
-   "summary": "MONTERONI (Lecce) – Avrebbe continuato a molestare la ex anche dopo la fine della relazione e nonostante un ammonimento del questore sarebbe passato sotto casa della donna suonando il clacson. Per un…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/dopo-la-fine-della-relazione-manda-una-foto-con-una-pistola-alla-ex-guai-se-ti-tocca-indagato-30enne/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T10:20:08+00:00"
-  },
-  {
-   "id": "c7e5b02a8e31",
-   "title": "Le elezioni del 25 ottobre hanno già segnato uno spartiacque nella storia recente della Serbia",
-   "summary": "Dopo due anni di mobilitazioni quotidiane il movimento studentesco che ha scosso la Serbia arriva alla prova delle urne. Alle elezioni generali del 25 ottobre corrono 18 liste ma il vero scontro è tr…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/IPA90061217-scaled.jpg",
-   "url": "https://altreconomia.it/le-elezioni-del-25-ottobre-hanno-gia-segnato-uno-spartiacque-nella-storia-della-serbia/",
-   "source": "Altreconomia",
-   "category": "Politica",
-   "zone": "Italia",
-   "published_at": "2026-10-23T10:11:34+00:00"
-  },
-  {
-   "id": "e56440acf7e2",
-   "title": "Strisce blu, la protesta non si ferma: “2000 firme contro il piano ignorate”. Nasce un nuovo comitato di residenti",
-   "summary": "LECCE – Il rinvio a gennaio dell’estensione delle strisce blu e la concessione di quindici minuti di sosta gratuita non fermano la protesta dei cittadini leccesi. La decisione dell’amministrazione co…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/PHOTO-2026-10-07-15-04-41-300x155.jpg",
-   "url": "https://www.corrieresalentino.it/2026/10/strisce-blu-la-protesta-non-si-ferma-2000-firme-contro-il-piano-ignorate-nasce-un-nuovo-comitato-di-residenti/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T10:08:13+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-26T10:07:45.347576+00:00",
+   "last_ok": "2026-10-26T11:02:49.019488+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-26T10:07:45.347576+00:00",
+   "last_ok": "2026-10-26T11:02:49.019488+00:00",
    "error": null
   },
   {
@@ -1971,19 +1971,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-26T10:07:45.347576+00:00",
+   "last_ok": "2026-10-26T11:02:49.019488+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-26T10:07:45.347576+00:00",
+   "last_ok": "2026-10-26T11:02:49.019488+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-26T10:07:45.347576+00:00",
+   "last_ok": "2026-10-26T11:02:49.019488+00:00",
    "error": null
   }
  ]
