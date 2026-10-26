@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-26T17:58:41.946911+00:00",
+ "updated_at": "2026-10-26T18:30:43.325181+00:00",
  "items": [
+  {
+   "id": "39d141d85530",
+   "title": "Festival delle Regioni, Miglietta: “L’istruzione è un diritto, non un privilegio”",
+   "summary": "“L’istruzione è un diritto costituzionale, non un privilegio riservato a chi può permetterselo. Non possiamo accettare che il reddito di una famiglia, il luogo in cui si nasce o le condizioni economi…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/festival-delle-regioni-miglietta-listruzione-e-un-diritto-non-un-privilegio/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-10-26T18:04:58+00:00"
+  },
   {
    "id": "9db24a4dfe18",
    "title": "Scontro sulla statale 275: cinque feriti e lunghe code",
@@ -2013,41 +2024,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-23T18:46:56+00:00"
-  },
-  {
-   "id": "992443f34259",
-   "title": "Processo clan Moccia, due anni per l'assessore Guido",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2024/09/andrea-guido.jpg",
-   "url": "https://trnews.it/2026/10/23/processo-clan-moccia-due-anni-per-lassessore-guido",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T18:07:43+00:00"
-  },
-  {
-   "id": "f392244bd7f1",
-   "title": "Annuncia il suicidio via sms alla fidanzata, scatta l’allarme e viene salvato dalla polizia",
-   "summary": "TORRE MOZZA (Lecce) – Era su un pontile a Torre Mozza, pronto a gettarsi in acqua, ma fortunatamente è stato salvato dagli agenti di polizia, intervenuti dopo l’allarme lanciato dai genitori. I fatti…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/annuncia-il-suicidio-via-sms-alla-fidanzata-scatta-lallarme-e-viene-salvato-dalla-polizia/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T18:07:14+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-26T17:58:41.946911+00:00",
+   "last_ok": "2026-10-26T18:30:43.325181+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-26T17:58:41.946911+00:00",
+   "last_ok": "2026-10-26T18:30:43.325181+00:00",
    "error": null
   },
   {
@@ -2059,19 +2048,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-26T17:58:41.946911+00:00",
+   "last_ok": "2026-10-26T18:30:43.325181+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-26T17:58:41.946911+00:00",
+   "last_ok": "2026-10-26T18:30:43.325181+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-26T17:58:41.946911+00:00",
+   "last_ok": "2026-10-26T18:30:43.325181+00:00",
    "error": null
   }
  ]
