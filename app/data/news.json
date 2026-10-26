@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-26T19:30:09.301792+00:00",
+ "updated_at": "2026-10-26T20:02:52.249865+00:00",
  "items": [
+  {
+   "id": "a14a424a496c",
+   "title": "La vittoria di Lula letta attraverso l’architettura finanziaria del Brasile. Tra Stati Uniti e Cina",
+   "summary": "Il successo di Lula nelle elezioni brasiliane avrà ripercussioni sulla forte tensione che nell’economia del Paese sudamericano si manifesta già da tempo fra la finanza statunitense e la presenza cine…",
+   "image": "https://altreconomia.it/app/uploads/2026/10/IPA90207939-scaled.jpg",
+   "url": "https://altreconomia.it/la-vittoria-di-lula-letta-attraverso-larchitettura-finanziaria-del-brasile-tra-stati-uniti-e-cina/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-26T19:56:19+00:00"
+  },
   {
    "id": "938d3dcefaa1",
    "title": "“Falso ricorso per il divorzio di un cliente”: avvocata civilista a processo per truffa e falso",
@@ -2024,41 +2035,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-23T20:43:02+00:00"
-  },
-  {
-   "id": "f39a4e972510",
-   "title": "Presunti appalti con il clan Moccia: cade l’aggravante mafiosa, lievi condanne per assessore Guido e imprenditore D’Elia",
-   "summary": "LECCE – Si chiude con una condanna a 2 anni (con il beneficio della pena sospesa) il processo di primo grado a carico dell’assessore al Welfare del Comune di Lecce, Andrea Guido, finito sotto process…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/presunti-appalti-con-il-clan-moccia-cade-laggravante-mafiosa-lievi-condanne-per-assessore-guido-e-imprenditore-delia/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T19:39:57+00:00"
-  },
-  {
-   "id": "a95efd2a3027",
-   "title": "Andrea Guido dopo la condanna a rischio prescrizione: “Ho la coscienza pulita e la schiena dritta”",
-   "summary": "LECCE – “Ho sempre dichiarato la mia innocenza e continuo a farlo, oggi più che mai. Non sono mai stato corrotto da nessuno”. Andrea Guido rompe il silenzio dopo la condanna a due anni di reclusione,…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/andrea-guido-dopo-la-condanna-a-rischio-prescrizione-ho-la-coscienza-pulita-e-la-schiena-dritta/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-23T19:37:33+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-26T19:30:09.301792+00:00",
+   "last_ok": "2026-10-26T20:02:52.249865+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-26T19:30:09.301792+00:00",
+   "last_ok": "2026-10-26T20:02:52.249865+00:00",
    "error": null
   },
   {
@@ -2070,19 +2059,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-26T19:30:09.301792+00:00",
+   "last_ok": "2026-10-26T20:02:52.249865+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-26T19:30:09.301792+00:00",
+   "last_ok": "2026-10-26T20:02:52.249865+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-26T19:30:09.301792+00:00",
+   "last_ok": "2026-10-26T20:02:52.249865+00:00",
    "error": null
   }
  ]
