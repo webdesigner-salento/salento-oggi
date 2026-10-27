@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T04:57:45.283709+00:00",
+ "updated_at": "2026-10-27T05:23:20.369500+00:00",
  "items": [
   {
    "id": "75cbb047519d",
@@ -2024,41 +2024,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-24T06:20:24+00:00"
-  },
-  {
-   "id": "7b937b72835a",
-   "title": "Lavori Aqp per migliorare il servizio, possibili disagi in alcuni comuni salentini. Ecco dove e quando",
-   "summary": "SALENTO – Acquedotto Pugliese sta effettuando interventi per il miglioramento del servizio nel Comune di Otranto presso la frazione di Sant’Andrea e Spongano. I lavori a Sant’Andrea riguardano la man…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lavori-aqp-per-migliorare-il-servizio-possibili-disagi-in-alcuni-comuni-salentini-ecco-dove-e-quando-103/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T05:19:44+00:00"
-  },
-  {
-   "id": "eeaf46b4dc82",
-   "title": "L’almanacco di oggi 24 ottobre",
-   "summary": "Il Santo del giorno: S. Antonio Maria. Il proverbio di Mesciu Ronzu: Né de venere né de marte nò ssè sposa e nò ssè parte, nò ssè dà princìpiu all’arte. Significato: Né di venere né di marte non si s…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lalmanacco-di-oggi-24-ottobre/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-24T05:00:37+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-27T04:57:45.283709+00:00",
+   "last_ok": "2026-10-27T05:23:20.369500+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-27T04:57:45.283709+00:00",
+   "last_ok": "2026-10-27T05:23:20.369500+00:00",
    "error": null
   },
   {
@@ -2070,19 +2048,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-27T04:57:45.283709+00:00",
+   "last_ok": "2026-10-27T05:23:20.369500+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
-   "ok": true,
+   "ok": false,
    "last_ok": "2026-10-27T04:57:45.283709+00:00",
-   "error": null
+   "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-27T04:57:45.283709+00:00",
+   "last_ok": "2026-10-27T05:23:20.369500+00:00",
    "error": null
   }
  ]
