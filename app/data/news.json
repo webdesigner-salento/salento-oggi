@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-10-27T13:16:56.781497+00:00",
+ "updated_at": "2026-10-27T14:11:42.512485+00:00",
  "items": [
+  {
+   "id": "c20a0c2b1461",
+   "title": "Omicidio Margherito, chiesto l'ergastolo",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-96-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/27/omicidio-margherito-chiesto-lergastolo",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Brindisi",
+   "published_at": "2026-10-27T13:49:09+00:00"
+  },
+  {
+   "id": "6adae212dbaf",
+   "title": "La delegazione europea fa tappa a Brindisi",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-95-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/27/la-delegazione-europea-fa-tappa-a-brindisi",
+   "source": "TeleRama News",
+   "category": "Politica",
+   "zone": "Brindisi",
+   "published_at": "2026-10-27T13:44:15+00:00"
+  },
+  {
+   "id": "f45631f8cc6a",
+   "title": "Calciatori del Brindisi e studenti a confronto",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-94-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/27/calciatori-del-brindisi-e-studenti-a-confronto",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Brindisi",
+   "published_at": "2026-10-27T13:38:19+00:00"
+  },
   {
    "id": "e6110450c20f",
    "title": "Melissano, furto nella farmacia comunale: rubato il registratore di cassa",
@@ -77,6 +110,17 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-27T12:00:38+00:00"
+  },
+  {
+   "id": "eed60499cced",
+   "title": "Lecce, intervento chirurgico riuscito per Ivan Ilić",
+   "summary": "LECCE – L’U.S. Lecce ha comunicato che Ivan Ilić è stato sottoposto nella mattinata odierna a un intervento chirurgico per trattare la lesione miotendinea del retto femorale sinistro, accompagnata da…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lecce-intervento-chirurgico-riuscito-per-ivan-ilic/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T11:58:05+00:00"
   },
   {
    "id": "2a34fdc8e645",
@@ -277,6 +321,17 @@
    "published_at": "2026-10-27T08:35:57+00:00"
   },
   {
+   "id": "b30b61f4b7db",
+   "title": "Serie C, Il Casarano espugna lo \"Scida\": notte fonda per la Salernitana. Esonerato Cosmi",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/pallone_serie_c-1024x642.avif",
+   "url": "https://trnews.it/2026/10/27/serie-c-il-casarano-espugna-lo-scida-notte-fonda-per-la-salernitana",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T08:35:54+00:00"
+  },
+  {
    "id": "b3f4096e8808",
    "title": "Il giorno in cui un sogno montò in sella",
    "summary": "Il giorno in cui un sogno montò in sella di Vincenzo Candido Renna Ci sono vite che aspettano il permesso di cominciare. E altre che, un mattino, sellano un cavallo e partono. La storia di Gregorio M…",
@@ -341,17 +396,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-27T07:39:38+00:00"
-  },
-  {
-   "id": "b30b61f4b7db",
-   "title": "Serie C, Il Casarano espugna lo \"Scida\": notte fonda per la Salernitana. Esonerato Cosmi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/pallone_serie_c-1024x642.avif",
-   "url": "https://trnews.it/2026/10/27/serie-c-il-casarano-espugna-lo-scida-notte-fonda-per-la-salernitana",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T07:35:54+00:00"
   },
   {
    "id": "02d8298e7edf",
@@ -2035,85 +2079,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-24T14:21:33+00:00"
-  },
-  {
-   "id": "8c63f9e4e09a",
-   "title": "Spaccio in auto tra Alessano e Lucugnano: incastrati con la cocaina e 500 euro in contanti",
-   "summary": "TAURISANO (Lecce): Un’operazione lampo condotta dagli agenti della Polizia di Stato del Commissariato di Taurisano ha portato all’arresto in flagranza di due persone, sorpresi a cedere dosi di sostan…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/spaccio-in-auto-tra-alessano-e-lucugnano-incastrati-con-la-cocaina-e-500-euro-in-contanti/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T14:11:04+00:00"
-  },
-  {
-   "id": "3996158179ef",
-   "title": "Casa svaligiata mentre è in chiesa, furto da 160mila euro e due arresti",
-   "summary": "Campi Salentina (Lecce): Un piano studiato nei dettagli, approfittando della conoscenza intima dei luoghi e della consueta assenza domenicale della proprietaria di casa. È la ricostruzione alla base…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/casa-svaligiata-mentre-e-in-chiesa-furto-da-160mila-euro-e-due-arresti/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T14:00:43+00:00"
-  },
-  {
-   "id": "e5f0d1953edb",
-   "title": "Primavera 1: La Juventus batte il Lecce 3-2 al fotofinish",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/09/primavera-scaled-e1788522724842-1024x636.jpg",
-   "url": "https://trnews.it/2026/10/24/primavera-1-la-juventus-batte-il-lecce-3-2-al-fotofinish",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T13:48:14+00:00"
-  },
-  {
-   "id": "323af8796f50",
-   "title": "Roca, tremila anni di storia mediterranea: un patrimonio da tutelare con il FAI",
-   "summary": "La candidatura al XIII censimento nazionale “I Luoghi del Cuore” richiama l’attenzione su uno dei più significativi siti archeologici del Salento. Roca, sulla costa adriatica salentina, nel territori…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/roca-tremila-anni-di-storia-mediterranea-un-patrimonio-da-tutelare-con-il-fai/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-24T13:46:39+00:00"
-  },
-  {
-   "id": "9c6e9b25c259",
-   "title": "Protesta agricoltori, oltre 800 in corteo: \"Ora basta\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_4196-1024x707.jpeg",
-   "url": "https://trnews.it/2026/10/24/protesta-agricoltori-oltre-800-in-corteo-ora-basta",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T13:39:04+00:00"
-  },
-  {
-   "id": "af4a30ed6c1f",
-   "title": "Lecce, sport e inclusione: gli Special Day di Special Olympics",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_4195-1024x576.jpeg",
-   "url": "https://trnews.it/2026/10/24/lecce-sport-e-inclusione-gli-special-day-di-special-olympics",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T13:36:47+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-27T13:16:56.781497+00:00",
+   "last_ok": "2026-10-27T14:11:42.512485+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-27T13:16:56.781497+00:00",
+   "last_ok": "2026-10-27T14:11:42.512485+00:00",
    "error": null
   },
   {
@@ -2125,19 +2103,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-27T13:16:56.781497+00:00",
+   "last_ok": "2026-10-27T14:11:42.512485+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-27T13:16:56.781497+00:00",
+   "last_ok": "2026-10-27T14:11:42.512485+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-27T13:16:56.781497+00:00",
+   "last_ok": "2026-10-27T14:11:42.512485+00:00",
    "error": null
   }
  ]
