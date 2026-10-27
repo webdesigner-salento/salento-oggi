@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-27T21:25:53.125093+00:00",
+ "updated_at": "2026-10-27T21:58:09.275559+00:00",
  "items": [
+  {
+   "id": "6bee53eb440a",
+   "title": "Coppa Italia: il Potenza elimina il Bari",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/FB_IMG_1793134488842-1001x1024.jpg",
+   "url": "https://trnews.it/2026/10/27/coppa-italia-il-potenza-elimina-il-bari",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-27T21:42:23+00:00"
+  },
   {
    "id": "93ededee3225",
    "title": "Gallipoli, lo spettacolo della 18ª Rotary Cup: trionfa “2alfa2” in una domenica di sole e solidarietà",
@@ -2200,30 +2211,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-24T21:58:34+00:00"
-  },
-  {
-   "id": "4c6a9e05fb2c",
-   "title": "Mare d'autunno, boom di turisti stranieri a Tricase",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Still0414_00000-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/24/mare-dautunno-boom-di-turisti-stranieri-a-tricase",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T21:27:08+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-27T21:25:53.125093+00:00",
+   "last_ok": "2026-10-27T21:58:09.275559+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-27T21:25:53.125093+00:00",
+   "last_ok": "2026-10-27T21:58:09.275559+00:00",
    "error": null
   },
   {
@@ -2235,19 +2235,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-27T21:25:53.125093+00:00",
+   "last_ok": "2026-10-27T21:58:09.275559+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-27T21:25:53.125093+00:00",
+   "last_ok": "2026-10-27T21:58:09.275559+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-27T21:25:53.125093+00:00",
+   "last_ok": "2026-10-27T21:58:09.275559+00:00",
    "error": null
   }
  ]
