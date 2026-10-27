@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-27T16:05:41.551048+00:00",
+ "updated_at": "2026-10-27T17:08:09.913091+00:00",
  "items": [
+  {
+   "id": "48db25a37126",
+   "title": "Dodicenne aggredita coi cani, concluse le indagini sulle due sorelle minori coinvolte",
+   "summary": "Lecce – Lesioni commesse in danno di una 12enne, aggravate dall’aver agito in più persone riunite e con l’impiego di due cani di grossa taglia. Questa l’accusa formulata dalla Procura della Repubblic…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/dodicenne-aggredita-coi-cani-concluse-le-indagini-sulle-due-sorelle-minori-coinvolte/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T17:02:36+00:00"
+  },
+  {
+   "id": "e437c95b5a60",
+   "title": "Ospedale, Pagliaro: \"No a depotenziamento, Regione ripristini il 1° livello\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/ISPEZIONE-CASARANO-PAOLO-PAGLIARO-5-e1793118724873-1024x672.jpeg",
+   "url": "https://trnews.it/2026/10/27/ospedale-pagliaro-no-a-depotenziamento-regione-ripristini-il-1-livello",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T16:32:11+00:00"
+  },
   {
    "id": "39d48032af4e",
    "title": "Strisce blu, Poli Bortone apre al Codacons: “Valutiamo le proposte”. Ma nei quartieri la protesta continua",
@@ -2068,30 +2090,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-24T18:07:36+00:00"
-  },
-  {
-   "id": "290d6b56ab2f",
-   "title": "Strisce blu, sit-in a San Pio. Lecce Città Pubblica: “Ritirate la delibera”. De Matteis: “Una tassa sulla periferia”",
-   "summary": "LECCE – “Prima vengono i servizi e i bisogni delle persone, solo dopo si possono chiedere sacrifici”. È il messaggio che Lecce Città Pubblica rilancia dal sit-in informativo di oggi a San Pio, nello…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/ca593efc-3ad7-4900-837c-c12fae6bb592-300x169.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/10/strisce-blu-sit-in-a-san-pio-lecce-citta-pubblica-ritirate-la-delibera-de-matteis-una-tassa-sulla-periferia/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T16:33:37+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-27T16:05:41.551048+00:00",
+   "last_ok": "2026-10-27T17:08:09.913091+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-27T16:05:41.551048+00:00",
+   "last_ok": "2026-10-27T17:08:09.913091+00:00",
    "error": null
   },
   {
@@ -2103,19 +2114,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-27T16:05:41.551048+00:00",
+   "last_ok": "2026-10-27T17:08:09.913091+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-27T16:05:41.551048+00:00",
+   "last_ok": "2026-10-27T17:08:09.913091+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-27T16:05:41.551048+00:00",
+   "last_ok": "2026-10-27T17:08:09.913091+00:00",
    "error": null
   }
  ]
