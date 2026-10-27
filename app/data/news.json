@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T22:26:49.630950+00:00",
+ "updated_at": "2026-10-27T22:57:21.576455+00:00",
  "items": [
   {
    "id": "6bee53eb440a",
@@ -266,6 +266,17 @@
    "published_at": "2026-10-27T14:40:06+00:00"
   },
   {
+   "id": "f45631f8cc6a",
+   "title": "Calciatori del Brindisi e studenti a confronto",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-94-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/27/calciatori-del-brindisi-e-studenti-a-confronto",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Brindisi",
+   "published_at": "2026-10-27T14:38:19+00:00"
+  },
+  {
    "id": "c444e7270d71",
    "title": "Mistero a Torre Rinalda, uomo di 78 anni trovato morto in un pozzo",
    "summary": "",
@@ -308,17 +319,6 @@
    "category": "Politica",
    "zone": "Brindisi",
    "published_at": "2026-10-27T13:44:15+00:00"
-  },
-  {
-   "id": "f45631f8cc6a",
-   "title": "Calciatori del Brindisi e studenti a confronto",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-94-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/27/calciatori-del-brindisi-e-studenti-a-confronto",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Brindisi",
-   "published_at": "2026-10-27T13:38:19+00:00"
   },
   {
    "id": "3f5515340b7e",
@@ -464,6 +464,17 @@
    "published_at": "2026-10-27T10:30:39+00:00"
   },
   {
+   "id": "c3aa37f905b1",
+   "title": "Questa sera su Tele Rama Lecce-Juventus",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG-20261025-WA0016-1024x682.jpg",
+   "url": "https://trnews.it/2026/10/27/questa-sera-su-tele-rama-lecce-juventus",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T10:24:12+00:00"
+  },
+  {
    "id": "698cd11460c8",
    "title": "Silvia Carofalo a Piazza Giallorossa: \"Nove punti un buon bottino, squadra in crescita\"",
    "summary": "",
@@ -561,17 +572,6 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-10-27T09:44:54+00:00"
-  },
-  {
-   "id": "c3aa37f905b1",
-   "title": "Questa sera su Tele Rama Lecce-Juventus",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG-20261025-WA0016-1024x682.jpg",
-   "url": "https://trnews.it/2026/10/27/questa-sera-su-tele-rama-lecce-juventus",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T09:24:12+00:00"
   },
   {
    "id": "bbb8c3253ba9",
@@ -2206,13 +2206,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-27T22:26:49.630950+00:00",
+   "last_ok": "2026-10-27T22:57:21.576455+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-27T22:26:49.630950+00:00",
+   "last_ok": "2026-10-27T22:57:21.576455+00:00",
    "error": null
   },
   {
@@ -2224,19 +2224,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-27T22:26:49.630950+00:00",
+   "last_ok": "2026-10-27T22:57:21.576455+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-27T22:26:49.630950+00:00",
+   "last_ok": "2026-10-27T22:57:21.576455+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-27T22:26:49.630950+00:00",
+   "last_ok": "2026-10-27T22:57:21.576455+00:00",
    "error": null
   }
  ]
