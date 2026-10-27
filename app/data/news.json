@@ -1,6 +1,72 @@
 {
- "updated_at": "2026-10-27T07:15:17.459528+00:00",
+ "updated_at": "2026-10-27T08:06:07.288840+00:00",
  "items": [
+  {
+   "id": "fe8ab5d0da1f",
+   "title": "Sfruttati e sorvegliati. Come lavorano i data worker della società che addestra l’IA",
+   "summary": "Un rapporto accusa la piattaforma Outlier di attrarre collaboratori con false promesse di lavoro flessibile e ben retribuito. In realtà, l’azienda li sottopaga, li traccia e ne trasmette i dati a ter…",
+   "image": null,
+   "url": "https://irpimedia.irpi.eu/ia-outlier-traccia-dipendenti-e-diffonde-dati/?utm_source=rss&utm_medium=rss&utm_campaign=ia-outlier-traccia-dipendenti-e-diffonde-dati",
+   "source": "IrpiMedia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-27T08:05:26+00:00"
+  },
+  {
+   "id": "bd9acf23ebbf",
+   "title": "Serbia, gli studenti hanno vinto. Ora arriva la parte più difficile: cambiare il sistema",
+   "summary": "Dopo quasi due anni di proteste, il movimento studentesco ha sconfitto Aleksandar Vučić alle urne. Una vittoria storica, nata dalla richiesta di giustizia per le sedici vittime di Novi Sad. Ora la sf…",
+   "image": null,
+   "url": "https://www.valigiablu.it/serbia-elezioni-studenti-sistema-vucic/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-27T07:51:26+00:00"
+  },
+  {
+   "id": "b30b61f4b7db",
+   "title": "Serie C, Il Casarano espugna lo \"Scida\": notte fonda per la Salernitana",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/pallone_serie_c-1024x642.avif",
+   "url": "https://trnews.it/2026/10/27/serie-c-il-casarano-espugna-lo-scida-notte-fonda-per-la-salernitana",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T07:35:54+00:00"
+  },
+  {
+   "id": "5b2ace9bb21a",
+   "title": "Frosinone-Lecce: Siebert rileva Gaspar. Esteban titolare?",
+   "summary": "Conto alla rovescia alla sfida in terra ciociara. Giovedì sera allo Stirpe i giallorossi affronteremo il Frosinone di Alvini, unica vera sorpresa di questo primo scorcio di stagione. Dopo la sconfitt…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/frosinone-lecce-siebert-rileva-gaspar-esteban-titolare/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T07:25:16+00:00"
+  },
+  {
+   "id": "066f40105087",
+   "title": "Bari ricorda Luca Turi: una targa e un premio per il fotoreporter della Vlora",
+   "summary": "",
+   "image": "https://i.ytimg.com/vi/ZFqtIXKYvrE/hqdefault.jpg",
+   "url": "https://trnews.it/2026/10/27/bari-ricorda-luca-turi-una-targa-e-un-premio-per-il-fotoreporter-della-vlora",
+   "source": "TeleRama News",
+   "category": "Cultura",
+   "zone": "Salento",
+   "published_at": "2026-10-27T07:24:38+00:00"
+  },
+  {
+   "id": "2437fd7c9557",
+   "title": "Il Corriere della Sera celebra 150 anni a Bari: legame strutturale con il Sud",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/URBANO-CAIRO-1024x483.jpg",
+   "url": "https://trnews.it/2026/10/27/il-corriere-della-sera-celebra-150-anni-a-bari-legame-strutturale-con-il-sud",
+   "source": "TeleRama News",
+   "category": "Cultura",
+   "zone": "Salento",
+   "published_at": "2026-10-27T07:17:10+00:00"
+  },
   {
    "id": "6c7fa040f28c",
    "title": "Eccellenza, giornata pro Taranto: vittoria che avvicina i rossoblu alla vetta",
@@ -1925,52 +1991,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-24T08:14:58+00:00"
-  },
-  {
-   "id": "08dfae8f8c76",
-   "title": "POS scollegati e registratori fantasma: 43 verbali della Finanza nel Salento",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/FOTO-POS-finanza-2-e1792828428859-1024x626.jpg",
-   "url": "https://trnews.it/2026/10/24/pos-scollegati-e-registratori-fantasma-43-verbali-della-finanza-nel-salento",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T07:54:06+00:00"
-  },
-  {
-   "id": "9817a879b519",
-   "title": "Cortei di trattori verso Maglie: agricoltori in strada, viabilità a rilento",
-   "summary": "MAGLIE (Lecce) – La protesta dei nostri agricoltori si sposta verso Maglie, dove nella mattinata di oggi centinaia di operatori del settore si sono dati appuntamento per dare vita a una grande mobili…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/Corriere-salentino-5-1-700x420.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/10/cortei-di-trattori-verso-maglie-agricoltori-in-strada-viabilita-a-rilento/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T07:43:15+00:00"
-  },
-  {
-   "id": "7593787c80f4",
-   "title": "Eccellenza: Squinzano cerca conferme, il Canosa insegue e il Taranto per il riscatto",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/08/Brindisi-test-Squinzano.jpg",
-   "url": "https://trnews.it/2026/10/24/eccellenza-squinzano-cerca-conferme-il-canosa-insegue-e-il-taranto-per-il-riscatto",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T07:20:27+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-27T07:15:17.459528+00:00",
+   "last_ok": "2026-10-27T08:06:07.288840+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-27T07:15:17.459528+00:00",
+   "last_ok": "2026-10-27T08:06:07.288840+00:00",
    "error": null
   },
   {
@@ -1982,19 +2015,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-27T07:15:17.459528+00:00",
+   "last_ok": "2026-10-27T08:06:07.288840+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-27T07:15:17.459528+00:00",
+   "last_ok": "2026-10-27T08:06:07.288840+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-27T07:15:17.459528+00:00",
+   "last_ok": "2026-10-27T08:06:07.288840+00:00",
    "error": null
   }
  ]
