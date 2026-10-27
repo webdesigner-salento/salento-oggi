@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T04:24:59.904468+00:00",
+ "updated_at": "2026-10-27T04:57:45.283709+00:00",
  "items": [
   {
    "id": "75cbb047519d",
@@ -2046,30 +2046,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-24T05:00:37+00:00"
-  },
-  {
-   "id": "32a0cd9cb8f8",
-   "title": "La ricetta del giorno: mozzarelle in carrozza",
-   "summary": "Ingredienti per 4 persone 8 fette pancarré 4fette di mozzarella tagliare spesse 3 uova 2 cucchiai di latte 4 fette di prosciutto cotto Farina per impanare q.b. Sale Olio per friggere Procedimento Tog…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/la-ricetta-del-giorno-mozzarelle-carrozza/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-24T04:56:21+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-27T04:24:59.904468+00:00",
+   "last_ok": "2026-10-27T04:57:45.283709+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-27T04:24:59.904468+00:00",
+   "last_ok": "2026-10-27T04:57:45.283709+00:00",
    "error": null
   },
   {
@@ -2081,19 +2070,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-27T04:24:59.904468+00:00",
+   "last_ok": "2026-10-27T04:57:45.283709+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-27T04:24:59.904468+00:00",
+   "last_ok": "2026-10-27T04:57:45.283709+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-27T04:24:59.904468+00:00",
+   "last_ok": "2026-10-27T04:57:45.283709+00:00",
    "error": null
   }
  ]
