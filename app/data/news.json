@@ -1,16 +1,71 @@
 {
- "updated_at": "2026-10-27T15:10:18.535572+00:00",
+ "updated_at": "2026-10-27T16:05:41.551048+00:00",
  "items": [
+  {
+   "id": "39d48032af4e",
+   "title": "Strisce blu, Poli Bortone apre al Codacons: “Valutiamo le proposte”. Ma nei quartieri la protesta continua",
+   "summary": "LECCE – La maggioranza, dopo ave concesso i 15 minuti gratis e lo stop del pagamento sui parcheggi comunali delle periferie dalle 14 alle 16, ora prova ad aprire un dialogo con chi contesta. La sinda…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/strisce-blu-poli-bortone-apre-al-codacons-valutiamo-le-proposte-ma-nei-quartieri-la-protesta-continua/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T16:01:09+00:00"
+  },
+  {
+   "id": "f68ed57ef3f8",
+   "title": "GEN V, ultimi giorni per candidarsi al Premio e alla Call giovani: scadenza il 31 ottobre",
+   "summary": "LECCE – Ultimi giorni per candidarsi al Premio GEN V 2026 e alla Call giovani “Le idee diventano azioni”, le due iniziative promosse nell’ambito di GEN V – Generazione Volontariato per valorizzare l’…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/gen-v-ultimi-giorni-per-candidarsi-al-premio-e-alla-call-giovani-scadenza-il-31-ottobre/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T15:59:23+00:00"
+  },
+  {
+   "id": "2c177b5a53b1",
+   "title": "Liste d’attesa, Forza Italia: “I pugliesi rinunciano alle cure, triste record nazionale”",
+   "summary": "“Puglia record in Italia per rinunce alle cure a causa delle liste d’attesa: una gran bella medaglia al demerito per il centrosinistra che guida la Puglia da quasi 22 anni. Gli artefici dello smantel…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/liste-dattesa-forza-italia-i-pugliesi-rinunciano-alle-cure-triste-record-nazionale/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-10-27T15:30:10+00:00"
+  },
   {
    "id": "0842cf70edf2",
    "title": "Trovato un cadavere in un pozzo, non si esclude alcuna ipotesi, neppure quella dell’omicidio",
    "summary": "Torre Rinalda (Lecce) – Ritrovato un cadavere all’interno di un pozzo. Ed è mistero sulle cause del decesso, tra le altre non si esclude neppure l’omicidio. L’allarme è scattato nel primo pomeriggio…",
-   "image": null,
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/omicidio-torre-rinalda-3-560x420.jpg",
    "url": "https://www.corrieresalentino.it/2026/10/trovato-un-cadavere-in-un-pozzo-non-si-esclude-alcuna-ipotesi-neppure-quella-dellomicidio/",
    "source": "Corriere Salentino",
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-27T15:07:36+00:00"
+  },
+  {
+   "id": "32727eeb0cd9",
+   "title": "Taranto, i Giochi del Mediterraneo visti dall'obiettivo dei fotografi",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-98-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/27/taranto-i-giochi-del-mediterraneo-visti-dallobiettivo-dei-fotografi",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Taranto",
+   "published_at": "2026-10-27T14:48:40+00:00"
+  },
+  {
+   "id": "957ba890d0ca",
+   "title": "Taranto. Droga, armi e usura: sgominate 3 piazze di spaccio",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-97-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/27/taranto-droga-armi-e-usura-sgominate-3-piazze-di-spaccio",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Taranto",
+   "published_at": "2026-10-27T14:47:38+00:00"
   },
   {
    "id": "612401400da0",
@@ -99,6 +154,17 @@
    "category": "Cultura",
    "zone": "Salento",
    "published_at": "2026-10-27T12:34:54+00:00"
+  },
+  {
+   "id": "ea792553758c",
+   "title": "Raid notturno nella farmacia comunale, i ladri portano via la cassa",
+   "summary": "MELISSANO (Lecce) – Furto nella notte alla farmacia comunale di via Trieste, a Melissano, dove i ladri hanno forzato gli accessi e hanno portato via il registratore di cassa, che conteneva circa 400…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/raid-notturno-nella-farmacia-comunale-i-ladri-portano-via-la-cassa/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T12:34:20+00:00"
   },
   {
    "id": "5c302eb1ac0e",
@@ -220,17 +286,6 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-27T10:30:39+00:00"
-  },
-  {
-   "id": "ea792553758c",
-   "title": "Raid notturno nella farmacia comunale, i ladri portano via la cassa",
-   "summary": "MELISSANO (Lecce) – Furto nella notte alla farmacia comunale di via Trieste, a Melissano, dove i ladri hanno forzato gli accessi e hanno portato via il registratore di cassa, che conteneva circa 400…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/raid-notturno-nella-farmacia-comunale-i-ladri-portano-via-la-cassa/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T10:24:20+00:00"
   },
   {
    "id": "698cd11460c8",
@@ -2024,41 +2079,19 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-24T16:33:37+00:00"
-  },
-  {
-   "id": "e83ee09f3d94",
-   "title": "Derubava pazienti in condizioni critiche: oss, nel frattempo licenziata, condannata a 2 anni. Ora è libera",
-   "summary": "LECCE – Derubava pazienti all’interno pronto soccorso dell’ospedale Vito Fazzi approfittando delle loro gravi condizioni di salute. Sfilava soldi, carte bancomat e oggetti di valore. C.P., un’operatr…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/derubava-pazienti-in-condizioni-critiche-oss-nel-frattempo-licenziata-condannata-a-2-anni-ora-e-libera/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T15:40:19+00:00"
-  },
-  {
-   "id": "ab99fb857c10",
-   "title": "Il sindaco Poli Bortone: “Confermo la mia fiducia all’assessore Guido”",
-   "summary": "LECCE – “La vicenda giudiziaria che riguarda Andrea Guido era già conosciuta quando gli ho conferito la delega assessoriale. La fiducia che gli ho accordato allora, assumendomi la responsabilità di q…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/il-sindaco-poli-bortone-confermo-la-mia-fiducia-allassessore-guido/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T15:34:46+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-27T15:10:18.535572+00:00",
+   "last_ok": "2026-10-27T16:05:41.551048+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-27T15:10:18.535572+00:00",
+   "last_ok": "2026-10-27T16:05:41.551048+00:00",
    "error": null
   },
   {
@@ -2070,19 +2103,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-27T15:10:18.535572+00:00",
+   "last_ok": "2026-10-27T16:05:41.551048+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-27T15:10:18.535572+00:00",
+   "last_ok": "2026-10-27T16:05:41.551048+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-27T15:10:18.535572+00:00",
+   "last_ok": "2026-10-27T16:05:41.551048+00:00",
    "error": null
   }
  ]
