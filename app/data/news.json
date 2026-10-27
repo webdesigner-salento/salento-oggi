@@ -1,6 +1,83 @@
 {
- "updated_at": "2026-10-27T10:03:26.104402+00:00",
+ "updated_at": "2026-10-27T11:00:40.734158+00:00",
  "items": [
+  {
+   "id": "4cf8b2963dee",
+   "title": "Le Migliori Pizzerie d’Italia 2027 del Gambero Rosso. A Bob Alchimia a Spicchi il premio Pizzeria dell’anno",
+   "summary": "Roma, 26 ottobre 2026 – È Bob Alchimia a Spicchi di Montepaone, in provincia di Catanzaro, la Pizzeria dell’anno per la nuova guida Le Migliori Pizzerie d’Italia 2027 del Gambero Rosso. Il progetto d…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/le-migliori-pizzerie-ditalia-2027-del-gambero-rosso-a-bob-alchimia-a-spicchi-il-premio-pizzeria-dellanno/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-27T10:51:21+00:00"
+  },
+  {
+   "id": "ec45992ef1ae",
+   "title": "A “Con la mia voce” di Monica Sabella scrittrice salentina la Menzione Speciale del Premio Microeditoria di Qualità – Sezione Ragazzi",
+   "summary": "Monica Sabella, scrittrice di Alessano (Lecce), ha ottenuto la Menzione Speciale nell’ambito del prestigioso Premio Microeditoria di Qualità – Sezione Ragazzi. Si aggiunge così un tassello importante…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/a-con-la-mia-voce-di-monica-sabella-scrittrice-salentina-la-menzione-speciale-del-premio-microeditoria-di-qualita-sezione-ragazzi/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T10:36:41+00:00"
+  },
+  {
+   "id": "d2f332b03429",
+   "title": "Meteo di domani 28 ottobre nel Salento: previsioni, temperature e cosa aspettarsi",
+   "summary": "Puglia – Condizioni di tempo asciutto nel corso della giornata su tutta la regione con cieli che saranno sereni o poco nuvolosi sia al mattino che al pomeriggio. In serata e nottata si rinnovano cond…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/meteo-di-domani-28-ottobre-nel-salento-previsioni-temperature-e-cosa-aspettarsi/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T10:30:39+00:00"
+  },
+  {
+   "id": "ea792553758c",
+   "title": "Raid notturno nella farmacia comunale, i ladri portano via la cassa",
+   "summary": "MELISSANO (Lecce) – Furto nella notte alla farmacia comunale di via Trieste, a Melissano, dove i ladri hanno forzato gli accessi e hanno portato via il registratore di cassa, che conteneva circa 400…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/raid-notturno-nella-farmacia-comunale-i-ladri-portano-via-la-cassa/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T10:24:20+00:00"
+  },
+  {
+   "id": "698cd11460c8",
+   "title": "Silvia Carofalo a Piazza Giallorossa: \"Nove punti un buon bottino, squadra in crescita\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot_20261027_031150_Instagram-1024x583.jpg",
+   "url": "https://trnews.it/2026/10/27/silvia-carofalo-a-piazza-giallorossa-nove-punti-un-buon-bottino-squadra-in-crescita",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T10:22:54+00:00"
+  },
+  {
+   "id": "d73a8a37255b",
+   "title": "Poste Italiane: da lunedì 2 novembre saranno in pagamento le pensioni",
+   "summary": "BARI – Poste Italiane comunica che in tutti gli uffici postali le pensioni del mese di novembre saranno in pagamento a partire da lunedì 2. Dalla stessa data, le pensioni di novembre saranno disponib…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/poste-italiane-da-lunedi-2-novembre-saranno-in-pagamento-le-pensioni/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-27T10:12:29+00:00"
+  },
+  {
+   "id": "b1b7f324f407",
+   "title": "Controlli GdF per Halloween: nel barese sequestrati 7mila articoli non a norma",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/sequestro-gdf-Halloween-1024x768.jpg",
+   "url": "https://trnews.it/2026/10/27/controlli-gdf-per-halloween-nel-barese-sequestrati-7mila-articoli-non-a-norma",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-27T10:10:26+00:00"
+  },
   {
    "id": "d6f38973dcf5",
    "title": "“Non aprite quel mercato coperto” Ultimi Fuochi porta in scena uno spettacolo immersivo per grandi e piccini in attesa di Halloween",
@@ -124,7 +201,7 @@
   },
   {
    "id": "b30b61f4b7db",
-   "title": "Serie C, Il Casarano espugna lo \"Scida\": notte fonda per la Salernitana",
+   "title": "Serie C, Il Casarano espugna lo \"Scida\": notte fonda per la Salernitana. Esonerato Cosmi",
    "summary": "",
    "image": "https://wp.trnews.it/wp-content/uploads/2026/08/pallone_serie_c-1024x642.avif",
    "url": "https://trnews.it/2026/10/27/serie-c-il-casarano-espugna-lo-scida-notte-fonda-per-la-salernitana",
@@ -1936,118 +2013,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-24T11:03:01+00:00"
-  },
-  {
-   "id": "43fd7b251a59",
-   "title": "Case popolari nel degrado a Squinzano: Pagliaro chiede interventi immediati",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/857439079_1155187770427233_8001347712083423262_n-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/24/case-popolari-nel-degrado-a-squinzano-pagliaro-chiede-interventi-immediati",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T10:57:24+00:00"
-  },
-  {
-   "id": "b0b9e8b01447",
-   "title": "Lutto nell’imprenditoria salentina: addio a Giulio Musca, storico fondatore di Saicar",
-   "summary": "LECCE – Si è spento all’età di 84 anni Giulio Musca, figura di primo piano del panorama economico leccese e presidente del Consiglio di amministrazione di Saicar Industriali S.p.A., realtà di riferim…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lutto-nellimprenditoria-salentina-addio-a-giulio-musca-storico-fondatore-di-saicar/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T10:56:15+00:00"
-  },
-  {
-   "id": "dbc2b9fae743",
-   "title": "Spaccio alle Giravolte, tornano liberi due imputati",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/01/app-tribunale-interni-sito.jpg",
-   "url": "https://trnews.it/2026/10/24/spaccio-alle-giravolte-tornano-liberi-due-imputati",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T10:55:54+00:00"
-  },
-  {
-   "id": "efb932bb6ace",
-   "title": "Stalking all’ex moglie : chiesta condanna per un 65enne",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/02/stalking-1024x683.jpg",
-   "url": "https://trnews.it/2026/10/24/stalking-allex-moglie-chiesta-condanna-per-un-65enne",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T10:54:42+00:00"
-  },
-  {
-   "id": "f5f70f49d685",
-   "title": "Lecce, addio a Giulio Musca: il cuore e l'anima della Saicar",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/giulio-musca.jpg",
-   "url": "https://trnews.it/2026/10/24/lecce-addio-a-giulio-musca-il-cuore-e-lanima-della-saicar",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T10:19:54+00:00"
-  },
-  {
-   "id": "bbdfbcd10c20",
-   "title": "Filctem e Fillea replicano al vicesindaco Anguilla: “La politica non scarichi sui lavoratori colpe che non hanno”",
-   "summary": "“I lavoratori meritano rispetto. La politica si assuma le proprie responsabilità”. I segretari generali di Fillea Cgil Lecce e Filctem Cgil Lecce, Luca Toma e Franco Giancane, replicano all’assessore…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/filctem-e-fillea-replicano-al-vicesindaco-anguilla-la-politica-non-scarichi-sui-lavoratori-colpe-che-non-hanno/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T10:17:46+00:00"
-  },
-  {
-   "id": "c5044add9b37",
-   "title": "Ilić, nuovi esami e operazione in Finlandia: ecco cosa è emerso e quali sono i tempi di recupero",
-   "summary": "LECCE – Gli ulteriori accertamenti hanno confermato per Ivan Ilić una lesione miotendinea del retto femorale sinistro, con lesione parziale del tendine, in seguito all’infortunio riportato contro il…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/ilic-nuovi-esami-e-operazione-in-finlandia-ecco-cosa-e-emerso-e-quali-sono-i-tempi-di-recupero/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T10:15:26+00:00"
-  },
-  {
-   "id": "9fc26ef0e3e5",
-   "title": "È morto Giulio Musca, fondatore di Saicar Industriali S.p.A.: aveva 84 anni",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-09.45.48-1024x576.jpeg",
-   "url": "https://trnews.it/2026/10/24/e-morto-giulio-musca-fondatore-di-saicar-industriali-s-p-a-aveva-84-anni",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T10:08:55+00:00"
-  },
-  {
-   "id": "83c910f05983",
-   "title": "Nasce Destinazione Galatina, il brand che porta la città oltre i suoi confini",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/logo_destinazione_galatina_2x-1024x456.png",
-   "url": "https://trnews.it/2026/10/24/nasce-destinazione-galatina",
-   "source": "TeleRama News",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T10:04:22+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-27T10:03:26.104402+00:00",
+   "last_ok": "2026-10-27T11:00:40.734158+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-27T10:03:26.104402+00:00",
+   "last_ok": "2026-10-27T11:00:40.734158+00:00",
    "error": null
   },
   {
@@ -2059,19 +2037,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-27T10:03:26.104402+00:00",
+   "last_ok": "2026-10-27T11:00:40.734158+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-27T10:03:26.104402+00:00",
+   "last_ok": "2026-10-27T11:00:40.734158+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-27T10:03:26.104402+00:00",
+   "last_ok": "2026-10-27T11:00:40.734158+00:00",
    "error": null
   }
  ]
