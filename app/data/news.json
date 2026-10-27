@@ -1,11 +1,55 @@
 {
- "updated_at": "2026-10-27T12:26:22.826715+00:00",
+ "updated_at": "2026-10-27T13:16:56.781497+00:00",
  "items": [
   {
-   "id": "bba711ac5997",
-   "title": "Lecce, per Ilic intervento perfettamente riuscito",
+   "id": "e6110450c20f",
+   "title": "Melissano, furto nella farmacia comunale: rubato il registratore di cassa",
    "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/07/carabinieri-1.jpg",
+   "url": "https://trnews.it/2026/10/27/melissano-furto-nella-farmacia-comunale-rubato-il-registratore-di-cassa",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T13:05:10+00:00"
+  },
+  {
+   "id": "3f5515340b7e",
+   "title": "Servizi dedicati a donne vittime di violenza, tre misure regionali da 2,9 milioni",
+   "summary": "La Regione Puglia finanzia con tre misure dalla dotazione complessiva di 2.889.378,79 euro i servizi dedicati alle donne che subiscono violenza, in modo da garantire loro percorsi di protezione e aut…",
    "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/servizi-dedicati-a-donne-vittime-di-violenza-tre-misure-regionali-da-29-milioni/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-10-27T12:36:53+00:00"
+  },
+  {
+   "id": "fe9b72bb2d80",
+   "title": "Liceo Palmieri, cultura e libertà – invito alla cittadinanza",
+   "summary": "Nell’ambito dell’iniziativa “Italiani e Polacchi, popoli fratelli uniti dal sogno della libertà”, in collaborazione con Fundacja Monte Cassino, AFCPI, Esercito Italiano – Comando Militare Esercito “P…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/liceo-palmieri-cultura-e-liberta-invito-alla-cittadinanza/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Salento",
+   "published_at": "2026-10-27T12:34:54+00:00"
+  },
+  {
+   "id": "5c302eb1ac0e",
+   "title": "Controlli a tappeto, oltre 3.000 persone identificate. In casa una carabina, 23enne in carcere",
+   "summary": "SALENTO – Oltre 3mila persone identificate, 1.274 veicoli controllati e un 23enne trasferito in carcere dopo le violazioni degli arresti domiciliari. È il bilancio dei controlli straordinari della Po…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/controlli-a-tappeto-oltre-3-000-persone-identificate-in-casa-una-carabina-23enne-in-carcere/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-10-27T12:27:37+00:00"
+  },
+  {
+   "id": "bba711ac5997",
+   "title": "Lecce, per Ilic intervento perfettamente riuscito. Domani la rifinitura e la partenza",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Ivan-Ilic-foto-Pierluigi-Pinto-1024x698.jpeg",
    "url": "https://trnews.it/2026/10/27/lecce-per-ilic-intervento-perfettamente-riuscito",
    "source": "TeleRama News",
    "category": "Sport",
@@ -244,6 +288,28 @@
    "published_at": "2026-10-27T08:25:07+00:00"
   },
   {
+   "id": "066f40105087",
+   "title": "Bari ricorda Luca Turi: una targa e un premio per il fotoreporter della Vlora",
+   "summary": "",
+   "image": "https://i.ytimg.com/vi/ZFqtIXKYvrE/hqdefault.jpg",
+   "url": "https://trnews.it/2026/10/27/bari-ricorda-luca-turi-una-targa-e-un-premio-per-il-fotoreporter-della-vlora",
+   "source": "TeleRama News",
+   "category": "Cultura",
+   "zone": "Salento",
+   "published_at": "2026-10-27T08:24:38+00:00"
+  },
+  {
+   "id": "2437fd7c9557",
+   "title": "Il Corriere della Sera celebra 150 anni a Bari: legame strutturale con il Sud",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/URBANO-CAIRO-1024x483.jpg",
+   "url": "https://trnews.it/2026/10/27/il-corriere-della-sera-celebra-150-anni-a-bari-legame-strutturale-con-il-sud",
+   "source": "TeleRama News",
+   "category": "Cultura",
+   "zone": "Salento",
+   "published_at": "2026-10-27T08:17:10+00:00"
+  },
+  {
    "id": "fe8ab5d0da1f",
    "title": "Sfruttati e sorvegliati. Come lavorano i data worker della società che addestra l’IA",
    "summary": "Un rapporto accusa la piattaforma Outlier di attrarre collaboratori con false promesse di lavoro flessibile e ben retribuito. In realtà, l’azienda li sottopaga, li traccia e ne trasmette i dati a ter…",
@@ -264,6 +330,17 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-27T07:51:26+00:00"
+  },
+  {
+   "id": "8d8aab144a97",
+   "title": "“Note e Serata di Pace”. Lo Sport che Aiuta: La Maglia dell’U.S. Lecce per il Sociale",
+   "summary": "LECCE – Il 30 Ottobre 2026 alle ore 18:30, gli storici spazi della Fondazione Palmieri (Vico dei Sotterranei, Lecce) si trasformeranno in un crocevia di solidarietà, arte e impegno civico per l’event…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/note-e-serata-di-pace-lo-sport-che-aiuta-la-maglia-dellu-s-lecce-per-il-sociale/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T07:39:38+00:00"
   },
   {
    "id": "b30b61f4b7db",
@@ -297,28 +374,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-27T07:25:16+00:00"
-  },
-  {
-   "id": "066f40105087",
-   "title": "Bari ricorda Luca Turi: una targa e un premio per il fotoreporter della Vlora",
-   "summary": "",
-   "image": "https://i.ytimg.com/vi/ZFqtIXKYvrE/hqdefault.jpg",
-   "url": "https://trnews.it/2026/10/27/bari-ricorda-luca-turi-una-targa-e-un-premio-per-il-fotoreporter-della-vlora",
-   "source": "TeleRama News",
-   "category": "Cultura",
-   "zone": "Salento",
-   "published_at": "2026-10-27T07:24:38+00:00"
-  },
-  {
-   "id": "2437fd7c9557",
-   "title": "Il Corriere della Sera celebra 150 anni a Bari: legame strutturale con il Sud",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/URBANO-CAIRO-1024x483.jpg",
-   "url": "https://trnews.it/2026/10/27/il-corriere-della-sera-celebra-150-anni-a-bari-legame-strutturale-con-il-sud",
-   "source": "TeleRama News",
-   "category": "Cultura",
-   "zone": "Salento",
-   "published_at": "2026-10-27T07:17:10+00:00"
   },
   {
    "id": "6c7fa040f28c",
@@ -2046,41 +2101,19 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-10-24T13:36:47+00:00"
-  },
-  {
-   "id": "9ab0f6430767",
-   "title": "Elezioni amministrative 2027, Obiettivo Comune al fianco di Maria Grazia Sodero",
-   "summary": "NARDÒ – Obiettivo Comune prosegue il proprio percorso politico e conferma il sostegno a Maria Grazia Sodero in vista delle elezioni amministrative del 2027. In vista del prossimo appuntamento elettor…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/elezioni-amministrative-2027-obiettivo-comune-al-fianco-di-maria-grazia-sodero/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T12:50:21+00:00"
-  },
-  {
-   "id": "7e9a35363ed2",
-   "title": "Di Francesco: \"Sognare è possibile, dobbiamo restare umili\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/di-francesco.png",
-   "url": "https://trnews.it/2026/10/24/di-francesco-sognare-e-possibile-dobbiamo-restare-umili",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T12:27:06+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-27T12:26:22.826715+00:00",
+   "last_ok": "2026-10-27T13:16:56.781497+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-27T12:26:22.826715+00:00",
+   "last_ok": "2026-10-27T13:16:56.781497+00:00",
    "error": null
   },
   {
@@ -2092,19 +2125,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-27T12:26:22.826715+00:00",
+   "last_ok": "2026-10-27T13:16:56.781497+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-27T12:26:22.826715+00:00",
+   "last_ok": "2026-10-27T13:16:56.781497+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-27T12:26:22.826715+00:00",
+   "last_ok": "2026-10-27T13:16:56.781497+00:00",
    "error": null
   }
  ]
