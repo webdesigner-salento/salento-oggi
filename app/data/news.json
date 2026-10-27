@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T05:57:08.439843+00:00",
+ "updated_at": "2026-10-27T06:24:47.026083+00:00",
  "items": [
   {
    "id": "75cbb047519d",
@@ -2002,41 +2002,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-24T06:31:40+00:00"
-  },
-  {
-   "id": "95c1aeacb13f",
-   "title": "Dal 28 ottobre al 10 novembre Salento Jazz",
-   "summary": "SALENTO – Un programma internazionale che attraversa linguaggi, geografie e generazioni, mettendo in dialogo jazz e musiche del mondo, improvvisazione radicale e tradizioni del Mediterraneo, canzone,…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/dal-28-ottobre-al-10-novembre-salento-jazz/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Salento",
-   "published_at": "2026-10-24T06:23:00+00:00"
-  },
-  {
-   "id": "86d88f2f5ac7",
-   "title": "Food blogger in vetrina: filetto di salmone ripieno di pistacchi e robiola di Margherita Daverio",
-   "summary": "La rubrica “Food blogger in vetrina” oggi ospita la ricetta del filetto di salmone ripieno di pistacchi e robiola di Margherita Daverio. Classe ’84, Margherita vive a Milano e fa la PR. Food&lifestyl…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2018/04/C151536F-424C-446B-B68F-217F0301B6EB-400x170.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/10/food-blogger-in-vetrina-filetto-di-salmone-ripieno-di-pistacchi-e-robiola-di-margherita-daverio/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-24T06:20:24+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-27T05:57:08.439843+00:00",
+   "last_ok": "2026-10-27T06:24:47.026083+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-27T05:57:08.439843+00:00",
+   "last_ok": "2026-10-27T06:24:47.026083+00:00",
    "error": null
   },
   {
@@ -2048,19 +2026,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-27T05:57:08.439843+00:00",
+   "last_ok": "2026-10-27T06:24:47.026083+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-27T05:57:08.439843+00:00",
+   "last_ok": "2026-10-27T06:24:47.026083+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-27T05:57:08.439843+00:00",
+   "last_ok": "2026-10-27T06:24:47.026083+00:00",
    "error": null
   }
  ]
