@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-10-27T11:56:52.275518+00:00",
+ "updated_at": "2026-10-27T12:26:22.826715+00:00",
  "items": [
+  {
+   "id": "bba711ac5997",
+   "title": "Lecce, per Ilic intervento perfettamente riuscito",
+   "summary": "",
+   "image": null,
+   "url": "https://trnews.it/2026/10/27/lecce-per-ilic-intervento-perfettamente-riuscito",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T12:10:52+00:00"
+  },
+  {
+   "id": "261d5b1853fb",
+   "title": "Sabato 31 ottobre ritorna al Raffo Parco Gondar di Gallipoli la notte di Halloween più terrificante e attesa di Puglia",
+   "summary": "GALLIPOLI (Lecce) – La notte di Ognissanti si accende al Raffo Parco Gondar con uno degli appuntamenti più attesi e imponenti della stagione. Il 31 ottobre, a partire dalle ore 23.00, la celebre loca…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/sabato-31-ottobre-ritorna-al-raffo-parco-gondar-di-gallipoli-la-notte-di-halloween-piu-terrificante-e-attesa-di-puglia/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T12:08:55+00:00"
+  },
+  {
+   "id": "843ec2c3ed4a",
+   "title": "La strage di suolo continua. Nel 2025 sfondata la quota di 10mila ettari consumati",
+   "summary": "Niente da fare, ancora dati da paura per il consumo di suolo in Italia. Nessuna siccità, nessuna alluvione, nessuna frana, nessuna pietà per le morti premature nelle città diventate isole di calore r…",
+   "image": "https://altreconomia.it/app/uploads/2026/10/darrel-louise-almanzor-X81RRQCCgv0-unsplash.jpg",
+   "url": "https://altreconomia.it/la-strage-di-suolo-continua-nel-2025-sfondata-la-quota-di-10mila-ettari-consumati/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-27T12:00:38+00:00"
+  },
   {
    "id": "2a34fdc8e645",
    "title": "Droga nascosta nell’auto e in un appartamento: tre arresti nel Basso Salento",
@@ -2041,13 +2074,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-27T11:56:52.275518+00:00",
+   "last_ok": "2026-10-27T12:26:22.826715+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-27T11:56:52.275518+00:00",
+   "last_ok": "2026-10-27T12:26:22.826715+00:00",
    "error": null
   },
   {
@@ -2059,19 +2092,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-27T11:56:52.275518+00:00",
+   "last_ok": "2026-10-27T12:26:22.826715+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-27T11:56:52.275518+00:00",
+   "last_ok": "2026-10-27T12:26:22.826715+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-27T11:56:52.275518+00:00",
+   "last_ok": "2026-10-27T12:26:22.826715+00:00",
    "error": null
   }
  ]
