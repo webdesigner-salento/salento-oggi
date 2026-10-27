@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-27T08:06:07.288840+00:00",
+ "updated_at": "2026-10-27T09:05:03.496602+00:00",
  "items": [
+  {
+   "id": "bbb8c3253ba9",
+   "title": "Judo, a Maribor bronzo per Perrone",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG-20261026-WA0016-1024x1024.jpg",
+   "url": "https://trnews.it/2026/10/27/judo-a-maribor-bronzo-per-perrone",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-27T08:35:57+00:00"
+  },
+  {
+   "id": "b3f4096e8808",
+   "title": "Il giorno in cui un sogno montò in sella",
+   "summary": "Il giorno in cui un sogno montò in sella di Vincenzo Candido Renna Ci sono vite che aspettano il permesso di cominciare. E altre che, un mattino, sellano un cavallo e partono. La storia di Gregorio M…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/il-giorno-in-cui-un-sogno-monto-in-sella/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Salento",
+   "published_at": "2026-10-27T08:25:07+00:00"
+  },
   {
    "id": "fe8ab5d0da1f",
    "title": "Sfruttati e sorvegliati. Come lavorano i data worker della società che addestra l’IA",
@@ -110,6 +132,17 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-26T23:05:13+00:00"
+  },
+  {
+   "id": "dc92686e8cc3",
+   "title": "La verità sepolta. Il mediacidio nella Striscia di Gaza nel nuovo rapporto di Francesca Albanese",
+   "summary": "“A partire dal 7 ottobre 2023 Israele ha ucciso quasi trecento giornalisti e ne ha feriti più di quattrocento. Molti indossavano giubbotti e caschi con la scritta ‘PRESS’, trasportavano attrezzature…",
+   "image": "https://altreconomia.it/app/uploads/2026/10/IPA88988814-scaled.jpg",
+   "url": "https://altreconomia.it/la-verita-sepolta-il-mediacidio-nella-striscia-di-gaza-nel-nuovo-rapporto-di-francesca-albanese/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-26T23:01:30+00:00"
   },
   {
    "id": "6a17d172150c",
@@ -1958,52 +1991,19 @@
    "category": "Sport",
    "zone": "Salento",
    "published_at": "2026-10-24T09:12:09+00:00"
-  },
-  {
-   "id": "b25766f11378",
-   "title": "Lecce, piano da 730mila euro contro le barriere architettoniche: ecco dove si interverrà",
-   "summary": "LECCE – Un marciapiede impraticabile, una rampa che manca, un attraversamento difficile da raggiungere: ostacoli quotidiani che possono impedire anche il più semplice degli spostamenti. Parte da ques…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lecce-piano-da-730mila-euro-contro-le-barriere-architettoniche-ecco-dove-si-interverra/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T08:46:17+00:00"
-  },
-  {
-   "id": "a116a3f60cd9",
-   "title": "“Millesuoni” per Tuglie, serata di live e convivialità",
-   "summary": "TUGLIE (LECCE): Tuglie, a partire dalle 20,00, si prepara a vivere una serata speciale all’insegna dell’amore per la musica. L’associazione musicale “Millesuoni” apre infatti le sue porte a tutta la…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/millesuoni-per-tuglie-serata-di-live-e-convivialita/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T08:36:28+00:00"
-  },
-  {
-   "id": "2bc0aa67b714",
-   "title": "Lecce, raid vandalico al liceo Ciardo Pellegrino: vernice blu su colonne e portone",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/959d387c-e70d-4af1-989b-5dd19b80b281-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/24/lecce-raid-vandalico-al-liceo-ciardo-pellegrino-vernice-blu-su-colonne-e-portone",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-24T08:14:58+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-27T08:06:07.288840+00:00",
+   "last_ok": "2026-10-27T09:05:03.496602+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-27T08:06:07.288840+00:00",
+   "last_ok": "2026-10-27T09:05:03.496602+00:00",
    "error": null
   },
   {
@@ -2015,19 +2015,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-27T08:06:07.288840+00:00",
+   "last_ok": "2026-10-27T09:05:03.496602+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-27T08:06:07.288840+00:00",
+   "last_ok": "2026-10-27T09:05:03.496602+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-27T08:06:07.288840+00:00",
+   "last_ok": "2026-10-27T09:05:03.496602+00:00",
    "error": null
   }
  ]
