@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-10-27T17:08:09.913091+00:00",
+ "updated_at": "2026-10-27T18:02:19.817814+00:00",
  "items": [
+  {
+   "id": "f83b745ceee0",
+   "title": "Ciclabili a Lecce, il confronto passa da via Balduini: piazzetta riqualificata, ma restano i nodi dei percorsi",
+   "summary": "LECCE – Il risultato si vede in via Balduini, dove una piazzetta poco valorizzata ha guadagnato verde, illuminazione e una nuova pavimentazione. Ciononostante, a Palazzo Carafa i consiglieri di oppos…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/IMG_8573-300x197.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/10/ciclabili-a-lecce-il-confronto-passa-da-via-balduini-piazzetta-riqualificata-ma-restano-i-nodi-dei-percorsi/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T17:57:05+00:00"
+  },
+  {
+   "id": "e5335e5e251a",
+   "title": "Halloween al Polo Biblio-Museale di Galatina: arriva “Un palazzo da brividi”",
+   "summary": "GALATINA (Lecce) – Fantasmi, storie misteriose e creature da brivido sono pronti a invadere il Polo Biblio-Museale di Galatina per un pomeriggio speciale dedicato ad Halloween. Venerdì 30 ottobre, al…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/halloween-al-polo-biblio-museale-di-galatina-arriva-un-palazzo-da-brividi/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T17:26:17+00:00"
+  },
+  {
+   "id": "23310cd7d13b",
+   "title": "Il Salento conquista il Milanese: pizzica, pasticciotti e cuore giallorosso per la solidarietà",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/RADUNO-MILANO.jpg",
+   "url": "https://trnews.it/2026/10/27/il-salento-conquista-il-milanese-pizzica-pasticciotti-e-cuore-giallorosso-per-la-solidarieta",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Salento",
+   "published_at": "2026-10-27T17:21:04+00:00"
+  },
   {
    "id": "48db25a37126",
    "title": "Dodicenne aggredita coi cani, concluse le indagini sulle due sorelle minori coinvolte",
@@ -2096,13 +2129,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-27T17:08:09.913091+00:00",
+   "last_ok": "2026-10-27T18:02:19.817814+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-27T17:08:09.913091+00:00",
+   "last_ok": "2026-10-27T18:02:19.817814+00:00",
    "error": null
   },
   {
@@ -2114,19 +2147,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-27T17:08:09.913091+00:00",
+   "last_ok": "2026-10-27T18:02:19.817814+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-27T17:08:09.913091+00:00",
+   "last_ok": "2026-10-27T18:02:19.817814+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-27T17:08:09.913091+00:00",
+   "last_ok": "2026-10-27T18:02:19.817814+00:00",
    "error": null
   }
  ]
