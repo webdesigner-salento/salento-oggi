@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T22:58:46.753581+00:00",
+ "updated_at": "2026-10-28T23:25:30.311581+00:00",
  "items": [
   {
    "id": "c1e01ed7fbb1",
@@ -2387,30 +2387,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-26T05:22:28+00:00"
-  },
-  {
-   "id": "b0f9d179b845",
-   "title": "Valtur Brindisi torna alla vittoria e ferma la capolista Avellino",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-25-231632.png",
-   "url": "https://trnews.it/2026/10/25/valtur-brindisi-torna-alla-vittoria-e-ferma-la-capolista-avellino",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-10-25T23:01:45+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-28T22:58:46.753581+00:00",
+   "last_ok": "2026-10-28T23:25:30.311581+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-28T22:58:46.753581+00:00",
+   "last_ok": "2026-10-28T23:25:30.311581+00:00",
    "error": null
   },
   {
@@ -2422,19 +2411,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-28T22:58:46.753581+00:00",
+   "last_ok": "2026-10-28T23:25:30.311581+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-28T22:58:46.753581+00:00",
+   "last_ok": "2026-10-28T23:25:30.311581+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-28T22:58:46.753581+00:00",
+   "last_ok": "2026-10-28T23:25:30.311581+00:00",
    "error": null
   }
  ]
