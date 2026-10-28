@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T23:52:44.501439+00:00",
+ "updated_at": "2026-10-28T00:18:30.516233+00:00",
  "items": [
   {
    "id": "6bee53eb440a",
@@ -2189,30 +2189,19 @@
    "category": "Sport",
    "zone": "Salento",
    "published_at": "2026-10-25T05:00:00+00:00"
-  },
-  {
-   "id": "b3ee68716692",
-   "title": "Il Lecce vuole stupire, al Via del Mare c'è la vecchia signora. Le probabili formazioni",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Probabili-formazioni-TeleRama-3-1024x580.jpg",
-   "url": "https://trnews.it/2026/10/25/il-lecce-vuole-stupire-al-via-del-mare-ce-la-vecchia-signora-le-probabili-formazioni",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-25T00:10:44+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-27T23:52:44.501439+00:00",
+   "last_ok": "2026-10-28T00:18:30.516233+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-27T23:52:44.501439+00:00",
+   "last_ok": "2026-10-28T00:18:30.516233+00:00",
    "error": null
   },
   {
@@ -2224,19 +2213,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-27T23:52:44.501439+00:00",
+   "last_ok": "2026-10-28T00:18:30.516233+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-27T23:52:44.501439+00:00",
+   "last_ok": "2026-10-28T00:18:30.516233+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-27T23:52:44.501439+00:00",
+   "last_ok": "2026-10-28T00:18:30.516233+00:00",
    "error": null
   }
  ]
