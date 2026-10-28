@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-28T21:04:28.108995+00:00",
+ "updated_at": "2026-10-28T22:01:34.458798+00:00",
  "items": [
+  {
+   "id": "c1e01ed7fbb1",
+   "title": "Coppa Italia serie D, F. Andria-V. Francavilla: 0-1. Virtus agli ottavi",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/FB_IMG_1793223461746-829x1024.jpg",
+   "url": "https://trnews.it/2026/10/28/coppa-italia-serie-d-f-andria-v-francavilla-0-1-virtus-agli-ottavi",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-28T21:38:18+00:00"
+  },
   {
    "id": "bddb9479777e",
    "title": "Dopo la condanna, Prefettura sospende dall’incarico l’assessore Guido. La difesa: “Valutiamo ricorso al Tar”",
@@ -2387,41 +2398,19 @@
    "category": "Sport",
    "zone": "Brindisi",
    "published_at": "2026-10-25T23:01:45+00:00"
-  },
-  {
-   "id": "a7307d33b45c",
-   "title": "Di Francesco: \"Subiti i gol nel nostro momento migliore\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/di-francesco.png",
-   "url": "https://trnews.it/2026/10/25/di-francesco-subiti-i-gol-nel-nostro-momento-migliore",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-25T21:47:16+00:00"
-  },
-  {
-   "id": "c237e22a8781",
-   "title": "Lecce, Sticchi Damiani: \"Il primo tempo non mi ha entusiasmato, bene nella ripresa\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG-20261025-WA01481-1-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/25/lecce-sticchi-damiani-il-primo-tempo-non-mi-ha-entusiasmato-bene-nella-ripresa",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-25T21:43:40+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-28T21:04:28.108995+00:00",
+   "last_ok": "2026-10-28T22:01:34.458798+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-28T21:04:28.108995+00:00",
+   "last_ok": "2026-10-28T22:01:34.458798+00:00",
    "error": null
   },
   {
@@ -2433,19 +2422,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-28T21:04:28.108995+00:00",
+   "last_ok": "2026-10-28T22:01:34.458798+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
-   "ok": true,
+   "ok": false,
    "last_ok": "2026-10-28T21:04:28.108995+00:00",
-   "error": null
+   "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-28T21:04:28.108995+00:00",
+   "last_ok": "2026-10-28T22:01:34.458798+00:00",
    "error": null
   }
  ]
