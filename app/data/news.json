@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-10-28T09:12:31.145015+00:00",
+ "updated_at": "2026-10-28T10:10:38.582081+00:00",
  "items": [
+  {
+   "id": "7ab1ed589568",
+   "title": "Torna a Lecce la Giornata per la legalità e la trasparenza. Appuntamento il 29 ottobre con gli esperti della Riforma Foti",
+   "summary": "LECCE – Con un focus su “Le nuove frontiere della responsabilità amministrativa e contabile dopo la Legge di riforma 1/2026” torna, a Palazzo dei Celestini, la Giornata per la legalità e la trasparen…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/torna-a-lecce-la-giornata-per-la-legalita-e-la-trasparenza-appuntamento-il-29-ottobre-con-gli-esperti-della-riforma-foti/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-28T09:37:28+00:00"
+  },
+  {
+   "id": "2981e9562ffc",
+   "title": "Stabilimento balneare nel mirino dei finanzieri: oltre 50.000 euro di Tari evasa in 5 anni",
+   "summary": "CASALABATE (Lecce) – Oltre 50mila euro di Tari non pagata in cinque anni, dal 2021 al 2025, con ulteriori 14mila euro di sanzioni amministrative. È quanto accertato dalla Guardia di Finanza in uno st…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/stabilimento-balneare-nel-mirino-dei-finanzieri-oltre-50-000-euro-di-tari-evasa-in-5-anni/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-28T09:36:06+00:00"
+  },
+  {
+   "id": "f130884eab88",
+   "title": "Nazionale e Supercoppa femminile allo Iacovone: si può fare",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/Stadio_Iacovone_2026-1024x486.png",
+   "url": "https://trnews.it/2026/10/28/nazionale-e-supercoppa-femminile-allo-iacovone-si-puo-fare",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-10-28T09:00:56+00:00"
+  },
   {
    "id": "56dac74241c4",
    "title": "Nel “Giardino dell’Autunno” di via Milano, vincono la creatività e la gioia dei bambini",
@@ -11,6 +44,17 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-28T08:56:47+00:00"
+  },
+  {
+   "id": "13e5b58646e4",
+   "title": "Taranto, vietato fermarsi, adesso serve continuità",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/TARANTO-CALCIO-2026-26-PAGINA-FACEBOOK-1024x682.jpeg",
+   "url": "https://trnews.it/2026/10/28/taranto-vietato-fermarsi-adesso-serve-continuita",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-10-28T08:55:25+00:00"
   },
   {
    "id": "d444b7baef7d",
@@ -398,6 +442,17 @@
    "published_at": "2026-10-27T15:59:23+00:00"
   },
   {
+   "id": "612401400da0",
+   "title": "Porto Cesareo, 12enne aggredita con i rottweiler: chiuse le indagini su due sorelle",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/san-cesareo-dodicenne-azzannata-cane-1024x655.jpg",
+   "url": "https://trnews.it/2026/10/27/porto-cesareo-12enne-aggredita-con-i-rottweiler-chiuse-le-indagini-su-due-sorelle",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T15:40:06+00:00"
+  },
+  {
    "id": "2c177b5a53b1",
    "title": "Liste d’attesa, Forza Italia: “I pugliesi rinunciano alle cure, triste record nazionale”",
    "summary": "“Puglia record in Italia per rinunce alle cure a causa delle liste d’attesa: una gran bella medaglia al demerito per il centrosinistra che guida la Puglia da quasi 22 anni. Gli artefici dello smantel…",
@@ -407,6 +462,28 @@
    "category": "Politica",
    "zone": "Salento",
    "published_at": "2026-10-27T15:30:10+00:00"
+  },
+  {
+   "id": "c444e7270d71",
+   "title": "Mistero a Torre Rinalda, uomo di 78 anni trovato morto in un pozzo",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/88ec8ec7-80dd-46c8-9cfe-8cb966209222-e1793111905796-1024x770.jpg",
+   "url": "https://trnews.it/2026/10/27/mistero-a-torre-rinalda-rinvenuto-uomo-senza-vita-in-un-pozzo",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T15:20:06+00:00"
+  },
+  {
+   "id": "c20a0c2b1461",
+   "title": "Omicidio Margherito, chiesto l'ergastolo",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-96-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/27/omicidio-margherito-chiesto-lergastolo",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Brindisi",
+   "published_at": "2026-10-27T14:49:09+00:00"
   },
   {
    "id": "32727eeb0cd9",
@@ -431,17 +508,6 @@
    "published_at": "2026-10-27T14:47:38+00:00"
   },
   {
-   "id": "612401400da0",
-   "title": "Porto Cesareo, 12enne aggredita con i rottweiler: chiuse le indagini su due sorelle",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/san-cesareo-dodicenne-azzannata-cane-1024x655.jpg",
-   "url": "https://trnews.it/2026/10/27/porto-cesareo-12enne-aggredita-con-i-rottweiler-chiuse-le-indagini-su-due-sorelle",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T14:40:06+00:00"
-  },
-  {
    "id": "f45631f8cc6a",
    "title": "Calciatori del Brindisi e studenti a confronto",
    "summary": "",
@@ -451,17 +517,6 @@
    "category": "Altro",
    "zone": "Brindisi",
    "published_at": "2026-10-27T14:38:19+00:00"
-  },
-  {
-   "id": "c444e7270d71",
-   "title": "Mistero a Torre Rinalda, uomo di 78 anni trovato morto in un pozzo",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/88ec8ec7-80dd-46c8-9cfe-8cb966209222-e1793111905796-1024x770.jpg",
-   "url": "https://trnews.it/2026/10/27/mistero-a-torre-rinalda-rinvenuto-uomo-senza-vita-in-un-pozzo",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T14:20:06+00:00"
   },
   {
    "id": "e6110450c20f",
@@ -475,17 +530,6 @@
    "published_at": "2026-10-27T14:05:10+00:00"
   },
   {
-   "id": "c20a0c2b1461",
-   "title": "Omicidio Margherito, chiesto l'ergastolo",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-96-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/27/omicidio-margherito-chiesto-lergastolo",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Brindisi",
-   "published_at": "2026-10-27T13:49:09+00:00"
-  },
-  {
    "id": "6adae212dbaf",
    "title": "La delegazione europea fa tappa a Brindisi",
    "summary": "",
@@ -495,6 +539,17 @@
    "category": "Politica",
    "zone": "Brindisi",
    "published_at": "2026-10-27T13:44:15+00:00"
+  },
+  {
+   "id": "bba711ac5997",
+   "title": "Lecce, per Ilic intervento perfettamente riuscito. Domani la rifinitura e la partenza",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Ivan-Ilic-foto-Pierluigi-Pinto-1024x698.jpeg",
+   "url": "https://trnews.it/2026/10/27/lecce-per-ilic-intervento-perfettamente-riuscito",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T13:10:52+00:00"
   },
   {
    "id": "3f5515340b7e",
@@ -541,15 +596,15 @@
    "published_at": "2026-10-27T12:27:37+00:00"
   },
   {
-   "id": "bba711ac5997",
-   "title": "Lecce, per Ilic intervento perfettamente riuscito. Domani la rifinitura e la partenza",
+   "id": "7f0203885778",
+   "title": "Tennis, il Ct Maglie cade in casa di Pistoia",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Ivan-Ilic-foto-Pierluigi-Pinto-1024x698.jpeg",
-   "url": "https://trnews.it/2026/10/27/lecce-per-ilic-intervento-perfettamente-riuscito",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/5dc09226-235e-403d-95e6-482e9f5ffe3d.jpg",
+   "url": "https://trnews.it/2026/10/27/tennis-il-ct-maglie-cade-in-casa-di-pistoia",
    "source": "TeleRama News",
    "category": "Sport",
    "zone": "Lecce",
-   "published_at": "2026-10-27T12:10:52+00:00"
+   "published_at": "2026-10-27T12:25:02+00:00"
   },
   {
    "id": "261d5b1853fb",
@@ -583,17 +638,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-27T11:58:05+00:00"
-  },
-  {
-   "id": "7f0203885778",
-   "title": "Tennis, il Ct Maglie cade in casa di Pistoia",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/5dc09226-235e-403d-95e6-482e9f5ffe3d.jpg",
-   "url": "https://trnews.it/2026/10/27/tennis-il-ct-maglie-cade-in-casa-di-pistoia",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T11:25:02+00:00"
   },
   {
    "id": "698cd11460c8",
@@ -2057,41 +2101,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-25T10:32:25+00:00"
-  },
-  {
-   "id": "b59dc0403020",
-   "title": "Piano delle Coste di Ugento, il Tar dà ragione alle imprese balneari: “Il Piano non esiste”",
-   "summary": "UGENTO – Il Piano Comunale delle Coste di Ugento finisce al centro di una serie di pronunce del Tribunale amministrativo regionale di Lecce che segnano un passaggio importante per il futuro delle con…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/piano-delle-coste-di-ugento-il-tar-da-ragione-alle-imprese-balneari-il-piano-non-esiste/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-25T09:47:05+00:00"
-  },
-  {
-   "id": "85a6cdc9c43c",
-   "title": "Eccellenza: Taranto - Trani, punti pesanti in palio",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2024/05/Taranto-foto-W.-Nobile-2-1024x684.jpg",
-   "url": "https://trnews.it/2026/10/25/eccellenza-taranto-trani-punti-pesanti-in-palio",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-10-25T09:30:27+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-28T09:12:31.145015+00:00",
+   "last_ok": "2026-10-28T10:10:38.582081+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-28T09:12:31.145015+00:00",
+   "last_ok": "2026-10-28T10:10:38.582081+00:00",
    "error": null
   },
   {
@@ -2103,19 +2125,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-28T09:12:31.145015+00:00",
+   "last_ok": "2026-10-28T10:10:38.582081+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-28T09:12:31.145015+00:00",
+   "last_ok": "2026-10-28T10:10:38.582081+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-28T09:12:31.145015+00:00",
+   "last_ok": "2026-10-28T10:10:38.582081+00:00",
    "error": null
   }
  ]
