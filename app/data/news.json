@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T20:05:13.003886+00:00",
+ "updated_at": "2026-10-28T21:04:28.108995+00:00",
  "items": [
   {
    "id": "bddb9479777e",
@@ -2409,52 +2409,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-25T21:43:40+00:00"
-  },
-  {
-   "id": "a9a04de33808",
-   "title": "Lecce – Juventus, Saverio Sticchi Damiani: nella ripresa il cambio di modulo ha dato maggiore intensità",
-   "summary": "Il presidente del Lecce Saverio Sticchi Damiani ha commentato la sconfitta contro la Juventus.",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lecce-juventus-saverio-sticchi-damiani-nella-ripresa-il-cambio-di-modulo-ha-dato-maggiore-intensita/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-25T20:35:40+00:00"
-  },
-  {
-   "id": "a186c7de185a",
-   "title": "Di Francesco: peccato non avere trovato la rete",
-   "summary": "Vede il bicchiere mezzo pieno il tecnico del Lecce, Eusebio Di Francesco. “Ci avevamo provato, ma loro sono stati bravi più di noi nell’interpretarla – dichiara il tecnico negli spogliatoi -. Abbiamo…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/di-francesco-peccato-non-avere-trovato-la-rete/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-25T20:25:49+00:00"
-  },
-  {
-   "id": "29182a0bdb5b",
-   "title": "Blitz della Juve nel Salento: Lecce sconfitto 2-0",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/840f75b9-f2cb-415b-b420-fa185621c010-1024x682.jpg",
-   "url": "https://trnews.it/2026/10/25/blitz-della-juve-nel-salento-lecce-sconfitto-2-0",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-25T20:16:55+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-28T20:05:13.003886+00:00",
+   "last_ok": "2026-10-28T21:04:28.108995+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-28T20:05:13.003886+00:00",
+   "last_ok": "2026-10-28T21:04:28.108995+00:00",
    "error": null
   },
   {
@@ -2466,19 +2433,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-28T20:05:13.003886+00:00",
+   "last_ok": "2026-10-28T21:04:28.108995+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-28T20:05:13.003886+00:00",
+   "last_ok": "2026-10-28T21:04:28.108995+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-28T20:05:13.003886+00:00",
+   "last_ok": "2026-10-28T21:04:28.108995+00:00",
    "error": null
   }
  ]
