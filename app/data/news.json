@@ -1,6 +1,61 @@
 {
- "updated_at": "2026-10-28T07:27:52.504725+00:00",
+ "updated_at": "2026-10-28T08:16:59.700090+00:00",
  "items": [
+  {
+   "id": "504ae750bc33",
+   "title": "Gli intermediari del fotovoltaico: investimenti da mezzo miliardo intestati a un ex allevatore",
+   "summary": "In Sicilia, una multinazionale vuole costruire quattro parchi solari nella valle del Belice. A volerli sono anche i proprietari dei terreni. Chi ha fatto incontrare le due parti è un uomo senza parti…",
+   "image": null,
+   "url": "https://irpimedia.irpi.eu/sicilia-peridot-parchi-solari/?utm_source=rss&utm_medium=rss&utm_campaign=sicilia-peridot-parchi-solari",
+   "source": "IrpiMedia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-28T08:00:00+00:00"
+  },
+  {
+   "id": "f4f7efee3573",
+   "title": "Notte di fuoco nel Salento, alle fiamme una Fiat Panda. Il rogo minaccia anche un’abitazione",
+   "summary": "MELENDUGNO (Lecce) – Una Fiat Panda è stata completamente distrutta dalle fiamme nella notte a Melendugno. L’incendio ha danneggiato anche un’altra auto parcheggiata nelle vicinanze e minacciato un’a…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/notte-di-fuoco-nel-salento-alle-fiamme-una-fiat-panda-il-rogo-minaccia-anche-unabitazione/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-28T07:56:24+00:00"
+  },
+  {
+   "id": "bd3a95f23edb",
+   "title": "Si presenta in casa degli sposi con un regalo ma viene aggredita e finisce in ospedale, sposo condannato",
+   "summary": "RACALE (Lecce) – Minacciata di morte e aggredita fisicamente dal marito della sua amica non appena arrivata in casa della donna per portare una busta con un regalo in denaro il giorno dopo il loro ma…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/racalesi-presenta-in-casa-degli-sposi-con-un-regalo-ma-viene-aggredita-e-finisce-in-ospedale-sposo-condannato/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-28T07:56:17+00:00"
+  },
+  {
+   "id": "7d89712512d8",
+   "title": "Dopo interrogatorio preventivo finisce in carcere il ladro seriale delle chiese",
+   "summary": "GAGLIANO DEL CAPO (Lecce) – E’ finito in carcere D.R., un 40enne di Gagliano del Capo, per una serie di furti consumati negli ultimi mesi. L’ordinanza è stata emessa dalla giudice Anna Paola Capano s…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/dopo-interrogatorio-preventivo-finisce-in-carcere-il-ladro-seriale-delle-chiese/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-28T07:55:40+00:00"
+  },
+  {
+   "id": "0a07756a96ec",
+   "title": "Giustizia e minori: più carceri non può essere la soluzione",
+   "summary": "Di fronte alle difficoltà del sistema penitenziario minorile, Nordio prospetta alcune soluzioni che sollevano questioni giuridiche e organizzative: in particolare, riguardo alle garanzie da rispettar…",
+   "image": null,
+   "url": "https://www.valigiablu.it/minori-carceri-adulti-piano-nordio/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-28T07:33:42+00:00"
+  },
   {
    "id": "5d62e79724a7",
    "title": "Scontri Milano, Fidanza a Filorosso (Rai 3): “Weekend tranquillo grazie a polizia e decreto sicurezza”",
@@ -79,6 +134,17 @@
    "published_at": "2026-10-28T05:02:01+00:00"
   },
   {
+   "id": "fb1f5c52d1f5",
+   "title": "“Ciuccio che sparla di tutti”, offese social a un avvocato: condanna confermata e sentenza parzialmente riformata",
+   "summary": "RACALE (Lecce) – Una vicenda giudiziaria con un avvocato coinvolto. L’intera inchiesta trae origine da un post su Facebook di un imprenditore di Racale: si parlava di questioni amministrative relativ…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/ciuccio-che-sparla-di-tutti-offese-social-a-un-avvocato-condanna-confermata-e-sentenza-parzialmente-riformata/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-27T22:59:31+00:00"
+  },
+  {
    "id": "6bee53eb440a",
    "title": "Coppa Italia: il Potenza elimina il Bari",
    "summary": "",
@@ -145,17 +211,6 @@
    "published_at": "2026-10-27T19:29:32+00:00"
   },
   {
-   "id": "bd3a95f23edb",
-   "title": "Si presenta in casa degli sposi con un regalo ma viene aggredita e finisce in ospedale, sposo condannato",
-   "summary": "RACALE (Lecce) – Minacciata di morte e aggredita fisicamente dal marito della sua amica non appena arrivata in casa della donna per portare una busta con un regalo in denaro il giorno dopo il loro ma…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/racalesi-presenta-in-casa-degli-sposi-con-un-regalo-ma-viene-aggredita-e-finisce-in-ospedale-sposo-condannato/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T19:22:17+00:00"
-  },
-  {
    "id": "37451f091c2d",
    "title": "Violenze e maltrattamenti sulla moglie dal 2006: condannato a 4 anni per un artigiano 49enne",
    "summary": "ALLISTE (Lecce) – Avrebbe reso il matrimonio un inferno fin dal 2006, anno in cui la coppia si è sposata. Con condotte violente nei confronti della moglie spesso spinto da una gelosia morbosa. A.C.,…",
@@ -187,17 +242,6 @@
    "category": "Politica",
    "zone": "Salento",
    "published_at": "2026-10-27T18:26:44+00:00"
-  },
-  {
-   "id": "fb1f5c52d1f5",
-   "title": "“Ciuccio che sparla di tutti”, offese social a un avvocato: condanna confermata e sentenza parzialmente riformata",
-   "summary": "RACALE (Lecce) – Una vicenda giudiziaria con un avvocato coinvolto. L’intera inchiesta trae origine da un post su Facebook di un imprenditore di Racale: si parlava di questioni amministrative relativ…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/ciuccio-che-sparla-di-tutti-offese-social-a-un-avvocato-condanna-confermata-e-sentenza-parzialmente-riformata/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T18:19:31+00:00"
   },
   {
    "id": "5493d268c991",
@@ -2013,118 +2057,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-25T08:25:13+00:00"
-  },
-  {
-   "id": "fb4965a06405",
-   "title": "Alla scoperta del Salento: la Grotta Romanelli",
-   "summary": "Dopo aver visitato la splendida grotta “Zinzulusa”, è opportuno descrivere anche l’altra grotta situata nel tratto di costa che va da Santa Cesarea Terme sino a Castro e che ha un grande rilievo dal…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/alla-scoperta-del-salento-la-grotta-romanelli/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-10-25T08:11:40+00:00"
-  },
-  {
-   "id": "020496e8dcf5",
-   "title": "Alla scoperta del Salento: l’obelisco di Lecce, che dal 1822 accoglie chi arriva e chi torna",
-   "summary": "Quando finalmente la città torna padrona di sé stessa, in quell’orario magico che va dalla mezzanotte alle prime luci del mattino, posizionandosi all’ingresso di via Taranto e volgendo lo sguardo ver…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2018/05/obelisco-351x420.jpg",
-   "url": "https://www.corrieresalentino.it/2026/10/alla-scoperta-del-salento-lobelisco-di-lecce-che-dal-1822-accoglie-chi-arriva-e-chi-torna/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-10-25T08:09:10+00:00"
-  },
-  {
-   "id": "b0da680a2696",
-   "title": "Lecce, le strisce blu possono aiutare il commercio. Ma la mobilità non si migliora soltanto facendo pagare i parcheggi",
-   "summary": "I numerosi sit-in nei quartieri di Lecce dimostrano quanto il tema delle strisce blu sia sentito dai cittadini. Il rischio, però, è trasformare il confronto nell’ennesimo scontro politico, anziché in…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lecce-le-strisce-blu-possono-aiutare-il-commercio-ma-la-mobilita-non-si-migliora-soltanto-facendo-pagare-i-parcheggi/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-25T08:05:25+00:00"
-  },
-  {
-   "id": "8023ecc22a25",
-   "title": "Figli del Salento: Tito Schipa, una carriera costellata da successi ineguagliati",
-   "summary": "Era il 1888 quando Raffaele Attilio Amedeo Schipa, quarto figlio di una modesta famiglia leccese, vide la luce nel quartiere delle Scalze. L’anno volgeva al termine, gli uffici anagrafe non erano fis…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/figli-del-salento-tito-schipa/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Salento",
-   "published_at": "2026-10-25T08:04:15+00:00"
-  },
-  {
-   "id": "dff5e66637f1",
-   "title": "Riso dal Giappone, tonno rosso e salmone selvaggio. Il nuovo sushi tradizionale di Classé",
-   "summary": "Lecce – Identità, equilibrio e una filosofia che punta all’essenziale. Classé, a Lecce, rinnova la sua proposta di sushi con un ritorno alle origini: materie prime d’eccellenza, tecnica giapponese e…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/sushi-classe-7-630x420.jpg",
-   "url": "https://www.corrieresalentino.it/2026/10/riso-dal-giappone-tonno-rosso-e-salmone-selvaggio-il-nuovo-sushi-tradizionale-di-classe/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-25T07:57:42+00:00"
-  },
-  {
-   "id": "8880cd38437e",
-   "title": "Eccellenze gastronomiche salentine: Vino Primitivo, il gigante caldo e avvolgente",
-   "summary": "Un vino rosso monumentale, dal colore rubino profondo con sfumature granata. Al naso regala profumi intensi di prugna matura, ciliegia sotto spirito, fichi secchi, liquirizia e spezie calde. Al palat…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/eccellenze-gastronomiche-salentine-vino-primitivo-il-gigante-caldo-e-avvolgente/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-25T07:45:00+00:00"
-  },
-  {
-   "id": "afbdff6eae2c",
-   "title": "La fauna del Salento: Tarantola, il ragno che inventò il ballo",
-   "summary": "Conosciuta anche come Ragno Lupo mediterraneo, la nostra tarantola autoctona non ha nulla a che vedere con i giganti pelosi sudamericani che si vedono nei film horror. Sviluppa una dimensione di circ…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/la-fauna-del-salento-tarantola-il-ragno-che-invento-il-ballo/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-25T07:42:43+00:00"
-  },
-  {
-   "id": "a788b17d4e09",
-   "title": "Manifestazioni, Mario Capanna a “L’Elefante” (Rai 3): “Non giustifico le violenze, ma bisogna capire le ragioni di una generazione senza futuro”",
-   "summary": "«Confesso una mia inclinazione: tengo a difendere i giovani anche quando hanno torto, cercando però di capire e spiegare le ragioni che li spingono ad agire». Lo ha detto lo scrittore e attivista Mar…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/vetrine-rotte-manifestazione-17-ottobre-3-300x225.jpg",
-   "url": "https://www.corrieresalentino.it/2026/10/manifestazioni-mario-capanna-a-lelefante-rai-3-non-giustifico-le-violenze-ma-bisogna-capire-le-ragioni-di-una-generazione-senza-futuro/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-10-25T07:39:34+00:00"
-  },
-  {
-   "id": "1743f61fb16e",
-   "title": "Lavori sulle linee elettriche, chiusure e divieti intorno a via XX Settembre",
-   "summary": "NARDO‘ (Lecce) – E-Distribuzione, per il tramite della SO.I.GE.A s.r.l., dovrà effettuare nei prossimi giorni un importante intervento per la realizzazione di alcune linee elettriche nella zona di vi…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lavori-sulle-linee-elettriche-chiusure-e-divieti-intorno-a-via-xx-settembre/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-25T07:28:50+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-28T07:27:52.504725+00:00",
+   "last_ok": "2026-10-28T08:16:59.700090+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-28T07:27:52.504725+00:00",
+   "last_ok": "2026-10-28T08:16:59.700090+00:00",
    "error": null
   },
   {
@@ -2136,19 +2081,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-28T07:27:52.504725+00:00",
+   "last_ok": "2026-10-28T08:16:59.700090+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-28T07:27:52.504725+00:00",
+   "last_ok": "2026-10-28T08:16:59.700090+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-28T07:27:52.504725+00:00",
+   "last_ok": "2026-10-28T08:16:59.700090+00:00",
    "error": null
   }
  ]
