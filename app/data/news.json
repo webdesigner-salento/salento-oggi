@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T04:07:40.414634+00:00",
+ "updated_at": "2026-10-28T05:07:03.687274+00:00",
  "items": [
   {
    "id": "6bee53eb440a",
@@ -2178,30 +2178,19 @@
    "category": "Sport",
    "zone": "Salento",
    "published_at": "2026-10-25T05:20:59+00:00"
-  },
-  {
-   "id": "f5a81d2dc7df",
-   "title": "Eccellenza, programma della 10ª giornata e classifica",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/Eccellenza-750x500-1.jpg",
-   "url": "https://trnews.it/2026/10/25/eccellenza-programma-della-10a-giornata-e-classifica",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-10-25T05:00:00+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-28T04:07:40.414634+00:00",
+   "last_ok": "2026-10-28T05:07:03.687274+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-28T04:07:40.414634+00:00",
+   "last_ok": "2026-10-28T05:07:03.687274+00:00",
    "error": null
   },
   {
@@ -2213,19 +2202,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-28T04:07:40.414634+00:00",
+   "last_ok": "2026-10-28T05:07:03.687274+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-28T04:07:40.414634+00:00",
+   "last_ok": "2026-10-28T05:07:03.687274+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-28T04:07:40.414634+00:00",
+   "last_ok": "2026-10-28T05:07:03.687274+00:00",
    "error": null
   }
  ]
