@@ -1,6 +1,83 @@
 {
- "updated_at": "2026-10-28T15:14:38.541811+00:00",
+ "updated_at": "2026-10-28T16:13:20.396397+00:00",
  "items": [
+  {
+   "id": "6c6f1f5703b6",
+   "title": "Venerdì 30 ottobre la rassegna Teatri a Sud si chiude con “Beyond the desert”, performance finale della residenza artistica con Aykart Tunisi",
+   "summary": "LECCE – Giunge alla sua conclusione Teatri a Sud 2026, la rassegna di Astràgali Teatro che per due mesi, in tredici appuntamenti, ha messo in dialogo visioni, progetti, buone pratiche e nuove sperime…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/venerdi-30-ottobre-la-rassegna-teatri-a-sud-si-chiude-con-beyond-the-desert-performance-finale-della-residenza-artistica-con-aykart-tunisi/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-28T16:10:29+00:00"
+  },
+  {
+   "id": "ed3e835acf98",
+   "title": "Giallo a Torre Rinalda, si scava nella vita del 78enne trovato morto, nelle prossime ore l’autopsia",
+   "summary": "Torre Rinalda (Lecce) – Ormai vi sarebbero pochi dubbi sul fatto che sia stato colpito con violenza e poi buttato nel pozzo ad una profondità di 4 metri. Ed è lì che il corpo di Antimo Mazzotta, 78 a…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/sopralluogo-torre-rinalda-4-782x420.jpg",
+   "url": "https://www.corrieresalentino.it/2026/10/giallo-a-torre-rinalda-si-scava-nella-vita-del-78enne-trovato-morto-nelle-prossime-ore-lautopsia/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-28T16:01:27+00:00"
+  },
+  {
+   "id": "2a5330e3cf74",
+   "title": "Sospensione dell’assessore Guido, il sindaco di Lecce, Adriana Poli Bortone, assume le deleghe e lo ringrazia per il lavoro svolto",
+   "summary": "LECCE – “Prendo atto del provvedimento della Prefettura di Lecce che accerta la sospensione di Andrea Guido dalla carica di assessore. Come avevo già dichiarato, darò puntuale seguito alle determinaz…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/sospensione-dellassessore-guido-il-sindaco-di-lecce-adriana-poli-bortone-assume-le-deleghe-e-lo-ringrazia-per-il-lavoro-svolto/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-28T16:00:01+00:00"
+  },
+  {
+   "id": "90bf11a5738d",
+   "title": "Il talento del pianista Yifan Wu al SuperLocri∅ Festival",
+   "summary": "LECCE – Il SuperLocri∅ Festival – La musica in un altro modo porta a Lecce Yifan Wu, pianista cinese riconosciuto tra i più interessanti talenti mondiali, vincitore del Concorso Pianistico Internazio…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/il-talento-del-pianista-yifan-wu-al-superlocri%e2%88%85-festival-2/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-28T15:56:58+00:00"
+  },
+  {
+   "id": "92e6d35921d5",
+   "title": "Guido, scatta la sospensione. Il sindaco assume le sue deleghe",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2024/09/andrea-guido.jpg",
+   "url": "https://trnews.it/2026/10/28/guido-scatta-la-sospensione-il-sindaco-assume-le-sue-deleghe",
+   "source": "TeleRama News",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-28T15:38:44+00:00"
+  },
+  {
+   "id": "eb8972334336",
+   "title": "\"Olio solidale jonico\": l'inclusione alla SVAM",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-100.jpg",
+   "url": "https://trnews.it/2026/10/28/olio-solidale-jonico-linclusione-alla-svam",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Taranto",
+   "published_at": "2026-10-28T15:37:19+00:00"
+  },
+  {
+   "id": "e9382e818cb4",
+   "title": "Omicidio in Sardegna, ucciso 42enne pugliese: fermato trentenne",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/863588426_1608067923609480_8454475416173448803_n-1024x577.jpg",
+   "url": "https://trnews.it/2026/10/28/omicidio-in-sardegna-ucciso-42enne-pugliese-fermato-trentenne",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-10-28T15:23:20+00:00"
+  },
   {
    "id": "fea8cf41ab59",
    "title": "Emissioni zero: l’Europa promette ma poi non mantiene",
@@ -13,6 +90,17 @@
    "published_at": "2026-10-28T15:08:43+00:00"
   },
   {
+   "id": "0dac8679fd49",
+   "title": "Sequestrati beni per 600mila euro ad esponente della SCU",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-99-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/28/sequestrati-beni-per-600mila-euro-ad-esponente-della-scu",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Brindisi",
+   "published_at": "2026-10-28T15:02:04+00:00"
+  },
+  {
    "id": "dbcfdcc933ad",
    "title": "Coppa Italia Primavera: Lecce, 5 gol al Pisa con tripletta di Vitale",
    "summary": "",
@@ -22,6 +110,17 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-28T14:45:00+00:00"
+  },
+  {
+   "id": "ee7e6dda99aa",
+   "title": "Lecce, Di Francesco preoccupato: “Tante le situazioni da valutare”. Domani turno infrasettimanale a Frosinone",
+   "summary": "LECCE – Il Lecce si prepara alla trasferta contro il Frosinone con diversi dubbi di formazione. Alla squalifica di Gaspar si aggiungono i problemi fisici di Tiago Gabriel, Ndaba, N’Dri e Fatah, oltre…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lecce-di-francesco-preoccupato-tante-le-situazioni-da-valutare-domani-turno-infrasettimanale-a-frosinone/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-28T14:41:24+00:00"
   },
   {
    "id": "df56b0204e18",
@@ -2316,13 +2415,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-28T15:14:38.541811+00:00",
+   "last_ok": "2026-10-28T16:13:20.396397+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-28T15:14:38.541811+00:00",
+   "last_ok": "2026-10-28T16:13:20.396397+00:00",
    "error": null
   },
   {
@@ -2334,19 +2433,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-28T15:14:38.541811+00:00",
+   "last_ok": "2026-10-28T16:13:20.396397+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-28T15:14:38.541811+00:00",
+   "last_ok": "2026-10-28T16:13:20.396397+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-28T15:14:38.541811+00:00",
+   "last_ok": "2026-10-28T16:13:20.396397+00:00",
    "error": null
   }
  ]
