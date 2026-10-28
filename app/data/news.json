@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-28T23:25:30.311581+00:00",
+ "updated_at": "2026-10-28T23:56:28.866283+00:00",
  "items": [
+  {
+   "id": "943365265407",
+   "title": "Serie A, tocca al Lecce: i giallorossi a Frosinone. Tanti assenti per Di Francesco",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/prob-formaz-FROS-LEC-1024x581.jpg",
+   "url": "https://trnews.it/2026/10/29/serie-a-tocca-al-lecce-i-giallorossi-a-frosinone-tanti-assenti-per-di-francesco",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-28T23:24:25+00:00"
+  },
   {
    "id": "c1e01ed7fbb1",
    "title": "Coppa Italia serie D, F. Andria-V. Francavilla: 0-1. Virtus agli ottavi",
@@ -2393,13 +2404,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-28T23:25:30.311581+00:00",
+   "last_ok": "2026-10-28T23:56:28.866283+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-28T23:25:30.311581+00:00",
+   "last_ok": "2026-10-28T23:56:28.866283+00:00",
    "error": null
   },
   {
@@ -2411,19 +2422,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-28T23:25:30.311581+00:00",
+   "last_ok": "2026-10-28T23:56:28.866283+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-28T23:25:30.311581+00:00",
+   "last_ok": "2026-10-28T23:56:28.866283+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-28T23:25:30.311581+00:00",
+   "last_ok": "2026-10-28T23:56:28.866283+00:00",
    "error": null
   }
  ]
