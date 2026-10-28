@@ -1,6 +1,83 @@
 {
- "updated_at": "2026-10-28T10:10:38.582081+00:00",
+ "updated_at": "2026-10-28T11:06:09.892795+00:00",
  "items": [
+  {
+   "id": "1881cc391d1f",
+   "title": "SGM, comportamenti alla guida: ferma condanna dell’azienda",
+   "summary": "In merito agli episodi segnalati nei giorni scorsi, che vedrebbero alcuni conducenti utilizzare il cellulare e fumare durante la guida degli autobus, SGM ribadisce con fermezza la propria posizione d…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/sgm-comportamenti-alla-guida-ferma-condanna-dellazienda/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-28T11:03:35+00:00"
+  },
+  {
+   "id": "451aa49062fe",
+   "title": "La Notte della Taranta cerca nuovi talenti: al via le selezioni per strumentisti under 35 dell’Orchestra Popolare",
+   "summary": "SALENTO – La Fondazione “La Notte della Taranta” apre le porte ai giovani musicisti e lancia una manifestazione di interesse rivolta a strumentisti under 35 per ampliare e integrare la sezione strume…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/la-notte-della-taranta-cerca-nuovi-talenti-al-via-le-selezioni-per-strumentisti-under-35-dellorchestra-popolare/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Salento",
+   "published_at": "2026-10-28T11:00:15+00:00"
+  },
+  {
+   "id": "e44d2f0c5c18",
+   "title": "Un 59enne morì a distanza di giorni dalla sostituzione di una valvola aortica, archiviata inchiesta per medici e infermieri",
+   "summary": "MARTANO (Lecce) – Non ci fu alcuna responsabilità sulla morte di Fernando Caracuta, un termoidraulico di 59 anni originario di Martano, a distanza di due settimane da un’operazione per la sostituzion…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/un-59enne-mori-a-distanza-di-giorni-dalla-sostituzione-di-una-valvola-aortica-archiviata-inchiesta-per-medici-e-infermieri/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-28T10:41:42+00:00"
+  },
+  {
+   "id": "875108a2f5e8",
+   "title": "Oleoturismo, la Puglia vola al secondo posto in Italia: il 28% dei turisti sceglie gli ulivi salentini e pugliesi",
+   "summary": "PUGLIA – La Puglia si conferma una delle mete regina del turismo legato all’oro verde. Con il 28% delle preferenze espresse dai turisti italiani, la regione conquista il secondo posto nazionale subit…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/oleoturismo-la-puglia-vola-al-secondo-posto-in-italia-il-28-dei-turisti-sceglie-gli-ulivi-salentini-e-pugliesi/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-10-28T10:31:50+00:00"
+  },
+  {
+   "id": "f4f7efee3573",
+   "title": "Notte di fuoco nel Salento, alle fiamme una Fiat Panda. Il rogo minaccia anche un’abitazione",
+   "summary": "MELENDUGNO (Lecce) – Una Fiat Panda è stata completamente distrutta dalle fiamme nella notte a Melendugno. L’incendio ha danneggiato anche un’altra auto parcheggiata nelle vicinanze e minacciato un’a…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/notte-di-fuoco-nel-salento-alle-fiamme-una-fiat-panda-il-rogo-minaccia-anche-unabitazione/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-28T09:56:24+00:00"
+  },
+  {
+   "id": "bd3a95f23edb",
+   "title": "Si presenta in casa degli sposi con un regalo ma viene aggredita e finisce in ospedale, sposo condannato",
+   "summary": "RACALE (Lecce) – Minacciata di morte e aggredita fisicamente dal marito della sua amica non appena arrivata in casa della donna per portare una busta con un regalo in denaro il giorno dopo il loro ma…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/racalesi-presenta-in-casa-degli-sposi-con-un-regalo-ma-viene-aggredita-e-finisce-in-ospedale-sposo-condannato/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-28T09:56:17+00:00"
+  },
+  {
+   "id": "7d89712512d8",
+   "title": "Dopo interrogatorio preventivo finisce in carcere il ladro seriale delle chiese",
+   "summary": "GAGLIANO DEL CAPO (Lecce) – E’ finito in carcere D.R., un 40enne di Gagliano del Capo, per una serie di furti consumati negli ultimi mesi. L’ordinanza è stata emessa dalla giudice Anna Paola Capano s…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/dopo-interrogatorio-preventivo-finisce-in-carcere-il-ladro-seriale-delle-chiese/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-28T09:55:40+00:00"
+  },
   {
    "id": "7ab1ed589568",
    "title": "Torna a Lecce la Giornata per la legalità e la trasparenza. Appuntamento il 29 ottobre con gli esperti della Riforma Foti",
@@ -110,39 +187,6 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-28T08:00:00+00:00"
-  },
-  {
-   "id": "f4f7efee3573",
-   "title": "Notte di fuoco nel Salento, alle fiamme una Fiat Panda. Il rogo minaccia anche un’abitazione",
-   "summary": "MELENDUGNO (Lecce) – Una Fiat Panda è stata completamente distrutta dalle fiamme nella notte a Melendugno. L’incendio ha danneggiato anche un’altra auto parcheggiata nelle vicinanze e minacciato un’a…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/notte-di-fuoco-nel-salento-alle-fiamme-una-fiat-panda-il-rogo-minaccia-anche-unabitazione/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T07:56:24+00:00"
-  },
-  {
-   "id": "bd3a95f23edb",
-   "title": "Si presenta in casa degli sposi con un regalo ma viene aggredita e finisce in ospedale, sposo condannato",
-   "summary": "RACALE (Lecce) – Minacciata di morte e aggredita fisicamente dal marito della sua amica non appena arrivata in casa della donna per portare una busta con un regalo in denaro il giorno dopo il loro ma…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/racalesi-presenta-in-casa-degli-sposi-con-un-regalo-ma-viene-aggredita-e-finisce-in-ospedale-sposo-condannato/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T07:56:17+00:00"
-  },
-  {
-   "id": "7d89712512d8",
-   "title": "Dopo interrogatorio preventivo finisce in carcere il ladro seriale delle chiese",
-   "summary": "GAGLIANO DEL CAPO (Lecce) – E’ finito in carcere D.R., un 40enne di Gagliano del Capo, per una serie di furti consumati negli ultimi mesi. L’ordinanza è stata emessa dalla giudice Anna Paola Capano s…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/dopo-interrogatorio-preventivo-finisce-in-carcere-il-ladro-seriale-delle-chiese/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T07:55:40+00:00"
   },
   {
    "id": "0a07756a96ec",
@@ -442,6 +486,17 @@
    "published_at": "2026-10-27T15:59:23+00:00"
   },
   {
+   "id": "32727eeb0cd9",
+   "title": "Taranto, i Giochi del Mediterraneo visti dall'obiettivo dei fotografi",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-98-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/27/taranto-i-giochi-del-mediterraneo-visti-dallobiettivo-dei-fotografi",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Taranto",
+   "published_at": "2026-10-27T15:48:40+00:00"
+  },
+  {
    "id": "612401400da0",
    "title": "Porto Cesareo, 12enne aggredita con i rottweiler: chiuse le indagini su due sorelle",
    "summary": "",
@@ -484,17 +539,6 @@
    "category": "Cronaca",
    "zone": "Brindisi",
    "published_at": "2026-10-27T14:49:09+00:00"
-  },
-  {
-   "id": "32727eeb0cd9",
-   "title": "Taranto, i Giochi del Mediterraneo visti dall'obiettivo dei fotografi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-98-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/27/taranto-i-giochi-del-mediterraneo-visti-dallobiettivo-dei-fotografi",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Taranto",
-   "published_at": "2026-10-27T14:48:40+00:00"
   },
   {
    "id": "957ba890d0ca",
@@ -2079,41 +2123,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-25T11:20:59+00:00"
-  },
-  {
-   "id": "21f796ed0b74",
-   "title": "Giro di spaccio nel centro di Lecce, emesso il verdetto: tre patteggiamenti",
-   "summary": "LECCE – Si chiude con tre patteggiamenti a 1 anno e 6 mesi di reclusione la vicenda giudiziaria su un presunto giro di spaccio nel centro strico di Lecce. La giudice Tea Verderosa, subito dopo la sen…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lecce-giro-di-spaccio-nel-centro-di-lecce-emesso-il-verdetto-tre-patteggiamenti/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-25T10:52:05+00:00"
-  },
-  {
-   "id": "96bf0366c291",
-   "title": "Un 50enne trovato morto in casa: “intossicazione da cocaina”, ma il presunto pusher viene assolto",
-   "summary": "MONTERONI (Lecce) – Venne trovato morto in casa della madre con la quale conviveva dopo aver assunto cocaina il 4 dicembre 2020. Per la morte di un 50enne di Monteroni, F.S., un 55enne compaesano, è…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/un-50enne-trovato-morto-in-casa-intossicazione-da-cocaina-ma-il-presunto-pusher-viene-assolto/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-25T10:32:25+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-28T10:10:38.582081+00:00",
+   "last_ok": "2026-10-28T11:06:09.892795+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-28T10:10:38.582081+00:00",
+   "last_ok": "2026-10-28T11:06:09.892795+00:00",
    "error": null
   },
   {
@@ -2125,19 +2147,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-28T10:10:38.582081+00:00",
+   "last_ok": "2026-10-28T11:06:09.892795+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-28T10:10:38.582081+00:00",
+   "last_ok": "2026-10-28T11:06:09.892795+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-28T10:10:38.582081+00:00",
+   "last_ok": "2026-10-28T11:06:09.892795+00:00",
    "error": null
   }
  ]
