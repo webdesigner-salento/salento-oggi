@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T22:01:34.458798+00:00",
+ "updated_at": "2026-10-28T22:58:46.753581+00:00",
  "items": [
   {
    "id": "c1e01ed7fbb1",
@@ -266,6 +266,17 @@
    "published_at": "2026-10-28T14:45:00+00:00"
   },
   {
+   "id": "829f37a38030",
+   "title": "Omicidio Mazzotta, nuovo sopralluogo nell'abitazione",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_4299-1024x557.jpeg",
+   "url": "https://trnews.it/2026/10/28/omicidio-mazzotta-nuovo-sopralluogo-nellabitazione",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-28T14:43:10+00:00"
+  },
+  {
    "id": "ee7e6dda99aa",
    "title": "Lecce, Di Francesco preoccupato: “Tante le situazioni da valutare”. Domani turno infrasettimanale a Frosinone",
    "summary": "LECCE – Il Lecce si prepara alla trasferta contro il Frosinone con diversi dubbi di formazione. Alla squalifica di Gaspar si aggiungono i problemi fisici di Tiago Gabriel, Ndaba, N’Dri e Fatah, oltre…",
@@ -308,17 +319,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-28T13:52:17+00:00"
-  },
-  {
-   "id": "829f37a38030",
-   "title": "Omicidio Mazzotta, nuovo sopralluogo nell'abitazione",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_4299-1024x557.jpeg",
-   "url": "https://trnews.it/2026/10/28/omicidio-mazzotta-nuovo-sopralluogo-nellabitazione",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T13:43:10+00:00"
   },
   {
    "id": "0edadbe8b83f",
@@ -574,6 +574,17 @@
    "published_at": "2026-10-28T10:31:50+00:00"
   },
   {
+   "id": "f130884eab88",
+   "title": "Nazionale e Supercoppa femminile allo Iacovone: si può fare",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/Stadio_Iacovone_2026-1024x486.png",
+   "url": "https://trnews.it/2026/10/28/nazionale-e-supercoppa-femminile-allo-iacovone-si-puo-fare",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-10-28T10:00:56+00:00"
+  },
+  {
    "id": "d57c0ef5b0f6",
    "title": "L’ombra del nuovo Decreto “Salva Velox” non basta a salvare la sanzione: autovelox solo approvato e viene annullata",
    "summary": "GALATINA (Lecce) – Nuovo stop alle sanzioni per eccesso di velocità rilevate con apparecchiature prive di regolare omologazione ministeriale. Il Giudice di Pace di Lecce ha infatti accolto integralme…",
@@ -649,17 +660,6 @@
    "category": "Sport",
    "zone": "Salento",
    "published_at": "2026-10-28T09:02:35+00:00"
-  },
-  {
-   "id": "f130884eab88",
-   "title": "Nazionale e Supercoppa femminile allo Iacovone: si può fare",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/Stadio_Iacovone_2026-1024x486.png",
-   "url": "https://trnews.it/2026/10/28/nazionale-e-supercoppa-femminile-allo-iacovone-si-puo-fare",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-10-28T09:00:56+00:00"
   },
   {
    "id": "56dac74241c4",
@@ -2404,13 +2404,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-28T22:01:34.458798+00:00",
+   "last_ok": "2026-10-28T22:58:46.753581+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-28T22:01:34.458798+00:00",
+   "last_ok": "2026-10-28T22:58:46.753581+00:00",
    "error": null
   },
   {
@@ -2422,19 +2422,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-28T22:01:34.458798+00:00",
+   "last_ok": "2026-10-28T22:58:46.753581+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
-   "ok": false,
-   "last_ok": "2026-10-28T21:04:28.108995+00:00",
-   "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
+   "ok": true,
+   "last_ok": "2026-10-28T22:58:46.753581+00:00",
+   "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-28T22:01:34.458798+00:00",
+   "last_ok": "2026-10-28T22:58:46.753581+00:00",
    "error": null
   }
  ]
