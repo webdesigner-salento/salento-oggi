@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T22:03:33.349401+00:00",
+ "updated_at": "2026-10-29T23:00:23.368484+00:00",
  "items": [
   {
    "id": "6e15ee39178d",
@@ -429,6 +429,17 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-29T11:22:25+00:00"
+  },
+  {
+   "id": "858ab8277a86",
+   "title": "La Corte Tributaria annulla un accertamento da oltre 200 mila euro dell’Agenzia delle Entrate di Lecce",
+   "summary": "LECCE – Con la recente sentenza n. 3165/2026, depositata il 28 ottobre 2026, la Corte di Giustizia Tributaria di secondo grado della Puglia – Sezione staccata di Lecce, Sezione 23 (Presidente Dott. A…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/la-corte-tributaria-annulla-un-accertamento-da-oltre-200-mila-euro-dellagenzia-delle-entrate-di-lecce/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-29T11:06:21+00:00"
   },
   {
    "id": "f43df6a31479",
@@ -2288,30 +2299,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-26T23:01:30+00:00"
-  },
-  {
-   "id": "3245b7c6d675",
-   "title": "Si è spento Mario Palumbo, patron di Leadri: lutto nell’imprenditoria salentina",
-   "summary": "Si è spento all’età di 97 anni Mario Palumbo, patron dell’omonimo gruppo di Sternatia e della Leadri. Nato a Vernole nel 1929, si è laureato in farmacia. È stato tra i protagonisti dello sviluppo imp…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/si-e-spento-mario-palumbo-patron-di-leadri-lutto-nellimprenditoria-salentina/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T22:08:51+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-29T22:03:33.349401+00:00",
+   "last_ok": "2026-10-29T23:00:23.368484+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-29T22:03:33.349401+00:00",
+   "last_ok": "2026-10-29T23:00:23.368484+00:00",
    "error": null
   },
   {
@@ -2323,19 +2323,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-29T22:03:33.349401+00:00",
+   "last_ok": "2026-10-29T23:00:23.368484+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-29T22:03:33.349401+00:00",
+   "last_ok": "2026-10-29T23:00:23.368484+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-29T22:03:33.349401+00:00",
+   "last_ok": "2026-10-29T23:00:23.368484+00:00",
    "error": null
   }
  ]
