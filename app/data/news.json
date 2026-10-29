@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T14:21:30.000825+00:00",
+ "updated_at": "2026-10-29T15:16:32.474076+00:00",
  "items": [
   {
    "id": "98a39a5ba50c",
@@ -2332,31 +2332,20 @@
    "category": "Politica",
    "zone": "Salento",
    "published_at": "2026-10-26T15:20:19+00:00"
-  },
-  {
-   "id": "3c1b8b2c0ca2",
-   "title": "“Non consentiva al padre di vedere le figlie”: dopo la condanna, assolta una 44enne",
-   "summary": "GAGLIANO DEL CAPO (Lecce) – Era finita sul banco degli imputati perché in più occasioni avrebbe eluso il provvedimento emesso dal giudice della seconda sezione civile del tribunale di Lecce che regol…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/non-consentiva-al-padre-di-vedere-le-figlie-dopo-la-condanna-assolta-una-44enne/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T15:00:19+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-29T14:21:30.000825+00:00",
+   "last_ok": "2026-10-29T15:16:32.474076+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
-   "ok": true,
+   "ok": false,
    "last_ok": "2026-10-29T14:21:30.000825+00:00",
-   "error": null
+   "error": "HTTPError: HTTP Error 522: <none>"
   },
   {
    "source": "Il Post",
@@ -2366,20 +2355,20 @@
   },
   {
    "source": "Valigia Blu",
-   "ok": true,
+   "ok": false,
    "last_ok": "2026-10-29T14:21:30.000825+00:00",
-   "error": null
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-29T14:21:30.000825+00:00",
+   "last_ok": "2026-10-29T15:16:32.474076+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-29T14:21:30.000825+00:00",
+   "last_ok": "2026-10-29T15:16:32.474076+00:00",
    "error": null
   }
  ]
