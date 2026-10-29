@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-29T21:06:54.096475+00:00",
+ "updated_at": "2026-10-29T22:03:33.349401+00:00",
  "items": [
+  {
+   "id": "6e15ee39178d",
+   "title": "Di Francesco, la sua opinione sul rigore mancato e l’analisi della gara col Frosinone",
+   "summary": "FROSINONE- Il rigore al centro delle polemiche nel dopo partita di Eusebio Di Francesco. L’allenatore del Lecce non nasconde il proprio disappunto per l’episodio che, a suo giudizio, ha indirizzato l…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/di-francesco-la-sua-opinione-sul-rigore-mancato-e-lanalisi-della-gara-col-frosinone/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-29T21:32:09+00:00"
+  },
   {
    "id": "94e31677845e",
    "title": "A proposito dell’aumento dell’aliquota Ires al 30% per le banche nella Legge di Bilancio",
@@ -2288,41 +2299,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-26T22:08:51+00:00"
-  },
-  {
-   "id": "4a29df9e40a3",
-   "title": "Rent to buy e rogito: esclusa la sinallagmaticità. Il Giudice di Pace accoglie le tesi dell’avvocato Russo",
-   "summary": "LECCE – Con una recentissima sentenza, l’Ufficio del Giudice di Pace di Lecce ha chiarito i limiti applicativi dell’eccezione di inadempimento (ex art. 1460 c.c.), accogliendo integralmente la linea…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/rent-to-buy-e-rogito-esclusa-la-sinallagmaticita-il-giudice-di-pace-accoglie-le-tesi-dellavvocato-russo/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T22:02:49+00:00"
-  },
-  {
-   "id": "bb1ccccade0a",
-   "title": "Rinnovo Consiglio Superiore della Magistratura: in corsa il professore Fernando Greco e l’avvocato Andrea Sambati",
-   "summary": "Rinnovo Consiglio Superiore della Magistratura per il quadriennio 2027/2031. In corsa oltre ai togati Fabrizio Malagnino e Filippo Di Todaro, secondo le indiscrezioni che circolano in queste ore, anc…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/421ac378-02b3-4aa0-ab2b-2ae952810709-203x300.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/10/rinnovo-consiglio-superiore-della-magistratura-in-corsa-il-professore-fernando-greco-e-lavvocato-andrea-sambati/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-26T21:34:55+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-29T21:06:54.096475+00:00",
+   "last_ok": "2026-10-29T22:03:33.349401+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-29T21:06:54.096475+00:00",
+   "last_ok": "2026-10-29T22:03:33.349401+00:00",
    "error": null
   },
   {
@@ -2334,19 +2323,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-29T21:06:54.096475+00:00",
+   "last_ok": "2026-10-29T22:03:33.349401+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-29T21:06:54.096475+00:00",
+   "last_ok": "2026-10-29T22:03:33.349401+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-29T21:06:54.096475+00:00",
+   "last_ok": "2026-10-29T22:03:33.349401+00:00",
    "error": null
   }
  ]
