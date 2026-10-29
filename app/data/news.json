@@ -1,10 +1,43 @@
 {
- "updated_at": "2026-10-29T07:29:03.367731+00:00",
+ "updated_at": "2026-10-29T08:19:32.979161+00:00",
  "items": [
+  {
+   "id": "3c77f31be8fd",
+   "title": "Halloween a Spongano: Ultimi Fuochi Teatro porta in scena paure, misteri e avventure immersive",
+   "summary": "SPONGANO (Lecce) – Nel weekend più spaventoso dell’anno, la stagione teatrale Fuochi Comuni di Ultimi Fuochi Teatro si prepara a celebrare Halloween con due spettacoli che trasformano gli spazi del C…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/halloween-a-spongano-ultimi-fuochi-teatro-porta-in-scena-paure-misteri-e-avventure-immersive/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-29T08:13:50+00:00"
+  },
+  {
+   "id": "0ac2aeb0c51c",
+   "title": "Venerdì 30 ottobre “Artisti barboni per un giorno – Barbonaggio Teatrale Collettivo” in piazza Sant’Oronzo",
+   "summary": "LECCE – Un palchetto e un costume con tante storie da condividere per un grande rito collettivo: venerdì 30 ottobre in Piazza Sant’Oronzo a Lecce torna “Artisti barboni per un giorno – Barbonaggio Te…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/venerdi-30-ottobre-artisti-barboni-per-un-giorno-barbonaggio-teatrale-collettivo-in-piazza-santoronzo/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-29T08:10:17+00:00"
+  },
+  {
+   "id": "7d8330f4bf56",
+   "title": "Irregolarità e somministrazione di bevande, multa salata e chiusura per un circolo privato",
+   "summary": "Veglie (Lecce) – Una multa da oltre 10mila euro e la chiusura dell’attività. Queste le conseguenze a seguito delle attività di controllo del territorio e di polizia amministrativa, effettuate dalla P…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/irregolarita-e-somministrazione-di-bevande-multa-salata-e-chiusura-per-un-circolo-privato/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-29T07:46:56+00:00"
+  },
   {
    "id": "1a4230607407",
    "title": "Cambiamenti climatici e parità di genere, incontro al Convitto Palmieri",
-   "summary": "CAMBIAMENTI CLIMATICI E PARITÀ DI GENERE: A LECCE UN WORKSHOP SULLE SFIDE DELLA TRASFORMAZIONE URBANA E IL CONTRASTO ALLA POVERTÀ ENERGETICA Rappresentanti istituzionali, amministratrici, studiose e…",
+   "summary": "LECCE – Cambiamenti climatici e parità di genere: a Lecce un workshop sulle sfide della trasformazione urbana e il contrasto alla povertà energetica Rappresentanti istituzionali, amministratrici, stu…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/10/cambiamenti-climatici-e-parita-di-genere-incontro-al-convitto-palmieri/",
    "source": "Corriere Salentino",
@@ -2316,13 +2349,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-29T07:29:03.367731+00:00",
+   "last_ok": "2026-10-29T08:19:32.979161+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-29T07:29:03.367731+00:00",
+   "last_ok": "2026-10-29T08:19:32.979161+00:00",
    "error": null
   },
   {
@@ -2334,19 +2367,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-29T07:29:03.367731+00:00",
+   "last_ok": "2026-10-29T08:19:32.979161+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-29T07:29:03.367731+00:00",
+   "last_ok": "2026-10-29T08:19:32.979161+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-29T07:29:03.367731+00:00",
+   "last_ok": "2026-10-29T08:19:32.979161+00:00",
    "error": null
   }
  ]
