@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-29T18:06:27.882307+00:00",
+ "updated_at": "2026-10-29T19:19:15.055422+00:00",
  "items": [
+  {
+   "id": "7d0128336cd5",
+   "title": "Tigray, la nuova guerra tra Etiopia ed Eritrea rischia di incendiare tutto il Corno d’Africa",
+   "summary": "La fragile tregua del 2022 nel Tigray è crollata: la rottura diplomatica e gli scontri di frontiera tra Etiopia ed Eritrea stanno trasformando una guerra civile interna in un potenziale conflitto tra…",
+   "image": null,
+   "url": "https://www.valigiablu.it/guerra-tigray-etiopia-eritrea-corno-africa/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-29T18:57:34+00:00"
+  },
   {
    "id": "502fb7b0e375",
    "title": "Taranto, risolto il contratto con Perretta",
@@ -2277,41 +2288,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-26T19:20:38+00:00"
-  },
-  {
-   "id": "b69b5e17bc70",
-   "title": "Sternatia ricorda Luciano Villanova: emozioni, amicizia e sport nel secondo Memorial dedicato all’imprenditore salentino",
-   "summary": "STERNATIA – Una serata all’insegna dello sport, dell’amicizia e della commozione, per ricordare un uomo che ha lasciato un segno profondo nella comunità. Domenica 25 ottobre, alle ore 18, il campo di…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/PHOTO-2026-10-26-18-50-49-2-210x300.jpg",
-   "url": "https://www.corrieresalentino.it/2026/10/sternatia-ricorda-luciano-villanova-emozioni-amicizia-e-sport-nel-secondo-memorial-dedicato-allimprenditore-salentino/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T18:39:54+00:00"
-  },
-  {
-   "id": "99060aca1d22",
-   "title": "Presunte irregolarità in una consulenza in una causa civile: archiviata indagine su avvocati e grafologi",
-   "summary": "SALENTO – Si conclude con l’archiviazione prima e con provvedimento di rigetto, nonché a una pesante condanna alle spese, il procedimento per falsa perizia, frode processuale, violenza privata e lesi…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/presunte-irregolarita-in-una-consulenza-in-una-causa-civile-archiviata-indagine-su-avvocati-e-grafologi/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-10-26T18:33:04+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-29T18:06:27.882307+00:00",
+   "last_ok": "2026-10-29T19:19:15.055422+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-29T18:06:27.882307+00:00",
+   "last_ok": "2026-10-29T19:19:15.055422+00:00",
    "error": null
   },
   {
@@ -2323,19 +2312,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-29T18:06:27.882307+00:00",
+   "last_ok": "2026-10-29T19:19:15.055422+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-29T18:06:27.882307+00:00",
+   "last_ok": "2026-10-29T19:19:15.055422+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-29T18:06:27.882307+00:00",
+   "last_ok": "2026-10-29T19:19:15.055422+00:00",
    "error": null
   }
  ]
