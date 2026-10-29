@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-29T16:15:54.775126+00:00",
+ "updated_at": "2026-10-29T17:15:04.352326+00:00",
  "items": [
+  {
+   "id": "dd3e39d4b373",
+   "title": "Vernole, Roberta Braj lascia il gruppo consiliare “Futuro Insieme” e prosegue il mandato da consigliera indipendente",
+   "summary": "VERNOLE – La consigliera comunale Roberta Braj ha formalizzato il recesso dal gruppo consiliare “Futuro Insieme”, comunicando la propria decisione al Presidente del Consiglio Comunale, al Sindaco e a…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/vernole-roberta-braj-lascia-il-gruppo-consiliare-futuro-insieme-e-prosegue-il-mandato-da-consigliera-indipendente/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-29T16:54:25+00:00"
+  },
+  {
+   "id": "211598178ffb",
+   "title": "Tecnologia, sovranità, sicurezza: l’Europa deve smettere di affidarsi a Palantir di Peter Thiel",
+   "summary": "L'Europa spende 1,4 miliardi per Palantir perdendo il controllo dei dati strategici: come l'azienda USA conquista i governi e perché è un errore evitabile.",
+   "image": null,
+   "url": "https://www.valigiablu.it/palantir-europa-sicurezza-dati-sovranita/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-29T16:46:00+00:00"
+  },
   {
    "id": "ddde2f2d7b3e",
    "title": "Il Party Salento Show Live sbarca ad Alliste nel giorno di Ognissanti",
@@ -2321,74 +2343,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-26T17:23:12+00:00"
-  },
-  {
-   "id": "79edef3c5ab5",
-   "title": "“Ragazza non accetta l’amicizia sui social” e scattano le persecuzioni e le minacce: inflitti oltre 3 anni a un 36enne",
-   "summary": "CASTRIGNANO DE’ GRECI(Lecce) – Avrebbe disatteso la richiesta di accettare l’amicizia sui social e sarebbe stata minacciata di morte. Un incubo per una giovane residente in un comune di Lecce costret…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/ragazza-non-accetta-lamicizia-sui-social-e-scattano-le-persecuzioni-e-le-minacce-inflitti-oltre-3-anni-a-un-36enne/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T17:00:50+00:00"
-  },
-  {
-   "id": "20f6ac2f85ca",
-   "title": "Il sindaco Bruni ringrazia il Prefetto Manno per il provvedimento circa la strada litoranea Otranto-Porto Badisco",
-   "summary": "Il Comune di Otranto, per quanto di competenza, già dallo scorso 14 ottobre, dopo aver approvato la delibera di adesione alla convenzione per un accordo tra Polizia Locale e Polizia Stradale relativo…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/il-sindaco-bruni-ringrazia-il-prefetto-manno-per-il-provvedimento-circa-la-strada-litoranea-otranto-porto-badisco/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T16:59:24+00:00"
-  },
-  {
-   "id": "d7acda9139ba",
-   "title": "Commissione Politiche Agricole e nuova PAC, Paolicelli: “Approvato il documento delle Regioni. Più flessibilità per sostenere gli agricoltori nelle crisi”",
-   "summary": "A Firenze, al Festival delle Regioni, definita una posizione comune sulla PAC 2028-2034. Al centro la gestione del rischio, la tutela del reddito e la capacità di intervenire sulle crisi di mercato.…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/commissione-politiche-agricole-e-nuova-pac-paolicelli-approvato-il-documento-delle-regioni-piu-flessibilita-per-sostenere-gli-agricoltori-nelle-crisi/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-10-26T16:37:38+00:00"
-  },
-  {
-   "id": "0b852a1b4f81",
-   "title": "Accoltellamento a Merine, 28enne arrestato per tentato omicidio",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-12.26.58-1024x920.jpeg",
-   "url": "https://trnews.it/2026/10/26/accoltellamento-a-merine-28enne-arrestato-per-tentato-omicidio",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T16:16:59+00:00"
-  },
-  {
-   "id": "4f9a224ac667",
-   "title": "“Gang del bosco”, sette chiedono la messa alla prova: uno a processo",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/02/lecce-tribunale-2.jpg",
-   "url": "https://trnews.it/2026/10/26/gang-del-bosco-sette-chiedono-la-messa-alla-prova-uno-a-processo",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T16:16:04+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-29T16:15:54.775126+00:00",
+   "last_ok": "2026-10-29T17:15:04.352326+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-29T16:15:54.775126+00:00",
+   "last_ok": "2026-10-29T17:15:04.352326+00:00",
    "error": null
   },
   {
@@ -2400,19 +2367,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-29T16:15:54.775126+00:00",
+   "last_ok": "2026-10-29T17:15:04.352326+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-29T16:15:54.775126+00:00",
+   "last_ok": "2026-10-29T17:15:04.352326+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-29T16:15:54.775126+00:00",
+   "last_ok": "2026-10-29T17:15:04.352326+00:00",
    "error": null
   }
  ]
