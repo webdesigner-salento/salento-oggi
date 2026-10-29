@@ -1,6 +1,61 @@
 {
- "updated_at": "2026-10-29T10:12:56.869274+00:00",
+ "updated_at": "2026-10-29T11:07:31.237502+00:00",
  "items": [
+  {
+   "id": "f43df6a31479",
+   "title": "Al via dal 31 ottobre la XXX edizione di Strade Maestre a Lecce",
+   "summary": "LECCE – Al via la XXX edizione di Strade Maestre, che dal 31 ottobre porta a Lecce ben sedici spettacoli, concerti incontri e laboratori, attraversando linguaggi, generazioni e territori diversi. Cos…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/al-via-dal-31-ottobre-la-xxx-edizione-di-strade-maestre-a-lecce/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-29T11:05:07+00:00"
+  },
+  {
+   "id": "9e105689c385",
+   "title": "Meteo di domani 30 ottobre nel Salento: previsioni, temperature e cosa aspettarsi",
+   "summary": "Puglia – Condizioni di tempo instabile nel corso della giornata con nuvolosità irregolare in transito associata a piogge e acquazzoni sparsi sia al mattino che al pomeriggio. In serata e nottata non…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/meteo-di-domani-30-ottobre-nel-salento-previsioni-temperature-e-cosa-aspettarsi/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-29T10:47:28+00:00"
+  },
+  {
+   "id": "acbcee464319",
+   "title": "Matino conferisce cittadinanza onoraria al Prefetto di Lecce Natalino Manno",
+   "summary": "Il Comune di Matino conferisce la Cittadinanza Onoraria al Prefetto di Lecce, S.E. Dott. Natalino Domenico Manno Il Consiglio Comunale di Matino ha approvato la deliberazione n. 46/2026, con la quale…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/matino-conferisce-cittadinanza-onoraria-al-prefetto-di-lecce-natalino-manno/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-29T10:43:51+00:00"
+  },
+  {
+   "id": "82133989b016",
+   "title": "Il caso Siher: perché le accuse della Procura non hanno retto al vaglio della giudice e gli attacchi della politica allo Stato di diritto",
+   "summary": "Perché la Procura di Milano aveva arrestato Youssef Siher, su quali basi giuridiche la Giudice non ha convalidato il fermo, l'attacco del governo ai giudici al limite dell'eversività.",
+   "image": null,
+   "url": "https://www.valigiablu.it/youssef-siher-scarcerazione-gip-procura-meloni/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-29T10:36:06+00:00"
+  },
+  {
+   "id": "b25a3b724145",
+   "title": "Cadavere ritrovato in un pozzo a Torre Rinalda, eseguito il fermo di un 33enne per omicidio",
+   "summary": "Lecce – Una lite per un lavoro in casa, non andato a buon fine, dell’importo di 300 euro, per cui aveva richiesto la restituzione della somma. Sarebbe questo il movente ed è stato individuato e sotto…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/cadavere-ritrovato-in-un-pozzo-a-torre-rinalda-eseguito-un-fermo-di-un-33enne-per-omicidio/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-29T10:23:16+00:00"
+  },
   {
    "id": "8658f850ee41",
    "title": "La XXVII edizione del Festival del Cinema Europeo, film in concorso",
@@ -33,6 +88,39 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-29T09:46:58+00:00"
+  },
+  {
+   "id": "7d8330f4bf56",
+   "title": "Irregolarità e somministrazione di bevande, multa salata e chiusura per un circolo privato",
+   "summary": "Veglie (Lecce) – Una multa da oltre 10mila euro e la chiusura dell’attività. Queste le conseguenze a seguito delle attività di controllo del territorio e di polizia amministrativa, effettuate dalla P…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/irregolarita-e-somministrazione-di-bevande-multa-salata-e-chiusura-per-un-circolo-privato/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-29T09:46:56+00:00"
+  },
+  {
+   "id": "535374b06fc9",
+   "title": "Manca l’acqua alle fontanine all’interno del cimitero e i cittadini protestano",
+   "summary": "Lecce – Un intervento di manutenzione della rete idrica fa mancare l’erogazione di acqua all’interno del cimitero di Lecce e i cittadini protestano. Tra l’altro, proprio nei giorni immediatamente pre…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/manca-lacqua-alle-fontanine-allinterno-del-cimitero-e-i-cittadini-protestano/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-29T09:45:54+00:00"
+  },
+  {
+   "id": "edfb9614d7d1",
+   "title": "Omicidio Mazzotta, fermato 32enne di Surbo",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-10.43.10-1024x839.jpeg",
+   "url": "https://trnews.it/2026/10/29/omicidio-mazzotta-fermato-32enne-di-surbo",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-29T09:43:32+00:00"
   },
   {
    "id": "04cb91241076",
@@ -68,17 +156,6 @@
    "published_at": "2026-10-29T09:32:49+00:00"
   },
   {
-   "id": "535374b06fc9",
-   "title": "Manca l’acqua alle fontanine all’interno del cimitero e i cittadini protestano",
-   "summary": "Lecce – Un intervento di manutenzione della rete idrica fa mancare l’erogazione di acqua all’interno del cimitero di Lecce e i cittadini protestano. Tra l’altro, proprio nei giorni immediatamente pre…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/manca-lacqua-alle-fontanine-allinterno-del-cimitero-e-i-cittadini-protestano/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T09:25:54+00:00"
-  },
-  {
    "id": "0d1cd7b454f2",
    "title": "Fitto: positiva l’intesa su decreto bollette fra Italia e Commissione Ue",
    "summary": "“Saluto positivamente l’intesa raggiunta tra il governo italiano e la Commissione europea sul decreto bollette. È il risultato di un lavoro costante, fondato sul dialogo e sulla collaborazione istitu…",
@@ -110,17 +187,6 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-10-29T08:10:17+00:00"
-  },
-  {
-   "id": "7d8330f4bf56",
-   "title": "Irregolarità e somministrazione di bevande, multa salata e chiusura per un circolo privato",
-   "summary": "Veglie (Lecce) – Una multa da oltre 10mila euro e la chiusura dell’attività. Queste le conseguenze a seguito delle attività di controllo del territorio e di polizia amministrativa, effettuate dalla P…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/irregolarita-e-somministrazione-di-bevande-multa-salata-e-chiusura-per-un-circolo-privato/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T07:46:56+00:00"
   },
   {
    "id": "1a4230607407",
@@ -2310,41 +2376,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-26T11:23:24+00:00"
-  },
-  {
-   "id": "e985f78fe660",
-   "title": "Mercoledì 28 ottobre la cantautrice maliana Rokia Traoré e la salentina Alessia Tondo aprono il festival Salento Jazz al Teatro Apollo",
-   "summary": "LECCE – Mercoledì 28 ottobre (ore 20:00 | ingresso 30, 28, 25 e 20 euro | prevendite attive su TicketOne e Ticketmaster) al Teatro Apollo di Lecce con il concerto di Rokia Traoré e Alessia Tondo pren…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/mercoledi-28-ottobre-la-cantautrice-maliana-rokia-traore-e-la-salentina-alessia-tondo-aprono-il-festival-salento-jazz-al-teatro-apollo/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T10:27:58+00:00"
-  },
-  {
-   "id": "6a641ac09f66",
-   "title": "Gli ultimi giorni di Pasolini e la Grecìa Salentina: esce “Terre Feconde”, raccolta di poesie e scatti di Antonio Tommasi",
-   "summary": "La fotografia affiancata alla poesia, la civiltà contadina e la cultura industriale, l’approdo dell’Odin Teatret e di Pier Paolo Pasolini in Salento. Tutto ciò è racchiuso in “Terre Feconde” (pp. 138…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/gli-ultimi-giorni-di-pasolini-e-la-grecia-salentina-esce-terre-feconde-raccolta-di-poesie-e-scatti-di-antonio-tommasi/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Salento",
-   "published_at": "2026-10-26T10:23:28+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-29T10:12:56.869274+00:00",
+   "last_ok": "2026-10-29T11:07:31.237502+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-29T10:12:56.869274+00:00",
+   "last_ok": "2026-10-29T11:07:31.237502+00:00",
    "error": null
   },
   {
@@ -2356,19 +2400,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-29T10:12:56.869274+00:00",
+   "last_ok": "2026-10-29T11:07:31.237502+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-29T10:12:56.869274+00:00",
+   "last_ok": "2026-10-29T11:07:31.237502+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-29T10:12:56.869274+00:00",
+   "last_ok": "2026-10-29T11:07:31.237502+00:00",
    "error": null
   }
  ]
