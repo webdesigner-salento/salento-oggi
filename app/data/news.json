@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-29T11:07:31.237502+00:00",
+ "updated_at": "2026-10-29T12:05:14.003903+00:00",
  "items": [
+  {
+   "id": "7142d90ef3ad",
+   "title": "Litoranea vietata alle moto, scatta la protesta: il rombo pacifico \"sfida\" lo stop",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/867766343_1130905569339799_5581681060689717115_n-e1793272932227-1024x603.jpg",
+   "url": "https://trnews.it/2026/10/29/litoranea-vietata-alle-moto-scatta-la-protesta-il-rombo-pacifico-sfida-lo-stop",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-29T11:22:25+00:00"
+  },
+  {
+   "id": "81bad7f23900",
+   "title": "Imposta di soggiorno, Lecce cambia le regole: dal 2027 procedure digitali e più trasparenza",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/05/TURISTI-LECCE-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/29/imposta-di-soggiorno-lecce-cambia-le-regole-dal-2027-procedure-digitali-e-piu-trasparenza",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-29T11:17:29+00:00"
+  },
   {
    "id": "f43df6a31479",
    "title": "Al via dal 31 ottobre la XXX edizione di Strade Maestre a Lecce",
@@ -48,7 +70,7 @@
   {
    "id": "b25a3b724145",
    "title": "Cadavere ritrovato in un pozzo a Torre Rinalda, eseguito il fermo di un 33enne per omicidio",
-   "summary": "Lecce – Una lite per un lavoro in casa, non andato a buon fine, dell’importo di 300 euro, per cui aveva richiesto la restituzione della somma. Sarebbe questo il movente ed è stato individuato e sotto…",
+   "summary": "Lecce – Una lite per futili motivi degenerata in tragedia: un lavoro in casa, non andato a buon fine, dell’importo di 300 euro, per cui aveva richiesto la restituzione della somma. Sarebbe questo il…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/10/cadavere-ritrovato-in-un-pozzo-a-torre-rinalda-eseguito-un-fermo-di-un-33enne-per-omicidio/",
    "source": "Corriere Salentino",
@@ -530,6 +552,17 @@
    "published_at": "2026-10-28T14:59:48+00:00"
   },
   {
+   "id": "df56b0204e18",
+   "title": "Veglie, fucile modificato e cinque cartucce: 56enne ai domiciliari",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/07/carabinieri-1.jpg",
+   "url": "https://trnews.it/2026/10/28/veglie-fucile-modificato-e-cinque-cartucce-56enne-ai-domiciliari",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-28T14:52:17+00:00"
+  },
+  {
    "id": "829f37a38030",
    "title": "Omicidio Mazzotta, nuovo sopralluogo nell'abitazione",
    "summary": "",
@@ -572,17 +605,6 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-28T13:56:28+00:00"
-  },
-  {
-   "id": "df56b0204e18",
-   "title": "Veglie, fucile modificato e cinque cartucce: 56enne ai domiciliari",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/07/carabinieri-1.jpg",
-   "url": "https://trnews.it/2026/10/28/veglie-fucile-modificato-e-cinque-cartucce-56enne-ai-domiciliari",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T13:52:17+00:00"
   },
   {
    "id": "0edadbe8b83f",
@@ -2354,41 +2376,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-26T12:07:22+00:00"
-  },
-  {
-   "id": "b4a82cc6b950",
-   "title": "Tragedia sfiorata: 60enne colto da malore prima di Lecce-Juventus, decisiva la rianimazione della Croce Rossa",
-   "summary": "LECCE – Momenti di grande apprensione si sono vissuti ieri sera all’esterno dello stadio “Via del Mare” di Lecce, a margine dell’incontro di campionato disputato tra i padroni di casa e la Juventus g…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/tragedia-sfiorata-60enne-colto-da-malore-prima-di-lecce-juventus-decisiva-la-rianimazione-della-croce-rossa/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T11:53:01+00:00"
-  },
-  {
-   "id": "51d4383a6f0e",
-   "title": "Frosinone-Lecce: arbitra Abisso di Palermo",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/01/31d1c5bb-1280-4a6d-8f82-9c1a141267f4.jpg",
-   "url": "https://trnews.it/2026/10/26/frosinone-lecce-arbitra-abisso-di-palermo",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T11:23:24+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-29T11:07:31.237502+00:00",
+   "last_ok": "2026-10-29T12:05:14.003903+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-29T11:07:31.237502+00:00",
+   "last_ok": "2026-10-29T12:05:14.003903+00:00",
    "error": null
   },
   {
@@ -2400,19 +2400,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-29T11:07:31.237502+00:00",
+   "last_ok": "2026-10-29T12:05:14.003903+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-29T11:07:31.237502+00:00",
+   "last_ok": "2026-10-29T12:05:14.003903+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-29T11:07:31.237502+00:00",
+   "last_ok": "2026-10-29T12:05:14.003903+00:00",
    "error": null
   }
  ]
