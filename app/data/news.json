@@ -1,6 +1,50 @@
 {
- "updated_at": "2026-10-29T12:05:14.003903+00:00",
+ "updated_at": "2026-10-29T13:27:46.743979+00:00",
  "items": [
+  {
+   "id": "d5167de224cf",
+   "title": "Prima la rissa e poi l’aggressione ai poliziotti, arrestato un 24enne e denunciate altre tre persone",
+   "summary": "Lecce – Un arresto e tre denunce a seguito di una rissa e poi di aggressioni ai poliziotti. Nella notte di domenica scorsa, 25 ottobre, la Polizia di Stato ha arrestato a Lecce un uomo di 24 anni, re…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/prima-la-rissa-e-poi-laggressione-ai-poliziotti-arrestato-un-24enne-e-denunciate-altre-tre-persone/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-29T13:06:14+00:00"
+  },
+  {
+   "id": "6fa88b233120",
+   "title": "Vende vodka a due minori, una delle quali finisce in ospedale: denunciato gestore e sospesa attività per 7 giorni",
+   "summary": "Lecce – Provvedimento di sospensione dell’attività per sette giorni emesso dal Questore Giampietro Lionetti nei confronti di un esercizio, a seguito dell’istruttoria effettuata dalla Polizia di Stato…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/vende-vodka-a-due-minori-una-delle-quali-finisce-in-ospedale-denunciato-gestore-e-sospesa-attivita-per-7-giorni/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-29T12:55:09+00:00"
+  },
+  {
+   "id": "f6614fa6b17a",
+   "title": "Lecce, vende vodka a due minori: una finisce in ospedale. Locale chiuso per sette giorni",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/04/movida-11-1024x768.jpg",
+   "url": "https://trnews.it/2026/10/29/lecce-vende-vodka-a-due-minori-una-finisce-in-ospedale-locale-chiuso-per-sette-giorni",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-29T12:13:51+00:00"
+  },
+  {
+   "id": "1f624357e76f",
+   "title": "Rissa nel centro storico, fugge e aggredisce poliziotti: arrestato",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/12/polizia-sera-per-sito-2.jpg",
+   "url": "https://trnews.it/2026/10/29/rissa-nel-centro-storico-fugge-e-aggredisce-poliziotti-arrestato",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-29T12:08:44+00:00"
+  },
   {
    "id": "7142d90ef3ad",
    "title": "Litoranea vietata alle moto, scatta la protesta: il rombo pacifico \"sfida\" lo stop",
@@ -387,6 +431,17 @@
    "published_at": "2026-10-28T17:45:50+00:00"
   },
   {
+   "id": "f5e36db7e6fc",
+   "title": "Ex Ilva: 7 punti, il raccordo Governo-sindacati",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-101-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/28/ex-ilva-7-punti-il-raccordo-governo-sindacati",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Taranto",
+   "published_at": "2026-10-28T17:35:00+00:00"
+  },
+  {
    "id": "c7b726aa662e",
    "title": "Nardò, il mercato delle Quattro Colonne trasloca in via Edrisi: tre nuovi posteggi fast-food nelle marine",
    "summary": "SANTA MARIA AL BAGNO (NARDÒ) – Il mercato delle Quattro Colonne cambia casa e lascia spazio a parcheggi ed eventi. È una delle principali novità del pacchetto di modifiche al Documento Strategico del…",
@@ -418,17 +473,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-28T16:36:42+00:00"
-  },
-  {
-   "id": "f5e36db7e6fc",
-   "title": "Ex Ilva: 7 punti, il raccordo Governo-sindacati",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-101-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/28/ex-ilva-7-punti-il-raccordo-governo-sindacati",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Taranto",
-   "published_at": "2026-10-28T16:35:00+00:00"
   },
   {
    "id": "293a322a6b58",
@@ -2288,107 +2332,19 @@
    "category": "Cronaca",
    "zone": "Taranto",
    "published_at": "2026-10-26T13:45:52+00:00"
-  },
-  {
-   "id": "a536ef5fed3b",
-   "title": "Parcheggio multipiano \"Foro Boario\", il Comune si oppone al ricorso al Tar",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/SERGIO-HUB-FORO-BOARIO-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/26/parcheggio-multipiano-foro-boario-il-comune-si-oppone-al-ricorso-al-tar",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T13:26:08+00:00"
-  },
-  {
-   "id": "c1fd26b01f3f",
-   "title": "Lecce, è ripresa la preparazione",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/bf32647a-3ca3-46cf-bff6-60f2d567ca18-1024x698.jpg",
-   "url": "https://trnews.it/2026/10/26/lecce-e-ripresa-la-preparazione-2",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T13:25:54+00:00"
-  },
-  {
-   "id": "0fc9962676fa",
-   "title": "Minore diabetico ripreso e filmato durante il pestaggio in stazione: in sette chiedono la messa alla prova",
-   "summary": "GALATINA (Lecce) – In sette chiedono la messa alla prova mentre un altro baby imputato finisce sotto processo. Questo l’esito dell’udienza preliminare davanti in cui sono comparsi gli otto presunti c…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/minore-diabetico-ripreso-e-filmato-durante-il-pestaggio-in-stazione-in-sette-chiedono-la-messa-alla-prova/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T13:04:31+00:00"
-  },
-  {
-   "id": "6f66d63d72be",
-   "title": "Il cuore si ferma durante Lecce-Juve: la Croce Rossa salva la vita a 60enne",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/861977076_1668342661579845_5652119798022926376_n-e1793015762923-1024x748.jpg",
-   "url": "https://trnews.it/2026/10/26/il-cuore-si-ferma-durante-lecce-juve-la-croce-rossa-salva-la-vita-a-60enne",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T13:00:49+00:00"
-  },
-  {
-   "id": "f1e7a8892edf",
-   "title": "Meteo domani 27 ottobre nel Salento: previsioni, temperature e cosa aspettarsi",
-   "summary": "Puglia Condizioni di tempo asciutto nel corso della giornata su tutta la regione con cieli che saranno sereni o poco nuvolosi sia al mattino che al pomeriggio. In serata e nottata si rinnovano condiz…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/meteo-domani-27-ottobre-nel-salento-previsioni-temperature-e-cosa-aspettarsi/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-26T12:35:23+00:00"
-  },
-  {
-   "id": "22301db4f19c",
-   "title": "Accoltellato all’addome dopo una lite nel residence a Merine: 54enne in codice rosso, arrestato l’aggressore",
-   "summary": "LECCE – Un fendente all’addome sferrato con un grosso coltello da cucina al culmine di un diverbio scoppiato per futili motivi. È la drammatica sequenza registratasi nella mattinata all’interno di un…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/accoltellato-alladdome-dopo-una-lite-nel-residence-a-merine-54enne-in-codice-rosso-arrestato-laggressore/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T12:31:16+00:00"
-  },
-  {
-   "id": "2904dc69ca6a",
-   "title": "Il Ristorante dell’anno per il Gambero Rosso è in un paesino da 1.400 abitanti",
-   "summary": "Il Reale di Castel di Sangro (AQ) conquista il vertice della Guida Ristoranti d’Italia 2027 del Gambero Rosso con 99/100, seguito dall’Osteria Francescana di Modena a 98/100 e da Piazza Duomo ad Alba…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/il-ristorante-dellanno-per-il-gambero-rosso-e-in-un-paesino-da-1-400-abitanti/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-26T12:30:42+00:00"
-  },
-  {
-   "id": "997451dd0890",
-   "title": "Lecce, due giornate di squalifica per Gaspar",
-   "summary": "LECCE – Il giudice sportivo della Serie A, Gerardo Mastrandrea, ha disposto due giornate di squalifica per il calciatore del Lecce Kialonda Gaspar, espulso per «comportamento scorretto nei confronti…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lecce-due-giornate-di-squalifica-per-gaspar/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T12:07:22+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-29T12:05:14.003903+00:00",
+   "last_ok": "2026-10-29T13:27:46.743979+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-29T12:05:14.003903+00:00",
+   "last_ok": "2026-10-29T13:27:46.743979+00:00",
    "error": null
   },
   {
@@ -2400,19 +2356,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-29T12:05:14.003903+00:00",
+   "last_ok": "2026-10-29T13:27:46.743979+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-29T12:05:14.003903+00:00",
+   "last_ok": "2026-10-29T13:27:46.743979+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-29T12:05:14.003903+00:00",
+   "last_ok": "2026-10-29T13:27:46.743979+00:00",
    "error": null
   }
  ]
