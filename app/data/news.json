@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-29T05:07:48.049497+00:00",
+ "updated_at": "2026-10-29T06:04:00.731284+00:00",
  "items": [
+  {
+   "id": "0a3703fd76dc",
+   "title": "Frosinone-Lecce nel turno infrasettimanale: la diretta con Lecce Channel in Campo",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_20261026_212048-1024x564.jpg",
+   "url": "https://trnews.it/2026/10/29/frosinone-lecce-nel-turno-infrasettimanale-la-diretta-con-lecce-channel-in-campo",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-29T05:00:19+00:00"
+  },
   {
    "id": "943365265407",
    "title": "Serie A, tocca al Lecce: i giallorossi a Frosinone. Tanti assenti per Di Francesco",
@@ -200,6 +211,17 @@
    "published_at": "2026-10-28T15:56:58+00:00"
   },
   {
+   "id": "dbcfdcc933ad",
+   "title": "Coppa Italia Primavera: Lecce, 5 gol al Pisa con tripletta di Vitale",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-28-160020.png",
+   "url": "https://trnews.it/2026/10/28/coppa-italia-primavera-lecce-5-gol-al-pisa-con-tripletta-di-vitale",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-28T15:45:00+00:00"
+  },
+  {
    "id": "92e6d35921d5",
    "title": "Guido, scatta la sospensione. Il sindaco assume le sue deleghe",
    "summary": "",
@@ -264,17 +286,6 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-28T14:59:48+00:00"
-  },
-  {
-   "id": "dbcfdcc933ad",
-   "title": "Coppa Italia Primavera: Lecce, 5 gol al Pisa con tripletta di Vitale",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-28-160020.png",
-   "url": "https://trnews.it/2026/10/28/coppa-italia-primavera-lecce-5-gol-al-pisa-con-tripletta-di-vitale",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T14:45:00+00:00"
   },
   {
    "id": "829f37a38030",
@@ -2332,85 +2343,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-26T06:10:19+00:00"
-  },
-  {
-   "id": "a0eb5534e03c",
-   "title": "51^ Stagione lirica della Provincia di Lecce: al via la vendita di abbonamenti e biglietti. Ecco date e modalità di acquisto a partire dal 28 ottobre",
-   "summary": "LECCE – Turandot, L’elisir d’amore e Nabucco: pronta la 51^ Stagione lirica della Provincia di Lecce, in programma dal 13 novembre al 13 dicembre prossimi, con tre opere in abbonamento (Teatro Polite…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/51-stagione-lirica-della-provincia-di-lecce-al-via-la-vendita-di-abbonamenti-e-biglietti-ecco-date-e-modalita-di-acquisto-a-partire-dal-28-ottobre/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T06:02:04+00:00"
-  },
-  {
-   "id": "fa98f6a5b593",
-   "title": "Fideiussione per affitto: quali garanzie consigliare a proprietari e inquilini",
-   "summary": "L’equilibrio del mercato delle locazioni in Italia è sempre più legato alla capacità di gestire i rischi connessi al mancato pagamento dei canoni. Nel 2025, secondo i dati ufficiali del Ministero del…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/fideiussione-per-affitto-quali-garanzie-consigliare-a-proprietari-e-inquilini/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-26T06:01:38+00:00"
-  },
-  {
-   "id": "fd7c0338458d",
-   "title": "Questa sera Silvia Carofalo, dirigente del Lecce, ospite a Piazza Giallorossa",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/SILVIA-CAROFALO-.jpeg-2--1024x806.jpeg",
-   "url": "https://trnews.it/2026/10/26/questa-sera-silvia-carofalo-dirigente-del-lecce-ospite-a-piazza-giallorossa",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T06:00:03+00:00"
-  },
-  {
-   "id": "8c0034142425",
-   "title": "L’almanacco di oggi 26 ottobre",
-   "summary": "Il Santo del giorno: Sant’Evaristo papa. Il proverbio di Mesciu Ronzu: No sulu ci chianta favi mangia unguli. Significato: Non solo chi pianta semi di fave mangia le fave fresche. – Sono nati in ques…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lalmanacco-di-oggi-26-ottobre/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-26T06:00:01+00:00"
-  },
-  {
-   "id": "41f7248ed2ad",
-   "title": "Lavoro nel Salento, 665 posizioni aperte nel leccese",
-   "summary": "LECCE – Ritornano i CDay di Università del Salento, in collaborazione con Regione Puglia attraverso ARPAL Puglia. Dal 27 al 29 ottobre 2026, dalle 09.00 alle 16.00, presso l’ EDIFICIO “ALDO ROMANO” –…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lavoro-nel-salento-665-posizioni-aperte-nel-leccese/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T05:52:17+00:00"
-  },
-  {
-   "id": "871f9c6e5a6f",
-   "title": "Ricetta del giorno: Riso patate e cozze",
-   "summary": "Ingredienti per 4 persone: 250 gr di riso carnaroli 1 kg di cozze 500 gr di patate 3 pomodori Una manciata di prezzemolo fresco tritato 150 gr di Parmigiano Reggiano o pecorino grattugiato 300 gr di…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/ricetta-del-giorno-riso-patate-e-cozze/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-26T05:22:28+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-29T05:07:48.049497+00:00",
+   "last_ok": "2026-10-29T06:04:00.731284+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-29T05:07:48.049497+00:00",
+   "last_ok": "2026-10-29T06:04:00.731284+00:00",
    "error": null
   },
   {
@@ -2422,19 +2367,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-29T05:07:48.049497+00:00",
+   "last_ok": "2026-10-29T06:04:00.731284+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-29T05:07:48.049497+00:00",
+   "last_ok": "2026-10-29T06:04:00.731284+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-29T05:07:48.049497+00:00",
+   "last_ok": "2026-10-29T06:04:00.731284+00:00",
    "error": null
   }
  ]
