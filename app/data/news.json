@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-10-29T23:00:23.368484+00:00",
+ "updated_at": "2026-10-29T23:56:30.967645+00:00",
  "items": [
+  {
+   "id": "a2d7cca6bf98",
+   "title": "Ritorno a Domusnovas, in Sardegna, dove si prova a resistere all’ampliamento della Rwm",
+   "summary": "Il paesaggio collinare tra Iglesias e Domusnovas può ingannare: a prima vista infatti non farebbe pensare che proprio qui in Sardegna c'è uno dei più importanti poli di armamento del Paese. Oltre la…",
+   "image": "https://altreconomia.it/app/uploads/2026/10/stop-RWM-Manifattura.jpg",
+   "url": "https://altreconomia.it/ritorno-a-domusnovas-in-sardegna-dove-si-prova-a-resistere-allampliamento-della-rwm/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-29T23:50:46+00:00"
+  },
+  {
+   "id": "e149696e14ea",
+   "title": "Sono passati 60 anni dall’alluvione dell’Arno. Indagine sul rischio idraulico in Toscana",
+   "summary": "È la notte tra il 3 e il 4 novembre 1966: dopo ore di pioggia incessante l’Arno esonda nel Casentino e nel Valdarno Superiore. A Firenze la piena riempie le strade alla velocità di 60 chilometri orar…",
+   "image": "https://altreconomia.it/app/uploads/2026/10/Alluvione-2-scaled.jpg",
+   "url": "https://altreconomia.it/sono-passati-60-anni-dallalluvione-dellarno-indagine-sul-rischio-idraulico-in-toscana/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-29T23:01:43+00:00"
+  },
+  {
+   "id": "97a7e19a3186",
+   "title": "Dalla sorveglianza digitale alla regia sui rimpatri: così Frontex sarà potenziata nei prossimi anni",
+   "summary": "“Non so se definirla più l’Agenzia dei rimpatri o la nuova intelligence europea”. Laura Salzano, ricercatrice postdoc al Ludwig Boltzmann institute di Vienna, sintetizza con sarcasmo il contenuto del…",
+   "image": "https://altreconomia.it/app/uploads/2026/10/IPA88020028-scaled.jpg",
+   "url": "https://altreconomia.it/dalla-sorveglianza-digitale-alla-regia-sui-rimpatri-cosi-frontex-sara-potenziata-nei-prossimi-anni/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-29T23:01:35+00:00"
+  },
   {
    "id": "6e15ee39178d",
    "title": "Di Francesco, la sua opinione sul rigore mancato e l’analisi della gara col Frosinone",
@@ -2266,52 +2299,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-27T05:03:37+00:00"
-  },
-  {
-   "id": "75cbb047519d",
-   "title": "La sicurezza “né di destra né di sinistra” è una trappola. L’opposizione dovrebbe uscirne",
-   "summary": "Vetrine rotte ma anche teste altrettanto rotte, per quanto oscurate dall’ondata di empatia che ha circondato le prime. Nelle ultime settimane, durante le manifestazioni studentesche, sono stati docum…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/IPA90131650-scaled.jpg",
-   "url": "https://altreconomia.it/la-sicurezza-ne-di-destra-ne-di-sinistra-e-una-trappola-lopposizione-dovrebbe-uscirne/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-26T23:05:13+00:00"
-  },
-  {
-   "id": "dc92686e8cc3",
-   "title": "La verità sepolta. Il mediacidio nella Striscia di Gaza nel nuovo rapporto di Francesca Albanese",
-   "summary": "“A partire dal 7 ottobre 2023 Israele ha ucciso quasi trecento giornalisti e ne ha feriti più di quattrocento. Molti indossavano giubbotti e caschi con la scritta ‘PRESS’, trasportavano attrezzature…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/IPA88988814-scaled.jpg",
-   "url": "https://altreconomia.it/la-verita-sepolta-il-mediacidio-nella-striscia-di-gaza-nel-nuovo-rapporto-di-francesca-albanese/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-26T23:01:30+00:00"
-  },
-  {
-   "id": "6a17d172150c",
-   "title": "La verità sepolta. Il mediacidio nella Striscia di Gaza nel nuovo rapporto di Francesca Abanese",
-   "summary": "“A partire dal 7 ottobre 2023 Israele ha ucciso quasi trecento giornalisti e ne ha feriti più di quattrocento. Molti indossavano giubbotti e caschi con la scritta ‘PRESS’, trasportavano attrezzature…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/IPA88988814-scaled.jpg",
-   "url": "https://altreconomia.it/la-verita-sepolta-il-mediacidio-nella-striscia-di-gaza-nel-nuovo-rapporto-di-francesca-abanese/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-26T23:01:30+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-29T23:00:23.368484+00:00",
+   "last_ok": "2026-10-29T23:56:30.967645+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-29T23:00:23.368484+00:00",
+   "last_ok": "2026-10-29T23:56:30.967645+00:00",
    "error": null
   },
   {
@@ -2323,19 +2323,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-29T23:00:23.368484+00:00",
+   "last_ok": "2026-10-29T23:56:30.967645+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-29T23:00:23.368484+00:00",
+   "last_ok": "2026-10-29T23:56:30.967645+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-29T23:00:23.368484+00:00",
+   "last_ok": "2026-10-29T23:56:30.967645+00:00",
    "error": null
   }
  ]
