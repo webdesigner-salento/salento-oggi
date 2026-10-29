@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-29T17:15:04.352326+00:00",
+ "updated_at": "2026-10-29T18:06:27.882307+00:00",
  "items": [
+  {
+   "id": "502fb7b0e375",
+   "title": "Taranto, risolto il contratto con Perretta",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/08/ss-taranto-2025.jpg",
+   "url": "https://trnews.it/2026/10/29/taranto-risolto-il-contratto-con-perretta",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-10-29T17:20:52+00:00"
+  },
   {
    "id": "dd3e39d4b373",
    "title": "Vernole, Roberta Braj lascia il gruppo consiliare “Futuro Insieme” e prosegue il mandato da consigliera indipendente",
@@ -2288,74 +2299,19 @@
    "category": "Cronaca",
    "zone": "Salento",
    "published_at": "2026-10-26T18:33:04+00:00"
-  },
-  {
-   "id": "39d141d85530",
-   "title": "Festival delle Regioni, Miglietta: “L’istruzione è un diritto, non un privilegio”",
-   "summary": "“L’istruzione è un diritto costituzionale, non un privilegio riservato a chi può permetterselo. Non possiamo accettare che il reddito di una famiglia, il luogo in cui si nasce o le condizioni economi…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/festival-delle-regioni-miglietta-listruzione-e-un-diritto-non-un-privilegio/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-10-26T18:04:58+00:00"
-  },
-  {
-   "id": "8ebee2e75ee1",
-   "title": "Volley A3: bene Capo di Leuca, cadono Galatone e Taviano",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/DSC07153-2-1024x683.jpg",
-   "url": "https://trnews.it/2026/10/26/volley-a3-bene-capo-di-leuca-cadono-galatone-e-taviano",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T17:45:24+00:00"
-  },
-  {
-   "id": "58adc28fce19",
-   "title": "Bari, prostituzione minorile, condannato a un anno e 4 mesi l’avvocato leccese Chiriatti",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/palazzo-giustizia-bari-2_d0.jpg",
-   "url": "https://trnews.it/2026/10/26/bari-prostituzione-minorile-condannato-a-un-anno-e-4-mesi-lavvocato-leccese-chiriatti",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T17:29:20+00:00"
-  },
-  {
-   "id": "9db24a4dfe18",
-   "title": "Scontro sulla statale 275: cinque feriti e lunghe code",
-   "summary": "SALENTO – Un grave scontro stradale si è verificato ieri sera, poco prima delle 19:30, lungo la statale 275, a pochi chilometri dal centro abitato di Montesano Salentino. Nel bilancio complessivo si…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/Corriere-salentino-4-1-747x420.png",
-   "url": "https://www.corrieresalentino.it/2026/10/scontro-sulla-statale-275-cinque-feriti-e-lunghe-code/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T17:24:05+00:00"
-  },
-  {
-   "id": "56f3672fa1c0",
-   "title": "Sesso a pagamento con due ragazze minorenni in un hotel: condannato un avvocato",
-   "summary": "LECCE – Si chiude con una condanna a 1 anno e 4 mesi di reclusione (a fronte di una richiesta di 2 anni) il processo a carico dell’avvocato Leccese Stefano Chiriatti, di 58 anni, al termine del giudi…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/sesso-a-pagamento-con-due-ragazze-minorenni-in-un-hotel-condannato-un-avvocato/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-26T17:23:12+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-29T17:15:04.352326+00:00",
+   "last_ok": "2026-10-29T18:06:27.882307+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-29T17:15:04.352326+00:00",
+   "last_ok": "2026-10-29T18:06:27.882307+00:00",
    "error": null
   },
   {
@@ -2367,19 +2323,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-29T17:15:04.352326+00:00",
+   "last_ok": "2026-10-29T18:06:27.882307+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-29T17:15:04.352326+00:00",
+   "last_ok": "2026-10-29T18:06:27.882307+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-29T17:15:04.352326+00:00",
+   "last_ok": "2026-10-29T18:06:27.882307+00:00",
    "error": null
   }
  ]
