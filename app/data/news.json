@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-30T14:18:22.070569+00:00",
+ "updated_at": "2026-10-30T15:14:39.483620+00:00",
  "items": [
+  {
+   "id": "1d7555342191",
+   "title": "Lecce - Genoa: cambia il 4°uomo, Feliciani al posto di Abisso",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/feliciani-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/30/lecce-genoa-cambia-il-4uomo-feliciani-al-posto-di-abisso",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T15:01:38+00:00"
+  },
   {
    "id": "6b11ad631175",
    "title": "Sorpreso a bruciare rifiuti, arrestato in differita 53enne",
@@ -162,8 +173,8 @@
    "image": "https://wp.trnews.it/wp-content/uploads/2026/10/RUBRICA-CINECLUB-30-10-2026-1024x670.jpg",
    "url": "https://trnews.it/2026/10/30/halloween-in-sala-tra-pecore-magia-e-vampiri",
    "source": "TeleRama News",
-   "category": "Cultura",
-   "zone": "Brindisi",
+   "category": "Eventi",
+   "zone": "Lecce",
    "published_at": "2026-10-30T11:24:23+00:00"
   },
   {
@@ -220,6 +231,17 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-30T10:17:43+00:00"
+  },
+  {
+   "id": "707c17c2908e",
+   "title": "Il TAR Lecce conferma la vittoria del Sindaco Palese",
+   "summary": "Con la sentenza appena pubblicata il Giudice Amministrativo ha dichiarato irricevibile per tardività, e comunque infondato nel merito, il ricorso proposto dai consiglieri di opposizione, tra i quali…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/il-tar-lecce-conferma-la-vittoria-del-sindaco-palese/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T10:11:26+00:00"
   },
   {
    "id": "b79d252cbbe5",
@@ -2321,41 +2343,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-27T15:20:06+00:00"
-  },
-  {
-   "id": "c20a0c2b1461",
-   "title": "Omicidio Margherito, chiesto l'ergastolo",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-96-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/27/omicidio-margherito-chiesto-lergastolo",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Brindisi",
-   "published_at": "2026-10-27T14:49:09+00:00"
-  },
-  {
-   "id": "f45631f8cc6a",
-   "title": "Calciatori del Brindisi e studenti a confronto",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-94-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/27/calciatori-del-brindisi-e-studenti-a-confronto",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Brindisi",
-   "published_at": "2026-10-27T14:38:19+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-30T14:18:22.070569+00:00",
+   "last_ok": "2026-10-30T15:14:39.483620+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-30T14:18:22.070569+00:00",
+   "last_ok": "2026-10-30T15:14:39.483620+00:00",
    "error": null
   },
   {
@@ -2367,19 +2367,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-30T14:18:22.070569+00:00",
+   "last_ok": "2026-10-30T15:14:39.483620+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-30T14:18:22.070569+00:00",
+   "last_ok": "2026-10-30T15:14:39.483620+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-30T14:18:22.070569+00:00",
+   "last_ok": "2026-10-30T15:14:39.483620+00:00",
    "error": null
   }
  ]
