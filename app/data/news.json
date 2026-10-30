@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T05:08:38.602828+00:00",
+ "updated_at": "2026-10-30T06:04:59.581385+00:00",
  "items": [
   {
    "id": "a2d7cca6bf98",
@@ -2277,30 +2277,19 @@
    "category": "Cultura",
    "zone": "Lecce",
    "published_at": "2026-10-27T06:11:21+00:00"
-  },
-  {
-   "id": "1d89bf25cbec",
-   "title": "L’almanacco di oggi 27 ottobre",
-   "summary": "Il Santo del giorno: San Fiorenzo. Il proverbio di Mesciu Ronzu: Nu dire all’amicu quiggiu ca sai ca se nu bete osce te sputtaniscia crai. Significato: Non dire all’amico quello che sai che se non è…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lalmanacco-di-oggi-27-ottobre/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-27T06:00:35+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-30T05:08:38.602828+00:00",
+   "last_ok": "2026-10-30T06:04:59.581385+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-30T05:08:38.602828+00:00",
+   "last_ok": "2026-10-30T06:04:59.581385+00:00",
    "error": null
   },
   {
@@ -2312,19 +2301,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-30T05:08:38.602828+00:00",
+   "last_ok": "2026-10-30T06:04:59.581385+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-30T05:08:38.602828+00:00",
+   "last_ok": "2026-10-30T06:04:59.581385+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-30T05:08:38.602828+00:00",
+   "last_ok": "2026-10-30T06:04:59.581385+00:00",
    "error": null
   }
  ]
