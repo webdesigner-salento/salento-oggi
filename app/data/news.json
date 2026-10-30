@@ -1,6 +1,61 @@
 {
- "updated_at": "2026-10-30T17:05:30.324942+00:00",
+ "updated_at": "2026-10-30T17:58:42.384734+00:00",
  "items": [
+  {
+   "id": "c2869180a7ed",
+   "title": "Infortunio Geubbels, lesione di basso grado all'adduttore",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/geubbles.avif",
+   "url": "https://trnews.it/2026/10/30/infortunio-geubbels-lesione-di-basso-grado-alladduttore",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T17:26:03+00:00"
+  },
+  {
+   "id": "e233d919723c",
+   "title": "Taranto, il giorno della protesta: USB e studenti",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-108-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/30/taranto-il-giorno-della-protesta-usb-e-studenti",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Taranto",
+   "published_at": "2026-10-30T17:06:26+00:00"
+  },
+  {
+   "id": "30743fe4aa08",
+   "title": "Ex Ilva, la Cassazione conferma: si chiude l'area a caldo",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-107-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/30/ex-ilva-la-cassazione-conferma-si-chiude-larea-a-caldo",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Taranto",
+   "published_at": "2026-10-30T17:02:53+00:00"
+  },
+  {
+   "id": "b20ea1bd8aef",
+   "title": "Poli Bortone apre a Cateno De Luca: \"Io Sud a disposizione del progetto Sindaci d’Italia\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-30-175854-1024x629.png",
+   "url": "https://trnews.it/2026/10/30/poli-bortone-apre-a-cateno-de-luca-io-sud-a-disposizione-del-progetto-sindaci-ditalia",
+   "source": "TeleRama News",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T17:02:11+00:00"
+  },
+  {
+   "id": "b2bd3c0e0507",
+   "title": "A Taranto l'ultimo ammaina bandiera del Durand de la Penne",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-106-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/30/a-taranto-lultimo-ammaina-bandiera-del-durand-de-la-penne",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Taranto",
+   "published_at": "2026-10-30T17:01:45+00:00"
+  },
   {
    "id": "fb909d5c05d1",
    "title": "Violenza di genere nel Salento: due misure cautelari con braccialetto elettronico",
@@ -2288,52 +2343,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-27T18:05:41+00:00"
-  },
-  {
-   "id": "f83b745ceee0",
-   "title": "Ciclabili a Lecce, il confronto passa da via Balduini: piazzetta riqualificata, ma restano i nodi dei percorsi",
-   "summary": "LECCE – Il risultato si vede in via Balduini, dove una piazzetta poco valorizzata ha guadagnato verde, illuminazione e una nuova pavimentazione. Ciononostante, a Palazzo Carafa i consiglieri di oppos…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/IMG_8573-300x197.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/10/ciclabili-a-lecce-il-confronto-passa-da-via-balduini-piazzetta-riqualificata-ma-restano-i-nodi-dei-percorsi/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T17:57:05+00:00"
-  },
-  {
-   "id": "e437c95b5a60",
-   "title": "Ospedale, Pagliaro: \"No a depotenziamento, Regione ripristini il 1° livello\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/ISPEZIONE-CASARANO-PAOLO-PAGLIARO-5-e1793118724873-1024x672.jpeg",
-   "url": "https://trnews.it/2026/10/27/ospedale-pagliaro-no-a-depotenziamento-regione-ripristini-il-1-livello",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T17:32:11+00:00"
-  },
-  {
-   "id": "e5335e5e251a",
-   "title": "Halloween al Polo Biblio-Museale di Galatina: arriva “Un palazzo da brividi”",
-   "summary": "GALATINA (Lecce) – Fantasmi, storie misteriose e creature da brivido sono pronti a invadere il Polo Biblio-Museale di Galatina per un pomeriggio speciale dedicato ad Halloween. Venerdì 30 ottobre, al…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/halloween-al-polo-biblio-museale-di-galatina-arriva-un-palazzo-da-brividi/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T17:26:17+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-30T17:05:30.324942+00:00",
+   "last_ok": "2026-10-30T17:58:42.384734+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-30T17:05:30.324942+00:00",
+   "last_ok": "2026-10-30T17:58:42.384734+00:00",
    "error": null
   },
   {
@@ -2345,19 +2367,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-30T17:05:30.324942+00:00",
+   "last_ok": "2026-10-30T17:58:42.384734+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-30T17:05:30.324942+00:00",
+   "last_ok": "2026-10-30T17:58:42.384734+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-30T17:05:30.324942+00:00",
+   "last_ok": "2026-10-30T17:58:42.384734+00:00",
    "error": null
   }
  ]
