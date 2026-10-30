@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-30T16:09:12.158471+00:00",
+ "updated_at": "2026-10-30T17:05:30.324942+00:00",
  "items": [
+  {
+   "id": "fb909d5c05d1",
+   "title": "Violenza di genere nel Salento: due misure cautelari con braccialetto elettronico",
+   "summary": "SALENTO – Picchiata in auto dall’ex che le spegne persino una sigaretta sulla schiena; insultata, denigrata e minacciata di morte per mesi in un altro contesto. Due storie di violenza e sopraffazione…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/violenza-di-genere-nel-salento-due-misure-cautelari-con-braccialetto-elettronico/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-10-30T16:25:36+00:00"
+  },
+  {
+   "id": "825251786534",
+   "title": "Israele, allearsi con i cittadini palestinesi per liberarsi di Netanyahu",
+   "summary": "Un'affluenza record e 19 seggi arabi: i numeri per voltare pagina ci sono, ma il rifiuto dell'opposizione di contare i cittadini palestinesi rischia di salvare Netanyahu.",
+   "image": null,
+   "url": "https://www.valigiablu.it/elezioni-israele-netanyahu-opposizione-arabi/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-30T16:20:02+00:00"
+  },
   {
    "id": "1e747b8fb914",
    "title": "Sanità digitale, ANTHEM a Lecce: UniSalento presenta i risultati del progetto e rilancia la collaborazione con la fondazione",
@@ -112,6 +134,28 @@
    "published_at": "2026-10-30T12:57:26+00:00"
   },
   {
+   "id": "31885980de31",
+   "title": "Elicottero Croce Rossa Militare precipitato in Bosnia: fra le vittime Laura Procacci, 24enne di Andria",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/laura-procacci-sottufficiale-di-Andria-morta-in-Bosnia-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/30/elicottero-croce-rossa-militare-precipitato-in-bosnia-fra-le-vittime-laura-procacci-24enne-di-andria",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-10-30T12:47:56+00:00"
+  },
+  {
+   "id": "a8ab969b7c35",
+   "title": "Lecce-Genoa: arbitra Marchetti di Ostia Lido",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2024/12/arbitro1-e1734956134897.webp",
+   "url": "https://trnews.it/2026/10/30/lecce-genoa-arbitra-marchetti-di-ostia-lido",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T12:46:44+00:00"
+  },
+  {
    "id": "3750d436d217",
    "title": "Lecce, semina il panico tra i turisti e aggredisce i poliziotti: arrestato 28enne",
    "summary": "",
@@ -178,36 +222,14 @@
    "published_at": "2026-10-30T12:00:00+00:00"
   },
   {
-   "id": "31885980de31",
-   "title": "Elicottero Croce Rossa Militare precipitato in Bosnia: fra le vittime Laura Procacci, 24enne di Andria",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/laura-procacci-sottufficiale-di-Andria-morta-in-Bosnia-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/30/elicottero-croce-rossa-militare-precipitato-in-bosnia-fra-le-vittime-laura-procacci-24enne-di-andria",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-10-30T11:47:56+00:00"
-  },
-  {
-   "id": "a8ab969b7c35",
-   "title": "Lecce-Genoa: arbitra Marchetti di Ostia Lido",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2024/12/arbitro1-e1734956134897.webp",
-   "url": "https://trnews.it/2026/10/30/lecce-genoa-arbitra-marchetti-di-ostia-lido",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T11:46:44+00:00"
-  },
-  {
    "id": "880c7c93f1b4",
    "title": "Halloween in sala: tra pecore, magia e vampiri",
    "summary": "",
    "image": "https://wp.trnews.it/wp-content/uploads/2026/10/RUBRICA-CINECLUB-30-10-2026-1024x670.jpg",
    "url": "https://trnews.it/2026/10/30/halloween-in-sala-tra-pecore-magia-e-vampiri",
    "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Lecce",
+   "category": "Cultura",
+   "zone": "Brindisi",
    "published_at": "2026-10-30T11:24:23+00:00"
   },
   {
@@ -2299,30 +2321,19 @@
    "category": "Cultura",
    "zone": "Lecce",
    "published_at": "2026-10-27T17:26:17+00:00"
-  },
-  {
-   "id": "48db25a37126",
-   "title": "Dodicenne aggredita coi cani, concluse le indagini sulle due sorelle minori coinvolte",
-   "summary": "PORTO CESAREO (Lecce) – Lesioni commesse in danno di una 12enne, aggravate dall’aver agito in più persone riunite e con l’impiego di due cani di grossa taglia. Questa l’accusa formulata dalla Procura…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/dodicenne-aggredita-coi-cani-concluse-le-indagini-sulle-due-sorelle-minori-coinvolte/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T17:02:36+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-30T16:09:12.158471+00:00",
+   "last_ok": "2026-10-30T17:05:30.324942+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-30T16:09:12.158471+00:00",
+   "last_ok": "2026-10-30T17:05:30.324942+00:00",
    "error": null
   },
   {
@@ -2334,19 +2345,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-30T16:09:12.158471+00:00",
+   "last_ok": "2026-10-30T17:05:30.324942+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-30T16:09:12.158471+00:00",
+   "last_ok": "2026-10-30T17:05:30.324942+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-30T16:09:12.158471+00:00",
+   "last_ok": "2026-10-30T17:05:30.324942+00:00",
    "error": null
   }
  ]
