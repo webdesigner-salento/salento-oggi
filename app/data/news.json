@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-10-30T15:14:39.483620+00:00",
+ "updated_at": "2026-10-30T16:09:12.158471+00:00",
  "items": [
+  {
+   "id": "1e747b8fb914",
+   "title": "Sanità digitale, ANTHEM a Lecce: UniSalento presenta i risultati del progetto e rilancia la collaborazione con la fondazione",
+   "summary": "LECCE – Dare continuità all’accordo, con nuove progettualità e nuove risorse. È quanto emerso oggi, venerdì 30 ottobre, nella sala conferenze del Rettorato, durante l’incontro “Visioni innovative e s…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/sanita-digitale-anthem-a-lecce-unisalento-presenta-i-risultati-del-progetto-e-rilancia-la-collaborazione-con-la-fondazione/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T15:58:13+00:00"
+  },
+  {
+   "id": "0f3aa67eb4ee",
+   "title": "Maxi furto da 160mila euro ai danni di un’anziana a Campi Salentina: nei guai anche il presunto riciclatore",
+   "summary": "CAMPI SALENTINA (Lecce) – Non si sono fermate al blitz di inizio ottobre le indagini dei Carabinieri della Stazione di Campi Salentina sul colpo milionario messo a segno lo scorso 2 agosto nell’abita…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/1ac113b4-84fc-4186-b852-f358f22d82d3-187x300.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/10/maxi-furto-da-160mila-euro-ai-danni-di-unanziana-a-campi-salentina-nei-guai-anche-il-presunto-riciclatore/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T15:30:54+00:00"
+  },
+  {
+   "id": "0b3bafb045ae",
+   "title": "Pagliaro: “Tac rotta, esame rimandato a data da destinarsi. Pazienti oncologici abbandonati, la ASL trovi subito alternative”",
+   "summary": "“La Tac è rotta, l’appuntamento è rimandato a data da destinarsi. È la comunicazione arrivata oggi ai pazienti oncologici che avrebbero dovuto sottoporsi all’esame nella giornata di domani. Un avviso…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/pagliaro-tac-rotta-esame-rimandato-a-data-da-destinarsi-pazienti-oncologici-abbandonati-la-asl-trovi-subito-alternative/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-10-30T15:25:44+00:00"
+  },
   {
    "id": "1d7555342191",
    "title": "Lecce - Genoa: cambia il 4°uomo, Feliciani al posto di Abisso",
@@ -352,6 +385,17 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-30T08:00:59+00:00"
+  },
+  {
+   "id": "1f917e18e3df",
+   "title": "Tentata rapina al Conad di Parabita: bandito armato irrompe nel supermercato ma la cassiera non cede e lo mette in fuga",
+   "summary": "Tensione e attimi di paura nella serata di ieri a Parabita, a ridosso dell’orario di chiusura. Due malviventi sono arrivati a bordo di uno scooter nei pressi del supermercato Conad di via Bovio per m…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/tentata-rapina-al-conad-di-parabita-bandito-armato-irrompe-nel-supermercato-ma-la-cassiera-non-cede-e-lo-mette-in-fuga/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T08:00:50+00:00"
   },
   {
    "id": "d19838a27284",
@@ -2266,96 +2310,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-27T17:02:36+00:00"
-  },
-  {
-   "id": "39d48032af4e",
-   "title": "Strisce blu, Poli Bortone apre al Codacons: “Valutiamo le proposte”. Ma nei quartieri la protesta continua",
-   "summary": "LECCE – La maggioranza, dopo ave concesso i 15 minuti gratis e lo stop del pagamento sui parcheggi comunali delle periferie dalle 14 alle 16, ora prova ad aprire un dialogo con chi contesta. La sinda…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/strisce-blu-poli-bortone-apre-al-codacons-valutiamo-le-proposte-ma-nei-quartieri-la-protesta-continua/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T16:01:09+00:00"
-  },
-  {
-   "id": "f68ed57ef3f8",
-   "title": "GEN V, ultimi giorni per candidarsi al Premio e alla Call giovani: scadenza il 31 ottobre",
-   "summary": "LECCE – Ultimi giorni per candidarsi al Premio GEN V 2026 e alla Call giovani “Le idee diventano azioni”, le due iniziative promosse nell’ambito di GEN V – Generazione Volontariato per valorizzare l’…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/gen-v-ultimi-giorni-per-candidarsi-al-premio-e-alla-call-giovani-scadenza-il-31-ottobre/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T15:59:23+00:00"
-  },
-  {
-   "id": "32727eeb0cd9",
-   "title": "Taranto, i Giochi del Mediterraneo visti dall'obiettivo dei fotografi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-98-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/27/taranto-i-giochi-del-mediterraneo-visti-dallobiettivo-dei-fotografi",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Taranto",
-   "published_at": "2026-10-27T15:48:40+00:00"
-  },
-  {
-   "id": "957ba890d0ca",
-   "title": "Taranto. Droga, armi e usura: sgominate 3 piazze di spaccio",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-97-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/27/taranto-droga-armi-e-usura-sgominate-3-piazze-di-spaccio",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Taranto",
-   "published_at": "2026-10-27T15:47:38+00:00"
-  },
-  {
-   "id": "612401400da0",
-   "title": "Porto Cesareo, 12enne aggredita con i rottweiler: chiuse le indagini su due sorelle",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/san-cesareo-dodicenne-azzannata-cane-1024x655.jpg",
-   "url": "https://trnews.it/2026/10/27/porto-cesareo-12enne-aggredita-con-i-rottweiler-chiuse-le-indagini-su-due-sorelle",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T15:40:06+00:00"
-  },
-  {
-   "id": "2c177b5a53b1",
-   "title": "Liste d’attesa, Forza Italia: “I pugliesi rinunciano alle cure, triste record nazionale”",
-   "summary": "“Puglia record in Italia per rinunce alle cure a causa delle liste d’attesa: una gran bella medaglia al demerito per il centrosinistra che guida la Puglia da quasi 22 anni. Gli artefici dello smantel…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/liste-dattesa-forza-italia-i-pugliesi-rinunciano-alle-cure-triste-record-nazionale/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-10-27T15:30:10+00:00"
-  },
-  {
-   "id": "c444e7270d71",
-   "title": "Mistero a Torre Rinalda, uomo di 78 anni trovato morto in un pozzo",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/88ec8ec7-80dd-46c8-9cfe-8cb966209222-e1793111905796-1024x770.jpg",
-   "url": "https://trnews.it/2026/10/27/mistero-a-torre-rinalda-rinvenuto-uomo-senza-vita-in-un-pozzo",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T15:20:06+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-30T15:14:39.483620+00:00",
+   "last_ok": "2026-10-30T16:09:12.158471+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-30T15:14:39.483620+00:00",
+   "last_ok": "2026-10-30T16:09:12.158471+00:00",
    "error": null
   },
   {
@@ -2367,19 +2334,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-30T15:14:39.483620+00:00",
+   "last_ok": "2026-10-30T16:09:12.158471+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-30T15:14:39.483620+00:00",
+   "last_ok": "2026-10-30T16:09:12.158471+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-30T15:14:39.483620+00:00",
+   "last_ok": "2026-10-30T16:09:12.158471+00:00",
    "error": null
   }
  ]
