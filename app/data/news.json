@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-30T21:01:55.215259+00:00",
+ "updated_at": "2026-10-30T21:56:50.736636+00:00",
  "items": [
+  {
+   "id": "79d2acb9f88b",
+   "title": "Rotary Club Lecce Sud, oggi Giornata del Risparmio in Prefettura con gli studenti",
+   "summary": "Per il secondo anno consecutivo, il Rotary Club Lecce Sud ha organizzato, in occasione della Giornata Mondiale del Risparmio, un Seminario di educazione finanziaria, destinato soprattutto alle nuove…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/rotary-club-lecce-sud-oggi-giornata-del-risparmio-in-prefettura-con-gli-studenti/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T21:47:39+00:00"
+  },
   {
    "id": "85c29ebcb7cc",
    "title": "Si è spento Franco Buscicchio , aveva 65 anni",
@@ -2294,13 +2305,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-30T21:01:55.215259+00:00",
+   "last_ok": "2026-10-30T21:56:50.736636+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-30T21:01:55.215259+00:00",
+   "last_ok": "2026-10-30T21:56:50.736636+00:00",
    "error": null
   },
   {
@@ -2312,19 +2323,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-30T21:01:55.215259+00:00",
+   "last_ok": "2026-10-30T21:56:50.736636+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-30T21:01:55.215259+00:00",
+   "last_ok": "2026-10-30T21:56:50.736636+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-30T21:01:55.215259+00:00",
+   "last_ok": "2026-10-30T21:56:50.736636+00:00",
    "error": null
   }
  ]
