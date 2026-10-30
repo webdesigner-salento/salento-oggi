@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T22:57:40.434706+00:00",
+ "updated_at": "2026-10-30T23:23:28.153550+00:00",
  "items": [
   {
    "id": "79d2acb9f88b",
@@ -360,8 +360,8 @@
    "image": "https://wp.trnews.it/wp-content/uploads/2026/10/RUBRICA-CINECLUB-30-10-2026-1024x670.jpg",
    "url": "https://trnews.it/2026/10/30/halloween-in-sala-tra-pecore-magia-e-vampiri",
    "source": "TeleRama News",
-   "category": "Cultura",
-   "zone": "Brindisi",
+   "category": "Eventi",
+   "zone": "Lecce",
    "published_at": "2026-10-30T11:24:23+00:00"
   },
   {
@@ -2277,30 +2277,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-28T05:02:01+00:00"
-  },
-  {
-   "id": "fb1f5c52d1f5",
-   "title": "“Ciuccio che sparla di tutti”, offese social a un avvocato: condanna confermata e sentenza parzialmente riformata",
-   "summary": "RACALE (Lecce) – Una vicenda giudiziaria con un avvocato coinvolto. L’intera inchiesta trae origine da un post su Facebook di un imprenditore di Racale: si parlava di questioni amministrative relativ…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/ciuccio-che-sparla-di-tutti-offese-social-a-un-avvocato-condanna-confermata-e-sentenza-parzialmente-riformata/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T22:59:31+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-30T22:57:40.434706+00:00",
+   "last_ok": "2026-10-30T23:23:28.153550+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-30T22:57:40.434706+00:00",
+   "last_ok": "2026-10-30T23:23:28.153550+00:00",
    "error": null
   },
   {
@@ -2312,19 +2301,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-30T22:57:40.434706+00:00",
+   "last_ok": "2026-10-30T23:23:28.153550+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-30T22:57:40.434706+00:00",
+   "last_ok": "2026-10-30T23:23:28.153550+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-30T22:57:40.434706+00:00",
+   "last_ok": "2026-10-30T23:23:28.153550+00:00",
    "error": null
   }
  ]
