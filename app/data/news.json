@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T04:10:50.489664+00:00",
+ "updated_at": "2026-10-30T05:08:38.602828+00:00",
  "items": [
   {
    "id": "a2d7cca6bf98",
@@ -2288,30 +2288,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-27T06:00:35+00:00"
-  },
-  {
-   "id": "fecf5d6f2251",
-   "title": "La ricetta del giorno: Ciambella all’arancia",
-   "summary": "Ingredienti 3 uova 160 gr di zucchero 280 gr di farina 130 ml di succo di arancia Scorza grattugiata di 1 arancia 130 ml di olio di semi 1 bustina di lievito 1 bustina di vanillina Zucchero a velo Pr…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/la-ricetta-del-giorno-ciambella-allarancia/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-27T05:03:37+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-30T04:10:50.489664+00:00",
+   "last_ok": "2026-10-30T05:08:38.602828+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-30T04:10:50.489664+00:00",
+   "last_ok": "2026-10-30T05:08:38.602828+00:00",
    "error": null
   },
   {
@@ -2323,19 +2312,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-30T04:10:50.489664+00:00",
+   "last_ok": "2026-10-30T05:08:38.602828+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-30T04:10:50.489664+00:00",
+   "last_ok": "2026-10-30T05:08:38.602828+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-30T04:10:50.489664+00:00",
+   "last_ok": "2026-10-30T05:08:38.602828+00:00",
    "error": null
   }
  ]
