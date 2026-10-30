@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-10-30T11:03:52.201406+00:00",
+ "updated_at": "2026-10-30T12:03:33.244131+00:00",
  "items": [
+  {
+   "id": "6f7b4fad6be5",
+   "title": "Ucraina e Russia si preparano alla battaglia decisiva nel Donbas",
+   "summary": "La battaglia nel Donbas verso il suo culmine: la tenuta della \"cintura delle fortezze\", le manovre di Kyiv contro le infiltrazioni russe e le incognite dell'inverno.",
+   "image": null,
+   "url": "https://www.valigiablu.it/ucraina-russia-battaglia-donbas/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-30T12:00:00+00:00"
+  },
+  {
+   "id": "880c7c93f1b4",
+   "title": "Halloween in sala: tra pecore, magia e vampiri",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/RUBRICA-CINECLUB-30-10-2026-1024x670.jpg",
+   "url": "https://trnews.it/2026/10/30/halloween-in-sala-tra-pecore-magia-e-vampiri",
+   "source": "TeleRama News",
+   "category": "Cultura",
+   "zone": "Brindisi",
+   "published_at": "2026-10-30T11:24:23+00:00"
+  },
+  {
+   "id": "5c2bfcd36bed",
+   "title": "Lecce Primavera, Vitale in Nazionale",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/07/Schipa-all-Primavera-ok.jpg",
+   "url": "https://trnews.it/2026/10/30/lecce-primavera-vitale-in-nazionale",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T11:12:46+00:00"
+  },
   {
    "id": "6a50eb9631d2",
    "title": "Torna in azione la banda dei salumi e formaggi, preso di mira un altro discount in provincia",
@@ -2255,63 +2288,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-27T12:25:02+00:00"
-  },
-  {
-   "id": "843ec2c3ed4a",
-   "title": "La strage di suolo continua. Nel 2025 sfondata la quota di 10mila ettari consumati",
-   "summary": "Niente da fare, ancora dati da paura per il consumo di suolo in Italia. Nessuna siccità, nessuna alluvione, nessuna frana, nessuna pietà per le morti premature nelle città diventate isole di calore r…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/darrel-louise-almanzor-X81RRQCCgv0-unsplash.jpg",
-   "url": "https://altreconomia.it/la-strage-di-suolo-continua-nel-2025-sfondata-la-quota-di-10mila-ettari-consumati/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-27T12:00:38+00:00"
-  },
-  {
-   "id": "eed60499cced",
-   "title": "Lecce, intervento chirurgico riuscito per Ivan Ilić",
-   "summary": "LECCE – L’U.S. Lecce ha comunicato che Ivan Ilić è stato sottoposto nella mattinata odierna a un intervento chirurgico per trattare la lesione miotendinea del retto femorale sinistro, accompagnata da…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lecce-intervento-chirurgico-riuscito-per-ivan-ilic/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T11:58:05+00:00"
-  },
-  {
-   "id": "698cd11460c8",
-   "title": "Silvia Carofalo a Piazza Giallorossa: \"Nove punti un buon bottino, squadra in crescita\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot_20261027_031150_Instagram-1024x583.jpg",
-   "url": "https://trnews.it/2026/10/27/silvia-carofalo-a-piazza-giallorossa-nove-punti-un-buon-bottino-squadra-in-crescita",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T11:22:54+00:00"
-  },
-  {
-   "id": "3a6b8108a7e0",
-   "title": "“No alla militarizzazione della scuola salentina”. Denuncia della Flc: “Tentativi di ‘arruolamento’ tra i banchi”",
-   "summary": "“Nessuno spazio per la cultura delle armi dove si costruisce il futuro delle nuove generazioni”. La Flc Cgil denuncia il tentativo di penetrazione della propaganda militare nelle scuole salentine. La…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/no-alla-militarizzazione-della-scuola-salentina-denuncia-della-flc-tentativi-di-arruolamento-tra-i-banchi/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-27T11:13:54+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-30T11:03:52.201406+00:00",
+   "last_ok": "2026-10-30T12:03:33.244131+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-30T11:03:52.201406+00:00",
+   "last_ok": "2026-10-30T12:03:33.244131+00:00",
    "error": null
   },
   {
@@ -2323,19 +2312,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-30T11:03:52.201406+00:00",
+   "last_ok": "2026-10-30T12:03:33.244131+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-30T11:03:52.201406+00:00",
+   "last_ok": "2026-10-30T12:03:33.244131+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-30T11:03:52.201406+00:00",
+   "last_ok": "2026-10-30T12:03:33.244131+00:00",
    "error": null
   }
  ]
