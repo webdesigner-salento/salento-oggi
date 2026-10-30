@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-10-30T13:23:39.745383+00:00",
+ "updated_at": "2026-10-30T14:18:22.070569+00:00",
  "items": [
+  {
+   "id": "6b11ad631175",
+   "title": "Sorpreso a bruciare rifiuti, arrestato in differita 53enne",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/07/CARCERE.jpg",
+   "url": "https://trnews.it/2026/10/30/sorpreso-a-bruciare-rifiuti-arrestato-in-differita-53enne",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T13:57:10+00:00"
+  },
+  {
+   "id": "a8ee70ff8a07",
+   "title": "Omicidio Mazzotta, nuove perizie e sopralluoghi",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_4355-1024x543.jpeg",
+   "url": "https://trnews.it/2026/10/30/omicidio-mazzotta-nuove-perizie-e-sopralluoghi",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T13:53:38+00:00"
+  },
+  {
+   "id": "8752cb6250a7",
+   "title": "Stop a carovita e riarmo, in centinaia sfilano in corteo a Lecce",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/sciopero-803x1024.jpeg",
+   "url": "https://trnews.it/2026/10/30/stop-a-carovita-e-riarmo-in-centinaia-sfilano-in-corteo-a-lecce",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T13:21:54+00:00"
+  },
   {
    "id": "5ae46da88cb9",
    "title": "L’Osservatorio Milex ha provato a calcolare l’ammontare degli aiuti dell’Italia all’Ucraina",
@@ -2310,41 +2343,19 @@
    "category": "Altro",
    "zone": "Brindisi",
    "published_at": "2026-10-27T14:38:19+00:00"
-  },
-  {
-   "id": "e6110450c20f",
-   "title": "Melissano, furto nella farmacia comunale: rubato il registratore di cassa",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/07/carabinieri-1.jpg",
-   "url": "https://trnews.it/2026/10/27/melissano-furto-nella-farmacia-comunale-rubato-il-registratore-di-cassa",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T14:05:10+00:00"
-  },
-  {
-   "id": "6adae212dbaf",
-   "title": "La delegazione europea fa tappa a Brindisi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-95-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/27/la-delegazione-europea-fa-tappa-a-brindisi",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Brindisi",
-   "published_at": "2026-10-27T13:44:15+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-30T13:23:39.745383+00:00",
+   "last_ok": "2026-10-30T14:18:22.070569+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-30T13:23:39.745383+00:00",
+   "last_ok": "2026-10-30T14:18:22.070569+00:00",
    "error": null
   },
   {
@@ -2356,19 +2367,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-30T13:23:39.745383+00:00",
+   "last_ok": "2026-10-30T14:18:22.070569+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-30T13:23:39.745383+00:00",
+   "last_ok": "2026-10-30T14:18:22.070569+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-30T13:23:39.745383+00:00",
+   "last_ok": "2026-10-30T14:18:22.070569+00:00",
    "error": null
   }
  ]
