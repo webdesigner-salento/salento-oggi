@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T22:24:18.304375+00:00",
+ "updated_at": "2026-10-30T22:57:40.434706+00:00",
  "items": [
   {
    "id": "79d2acb9f88b",
@@ -2288,30 +2288,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-27T22:59:31+00:00"
-  },
-  {
-   "id": "6bee53eb440a",
-   "title": "Coppa Italia: il Potenza elimina il Bari",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/FB_IMG_1793134488842-1-1024x713.jpg",
-   "url": "https://trnews.it/2026/10/27/coppa-italia-il-potenza-elimina-il-bari",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-10-27T22:42:23+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-30T22:24:18.304375+00:00",
+   "last_ok": "2026-10-30T22:57:40.434706+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-30T22:24:18.304375+00:00",
+   "last_ok": "2026-10-30T22:57:40.434706+00:00",
    "error": null
   },
   {
@@ -2323,19 +2312,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-30T22:24:18.304375+00:00",
+   "last_ok": "2026-10-30T22:57:40.434706+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-30T22:24:18.304375+00:00",
+   "last_ok": "2026-10-30T22:57:40.434706+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-30T22:24:18.304375+00:00",
+   "last_ok": "2026-10-30T22:57:40.434706+00:00",
    "error": null
   }
  ]
