@@ -1,6 +1,50 @@
 {
- "updated_at": "2026-10-30T10:12:46.953880+00:00",
+ "updated_at": "2026-10-30T11:03:52.201406+00:00",
  "items": [
+  {
+   "id": "6a50eb9631d2",
+   "title": "Torna in azione la banda dei salumi e formaggi, preso di mira un altro discount in provincia",
+   "summary": "Carmiano (Lecce) – La banda dei salumi e formaggi è tornata in azione. E ad essere preso di mira, la notte scorsa, è stato ancora un discount, nel caso specifico il supermercato Eurospin di via Firen…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/torna-in-azione-la-banda-dei-salumi-e-formaggi-preso-di-mira-un-altro-discount-in-provincia/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T10:38:22+00:00"
+  },
+  {
+   "id": "d6157d88eb91",
+   "title": "Tre assalti nella notte nel nord Salento: ladri in fuga, le telecamere li riprendono",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/malviventi.jpg",
+   "url": "https://trnews.it/2026/10/30/tre-assalti-nella-notte-nel-nord-salento-ladri-in-fuga-le-telecamere-li-riprendono",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T10:29:09+00:00"
+  },
+  {
+   "id": "a1a292d1566d",
+   "title": "Lecce, il corteo attraversa il centro: sciopero contro carovita e riarmo. Lavoratori e studenti uniti nella protesta",
+   "summary": "LECCE – Da Porta Napoli verso piazza Sant’Oronzo, la protesta attraversa la città e porta nelle strade del centro le rivendicazioni dello sciopero generale di oggi, venerdì 30 ottobre. Il corteo è pa…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lecce-il-corteo-attraversa-il-centro-sciopero-contro-carovita-e-riarmo-lavoratori-e-studenti-uniti-nella-protesta/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T10:21:07+00:00"
+  },
+  {
+   "id": "38445eaa7d16",
+   "title": "Meteo del weekend di Halloween nel Salento: previsioni, temperature e cosa aspettarsi",
+   "summary": "Puglia – Sabato. Giornata all’insegna del tempo instabile con molte nuvole sia al mattino che al pomeriggio associate a piogge e acquazzoni sparsi. Ancora fenomeni possibili in serata e nottata speci…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/meteo-del-weekend-di-halloween-nel-salento-previsioni-temperature-e-cosa-aspettarsi/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T10:17:43+00:00"
+  },
   {
    "id": "b79d252cbbe5",
    "title": "Sabato 31 ottobre ritorna al Raffo Parco Gondar di Gallipoli la notte di Halloween più terrificante e attesa di Puglia",
@@ -2255,63 +2299,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-27T11:13:54+00:00"
-  },
-  {
-   "id": "4cf8b2963dee",
-   "title": "Le Migliori Pizzerie d’Italia 2027 del Gambero Rosso. A Bob Alchimia a Spicchi il premio Pizzeria dell’anno",
-   "summary": "Roma, 26 ottobre 2026 – È Bob Alchimia a Spicchi di Montepaone, in provincia di Catanzaro, la Pizzeria dell’anno per la nuova guida Le Migliori Pizzerie d’Italia 2027 del Gambero Rosso. Il progetto d…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/le-migliori-pizzerie-ditalia-2027-del-gambero-rosso-a-bob-alchimia-a-spicchi-il-premio-pizzeria-dellanno/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-27T10:51:21+00:00"
-  },
-  {
-   "id": "ec45992ef1ae",
-   "title": "A “Con la mia voce” di Monica Sabella scrittrice salentina la Menzione Speciale del Premio Microeditoria di Qualità – Sezione Ragazzi",
-   "summary": "Monica Sabella, scrittrice di Alessano (Lecce), ha ottenuto la Menzione Speciale nell’ambito del prestigioso Premio Microeditoria di Qualità – Sezione Ragazzi. Si aggiunge così un tassello importante…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/a-con-la-mia-voce-di-monica-sabella-scrittrice-salentina-la-menzione-speciale-del-premio-microeditoria-di-qualita-sezione-ragazzi/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T10:36:41+00:00"
-  },
-  {
-   "id": "d2f332b03429",
-   "title": "Meteo di domani 28 ottobre nel Salento: previsioni, temperature e cosa aspettarsi",
-   "summary": "Puglia – Condizioni di tempo asciutto nel corso della giornata su tutta la regione con cieli che saranno sereni o poco nuvolosi sia al mattino che al pomeriggio. In serata e nottata si rinnovano cond…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/meteo-di-domani-28-ottobre-nel-salento-previsioni-temperature-e-cosa-aspettarsi/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T10:30:39+00:00"
-  },
-  {
-   "id": "c3aa37f905b1",
-   "title": "Questa sera su Tele Rama Lecce-Juventus",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG-20261025-WA0016-1024x682.jpg",
-   "url": "https://trnews.it/2026/10/27/questa-sera-su-tele-rama-lecce-juventus",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T10:24:12+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-30T10:12:46.953880+00:00",
+   "last_ok": "2026-10-30T11:03:52.201406+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-30T10:12:46.953880+00:00",
+   "last_ok": "2026-10-30T11:03:52.201406+00:00",
    "error": null
   },
   {
@@ -2323,19 +2323,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-30T10:12:46.953880+00:00",
+   "last_ok": "2026-10-30T11:03:52.201406+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-30T10:12:46.953880+00:00",
+   "last_ok": "2026-10-30T11:03:52.201406+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-30T10:12:46.953880+00:00",
+   "last_ok": "2026-10-30T11:03:52.201406+00:00",
    "error": null
   }
  ]
