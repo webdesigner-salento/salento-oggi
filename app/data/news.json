@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-30T19:33:42.371614+00:00",
+ "updated_at": "2026-10-30T20:23:25.445651+00:00",
  "items": [
+  {
+   "id": "f3d6745d81f2",
+   "title": "Zucca, oltre Halloween c’è un tesoro per la salute: il professor Minelli spiega perché non buttare polpa e semi",
+   "summary": "Prima di diventare una lanterna da esporre per Halloween, la zucca merita un posto in cucina. A richiamare l’attenzione sul valore di polpa e semi, spesso eliminati durante la preparazione delle deco…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2021/04/minelli-300x170.jpg",
+   "url": "https://www.corrieresalentino.it/2026/10/zucca-oltre-halloween-ce-un-tesoro-per-la-salute-il-professor-minelli-spiega-perche-non-buttare-polpa-e-semi/",
+   "source": "Corriere Salentino",
+   "category": "Salute",
+   "zone": "Salento",
+   "published_at": "2026-10-30T19:56:49+00:00"
+  },
   {
    "id": "d3b1623fcd7c",
    "title": "Festival Organistico del Salento: nella Basilica di Santa Croce a Lecce il concerto “Soli Deo Gloria” con Tiziana De Vito e Gianluigi Corsano",
@@ -2255,41 +2266,19 @@
    "category": "Sport",
    "zone": "Salento",
    "published_at": "2026-10-27T22:42:23+00:00"
-  },
-  {
-   "id": "93ededee3225",
-   "title": "Gallipoli, lo spettacolo della 18ª Rotary Cup: trionfa “2alfa2” in una domenica di sole e solidarietà",
-   "summary": "Una splendida giornata di sole e un vento di media intensità hanno incorniciato, domenica 25 ottobre, la 18ª edizione della Rotary Cup Governor, lo storico appuntamento della vela d’altura salentina…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/gallipoli-lo-spettacolo-della-18a-rotary-cup-trionfa-2alfa2-in-una-domenica-di-sole-e-solidarieta/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T19:49:49+00:00"
-  },
-  {
-   "id": "2a34fdc8e645",
-   "title": "Droga nascosta nell’auto e in un appartamento: tre arresti nel Basso Salento",
-   "summary": "SALENTO – Cocaina e hashish suddivisi in dosi, denaro contante e materiale per il confezionamento. Tre persone, un uomo di 44 anni, una donna di 43 e un giovane di 23 anni, sono state arrestate dai c…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/droga-nascosta-nellauto-e-in-un-appartamento-tre-arresti-nel-basso-salento/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-10-27T19:35:03+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-30T19:33:42.371614+00:00",
+   "last_ok": "2026-10-30T20:23:25.445651+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-30T19:33:42.371614+00:00",
+   "last_ok": "2026-10-30T20:23:25.445651+00:00",
    "error": null
   },
   {
@@ -2301,19 +2290,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-30T19:33:42.371614+00:00",
+   "last_ok": "2026-10-30T20:23:25.445651+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-30T19:33:42.371614+00:00",
+   "last_ok": "2026-10-30T20:23:25.445651+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-30T19:33:42.371614+00:00",
+   "last_ok": "2026-10-30T20:23:25.445651+00:00",
    "error": null
   }
  ]
