@@ -1,6 +1,50 @@
 {
- "updated_at": "2026-10-30T08:19:13.830117+00:00",
+ "updated_at": "2026-10-30T09:14:04.847686+00:00",
  "items": [
+  {
+   "id": "407d7dd056a9",
+   "title": "Dall’8 novembre tornano i Concerti con Aperitivo al Teatro Paisiello",
+   "summary": "LECCE – I Concerti con Aperitivo tornano protagonisti nella programmazione della Camerata Musicale Salentina, storica associazione fondata nel 1970 dal M° Carlo Vitale, che da oltre cinquant’anni por…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/dall8-novembre-tornano-i-concerti-con-aperitivo-al-teatro-paisiello-3/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T08:52:16+00:00"
+  },
+  {
+   "id": "6cad449a6fa5",
+   "title": "Sabato 31 ottobre The Black Night per la rassegna Ci vuole un fiore – famiglie a teatro",
+   "summary": "NOVOLI (Lecce) – Fino a domenica 18 aprile prosegue “Ci vuole un fiore – famiglie a teatro”, la rassegna dei Teatri del Nord Salento, progetto di Factory Compagnia Transadriatica in collaborazione co…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/sabato-31-ottobre-the-black-night-per-la-rassegna-ci-vuole-un-fiore-famiglie-a-teatro/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T08:50:34+00:00"
+  },
+  {
+   "id": "3f8c7a65a22a",
+   "title": "Per Open Kids sabato 31 ottobre Halloween al Castello Carlo V di Lecce",
+   "summary": "LECCE – Con “Halloween al Castello”, Open Kids celebra, sabato 31 ottobre, la ricorrenza che anticipa la festa di Ognissanti trasformando le antiche sale in Escape Rooms per un pomeriggio fra enigmi…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/per-open-kids-sabato-31-ottobre-halloween-al-castello-carlo-v-di-lecce/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T08:37:28+00:00"
+  },
+  {
+   "id": "a1ca0d9b8ade",
+   "title": "Tradita dal nervosismo in auto nascondevano cocaina, hashish e soldi: nei guai un uomo e una donna",
+   "summary": "SPECCHIA/ALESSANO (Lecce) – Fermata in un controllo stradale alla periferia di Specchia dai carabinieri del Norm di Tricase una coppia viene trovata in possesso in auto di cocaina, hashish, e marijua…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/tradita-dal-nervosismo-in-auto-nascondevano-cocaina-hashish-e-soldi-nei-guai-un-uomo-e-una-donna/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T08:00:59+00:00"
+  },
   {
    "id": "725473536048",
    "title": "Tradita dal nervosismo in auto nascondevano cocaina, hashishe soldi: nei guai un uomo e una donna",
@@ -11,6 +55,17 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-30T08:00:59+00:00"
+  },
+  {
+   "id": "d19838a27284",
+   "title": "Estorsioni nel settore nautico, in Cassazione confermate due condanne",
+   "summary": "SALENTO – Arriva in Cassazione un’inchiesta del 2023 per estorsione con il metodo mafioso nel settore nautico di cui il Corriere Slentino ha seguito in altri articoli l’evolversi della vicenda giudiz…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/estorsioni-nel-settore-nautico-in-cassazione-confermate-due-condanne/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-10-30T08:00:43+00:00"
   },
   {
    "id": "8aa16df711f0",
@@ -66,6 +121,17 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-30T07:35:00+00:00"
+  },
+  {
+   "id": "25409b38fa1c",
+   "title": "Scatta l’allarme e arrivano vigilantes e forze dell’ordine, sventato furto in gioielleria",
+   "summary": "Squinzano (Lecce) – L’attivazione dell’allarme e l’arrivo tempestivo della pattuglia dei vigilantes e poi delle forze dell’ordine hanno sventato un tentativo di furto in gioielleria e costretto alla…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/scatta-lallarme-e-arrivano-vigilantes-e-forze-dellordine-sventato-furto-in-gioielleria/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T07:33:02+00:00"
   },
   {
    "id": "8eb3a0faa3ae",
@@ -2233,63 +2299,19 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-10-27T09:44:54+00:00"
-  },
-  {
-   "id": "bbb8c3253ba9",
-   "title": "Judo, a Maribor bronzo per Perrone",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG-20261026-WA0016-1-1024x721.jpg",
-   "url": "https://trnews.it/2026/10/27/judo-a-maribor-bronzo-per-perrone",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-10-27T08:35:57+00:00"
-  },
-  {
-   "id": "b30b61f4b7db",
-   "title": "Serie C, Il Casarano espugna lo \"Scida\": notte fonda per la Salernitana. Esonerato Cosmi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/pallone_serie_c-1024x642.avif",
-   "url": "https://trnews.it/2026/10/27/serie-c-il-casarano-espugna-lo-scida-notte-fonda-per-la-salernitana",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T08:35:54+00:00"
-  },
-  {
-   "id": "b3f4096e8808",
-   "title": "Il giorno in cui un sogno montò in sella",
-   "summary": "Il giorno in cui un sogno montò in sella di Vincenzo Candido Renna Ci sono vite che aspettano il permesso di cominciare. E altre che, un mattino, sellano un cavallo e partono. La storia di Gregorio M…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/il-giorno-in-cui-un-sogno-monto-in-sella/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Salento",
-   "published_at": "2026-10-27T08:25:07+00:00"
-  },
-  {
-   "id": "066f40105087",
-   "title": "Bari ricorda Luca Turi: una targa e un premio per il fotoreporter della Vlora",
-   "summary": "",
-   "image": "https://i.ytimg.com/vi/ZFqtIXKYvrE/hqdefault.jpg",
-   "url": "https://trnews.it/2026/10/27/bari-ricorda-luca-turi-una-targa-e-un-premio-per-il-fotoreporter-della-vlora",
-   "source": "TeleRama News",
-   "category": "Cultura",
-   "zone": "Salento",
-   "published_at": "2026-10-27T08:24:38+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-30T08:19:13.830117+00:00",
+   "last_ok": "2026-10-30T09:14:04.847686+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-30T08:19:13.830117+00:00",
+   "last_ok": "2026-10-30T09:14:04.847686+00:00",
    "error": null
   },
   {
@@ -2301,19 +2323,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-30T08:19:13.830117+00:00",
+   "last_ok": "2026-10-30T09:14:04.847686+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-30T08:19:13.830117+00:00",
+   "last_ok": "2026-10-30T09:14:04.847686+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-30T08:19:13.830117+00:00",
+   "last_ok": "2026-10-30T09:14:04.847686+00:00",
    "error": null
   }
  ]
