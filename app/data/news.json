@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-30T20:23:25.445651+00:00",
+ "updated_at": "2026-10-30T21:01:55.215259+00:00",
  "items": [
+  {
+   "id": "85c29ebcb7cc",
+   "title": "Si è spento Franco Buscicchio , aveva 65 anni",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/buschiccio-e1793391341185.jpg",
+   "url": "https://trnews.it/2026/10/30/si-e-spento-franco-buscicchio-aveva-65-anni",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T20:16:05+00:00"
+  },
+  {
+   "id": "a114b07d1267",
+   "title": "Omicidio Mazzotta, l'autopsia: colpo mortale al volto",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-10.43.10-1024x839.jpeg",
+   "url": "https://trnews.it/2026/10/30/omicidio-mazzotta-lautopsia-colpo-mortale-al-volto",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-10-30T20:12:23+00:00"
+  },
   {
    "id": "f3d6745d81f2",
    "title": "Zucca, oltre Halloween c’è un tesoro per la salute: il professor Minelli spiega perché non buttare polpa e semi",
@@ -167,6 +189,17 @@
    "published_at": "2026-10-30T15:01:38+00:00"
   },
   {
+   "id": "8752cb6250a7",
+   "title": "Stop a carovita e riarmo, in centinaia sfilano in corteo a Lecce",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/sciopero-803x1024.jpeg",
+   "url": "https://trnews.it/2026/10/30/stop-a-carovita-e-riarmo-in-centinaia-sfilano-in-corteo-a-lecce",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T14:21:54+00:00"
+  },
+  {
    "id": "6b11ad631175",
    "title": "Sorpreso a bruciare rifiuti, arrestato in differita 53enne",
    "summary": "",
@@ -189,15 +222,26 @@
    "published_at": "2026-10-30T13:53:38+00:00"
   },
   {
-   "id": "8752cb6250a7",
-   "title": "Stop a carovita e riarmo, in centinaia sfilano in corteo a Lecce",
+   "id": "3750d436d217",
+   "title": "Lecce, semina il panico tra i turisti e aggredisce i poliziotti: arrestato 28enne",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/sciopero-803x1024.jpeg",
-   "url": "https://trnews.it/2026/10/30/stop-a-carovita-e-riarmo-in-centinaia-sfilano-in-corteo-a-lecce",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Foto-Questura-1024x768.jpg",
+   "url": "https://trnews.it/2026/10/30/lecce-semina-il-panico-tra-i-turisti-e-aggredisce-i-poliziotti-arrestato-28enne",
    "source": "TeleRama News",
-   "category": "Altro",
+   "category": "Cronaca",
    "zone": "Lecce",
-   "published_at": "2026-10-30T13:21:54+00:00"
+   "published_at": "2026-10-30T13:40:49+00:00"
+  },
+  {
+   "id": "488de55e927a",
+   "title": "Taranto, serve continuità",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/08/ss-taranto-2025.jpg",
+   "url": "https://trnews.it/2026/10/30/taranto-serve-continuita",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-10-30T13:29:12+00:00"
   },
   {
    "id": "5ae46da88cb9",
@@ -255,17 +299,6 @@
    "published_at": "2026-10-30T12:46:44+00:00"
   },
   {
-   "id": "3750d436d217",
-   "title": "Lecce, semina il panico tra i turisti e aggredisce i poliziotti: arrestato 28enne",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Foto-Questura-1024x768.jpg",
-   "url": "https://trnews.it/2026/10/30/lecce-semina-il-panico-tra-i-turisti-e-aggredisce-i-poliziotti-arrestato-28enne",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T12:40:49+00:00"
-  },
-  {
    "id": "e716afeed6a7",
    "title": "Serie C, turno interessante",
    "summary": "",
@@ -275,17 +308,6 @@
    "category": "Sport",
    "zone": "Salento",
    "published_at": "2026-10-30T12:38:29+00:00"
-  },
-  {
-   "id": "488de55e927a",
-   "title": "Taranto, serve continuità",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/08/ss-taranto-2025.jpg",
-   "url": "https://trnews.it/2026/10/30/taranto-serve-continuita",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-10-30T12:29:12+00:00"
   },
   {
    "id": "80d597ddba82",
@@ -2272,13 +2294,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-30T20:23:25.445651+00:00",
+   "last_ok": "2026-10-30T21:01:55.215259+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-30T20:23:25.445651+00:00",
+   "last_ok": "2026-10-30T21:01:55.215259+00:00",
    "error": null
   },
   {
@@ -2290,19 +2312,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-30T20:23:25.445651+00:00",
+   "last_ok": "2026-10-30T21:01:55.215259+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-30T20:23:25.445651+00:00",
+   "last_ok": "2026-10-30T21:01:55.215259+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-30T20:23:25.445651+00:00",
+   "last_ok": "2026-10-30T21:01:55.215259+00:00",
    "error": null
   }
  ]
