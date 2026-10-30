@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-30T17:58:42.384734+00:00",
+ "updated_at": "2026-10-30T18:32:07.644715+00:00",
  "items": [
+  {
+   "id": "39c1ccce913f",
+   "title": "Lecce, la protesta contro le strisce blu nelle periferie cambia passo: ricorso collettivo al Tar con i residenti",
+   "summary": "LECCE – Perché far pagare il parcheggio anche in quartieri periferici, fino alle strade vicine alla tangenziale? E quali studi giustificano una scelta così estesa? Sono le domande che associazioni e…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lecce-la-protesta-contro-le-strisce-blu-nelle-periferie-cambia-passo-ricorso-collettivo-al-tar-con-i-residenti/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T18:19:01+00:00"
+  },
   {
    "id": "c2869180a7ed",
    "title": "Infortunio Geubbels, lesione di basso grado all'adduttore",
@@ -2299,63 +2310,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-27T18:34:02+00:00"
-  },
-  {
-   "id": "ec433d73e22f",
-   "title": "Contrasto al caporalato, cresce l’impatto dell’azione di Regione Puglia e Arpal in Salento: nel 2026 oltre 200 persone prese in carico",
-   "summary": "Centoquarantaquattro lavoratori avviati al lavoro e assunti tramite i Centri per l’Impiego, con un incremento dell’89,5% rispetto al 2025, e 260 attività di intermediazione tra domanda e offerta, con…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/contrasto-al-caporalato-cresce-limpatto-dellazione-di-regione-puglia-e-arpal-in-salento-nel-2026-oltre-200-persone-prese-in-carico/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-10-27T18:26:44+00:00"
-  },
-  {
-   "id": "23310cd7d13b",
-   "title": "Il Salento conquista il Milanese: pizzica, pasticciotti e cuore giallorosso per la solidarietà",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/RADUNO-MILANO.jpg",
-   "url": "https://trnews.it/2026/10/27/il-salento-conquista-il-milanese-pizzica-pasticciotti-e-cuore-giallorosso-per-la-solidarieta",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Salento",
-   "published_at": "2026-10-27T18:21:04+00:00"
-  },
-  {
-   "id": "5493d268c991",
-   "title": "Sicurezza degli impianti per i rifiuti, solo 25 comuni su 89 hanno fornito i dati alla Prefettura",
-   "summary": "Lecce – Solo 25 comuni salentini su un totale di 89 in provincia di Lecce hanno fornito le informazioni necessarie per aggiornare i Piani di emergenza. Questo per rafforzare la rete di prevenzione su…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/sicurezza-degli-impianti-per-i-rifiuti-solo-25-comuni-su-89-hanno-fornito-i-dati-alla-prefettura/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T18:13:43+00:00"
-  },
-  {
-   "id": "7c667a976c4d",
-   "title": "Caso Bertacchi, respinta la richiesta di nuove analisi sulla videosorveglianza",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/10/roberta-bertacchi-1024x538.jpg",
-   "url": "https://trnews.it/2026/10/27/caso-bertacchi-respinta-la-richiesta-di-nuove-analisi-sulla-videosorveglianza",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-27T18:05:41+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-30T17:58:42.384734+00:00",
+   "last_ok": "2026-10-30T18:32:07.644715+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-30T17:58:42.384734+00:00",
+   "last_ok": "2026-10-30T18:32:07.644715+00:00",
    "error": null
   },
   {
@@ -2367,19 +2334,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-30T17:58:42.384734+00:00",
+   "last_ok": "2026-10-30T18:32:07.644715+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-30T17:58:42.384734+00:00",
+   "last_ok": "2026-10-30T18:32:07.644715+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-30T17:58:42.384734+00:00",
+   "last_ok": "2026-10-30T18:32:07.644715+00:00",
    "error": null
   }
  ]
