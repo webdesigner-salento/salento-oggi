@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T17:21:45.516286+00:00",
+ "updated_at": "2026-10-31T17:53:45.567266+00:00",
  "items": [
   {
    "id": "5a45dcf2f5ee",
@@ -2035,41 +2035,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-28T18:48:22+00:00"
-  },
-  {
-   "id": "22375ac5c8f9",
-   "title": "Tutto pronto per l’11ª edizione del Trofeo Caroli Hotels Under 13",
-   "summary": "GALLIPOLI – Il futuro del calcio italiano torna a incontrarsi nel cuore del Salento. Dal 30 ottobre al 2 novembre 2026 si accendono i riflettori sull’11ª edizione del Trofeo Caroli Hotels Under 13, a…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/tutto-pronto-per-l11a-edizione-del-trofeo-caroli-hotels-under-13/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T17:45:50+00:00"
-  },
-  {
-   "id": "f5e36db7e6fc",
-   "title": "Ex Ilva: 7 punti, il raccordo Governo-sindacati",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-101-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/28/ex-ilva-7-punti-il-raccordo-governo-sindacati",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Taranto",
-   "published_at": "2026-10-28T17:35:00+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-31T17:21:45.516286+00:00",
+   "last_ok": "2026-10-31T17:53:45.567266+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-31T17:21:45.516286+00:00",
+   "last_ok": "2026-10-31T17:53:45.567266+00:00",
    "error": null
   },
   {
@@ -2081,19 +2059,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-31T17:21:45.516286+00:00",
+   "last_ok": "2026-10-31T17:53:45.567266+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-31T17:21:45.516286+00:00",
+   "last_ok": "2026-10-31T17:53:45.567266+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-31T17:21:45.516286+00:00",
+   "last_ok": "2026-10-31T17:53:45.567266+00:00",
    "error": null
   }
  ]
