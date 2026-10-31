@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T11:56:41.255268+00:00",
+ "updated_at": "2026-10-31T12:26:55.038576+00:00",
  "items": [
   {
    "id": "077fe2228a69",
@@ -277,6 +277,17 @@
    "published_at": "2026-10-31T04:11:00+00:00"
   },
   {
+   "id": "69bcdec5b0de",
+   "title": "A 14 anni costretta ad accudire la sorella di 6 perchè la mamma è sempre fuori di casa e chiama i carabinieri",
+   "summary": "SALENTO – “Venite non ce la faccio più. Mamma è andata via e io sono sola con mia sorella di 6 anni”. La richiesta di aiuto arrivata alla centrale operativa del Comando dei carabinieri lanciata da un…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/a-14-anni-costretta-ad-accudire-la-sorella-di-6-perche-la-mamma-e-sempre-fuori-di-casa-e-chiama-i-carabinieri/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-10-30T22:10:21+00:00"
+  },
+  {
    "id": "79d2acb9f88b",
    "title": "Rotary Club Lecce Sud, oggi Giornata del Risparmio in Prefettura con gli studenti",
    "summary": "Per il secondo anno consecutivo, il Rotary Club Lecce Sud ha organizzato, in occasione della Giornata Mondiale del Risparmio, un Seminario di educazione finanziaria, destinato soprattutto alle nuove…",
@@ -352,17 +363,6 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-30T18:19:01+00:00"
-  },
-  {
-   "id": "69bcdec5b0de",
-   "title": "A 14 anni costretta ad accudire la sorella di 6 perchè la mamma è sempre fuori di casa e chiama i carabinieri",
-   "summary": "SALENTO – “Venite non ce la faccio più. Mamma è andata via e io sono sola con mia sorella di 6 anni”. La richiesta di aiuto arrivata alla centrale operativa del Comando dei carabinieri lanciata da un…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/a-14-anni-costretta-ad-accudire-la-sorella-di-6-perche-la-mamma-e-sempre-fuori-di-casa-e-chiama-i-carabinieri/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-10-30T18:10:21+00:00"
   },
   {
    "id": "e233d919723c",
@@ -2156,52 +2156,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-28T12:35:10+00:00"
-  },
-  {
-   "id": "930e2c25a3bd",
-   "title": "Sabato 31 ottobre e domenica 1 novembre gli ultimi due appuntamenti de “Il Parco d’Autunno – La Festa delle Zucche” al Raffo Parco Gondar di Gallipoli",
-   "summary": "GALLIPOLI (Lecce) – Sabato 31 ottobre e domenica 1° novembre si terranno gli ultimi due appuntamenti de il Parco d’Autunno – La Festa delle Zucche presso il Raffo Parco Gondar di Gallipoli. A scandir…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/sabato-31-ottobre-e-domenica-1-novembre-gli-ultimi-due-appuntamenti-de-il-parco-dautunno-la-festa-delle-zucche-al-raffo-parco-gondar-di-gallipoli/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T12:14:45+00:00"
-  },
-  {
-   "id": "56ec0b4f8204",
-   "title": "San Cataldo, si lavora per i mercatini di Natale: sono i ragazzi del progetto “Il mare parla molte lingue”",
-   "summary": "SAN CATALDO (Lecce) – San Cataldo, è il caso di dirlo, ha fatto scuola. E la scuola – anzi, le scuole interessate – si sono innamorate di San Cataldo. Dove proseguono le attività del progetto “Il mar…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/san-cataldo-si-lavora-per-i-mercatini-di-natale-sono-i-ragazzi-del-progetto-il-mare-parla-molte-lingue/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T12:09:52+00:00"
-  },
-  {
-   "id": "9da1bc0e8732",
-   "title": "Fondi europei e trasferimento tecnologico: a Lecce la tappa pugliese di “SITE” con l’Università del Salento",
-   "summary": "LECCE – Come fanno università, centri di ricerca e imprese italiane a intercettare più fondi europei a gestione diretta e a trasformare i risultati della ricerca in innovazione? Se ne discuterà vener…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/fondi-europei-e-trasferimento-tecnologico-a-lecce-la-tappa-pugliese-di-site-con-luniversita-del-salento/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T11:59:00+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-31T11:56:41.255268+00:00",
+   "last_ok": "2026-10-31T12:26:55.038576+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-31T11:56:41.255268+00:00",
+   "last_ok": "2026-10-31T12:26:55.038576+00:00",
    "error": null
   },
   {
@@ -2213,19 +2180,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-31T11:56:41.255268+00:00",
+   "last_ok": "2026-10-31T12:26:55.038576+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-31T11:56:41.255268+00:00",
+   "last_ok": "2026-10-31T12:26:55.038576+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-31T11:56:41.255268+00:00",
+   "last_ok": "2026-10-31T12:26:55.038576+00:00",
    "error": null
   }
  ]
