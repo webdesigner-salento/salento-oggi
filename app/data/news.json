@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T16:58:24.304001+00:00",
+ "updated_at": "2026-10-31T17:21:45.516286+00:00",
  "items": [
   {
    "id": "5a45dcf2f5ee",
@@ -2057,30 +2057,19 @@
    "category": "Altro",
    "zone": "Taranto",
    "published_at": "2026-10-28T17:35:00+00:00"
-  },
-  {
-   "id": "c7b726aa662e",
-   "title": "Nardò, il mercato delle Quattro Colonne trasloca in via Edrisi: tre nuovi posteggi fast-food nelle marine",
-   "summary": "SANTA MARIA AL BAGNO (NARDÒ) – Il mercato delle Quattro Colonne cambia casa e lascia spazio a parcheggi ed eventi. È una delle principali novità del pacchetto di modifiche al Documento Strategico del…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/PHOTO-2026-10-28-20-18-46-300x274.jpg",
-   "url": "https://www.corrieresalentino.it/2026/10/nardo-il-mercato-delle-quattro-colonne-trasloca-in-via-edrisi-tre-nuovi-posteggi-fast-food-nelle-marine/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T17:18:02+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-31T16:58:24.304001+00:00",
+   "last_ok": "2026-10-31T17:21:45.516286+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-31T16:58:24.304001+00:00",
+   "last_ok": "2026-10-31T17:21:45.516286+00:00",
    "error": null
   },
   {
@@ -2092,19 +2081,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-31T16:58:24.304001+00:00",
+   "last_ok": "2026-10-31T17:21:45.516286+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-31T16:58:24.304001+00:00",
+   "last_ok": "2026-10-31T17:21:45.516286+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-31T16:58:24.304001+00:00",
+   "last_ok": "2026-10-31T17:21:45.516286+00:00",
    "error": null
   }
  ]
