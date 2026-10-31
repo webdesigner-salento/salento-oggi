@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-31T10:26:46.112960+00:00",
+ "updated_at": "2026-10-31T10:57:50.123508+00:00",
  "items": [
+  {
+   "id": "d00441afba70",
+   "title": "Il Salento scommette sul turismo a pedali",
+   "summary": "OTRANTO (Lecce) – Unire il Salento attraverso la bicicletta, mettendo in rete paesaggi costieri, borghi storici, patrimonio naturalistico e tradizioni locali. È questo l’obiettivo di “Benvenuto Ladri…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/il-salento-scommette-sul-turismo-a-pedali/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-31T10:49:25+00:00"
+  },
   {
    "id": "239ca01d94eb",
    "title": "Halloween, zucche a macchia di leopardo produzione giù del 15% nel barese ma + 20% nel leccese. Boom di interesse dalla padella alle sculture mostruose",
@@ -2266,41 +2277,19 @@
    "category": "Eventi",
    "zone": "Salento",
    "published_at": "2026-10-28T11:00:15+00:00"
-  },
-  {
-   "id": "e44d2f0c5c18",
-   "title": "Un 59enne morì a distanza di giorni dalla sostituzione di una valvola aortica, archiviata inchiesta per medici e infermieri",
-   "summary": "MARTANO (Lecce) – Non ci fu alcuna responsabilità sulla morte di Fernando Caracuta, un termoidraulico di 59 anni originario di Martano, a distanza di due settimane da un’operazione per la sostituzion…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/un-59enne-mori-a-distanza-di-giorni-dalla-sostituzione-di-una-valvola-aortica-archiviata-inchiesta-per-medici-e-infermieri/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T10:41:42+00:00"
-  },
-  {
-   "id": "875108a2f5e8",
-   "title": "Oleoturismo, la Puglia vola al secondo posto in Italia: il 28% dei turisti sceglie gli ulivi salentini e pugliesi",
-   "summary": "PUGLIA – La Puglia si conferma una delle mete regina del turismo legato all’oro verde. Con il 28% delle preferenze espresse dai turisti italiani, la regione conquista il secondo posto nazionale subit…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/oleoturismo-la-puglia-vola-al-secondo-posto-in-italia-il-28-dei-turisti-sceglie-gli-ulivi-salentini-e-pugliesi/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-28T10:31:50+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-31T10:26:46.112960+00:00",
+   "last_ok": "2026-10-31T10:57:50.123508+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-31T10:26:46.112960+00:00",
+   "last_ok": "2026-10-31T10:57:50.123508+00:00",
    "error": null
   },
   {
@@ -2312,19 +2301,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-31T10:26:46.112960+00:00",
+   "last_ok": "2026-10-31T10:57:50.123508+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-31T10:26:46.112960+00:00",
+   "last_ok": "2026-10-31T10:57:50.123508+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-31T10:26:46.112960+00:00",
+   "last_ok": "2026-10-31T10:57:50.123508+00:00",
    "error": null
   }
  ]
