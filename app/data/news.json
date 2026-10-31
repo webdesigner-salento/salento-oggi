@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T18:21:00.927702+00:00",
+ "updated_at": "2026-10-31T19:10:23.785864+00:00",
  "items": [
   {
    "id": "5a45dcf2f5ee",
@@ -1958,96 +1958,19 @@
    "category": "Sport",
    "zone": "Salento",
    "published_at": "2026-10-28T21:38:18+00:00"
-  },
-  {
-   "id": "bddb9479777e",
-   "title": "Dopo la condanna, Prefettura sospende dall’incarico l’assessore Guido. La difesa: “Valutiamo ricorso al Tar”",
-   "summary": "LECCE – La Prefettura di Lecce dà seguito alla condanna a 2 anni per corruzione disposta nei giorni scorsi dal tribunale nord di Napoli e certifica che si è verificata la causa di sospensione dall’in…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/dopo-la-condanna-prefettura-sospende-dallincarico-lassessore-guido-la-difesa-valutiamo-ricorso-al-tar/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T19:07:48+00:00"
-  },
-  {
-   "id": "bf93ac0eef2c",
-   "title": "Calci e pugni alla figlia 11enne autistica all’uscita dalla messa: bimba in ospedale, padre indagato",
-   "summary": "SALENTO – Avrebbe picchiato la figlia di 11 anni, affetta da un disturbo autistico, all’uscita dalla messa. Colpendola con calci e pugni tanto che la bambina fu costretta a raggiungere – il giorno do…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/calci-e-pugni-alla-figlia-11enne-autistica-alluscita-dalla-messa-di-pasqua-bimba-in-ospedale-padre-indagato/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-10-28T19:06:05+00:00"
-  },
-  {
-   "id": "eaabe3efb67c",
-   "title": "Una 20enne indagata per istigazione alle violenze nelle scuole: accertamenti per risalire alla rete di contatti",
-   "summary": "GALATONE (Lecce) – Quanto è ramificata la rete di presunti complici della 20enne di Galatone finita sotto inchiesta per le iniziative di matrice neofascista e neonazista – in particolare assalti alle…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/una-20enne-indagata-per-istigazione-alle-violenze-nelle-scuole-acceettamenti-per-risalire-alla-rete-di-contatti/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T19:04:52+00:00"
-  },
-  {
-   "id": "9249484fc2e1",
-   "title": "Minacce alla sorella e al cognato, maltrattamenti all’anziana madre: condannato a 2 anni",
-   "summary": "UGENTO (Lecce) – Stalking alla sorella e al cognato e maltrattamenti all’anziana madre. Con queste accuse, un 58enne di Ugento è stato condannato a 2 anni di reclusione al termine del processo in abb…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/minacce-alla-sorella-e-al-cognato-maltrattamenti-allanziana-madre-condananto-a-2-anni/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T19:02:08+00:00"
-  },
-  {
-   "id": "37069d569eb4",
-   "title": "Consolidato approvato, passano le modifiche alle regole della tassa di soggiorno: in aula il caso Lupiae e due cittadinanze",
-   "summary": "LECCE – Il Consiglio comunale, questo pomeriggio, ha approvato il bilancio consolidato, ha aggiornato il regolamento dell’imposta di soggiorno e ha assegnato due cittadinanze onorarie a Massimiliano…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/consolidato-approvato-passano-le-modifiche-alle-regole-della-tassa-di-soggiorno-in-aula-il-caso-lupiae-e-due-cittadinanze/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T19:01:02+00:00"
-  },
-  {
-   "id": "56460319597f",
-   "title": "Coppa Italia Eccellenza, avanti il Taurisano. Eliminato l'Ugento",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-28-200351.png",
-   "url": "https://trnews.it/2026/10/28/coppa-italia-eccellenza-avanti-il-taurisano-eliminato-lugento",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T18:48:22+00:00"
-  },
-  {
-   "id": "5a721f675230",
-   "title": "Coppa Italia, avanti il Taurisano. Eliminato l'Ugento",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-28-200351.png",
-   "url": "https://trnews.it/2026/10/28/coppa-italia-avanti-il-taurisano-eliminato-lugento",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T18:48:22+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-31T18:21:00.927702+00:00",
+   "last_ok": "2026-10-31T19:10:23.785864+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-31T18:21:00.927702+00:00",
+   "last_ok": "2026-10-31T19:10:23.785864+00:00",
    "error": null
   },
   {
@@ -2059,19 +1982,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-31T18:21:00.927702+00:00",
+   "last_ok": "2026-10-31T19:10:23.785864+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-31T18:21:00.927702+00:00",
+   "last_ok": "2026-10-31T19:10:23.785864+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-31T18:21:00.927702+00:00",
+   "last_ok": "2026-10-31T19:10:23.785864+00:00",
    "error": null
   }
  ]
