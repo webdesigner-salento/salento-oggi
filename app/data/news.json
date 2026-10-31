@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T14:59:42.126110+00:00",
+ "updated_at": "2026-10-31T15:26:09.893004+00:00",
  "items": [
   {
    "id": "2f80bd495a28",
@@ -2112,63 +2112,19 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-28T15:38:44+00:00"
-  },
-  {
-   "id": "e9382e818cb4",
-   "title": "Omicidio in Sardegna, ucciso 42enne pugliese: fermato trentenne",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/863588426_1608067923609480_8454475416173448803_n-1024x577.jpg",
-   "url": "https://trnews.it/2026/10/28/omicidio-in-sardegna-ucciso-42enne-pugliese-fermato-trentenne",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-10-28T15:23:20+00:00"
-  },
-  {
-   "id": "fea8cf41ab59",
-   "title": "Emissioni zero: l’Europa promette ma poi non mantiene",
-   "summary": "Fissare il traguardo ma cancellare la strada per raggiungerlo: come l'Europa sta allentando le regole sul clima.",
-   "image": null,
-   "url": "https://www.valigiablu.it/europa-emissioni-zero-fallimento-green-deal/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-28T15:08:43+00:00"
-  },
-  {
-   "id": "0dac8679fd49",
-   "title": "Sequestrati beni per 600mila euro ad esponente della SCU",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-99-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/28/sequestrati-beni-per-600mila-euro-ad-esponente-della-scu",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Brindisi",
-   "published_at": "2026-10-28T15:02:04+00:00"
-  },
-  {
-   "id": "afdbdbb74f3b",
-   "title": "Il Presidente della Provincia di Lecce in visita al Comando Provinciale della Guardia di Finanza",
-   "summary": "LECCE – Rafforzare il dialogo istituzionale e promuovere una sempre più efficace sinergia nella tutela della legalità economico-finanziaria. È questo il significato dell’incontro svoltosi nella matti…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/foto-1-7-629x420.jpg",
-   "url": "https://www.corrieresalentino.it/2026/10/il-presidente-della-provincia-di-lecce-in-visita-al-comando-provinciale-della-guardia-di-finanza/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T14:59:48+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-31T14:59:42.126110+00:00",
+   "last_ok": "2026-10-31T15:26:09.893004+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-31T14:59:42.126110+00:00",
+   "last_ok": "2026-10-31T15:26:09.893004+00:00",
    "error": null
   },
   {
@@ -2180,19 +2136,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-31T14:59:42.126110+00:00",
+   "last_ok": "2026-10-31T15:26:09.893004+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-31T14:59:42.126110+00:00",
+   "last_ok": "2026-10-31T15:26:09.893004+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-31T14:59:42.126110+00:00",
+   "last_ok": "2026-10-31T15:26:09.893004+00:00",
    "error": null
   }
  ]
