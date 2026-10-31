@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-31T22:20:50.148978+00:00",
+ "updated_at": "2026-10-31T22:55:36.009664+00:00",
  "items": [
+  {
+   "id": "3aadb5058d47",
+   "title": "Valtur Brindisi sconfitta a Mestre",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot_20261031_232241.jpg",
+   "url": "https://trnews.it/2026/10/31/valtur-brindisi-sconfitta-a-mestre",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-10-31T22:24:38+00:00"
+  },
   {
    "id": "51b3e9b3bee9",
    "title": "Serie C gir. C: pari del Bari, cade il Catania e colpo dell'Altamura",
@@ -1986,13 +1997,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-31T22:20:50.148978+00:00",
+   "last_ok": "2026-10-31T22:55:36.009664+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-31T22:20:50.148978+00:00",
+   "last_ok": "2026-10-31T22:55:36.009664+00:00",
    "error": null
   },
   {
@@ -2004,19 +2015,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-31T22:20:50.148978+00:00",
+   "last_ok": "2026-10-31T22:55:36.009664+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-31T22:20:50.148978+00:00",
+   "last_ok": "2026-10-31T22:55:36.009664+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-31T22:20:50.148978+00:00",
+   "last_ok": "2026-10-31T22:55:36.009664+00:00",
    "error": null
   }
  ]
