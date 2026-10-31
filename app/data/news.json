@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-10-31T19:10:23.785864+00:00",
+ "updated_at": "2026-10-31T19:55:22.158482+00:00",
  "items": [
+  {
+   "id": "51b3e9b3bee9",
+   "title": "Serie C gir. C: pari del Bari, cade il Catania e colpo dell'Altamura",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Serie_C_sky_wifi_2025-2026-701x1024.png",
+   "url": "https://trnews.it/2026/10/31/serie-c-gir-c-pari-del-bari-cade-il-catania-e-colpo-dellaltamura",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-31T19:31:36+00:00"
+  },
+  {
+   "id": "86cd59993893",
+   "title": "“Al tg devono sapere che sei morta”, minacce via Tik Tok alla ex di 16 anni. Indagato 19enne per stalking",
+   "summary": "SALENTO – Video intimi pubblicati sui social per vendicarsi della fine della relazione. E dopo la denuncia, nonostante un divieto di avvicinamento, un ragazzo di 18 anni, residente in un comune salen…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/al-tg-devono-sapere-che-sei-morta-minacce-via-tik-tok-alla-ex-di-16-anni-indagato-19enne-per-stalking/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-10-31T19:20:26+00:00"
+  },
+  {
+   "id": "dd65e93a7b3c",
+   "title": "Lecce, è il momento di reagire. Di Francesco segna la strada",
+   "summary": "LECCE – È il momento di reagire. Dopo la pesante sconfitta di Frosinone, il Lecce è chiamato a voltare pagina e a ritrovare subito fiducia e risultati. Al Via del Mare arriva un Genoa in grande condi…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/lecce-e-il-momento-di-reagire-di-francesco-segna-la-strada/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-31T19:13:16+00:00"
+  },
   {
    "id": "5a45dcf2f5ee",
    "title": "Minicar e veicoli industriali fantasma: truffa online da oltre 100mila euro",
@@ -79,6 +112,17 @@
    "published_at": "2026-10-31T14:44:43+00:00"
   },
   {
+   "id": "8361c31c6250",
+   "title": "A Carovigno quattro mesi di disagi senza bancomat",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-109-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/31/a-carovigno-quattro-mesi-di-disagi-senza-bancomat",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Brindisi",
+   "published_at": "2026-10-31T14:05:20+00:00"
+  },
+  {
    "id": "02ed223b5f8d",
    "title": "Carmiano, il bosco mai nato: 3.600 piante essiccate, scoppia la polemica",
    "summary": "",
@@ -99,6 +143,17 @@
    "category": "Cultura",
    "zone": "Salento",
    "published_at": "2026-10-31T13:42:09+00:00"
+  },
+  {
+   "id": "53e0c165d13b",
+   "title": "Serie C: parte la scoppiettante dodicesima giornata",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-c-1024x576.png",
+   "url": "https://trnews.it/2026/10/31/serie-c-parte-la-scoppiettante-dodicesima-giornata",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-31T13:23:21+00:00"
   },
   {
    "id": "2b30bb8ccb72",
@@ -132,17 +187,6 @@
    "category": "Altro",
    "zone": "Brindisi",
    "published_at": "2026-10-31T13:10:07+00:00"
-  },
-  {
-   "id": "8361c31c6250",
-   "title": "A Carovigno quattro mesi di disagi senza bancomat",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-109-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/31/a-carovigno-quattro-mesi-di-disagi-senza-bancomat",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Brindisi",
-   "published_at": "2026-10-31T13:05:20+00:00"
   },
   {
    "id": "f59a580f3c46",
@@ -187,17 +231,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-31T12:33:27+00:00"
-  },
-  {
-   "id": "53e0c165d13b",
-   "title": "Serie C: parte la scoppiettante dodicesima giornata",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-c-1024x576.png",
-   "url": "https://trnews.it/2026/10/31/serie-c-parte-la-scoppiettante-dodicesima-giornata",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-10-31T12:23:21+00:00"
   },
   {
    "id": "077fe2228a69",
@@ -1964,13 +1997,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-31T19:10:23.785864+00:00",
+   "last_ok": "2026-10-31T19:55:22.158482+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-31T19:10:23.785864+00:00",
+   "last_ok": "2026-10-31T19:55:22.158482+00:00",
    "error": null
   },
   {
@@ -1982,19 +2015,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-31T19:10:23.785864+00:00",
+   "last_ok": "2026-10-31T19:55:22.158482+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-31T19:10:23.785864+00:00",
+   "last_ok": "2026-10-31T19:55:22.158482+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-31T19:10:23.785864+00:00",
+   "last_ok": "2026-10-31T19:55:22.158482+00:00",
    "error": null
   }
  ]
