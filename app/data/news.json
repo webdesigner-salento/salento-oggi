@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-31T04:05:50.806342+00:00",
+ "updated_at": "2026-10-31T05:04:15.818947+00:00",
  "items": [
+  {
+   "id": "fb1ccf12b4a4",
+   "title": "Cinque anni di Governo Meloni e nessuna svolta economica",
+   "summary": "La quinta manovra del Governo Meloni tra tagli IRPEF, forfettario a 100 mila euro e vincoli UE: il bilancio critico di una legislatura senza vere riforme.",
+   "image": null,
+   "url": "https://www.valigiablu.it/manovra-2027-governo-meloni-bilancio-5-anni/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-10-31T04:11:00+00:00"
+  },
   {
    "id": "79d2acb9f88b",
    "title": "Rotary Club Lecce Sud, oggi Giornata del Risparmio in Prefettura con gli studenti",
@@ -2266,30 +2277,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-28T05:55:47+00:00"
-  },
-  {
-   "id": "bbf0a7cd76d1",
-   "title": "La ricetta del giorno: Scaloppine al limone",
-   "summary": "Ingredienti per 4 persone: 8 fettine di vitello pepe nero q.b. succo di limone q.b. farina q.b. 50 grammi di burro sale q.b. Procedimento Infarinate le fettine di vitello nella farina e friggetele ne…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/la-ricetta-del-giorno-scaloppine-al-limone/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-28T05:02:01+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-31T04:05:50.806342+00:00",
+   "last_ok": "2026-10-31T05:04:15.818947+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-31T04:05:50.806342+00:00",
+   "last_ok": "2026-10-31T05:04:15.818947+00:00",
    "error": null
   },
   {
@@ -2301,19 +2301,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-31T04:05:50.806342+00:00",
+   "last_ok": "2026-10-31T05:04:15.818947+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-31T04:05:50.806342+00:00",
+   "last_ok": "2026-10-31T05:04:15.818947+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-31T04:05:50.806342+00:00",
+   "last_ok": "2026-10-31T05:04:15.818947+00:00",
    "error": null
   }
  ]
