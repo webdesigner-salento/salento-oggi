@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-31T15:57:23.429047+00:00",
+ "updated_at": "2026-10-31T16:25:06.847158+00:00",
  "items": [
+  {
+   "id": "83a23c88e355",
+   "title": "Omicidio Nisi, ritrovata l'arma del delitto",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-111-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/31/omicidio-nisi-ritrovata-larma-del-delitto",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Brindisi",
+   "published_at": "2026-10-31T16:03:16+00:00"
+  },
+  {
+   "id": "ce99554bf077",
+   "title": "Ipertermia oncologica nel Salento: medici e politici a confronto",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-16.47.56-1024x768.jpeg",
+   "url": "https://trnews.it/2026/10/31/ipertermia-oncologica-nel-salento-medici-e-politici-a-confronto",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-31T15:48:22+00:00"
+  },
   {
    "id": "0d417e5daf44",
    "title": "\"Il mondo sulle spalle\": Giorgio Napolitano raccontato dal figlio",
@@ -2057,52 +2079,19 @@
    "category": "Salute",
    "zone": "Lecce",
    "published_at": "2026-10-28T16:29:10+00:00"
-  },
-  {
-   "id": "6c6f1f5703b6",
-   "title": "Venerdì 30 ottobre la rassegna Teatri a Sud si chiude con “Beyond the desert”, performance finale della residenza artistica con Aykart Tunisi",
-   "summary": "LECCE – Giunge alla sua conclusione Teatri a Sud 2026, la rassegna di Astràgali Teatro che per due mesi, in tredici appuntamenti, ha messo in dialogo visioni, progetti, buone pratiche e nuove sperime…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/venerdi-30-ottobre-la-rassegna-teatri-a-sud-si-chiude-con-beyond-the-desert-performance-finale-della-residenza-artistica-con-aykart-tunisi/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T16:10:29+00:00"
-  },
-  {
-   "id": "ed3e835acf98",
-   "title": "Giallo a Torre Rinalda, si scava nella vita del 78enne trovato morto, nelle prossime ore l’autopsia",
-   "summary": "Torre Rinalda (Lecce) – Ormai vi sarebbero pochi dubbi sul fatto che sia stato colpito con violenza e poi buttato nel pozzo ad una profondità di almeno 3 metri. Ed è lì che il corpo di Antimo Mazzott…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/sopralluogo-torre-rinalda-4-782x420.jpg",
-   "url": "https://www.corrieresalentino.it/2026/10/giallo-a-torre-rinalda-si-scava-nella-vita-del-78enne-trovato-morto-nelle-prossime-ore-lautopsia/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T16:01:27+00:00"
-  },
-  {
-   "id": "2a5330e3cf74",
-   "title": "Sospensione dell’assessore Guido, il sindaco di Lecce, Adriana Poli Bortone, assume le deleghe e lo ringrazia per il lavoro svolto",
-   "summary": "LECCE – “Prendo atto del provvedimento della Prefettura di Lecce che accerta la sospensione di Andrea Guido dalla carica di assessore. Come avevo già dichiarato, darò puntuale seguito alle determinaz…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/sospensione-dellassessore-guido-il-sindaco-di-lecce-adriana-poli-bortone-assume-le-deleghe-e-lo-ringrazia-per-il-lavoro-svolto/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T16:00:01+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-31T15:57:23.429047+00:00",
+   "last_ok": "2026-10-31T16:25:06.847158+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-31T15:57:23.429047+00:00",
+   "last_ok": "2026-10-31T16:25:06.847158+00:00",
    "error": null
   },
   {
@@ -2114,19 +2103,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-31T15:57:23.429047+00:00",
+   "last_ok": "2026-10-31T16:25:06.847158+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-31T15:57:23.429047+00:00",
+   "last_ok": "2026-10-31T16:25:06.847158+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-31T15:57:23.429047+00:00",
+   "last_ok": "2026-10-31T16:25:06.847158+00:00",
    "error": null
   }
  ]
