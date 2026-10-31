@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-10-31T14:28:30.108636+00:00",
+ "updated_at": "2026-10-31T14:59:42.126110+00:00",
  "items": [
+  {
+   "id": "2f80bd495a28",
+   "title": "Frascaro della Motorsport domina a Navarra, il titolo si decide in Portogallo",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/2025_ChEu_R04lm_04962-1024x683-1.jpg",
+   "url": "https://trnews.it/2026/10/31/frascaro-della-motorsport-domina-a-navarra-il-titolo-si-decide-in-portogallo",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-31T14:47:00+00:00"
+  },
+  {
+   "id": "6c3eef6e068d",
+   "title": "Omicidio Mazzotta, Greco si difende: “Colpo di pistola partito accidentalmente dopo una bastonata sull mano”",
+   "summary": "SURBO (Lecce) – Nessuna intenzione di ammazzare ma un gesto scaturito da una fatalità: il colpo di pistola con cui l’assassino avrebbe ferito mortalmente Antimo Mazzotta (come accertato dall’autopsia…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/EMMANUEL-GRECO.jpg",
+   "url": "https://www.corrieresalentino.it/2026/10/omicidio-mazzotta-greco-si-difende-colpo-di-pistola-partito-accidentalmente-dopo-una-bastonata/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-31T14:44:43+00:00"
+  },
   {
    "id": "2b30bb8ccb72",
    "title": "Greco al gip: “Armato per precauzione. Il colpo è partito accidentalmente”",
@@ -2134,52 +2156,19 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-28T14:59:48+00:00"
-  },
-  {
-   "id": "df56b0204e18",
-   "title": "Veglie, fucile modificato e cinque cartucce: 56enne ai domiciliari",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/07/carabinieri-1.jpg",
-   "url": "https://trnews.it/2026/10/28/veglie-fucile-modificato-e-cinque-cartucce-56enne-ai-domiciliari",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T14:52:17+00:00"
-  },
-  {
-   "id": "829f37a38030",
-   "title": "Omicidio Mazzotta, nuovo sopralluogo nell'abitazione",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_4299-1024x557.jpeg",
-   "url": "https://trnews.it/2026/10/28/omicidio-mazzotta-nuovo-sopralluogo-nellabitazione",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T14:43:10+00:00"
-  },
-  {
-   "id": "ee7e6dda99aa",
-   "title": "Lecce, Di Francesco preoccupato: “Tante le situazioni da valutare”. Domani turno infrasettimanale a Frosinone",
-   "summary": "LECCE – Il Lecce si prepara alla trasferta contro il Frosinone con diversi dubbi di formazione. Alla squalifica di Gaspar si aggiungono i problemi fisici di Tiago Gabriel, Ndaba, N’Dri e Fatah, oltre…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lecce-di-francesco-preoccupato-tante-le-situazioni-da-valutare-domani-turno-infrasettimanale-a-frosinone/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T14:41:24+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-31T14:28:30.108636+00:00",
+   "last_ok": "2026-10-31T14:59:42.126110+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-31T14:28:30.108636+00:00",
+   "last_ok": "2026-10-31T14:59:42.126110+00:00",
    "error": null
   },
   {
@@ -2191,19 +2180,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-31T14:28:30.108636+00:00",
+   "last_ok": "2026-10-31T14:59:42.126110+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-31T14:28:30.108636+00:00",
+   "last_ok": "2026-10-31T14:59:42.126110+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-31T14:28:30.108636+00:00",
+   "last_ok": "2026-10-31T14:59:42.126110+00:00",
    "error": null
   }
  ]
