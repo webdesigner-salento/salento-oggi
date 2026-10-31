@@ -1,6 +1,50 @@
 {
- "updated_at": "2026-10-31T08:29:28.371377+00:00",
+ "updated_at": "2026-10-31T09:09:17.423275+00:00",
  "items": [
+  {
+   "id": "68f7b6de2843",
+   "title": "Basket A2: stasera Brindisi ci prova a Mestre.",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/09/valtur-brindisi-Cinciarini-contro-Ruvo-Memorial-Pentassuglia-1024x819.jpeg",
+   "url": "https://trnews.it/2026/10/31/basket-a2-stasera-brindisi-ci-prova-a-mestre",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-10-31T08:38:54+00:00"
+  },
+  {
+   "id": "2feeb4840f9f",
+   "title": "Tentano la spaccata nella notte alla farmacia: l’arrivo della vigilanza mette in fuga i ladri",
+   "summary": "ALEZIO (Lecce) – Spaccano la vetrata d’ingresso ma sono costretti a fuggire a mani vuote. Un furto è stato sventato nella notte ai danni della farmacia di via Salvatore Anaclerio, nel centro di Alezi…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/tentano-la-spaccata-nella-notte-alla-farmacia-larrivo-della-vigilanza-mette-in-fuga-i-ladri/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-31T08:38:34+00:00"
+  },
+  {
+   "id": "e43d66200c8f",
+   "title": "Esami rinviati all’Oncologico di Lecce, la Asl: “Tac funzionanti”. Pagliaro: “I pazienti confermano le cancellazioni”",
+   "summary": "LECCE – Per la Asl le Tac dell’Oncologico del Vito Fazzi funzionano regolarmente e il fermo ha riguardato la risonanza magnetica. Per il consigliere regionale Paolo Pagliaro, invece, restano le testi…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/esami-rinviati-alloncologico-di-lecce-la-asl-tac-funzionanti-pagliaro-i-pazienti-confermano-le-cancellazioni/",
+   "source": "Corriere Salentino",
+   "category": "Salute",
+   "zone": "Lecce",
+   "published_at": "2026-10-31T08:36:01+00:00"
+  },
+  {
+   "id": "55e082f07730",
+   "title": "Oggi pomeriggio Sport Club",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Sport-Club-2.jpg",
+   "url": "https://trnews.it/2026/10/31/oggi-pomeriggio-sport-club",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-31T08:28:58+00:00"
+  },
   {
    "id": "3a75277cd47b",
    "title": "Maxisequestro della Guardia di Finanza per Halloween: ritirati dal mercato 130mila prodotti",
@@ -233,6 +277,17 @@
    "published_at": "2026-10-30T18:10:21+00:00"
   },
   {
+   "id": "b2bd3c0e0507",
+   "title": "A Taranto l'ultimo ammaina bandiera del Durand de la Penne",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-106-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/30/a-taranto-lultimo-ammaina-bandiera-del-durand-de-la-penne",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Taranto",
+   "published_at": "2026-10-30T18:01:45+00:00"
+  },
+  {
    "id": "c2869180a7ed",
    "title": "Infortunio Geubbels, lesione di basso grado all'adduttore",
    "summary": "",
@@ -275,17 +330,6 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-30T17:02:11+00:00"
-  },
-  {
-   "id": "b2bd3c0e0507",
-   "title": "A Taranto l'ultimo ammaina bandiera del Durand de la Penne",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-106-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/30/a-taranto-lultimo-ammaina-bandiera-del-durand-de-la-penne",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Taranto",
-   "published_at": "2026-10-30T17:01:45+00:00"
   },
   {
    "id": "fb909d5c05d1",
@@ -398,6 +442,17 @@
    "published_at": "2026-10-30T13:40:49+00:00"
   },
   {
+   "id": "e716afeed6a7",
+   "title": "Serie C, turno interessante",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-c-1024x576.png",
+   "url": "https://trnews.it/2026/10/30/serie-c-turno-interessante",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-30T13:38:29+00:00"
+  },
+  {
    "id": "488de55e927a",
    "title": "Taranto, serve continuità",
    "summary": "",
@@ -462,17 +517,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-30T12:46:44+00:00"
-  },
-  {
-   "id": "e716afeed6a7",
-   "title": "Serie C, turno interessante",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-c-1024x576.png",
-   "url": "https://trnews.it/2026/10/30/serie-c-turno-interessante",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-10-30T12:38:29+00:00"
   },
   {
    "id": "80d597ddba82",
@@ -2255,74 +2299,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-28T09:36:06+00:00"
-  },
-  {
-   "id": "575e42242bec",
-   "title": "Coppa Italia: Potenza avanti e Bari fuori. Rastelli rischia",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-23.47.51-1-1-1024x682-1.jpeg",
-   "url": "https://trnews.it/2026/10/28/coppa-italia-potenza-avanti-e-bari-fuori-rastelli-rischia",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-10-28T09:02:35+00:00"
-  },
-  {
-   "id": "56dac74241c4",
-   "title": "Nel “Giardino dell’Autunno” di via Milano, vincono la creatività e la gioia dei bambini",
-   "summary": "GALLIPOLI (LECCE): “Il Giardino dell’Autunno: la creatività dei bambini vi aspetta”: recita così il cartello ben visibile anche dalla strada, con cui la Scuola dell’Infanzia di via Milano a Gallipoli…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-09.50.36-1-300x169.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/10/nel-giardino-dellautunno-di-via-milano-vincono-la-creativita-e-la-gioia-dei-bambini/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T08:56:47+00:00"
-  },
-  {
-   "id": "13e5b58646e4",
-   "title": "Taranto, vietato fermarsi, adesso serve continuità",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/TARANTO-CALCIO-2026-26-PAGINA-FACEBOOK-1024x682.jpeg",
-   "url": "https://trnews.it/2026/10/28/taranto-vietato-fermarsi-adesso-serve-continuita",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-10-28T08:55:25+00:00"
-  },
-  {
-   "id": "d444b7baef7d",
-   "title": "Andria-V. Francavilla, in palio gli ottavi di Coppa: al “Degli Ulivi” è sfida vera",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/virtus-francavilla-2026-27-1024x682.jpg",
-   "url": "https://trnews.it/2026/10/28/andria-v-francavilla-in-palio-gli-ottavi-di-coppa-al-degli-ulivi-e-sfida-vera",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-10-28T08:42:04+00:00"
-  },
-  {
-   "id": "fe3fd6ff4abe",
-   "title": "Elezioni a Nardò, Sinistra Italiana dice “no” a Vergari: la coalizione resta divisa",
-   "summary": "Il centrosinistra di Nardò perde un altro pezzo lungo il percorso verso le elezioni amministrative del 2027. Sinistra Italiana rompe gli indugi e annuncia ufficialmente che non aderirà alla coalizion…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/elezioni-a-nardo-sinistra-italiana-dice-no-a-vergari-la-coalizione-resta-divisa/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T08:39:51+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-31T08:29:28.371377+00:00",
+   "last_ok": "2026-10-31T09:09:17.423275+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-31T08:29:28.371377+00:00",
+   "last_ok": "2026-10-31T09:09:17.423275+00:00",
    "error": null
   },
   {
@@ -2334,19 +2323,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-31T08:29:28.371377+00:00",
+   "last_ok": "2026-10-31T09:09:17.423275+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-31T08:29:28.371377+00:00",
+   "last_ok": "2026-10-31T09:09:17.423275+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-31T08:29:28.371377+00:00",
+   "last_ok": "2026-10-31T09:09:17.423275+00:00",
    "error": null
   }
  ]
