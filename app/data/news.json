@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-31T16:25:06.847158+00:00",
+ "updated_at": "2026-10-31T16:58:24.304001+00:00",
  "items": [
+  {
+   "id": "5a45dcf2f5ee",
+   "title": "Minicar e veicoli industriali fantasma: truffa online da oltre 100mila euro",
+   "summary": "SALENTO – Oltre 100mila euro ottenuti attraverso la vendita online di minicar e veicoli industriali inesistenti. È la truffa ricostruita dagli agenti di polizia, che ha denunciato due persone residen…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/minicar-e-veicoli-industriali-fantasma-truffa-online-da-oltre-100mila-euro/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-10-31T16:29:01+00:00"
+  },
   {
    "id": "83a23c88e355",
    "title": "Omicidio Nisi, ritrovata l'arma del delitto",
@@ -46,6 +57,17 @@
    "published_at": "2026-10-31T14:47:00+00:00"
   },
   {
+   "id": "6a63798dec5c",
+   "title": "Omicidio Mazzotta, Greco: “Colpo di pistola partito accidentalmente”, ma il giudice lo lascia in carcere",
+   "summary": "SURBO (Lecce) – L’assassino parla di un colpo partito accidentalmente ma il giudice si allinea con la ricostruzione degli inquirenti e conferma: si è trattato un omicidio volontario. Emmanuel Greco,…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/EMMANUEL-GRECO.jpg",
+   "url": "https://www.corrieresalentino.it/2026/10/omicidio-mazzotta-greco-colpo-di-pistola-partito-accidentalmente-ma-il-giudice-lo-lascia-in-carcere/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-31T14:44:43+00:00"
+  },
+  {
    "id": "6c3eef6e068d",
    "title": "Omicidio Mazzotta, Greco si difende: “Colpo di pistola partito accidentalmente dopo una bastonata sull mano”",
    "summary": "SURBO (Lecce) – Nessuna intenzione di ammazzare ma un gesto scaturito da una fatalità: il colpo di pistola con cui l’assassino avrebbe ferito mortalmente Antimo Mazzotta (come accertato dall’autopsia…",
@@ -55,6 +77,28 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-31T14:44:43+00:00"
+  },
+  {
+   "id": "02ed223b5f8d",
+   "title": "Carmiano, il bosco mai nato: 3.600 piante essiccate, scoppia la polemica",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/carmiano-case-noe-1024x768.jpg",
+   "url": "https://trnews.it/2026/10/31/carmiano-il-bosco-mai-nato-3-600-piante-essiccate-scoppia-la-polemica",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-31T13:51:34+00:00"
+  },
+  {
+   "id": "65caa3b42438",
+   "title": "“Una vita per...”, il libro di Rita Colopi è un inno alla vita",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/libro-Una-vita-per-1024x768.jpg",
+   "url": "https://trnews.it/2026/10/31/una-vita-per-il-libro-di-rita-colopi-e-un-inno-alla-vita",
+   "source": "TeleRama News",
+   "category": "Cultura",
+   "zone": "Salento",
+   "published_at": "2026-10-31T13:42:09+00:00"
   },
   {
    "id": "2b30bb8ccb72",
@@ -99,28 +143,6 @@
    "category": "Altro",
    "zone": "Brindisi",
    "published_at": "2026-10-31T13:05:20+00:00"
-  },
-  {
-   "id": "02ed223b5f8d",
-   "title": "Carmiano, il bosco mai nato: 3.600 piante essiccate, scoppia la polemica",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/carmiano-case-noe-1024x768.jpg",
-   "url": "https://trnews.it/2026/10/31/carmiano-il-bosco-mai-nato-3-600-piante-essiccate-scoppia-la-polemica",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-31T12:51:34+00:00"
-  },
-  {
-   "id": "65caa3b42438",
-   "title": "“Una vita per...”, il libro di Rita Colopi è un inno alla vita",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/libro-Una-vita-per-1024x768.jpg",
-   "url": "https://trnews.it/2026/10/31/una-vita-per-il-libro-di-rita-colopi-e-un-inno-alla-vita",
-   "source": "TeleRama News",
-   "category": "Cultura",
-   "zone": "Salento",
-   "published_at": "2026-10-31T12:42:09+00:00"
   },
   {
    "id": "f59a580f3c46",
@@ -2046,52 +2068,19 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-28T17:18:02+00:00"
-  },
-  {
-   "id": "eb8972334336",
-   "title": "\"Olio solidale jonico\": l'inclusione alla SVAM",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-100-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/28/olio-solidale-jonico-linclusione-alla-svam",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Taranto",
-   "published_at": "2026-10-28T16:37:19+00:00"
-  },
-  {
-   "id": "9a824c48f4bc",
-   "title": "Ordini al clan attraverso i social: confermato il 41 bis per il boss Cristian Pepe",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/lecce_carcere.jpg",
-   "url": "https://trnews.it/2026/10/28/ordini-al-clan-attraverso-i-social-confermato-il-41-bis-per-il-boss-cristian-pepe",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T16:36:42+00:00"
-  },
-  {
-   "id": "293a322a6b58",
-   "title": "Rotary Lecce Club: venerdì 30 ottobre, giornata di prevenzione sanitaria gratuita e visite senologiche a conclusione dell’Ottobre Rosa",
-   "summary": "LECCE – In Italia, il tumore al seno rappresenta la neoplasia femminile più diffusa, con un incremento dei casi anche tra le donne più giovani, ma la diagnosi precoce e i continui progressi terapeuti…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/rotary-lecce-club-venerdi-30-ottobre-giornata-di-prevenzione-sanitaria-gratuita-e-visite-senologiche-a-conclusione-dellottobre-rosa/",
-   "source": "Corriere Salentino",
-   "category": "Salute",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T16:29:10+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-31T16:25:06.847158+00:00",
+   "last_ok": "2026-10-31T16:58:24.304001+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-31T16:25:06.847158+00:00",
+   "last_ok": "2026-10-31T16:58:24.304001+00:00",
    "error": null
   },
   {
@@ -2103,19 +2092,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-31T16:25:06.847158+00:00",
+   "last_ok": "2026-10-31T16:58:24.304001+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-31T16:25:06.847158+00:00",
+   "last_ok": "2026-10-31T16:58:24.304001+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-31T16:25:06.847158+00:00",
+   "last_ok": "2026-10-31T16:58:24.304001+00:00",
    "error": null
   }
  ]
