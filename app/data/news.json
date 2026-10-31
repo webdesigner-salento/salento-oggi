@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T21:22:26.824083+00:00",
+ "updated_at": "2026-10-31T21:55:17.690324+00:00",
  "items": [
   {
    "id": "51b3e9b3bee9",
@@ -1980,30 +1980,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-29T00:24:25+00:00"
-  },
-  {
-   "id": "c1e01ed7fbb1",
-   "title": "Coppa Italia serie D, F. Andria-V. Francavilla: 0-1. Virtus agli ottavi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/FB_IMG_1793223461746-829x1024.jpg",
-   "url": "https://trnews.it/2026/10/28/coppa-italia-serie-d-f-andria-v-francavilla-0-1-virtus-agli-ottavi",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-10-28T21:38:18+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-31T21:22:26.824083+00:00",
+   "last_ok": "2026-10-31T21:55:17.690324+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-31T21:22:26.824083+00:00",
+   "last_ok": "2026-10-31T21:55:17.690324+00:00",
    "error": null
   },
   {
@@ -2015,19 +2004,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-31T21:22:26.824083+00:00",
+   "last_ok": "2026-10-31T21:55:17.690324+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-31T21:22:26.824083+00:00",
+   "last_ok": "2026-10-31T21:55:17.690324+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-31T21:22:26.824083+00:00",
+   "last_ok": "2026-10-31T21:55:17.690324+00:00",
    "error": null
   }
  ]
