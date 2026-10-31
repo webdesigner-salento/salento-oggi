@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T05:04:15.818947+00:00",
+ "updated_at": "2026-10-31T05:59:52.018475+00:00",
  "items": [
   {
    "id": "fb1ccf12b4a4",
@@ -2266,30 +2266,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-28T06:00:08+00:00"
-  },
-  {
-   "id": "5a8d6d30749b",
-   "title": "Conserve vegetali in Salento: la filiera corta e i sapori autentici della tradizione contadina",
-   "summary": "Nelle case di paese la dispensa ha sempre seguito il calendario della campagna. Quello che la terra offriva in abbondanza in un certo periodo dell’anno trovava posto nei vasetti di vetro allineati su…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/conserve-vegetali-in-salento-la-filiera-corta-e-i-sapori-autentici-della-tradizione-contadina/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-28T05:55:47+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-31T05:04:15.818947+00:00",
+   "last_ok": "2026-10-31T05:59:52.018475+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-31T05:04:15.818947+00:00",
+   "last_ok": "2026-10-31T05:59:52.018475+00:00",
    "error": null
   },
   {
@@ -2301,19 +2290,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-31T05:04:15.818947+00:00",
+   "last_ok": "2026-10-31T05:59:52.018475+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-31T05:04:15.818947+00:00",
+   "last_ok": "2026-10-31T05:59:52.018475+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-31T05:04:15.818947+00:00",
+   "last_ok": "2026-10-31T05:59:52.018475+00:00",
    "error": null
   }
  ]
