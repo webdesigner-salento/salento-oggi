@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T10:57:50.123508+00:00",
+ "updated_at": "2026-10-31T11:23:41.051238+00:00",
  "items": [
   {
    "id": "d00441afba70",
@@ -354,6 +354,17 @@
    "published_at": "2026-10-30T18:10:21+00:00"
   },
   {
+   "id": "e233d919723c",
+   "title": "Taranto, il giorno della protesta: USB e studenti",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-108-1024x576.jpg",
+   "url": "https://trnews.it/2026/10/30/taranto-il-giorno-della-protesta-usb-e-studenti",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Taranto",
+   "published_at": "2026-10-30T18:06:26+00:00"
+  },
+  {
    "id": "30743fe4aa08",
    "title": "Ex Ilva, la Cassazione conferma: si chiude l'area a caldo",
    "summary": "",
@@ -385,17 +396,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-30T17:26:03+00:00"
-  },
-  {
-   "id": "e233d919723c",
-   "title": "Taranto, il giorno della protesta: USB e studenti",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-108-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/30/taranto-il-giorno-della-protesta-usb-e-studenti",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Taranto",
-   "published_at": "2026-10-30T17:06:26+00:00"
   },
   {
    "id": "b20ea1bd8aef",
@@ -2222,74 +2222,19 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-28T11:34:19+00:00"
-  },
-  {
-   "id": "e022606183e1",
-   "title": "Cambiale Frantoi Oleari, Paolicelli: “Accolte le nostre proposte, più liquidità per dare valore al lavoro degli olivicoltori”",
-   "summary": "“Esprimo soddisfazione per l’attivazione della Cambiale Frantoi Oleari e ringrazio ISMEA e il Governo per aver accolto la proposta che ho avanzato, a nome delle Regioni del Sud: distinguere le linee…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/cambiale-frantoi-oleari-paolicelli-accolte-le-nostre-proposte-piu-liquidita-per-dare-valore-al-lavoro-degli-olivicoltori/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-10-28T11:22:26+00:00"
-  },
-  {
-   "id": "d2a357e26e41",
-   "title": "Il Mercato delle Quattro Colonne sarà in via Edrisi",
-   "summary": "NARDO‘ (Lecce) – Spostamento del mercato delle Quattro Colonne all’area di via Edrisi, riassetto generale del mercato settimanale di Nardò e di quello di Sant’Isidoro, individuazione di nuovi postegg…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/il-mercato-delle-quattro-colonne-sara-in-via-edrisi/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T11:13:25+00:00"
-  },
-  {
-   "id": "cca2cf353c78",
-   "title": "Giovedì 29 ottobre al via Fase Off al MAITO – Museo ArcheoIndustriale di Terra D’Otranto con la mostra fotografica “Loro non tornarono più a terra”",
-   "summary": "MAGLIE (Lecce) – Giovedì 29 ottobre (ore 18:30 | ingresso libero) il MAITO – Museo ArcheoIndustriale di Terra d’Otranto di Maglie ospita l’inaugurazione di “Loro non tornarono più a terra”, mostra fo…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/giovedi-29-ottobre-al-via-fase-off-al-maito-museo-archeoindustriale-di-terra-dotranto-con-la-mostra-fotografica-loro-non-tornarono-piu-a-terra/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T11:08:59+00:00"
-  },
-  {
-   "id": "1881cc391d1f",
-   "title": "SGM, comportamenti alla guida: ferma condanna dell’azienda",
-   "summary": "In merito agli episodi segnalati nei giorni scorsi, che vedrebbero alcuni conducenti utilizzare il cellulare e fumare durante la guida degli autobus, SGM ribadisce con fermezza la propria posizione d…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/sgm-comportamenti-alla-guida-ferma-condanna-dellazienda/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-28T11:03:35+00:00"
-  },
-  {
-   "id": "451aa49062fe",
-   "title": "La Notte della Taranta cerca nuovi talenti: al via le selezioni per strumentisti under 35 dell’Orchestra Popolare",
-   "summary": "SALENTO – La Fondazione “La Notte della Taranta” apre le porte ai giovani musicisti e lancia una manifestazione di interesse rivolta a strumentisti under 35 per ampliare e integrare la sezione strume…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/la-notte-della-taranta-cerca-nuovi-talenti-al-via-le-selezioni-per-strumentisti-under-35-dellorchestra-popolare/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Salento",
-   "published_at": "2026-10-28T11:00:15+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-31T10:57:50.123508+00:00",
+   "last_ok": "2026-10-31T11:23:41.051238+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-31T10:57:50.123508+00:00",
+   "last_ok": "2026-10-31T11:23:41.051238+00:00",
    "error": null
   },
   {
@@ -2301,19 +2246,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-31T10:57:50.123508+00:00",
+   "last_ok": "2026-10-31T11:23:41.051238+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-31T10:57:50.123508+00:00",
+   "last_ok": "2026-10-31T11:23:41.051238+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-31T10:57:50.123508+00:00",
+   "last_ok": "2026-10-31T11:23:41.051238+00:00",
    "error": null
   }
  ]
