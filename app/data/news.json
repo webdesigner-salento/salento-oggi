@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-31T15:26:09.893004+00:00",
+ "updated_at": "2026-10-31T15:57:23.429047+00:00",
  "items": [
+  {
+   "id": "0d417e5daf44",
+   "title": "\"Il mondo sulle spalle\": Giorgio Napolitano raccontato dal figlio",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-16.40.21-1024x768.jpeg",
+   "url": "https://trnews.it/2026/10/31/il-mondo-sulle-spalle-giorgio-napolitano-raccontato-dal-figlio",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-31T15:43:06+00:00"
+  },
   {
    "id": "2f80bd495a28",
    "title": "Frascaro della Motorsport domina a Navarra, il titolo si decide in Portogallo",
@@ -2079,52 +2090,19 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-28T16:00:01+00:00"
-  },
-  {
-   "id": "90bf11a5738d",
-   "title": "Il talento del pianista Yifan Wu al SuperLocri∅ Festival",
-   "summary": "LECCE – Il SuperLocri∅ Festival – La musica in un altro modo porta a Lecce Yifan Wu, pianista cinese riconosciuto tra i più interessanti talenti mondiali, vincitore del Concorso Pianistico Internazio…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/il-talento-del-pianista-yifan-wu-al-superlocri%e2%88%85-festival-2/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T15:56:58+00:00"
-  },
-  {
-   "id": "dbcfdcc933ad",
-   "title": "Coppa Italia Primavera: Lecce, 5 gol al Pisa con tripletta di Vitale",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-28-160020.png",
-   "url": "https://trnews.it/2026/10/28/coppa-italia-primavera-lecce-5-gol-al-pisa-con-tripletta-di-vitale",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T15:45:00+00:00"
-  },
-  {
-   "id": "92e6d35921d5",
-   "title": "Guido, scatta la sospensione. Il sindaco assume le sue deleghe",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2024/09/andrea-guido.jpg",
-   "url": "https://trnews.it/2026/10/28/guido-scatta-la-sospensione-il-sindaco-assume-le-sue-deleghe",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T15:38:44+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-31T15:26:09.893004+00:00",
+   "last_ok": "2026-10-31T15:57:23.429047+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-31T15:26:09.893004+00:00",
+   "last_ok": "2026-10-31T15:57:23.429047+00:00",
    "error": null
   },
   {
@@ -2136,19 +2114,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-31T15:26:09.893004+00:00",
+   "last_ok": "2026-10-31T15:57:23.429047+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-31T15:26:09.893004+00:00",
+   "last_ok": "2026-10-31T15:57:23.429047+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-31T15:26:09.893004+00:00",
+   "last_ok": "2026-10-31T15:57:23.429047+00:00",
    "error": null
   }
  ]
