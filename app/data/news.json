@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T14:00:05.380477+00:00",
+ "updated_at": "2026-10-31T14:28:30.108636+00:00",
  "items": [
   {
    "id": "2b30bb8ccb72",
@@ -167,6 +167,17 @@
    "published_at": "2026-10-31T10:12:45+00:00"
   },
   {
+   "id": "9c2ddf932b71",
+   "title": "Basket C, Monteroni ospita Monopoli",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG-20261030-WA0072-768x1024.jpg",
+   "url": "https://trnews.it/2026/10/31/basket-c-monterono-ospita-monopoli",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-31T10:02:12+00:00"
+  },
+  {
    "id": "0ff1711c7416",
    "title": "Eccellenza Pugliese: tanti derby e punti pesanti per la salvezza",
    "summary": "",
@@ -189,17 +200,6 @@
    "published_at": "2026-10-31T09:54:06+00:00"
   },
   {
-   "id": "9c2ddf932b71",
-   "title": "Basket C, Monteroni ospita Monopoli",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG-20261030-WA0072-768x1024.jpg",
-   "url": "https://trnews.it/2026/10/31/basket-c-monterono-ospita-monopoli",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-10-31T09:02:12+00:00"
-  },
-  {
    "id": "68f7b6de2843",
    "title": "Basket A2: stasera Brindisi ci prova a Mestre.",
    "summary": "",
@@ -208,7 +208,18 @@
    "source": "TeleRama News",
    "category": "Sport",
    "zone": "Brindisi",
-   "published_at": "2026-10-31T08:38:54+00:00"
+   "published_at": "2026-10-31T09:38:54+00:00"
+  },
+  {
+   "id": "55e082f07730",
+   "title": "Oggi pomeriggio Sport Club",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Sport-Club-2.jpg",
+   "url": "https://trnews.it/2026/10/31/oggi-pomeriggio-sport-club",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-10-31T09:28:58+00:00"
   },
   {
    "id": "2feeb4840f9f",
@@ -244,15 +255,15 @@
    "published_at": "2026-10-31T08:36:01+00:00"
   },
   {
-   "id": "55e082f07730",
-   "title": "Oggi pomeriggio Sport Club",
+   "id": "1f8d3229f682",
+   "title": "FIADEL Puglia, allarme sicurezza per gli operatori: chiesto lo stop al porta a porta",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Sport-Club-2.jpg",
-   "url": "https://trnews.it/2026/10/31/oggi-pomeriggio-sport-club",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-08.01.54-1024x768.jpeg",
+   "url": "https://trnews.it/2026/10/31/fiadel-puglia-allarme-sicurezza-per-gli-operatori-chiesto-lo-stop-al-porta-a-porta",
    "source": "TeleRama News",
-   "category": "Sport",
+   "category": "Altro",
    "zone": "Salento",
-   "published_at": "2026-10-31T08:28:58+00:00"
+   "published_at": "2026-10-31T08:31:55+00:00"
   },
   {
    "id": "97ac50ef4c79",
@@ -308,17 +319,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-31T07:44:54+00:00"
-  },
-  {
-   "id": "1f8d3229f682",
-   "title": "FIADEL Puglia, allarme sicurezza per gli operatori: chiesto lo stop al porta a porta",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-08.01.54-1024x768.jpeg",
-   "url": "https://trnews.it/2026/10/31/fiadel-puglia-allarme-sicurezza-per-gli-operatori-chiesto-lo-stop-al-porta-a-porta",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-31T07:31:55+00:00"
   },
   {
    "id": "2e34d552b432",
@@ -420,6 +420,17 @@
    "published_at": "2026-10-30T21:47:39+00:00"
   },
   {
+   "id": "85c29ebcb7cc",
+   "title": "Si è spento Franco Buscicchio , aveva 65 anni",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/buschiccio-e1793391341185.jpg",
+   "url": "https://trnews.it/2026/10/30/si-e-spento-franco-buscicchio-aveva-65-anni",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T21:16:05+00:00"
+  },
+  {
    "id": "f36c4053c6c8",
    "title": "Lecce; si ferma anche l’attaccante Guebbels",
    "summary": "E’ un Lecce con le ossa rotte quello rientrato dal tracollo di Frosinone, con l’ennesimo infortunio stagionale registrato. L’attaccante francese Guebbels, che ha dovuto alzare bandiera bianca poco pr…",
@@ -429,17 +440,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-30T21:00:19+00:00"
-  },
-  {
-   "id": "85c29ebcb7cc",
-   "title": "Si è spento Franco Buscicchio , aveva 65 anni",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/buschiccio-e1793391341185.jpg",
-   "url": "https://trnews.it/2026/10/30/si-e-spento-franco-buscicchio-aveva-65-anni",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T20:16:05+00:00"
   },
   {
    "id": "a114b07d1267",
@@ -473,6 +473,17 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-10-30T18:34:01+00:00"
+  },
+  {
+   "id": "c2869180a7ed",
+   "title": "Infortunio Geubbels, lesione di basso grado all'adduttore",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/geubbles.avif",
+   "url": "https://trnews.it/2026/10/30/infortunio-geubbels-lesione-di-basso-grado-alladduttore",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-30T18:26:03+00:00"
   },
   {
    "id": "39c1ccce913f",
@@ -517,17 +528,6 @@
    "category": "Eventi",
    "zone": "Taranto",
    "published_at": "2026-10-30T18:01:45+00:00"
-  },
-  {
-   "id": "c2869180a7ed",
-   "title": "Infortunio Geubbels, lesione di basso grado all'adduttore",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/geubbles.avif",
-   "url": "https://trnews.it/2026/10/30/infortunio-geubbels-lesione-di-basso-grado-alladduttore",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T17:26:03+00:00"
   },
   {
    "id": "b20ea1bd8aef",
@@ -2167,30 +2167,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-28T14:41:24+00:00"
-  },
-  {
-   "id": "3130c1ddd296",
-   "title": "Inclusione scolastica a rischio, gli Oss denunciano: «Bambini senza assistenza adeguata»",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/OSS-e1793192486839.webp",
-   "url": "https://trnews.it/2026/10/28/inclusione-scolastica-a-rischio-gli-oss-denunciano-bambini-senza-assistenza-adeguata",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T14:01:41+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-31T14:00:05.380477+00:00",
+   "last_ok": "2026-10-31T14:28:30.108636+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-31T14:00:05.380477+00:00",
+   "last_ok": "2026-10-31T14:28:30.108636+00:00",
    "error": null
   },
   {
@@ -2202,19 +2191,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-31T14:00:05.380477+00:00",
+   "last_ok": "2026-10-31T14:28:30.108636+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-31T14:00:05.380477+00:00",
+   "last_ok": "2026-10-31T14:28:30.108636+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-31T14:00:05.380477+00:00",
+   "last_ok": "2026-10-31T14:28:30.108636+00:00",
    "error": null
   }
  ]
