@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T00:26:09.694362+00:00",
+ "updated_at": "2026-10-31T01:27:33.093416+00:00",
  "items": [
   {
    "id": "79d2acb9f88b",
@@ -360,8 +360,8 @@
    "image": "https://wp.trnews.it/wp-content/uploads/2026/10/RUBRICA-CINECLUB-30-10-2026-1024x670.jpg",
    "url": "https://trnews.it/2026/10/30/halloween-in-sala-tra-pecore-magia-e-vampiri",
    "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Lecce",
+   "category": "Cultura",
+   "zone": "Brindisi",
    "published_at": "2026-10-30T11:24:23+00:00"
   },
   {
@@ -2283,13 +2283,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-31T00:26:09.694362+00:00",
+   "last_ok": "2026-10-31T01:27:33.093416+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-31T00:26:09.694362+00:00",
+   "last_ok": "2026-10-31T01:27:33.093416+00:00",
    "error": null
   },
   {
@@ -2301,19 +2301,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-31T00:26:09.694362+00:00",
+   "last_ok": "2026-10-31T01:27:33.093416+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-31T00:26:09.694362+00:00",
+   "last_ok": "2026-10-31T01:27:33.093416+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-31T00:26:09.694362+00:00",
+   "last_ok": "2026-10-31T01:27:33.093416+00:00",
    "error": null
   }
  ]
