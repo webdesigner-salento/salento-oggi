@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-10-31T11:23:41.051238+00:00",
+ "updated_at": "2026-10-31T11:56:41.255268+00:00",
  "items": [
+  {
+   "id": "077fe2228a69",
+   "title": "Niente amministratore di sostegno al nonno, respinto il ricorso: l’età avanzata non basta",
+   "summary": "SOLETO – Non basta l’età avanzata, né la fragilità sociale e neppure il timore dei familiari su come si gestiscono i propri soldi, per limitare la libertà di una persona. Lo ha stabilito il Giudice T…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/10/niente-amministratore-di-sostegno-al-nonno-respinto-il-ricorso-leta-avanzata-non-basta/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-10-31T11:43:10+00:00"
+  },
   {
    "id": "d00441afba70",
    "title": "Il Salento scommette sul turismo a pedali",
@@ -2178,63 +2189,19 @@
    "category": "Cultura",
    "zone": "Lecce",
    "published_at": "2026-10-28T11:59:00+00:00"
-  },
-  {
-   "id": "3b2d6dbc1907",
-   "title": "Meteo di domani 29 ottobre nel Salento: previsioni, temperature e cosa aspettarsi",
-   "summary": "Puglia – Tempo stabile nel corso della giornata su tutta la regione ma con nuvolosità irregolare in transito sia al mattino che al pomeriggio. Addensamenti consistenti anche in serata e nottata quand…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/meteo-di-domani-29-ottobre-nel-salento-previsioni-temperature-e-cosa-aspettarsi/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T11:54:37+00:00"
-  },
-  {
-   "id": "0d9b9d80811f",
-   "title": "UIL Scuola Brindisi: 1.125 posti di sostegno in deroga, 108 in più rispetto a settembre",
-   "summary": "Cresce il ricorso ai posti in deroga anche nella provincia di Brindisi. La UIL Scuola Puglia chiede un piano straordinario per consolidare nell’organico di diritto i posti che rispondono a esigenze s…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/uil-scuola-brindisi-1-125-posti-di-sostegno-in-deroga-108-in-piu-rispetto-a-settembre/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Brindisi",
-   "published_at": "2026-10-28T11:51:16+00:00"
-  },
-  {
-   "id": "254618f1051d",
-   "title": "“Caso Guido”, De Leo: “Le poltrone non siano un bottino, si torni a discutere della città”",
-   "summary": "LECCE – Il caso dell’assessore Andrea Guido apre una riflessione sugli equilibri della maggioranza e sul significato della politica come servizio alla comunità. Dopo la condanna in primo grado a due…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/caso-guido-de-leo-le-poltrone-non-siano-un-bottino-si-torni-a-discutere-della-citta/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T11:50:19+00:00"
-  },
-  {
-   "id": "ea1cd5af8ff6",
-   "title": "Foro Boario, il Tar rinvia al 25 novembre: slitta il confronto sul mega parcheggio",
-   "summary": "LECCE – Il confronto davanti al Tar sul mega parcheggio del Foro Boario è rinviato al 25 novembre. Nella camera di consiglio di questa mattina, dopo la proposizione di un ricorso per motivi aggiunti,…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/foro-boario-il-tar-rinvia-al-25-novembre-slitta-il-confronto-sul-mega-parcheggio/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-28T11:34:19+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-10-31T11:23:41.051238+00:00",
+   "last_ok": "2026-10-31T11:56:41.255268+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-10-31T11:23:41.051238+00:00",
+   "last_ok": "2026-10-31T11:56:41.255268+00:00",
    "error": null
   },
   {
@@ -2246,19 +2213,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-10-31T11:23:41.051238+00:00",
+   "last_ok": "2026-10-31T11:56:41.255268+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-10-31T11:23:41.051238+00:00",
+   "last_ok": "2026-10-31T11:56:41.255268+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-10-31T11:23:41.051238+00:00",
+   "last_ok": "2026-10-31T11:56:41.255268+00:00",
    "error": null
   }
  ]
