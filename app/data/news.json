@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T05:29:49.277790+00:00",
+ "updated_at": "2026-11-01T06:10:24.989475+00:00",
  "items": [
   {
    "id": "5af7109898e4",
@@ -2178,52 +2178,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-29T07:00:00+00:00"
-  },
-  {
-   "id": "d6673e6b2d61",
-   "title": "L’almanacco di oggi 29 ottobre",
-   "summary": "Il Santo del giorno: Sant’Ermelinda. Il proverbio di Mesciu Ronzu: O si scemu o si de Campi. Significato: O sei scemo o sei di Campi Salentina. – Sono nati in questo giorno 1931 Franco Interlenghi 19…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lalmanacco-di-oggi-29-ottobre/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T06:00:27+00:00"
-  },
-  {
-   "id": "0a3703fd76dc",
-   "title": "Frosinone-Lecce nel turno infrasettimanale: la diretta con Lecce Channel in Campo",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_20261026_212048-1024x564.jpg",
-   "url": "https://trnews.it/2026/10/29/frosinone-lecce-nel-turno-infrasettimanale-la-diretta-con-lecce-channel-in-campo",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T06:00:19+00:00"
-  },
-  {
-   "id": "d82fc8248f46",
-   "title": "Autovelox e Telelaser: ecco dove sono nel mese di novembre 2026",
-   "summary": "LECCE – Sono disponibili i calendari dei controlli sulle strade provinciali che saranno effettuati dalla Polizia provinciale, tramite autovelox, telelaser e postazioni fisse, nel mese di novembre. CA…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/autovelox-e-telelaser-ecco-dove-sono-nel-mese-di-novembre-2026/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T05:52:51+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T05:29:49.277790+00:00",
+   "last_ok": "2026-11-01T06:10:24.989475+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T05:29:49.277790+00:00",
+   "last_ok": "2026-11-01T06:10:24.989475+00:00",
    "error": null
   },
   {
@@ -2235,19 +2202,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T05:29:49.277790+00:00",
+   "last_ok": "2026-11-01T06:10:24.989475+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T05:29:49.277790+00:00",
+   "last_ok": "2026-11-01T06:10:24.989475+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T05:29:49.277790+00:00",
+   "last_ok": "2026-11-01T06:10:24.989475+00:00",
    "error": null
   }
  ]
