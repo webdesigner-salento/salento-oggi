@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-01T10:59:38.624910+00:00",
+ "updated_at": "2026-11-01T11:25:11.269724+00:00",
  "items": [
+  {
+   "id": "f6400d1c76f5",
+   "title": "Riprendono due sorelle di nascosto e le denudano con l’ia: perizia sui telefoni",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/11/tribunale-minorenni.png",
+   "url": "https://trnews.it/2026/11/01/riprendono-due-sorelle-di-nascosto-e-le-denudano-con-lia-perizia-sui-telefoni",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T11:22:15+00:00"
+  },
   {
    "id": "aa74324adc72",
    "title": "Case in piazza Mazzini, uffici, negozi e box: Arca Sud Salento mette all’asta 13 locazioni",
@@ -2101,63 +2112,19 @@
    "category": "Sport",
    "zone": "Brindisi",
    "published_at": "2026-10-29T12:08:00+00:00"
-  },
-  {
-   "id": "7142d90ef3ad",
-   "title": "Litoranea vietata alle moto, scatta la protesta: il rombo pacifico \"sfida\" lo stop",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/867766343_1130905569339799_5581681060689717115_n-e1793272932227-1024x603.jpg",
-   "url": "https://trnews.it/2026/10/29/litoranea-vietata-alle-moto-scatta-la-protesta-il-rombo-pacifico-sfida-lo-stop",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T11:22:25+00:00"
-  },
-  {
-   "id": "858ab8277a86",
-   "title": "La Corte Tributaria annulla un accertamento da oltre 200 mila euro dell’Agenzia delle Entrate di Lecce",
-   "summary": "LECCE – Con la recente sentenza n. 3165/2026, depositata il 28 ottobre 2026, la Corte di Giustizia Tributaria di secondo grado della Puglia – Sezione staccata di Lecce, Sezione 23 (Presidente Dott. A…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/la-corte-tributaria-annulla-un-accertamento-da-oltre-200-mila-euro-dellagenzia-delle-entrate-di-lecce/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T11:06:21+00:00"
-  },
-  {
-   "id": "f43df6a31479",
-   "title": "Al via dal 31 ottobre la XXX edizione di Strade Maestre a Lecce",
-   "summary": "LECCE – Al via la XXX edizione di Strade Maestre, che dal 31 ottobre porta a Lecce ben sedici spettacoli, concerti incontri e laboratori, attraversando linguaggi, generazioni e territori diversi. Cos…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/al-via-dal-31-ottobre-la-xxx-edizione-di-strade-maestre-a-lecce/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T11:05:07+00:00"
-  },
-  {
-   "id": "d01b198ef73a",
-   "title": "Taranto, fiducia e continuità per arrivare in vetta",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-29-142309.png",
-   "url": "https://trnews.it/2026/10/29/taranto-fiducia-e-continuita-per-arrivare-in-vetta",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-10-29T11:03:32+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T10:59:38.624910+00:00",
+   "last_ok": "2026-11-01T11:25:11.269724+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T10:59:38.624910+00:00",
+   "last_ok": "2026-11-01T11:25:11.269724+00:00",
    "error": null
   },
   {
@@ -2169,19 +2136,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T10:59:38.624910+00:00",
+   "last_ok": "2026-11-01T11:25:11.269724+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T10:59:38.624910+00:00",
+   "last_ok": "2026-11-01T11:25:11.269724+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T10:59:38.624910+00:00",
+   "last_ok": "2026-11-01T11:25:11.269724+00:00",
    "error": null
   }
  ]
