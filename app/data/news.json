@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T14:57:52.071712+00:00",
+ "updated_at": "2026-11-01T15:24:03.720678+00:00",
  "items": [
   {
    "id": "0963ad62fd09",
@@ -19,9 +19,9 @@
    "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/Corriere-salentino-2-300x169.png",
    "url": "https://www.corrieresalentino.it/2026/11/incendio-allimpianto-di-biostabilizzazione-di-burgesi-fiamme-domate-a-ugento-scatta-la-bonifica/",
    "source": "Corriere Salentino",
-   "category": "Altro",
+   "category": "Cronaca",
    "zone": "Lecce",
-   "published_at": "2026-11-01T14:22:23+00:00"
+   "published_at": "2026-11-01T14:42:23+00:00"
   },
   {
    "id": "ea958bc60d02",
@@ -2068,30 +2068,19 @@
    "category": "Politica",
    "zone": "Salento",
    "published_at": "2026-10-29T15:46:12+00:00"
-  },
-  {
-   "id": "6fa88b233120",
-   "title": "Vende vodka a due minori, una delle quali finisce in ospedale: denunciato gestore e sospesa attività per 7 giorni",
-   "summary": "Lecce – Provvedimento di sospensione dell’attività per sette giorni emesso dal Questore Giampietro Lionetti nei confronti di un esercizio, a seguito dell’istruttoria effettuata dalla Polizia di Stato…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/vende-vodka-a-due-minori-una-delle-quali-finisce-in-ospedale-denunciato-gestore-e-sospesa-attivita-per-7-giorni/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T15:15:09+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T14:57:52.071712+00:00",
+   "last_ok": "2026-11-01T15:24:03.720678+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T14:57:52.071712+00:00",
+   "last_ok": "2026-11-01T15:24:03.720678+00:00",
    "error": null
   },
   {
@@ -2103,19 +2092,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T14:57:52.071712+00:00",
+   "last_ok": "2026-11-01T15:24:03.720678+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T14:57:52.071712+00:00",
+   "last_ok": "2026-11-01T15:24:03.720678+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T14:57:52.071712+00:00",
+   "last_ok": "2026-11-01T15:24:03.720678+00:00",
    "error": null
   }
  ]
