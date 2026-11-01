@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T21:56:05.840713+00:00",
+ "updated_at": "2026-11-01T22:22:04.704413+00:00",
  "items": [
   {
    "id": "1055ea3111b7",
@@ -11,6 +11,17 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-11-01T21:05:51+00:00"
+  },
+  {
+   "id": "9b697ac0d6c7",
+   "title": "Lecce, operazione per Pierotti",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/05/pierotti.jpg",
+   "url": "https://trnews.it/2026/11/01/lecce-operazione-per-pierotti",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T21:02:59+00:00"
   },
   {
    "id": "946bda6697cc",
@@ -35,15 +46,15 @@
    "published_at": "2026-11-01T20:38:49+00:00"
   },
   {
-   "id": "9b697ac0d6c7",
-   "title": "Lecce, operazione per Pierotti",
+   "id": "87901d708b18",
+   "title": "A Via del Mare passa 2-1 il Genoa",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/05/pierotti.jpg",
-   "url": "https://trnews.it/2026/11/01/lecce-operazione-per-pierotti",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG-20261101-WA0131-1-1024x682.jpg",
+   "url": "https://trnews.it/2026/11/01/a-via-del-mare-passa-2-1-il-genoa",
    "source": "TeleRama News",
    "category": "Sport",
    "zone": "Lecce",
-   "published_at": "2026-11-01T20:02:59+00:00"
+   "published_at": "2026-11-01T20:21:15+00:00"
   },
   {
    "id": "962cdee33e63",
@@ -68,15 +79,15 @@
    "published_at": "2026-11-01T19:29:42+00:00"
   },
   {
-   "id": "87901d708b18",
-   "title": "A Via del Mare passa 2-1 il Genoa",
+   "id": "3b639e884c46",
+   "title": "Volley A2, Melendugno-Trentino 0-3: sconfitta secca per le salentine",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG-20261101-WA0131-1-1024x682.jpg",
-   "url": "https://trnews.it/2026/11/01/a-via-del-mare-passa-2-1-il-genoa",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/volley-melendugno-1.jpg",
+   "url": "https://trnews.it/2026/11/01/volley-a2-melendugno-trentino-0-3-sconfitta-secca-per-le-salentine",
    "source": "TeleRama News",
    "category": "Sport",
    "zone": "Lecce",
-   "published_at": "2026-11-01T19:21:15+00:00"
+   "published_at": "2026-11-01T19:12:03+00:00"
   },
   {
    "id": "7e9b7487dd9f",
@@ -101,15 +112,15 @@
    "published_at": "2026-11-01T18:59:46+00:00"
   },
   {
-   "id": "3b639e884c46",
-   "title": "Volley A2, Melendugno-Trentino 0-3: sconfitta secca per le salentine",
+   "id": "9260df05737e",
+   "title": "Eccellenza: l'undicesima giornata",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/volley-melendugno-1.jpg",
-   "url": "https://trnews.it/2026/11/01/volley-a2-melendugno-trentino-0-3-sconfitta-secca-per-le-salentine",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/08/Eccellenza-750x500-1.jpg",
+   "url": "https://trnews.it/2026/11/01/eccellenza-lundicesima-giornata",
    "source": "TeleRama News",
    "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-01T18:12:03+00:00"
+   "zone": "Salento",
+   "published_at": "2026-11-01T18:32:27+00:00"
   },
   {
    "id": "783a3e3bdd19",
@@ -123,17 +134,6 @@
    "published_at": "2026-11-01T18:02:38+00:00"
   },
   {
-   "id": "9260df05737e",
-   "title": "Eccellenza: l'undicesima giornata",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/08/Eccellenza-750x500-1.jpg",
-   "url": "https://trnews.it/2026/11/01/eccellenza-lundicesima-giornata",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-11-01T17:32:27+00:00"
-  },
-  {
    "id": "e5e1b832720b",
    "title": "Taranto, rigasifficatore al molo polisettoriale: il \"no\" dei cittadini di Lido Azzurro",
    "summary": "",
@@ -142,7 +142,7 @@
    "source": "TeleRama News",
    "category": "Altro",
    "zone": "Taranto",
-   "published_at": "2026-11-01T15:47:54+00:00"
+   "published_at": "2026-11-01T16:47:54+00:00"
   },
   {
    "id": "0b76c12b352c",
@@ -153,7 +153,7 @@
    "source": "TeleRama News",
    "category": "Altro",
    "zone": "Taranto",
-   "published_at": "2026-11-01T15:47:19+00:00"
+   "published_at": "2026-11-01T16:47:19+00:00"
   },
   {
    "id": "ce52d2a4a118",
@@ -164,7 +164,7 @@
    "source": "TeleRama News",
    "category": "Altro",
    "zone": "Taranto",
-   "published_at": "2026-11-01T15:46:47+00:00"
+   "published_at": "2026-11-01T16:46:47+00:00"
   },
   {
    "id": "a49facb313e8",
@@ -200,6 +200,17 @@
    "published_at": "2026-11-01T14:42:23+00:00"
   },
   {
+   "id": "6915f0b7ced3",
+   "title": "«Devono sapere al Tg che ti hanno ammazzata», 16enne minacciata dall'ex. Indagato18enne",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG-20220922-WA0009.jpg",
+   "url": "https://trnews.it/2026/11/01/devono-sapere-al-tg-che-ti-hanno-ammazzata-16enne-minacciata-dallex-indagato18enne",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T13:20:53+00:00"
+  },
+  {
    "id": "ea958bc60d02",
    "title": "Funziona il Piano della viabilità varato per la Festa di Ognissanti",
    "summary": "",
@@ -209,6 +220,17 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-11-01T13:08:38+00:00"
+  },
+  {
+   "id": "c73cf515cb1a",
+   "title": "Bomba carta nella notte a Nociglia: esplosione danneggia auto e abitazione",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/06/carabinieri.jpg",
+   "url": "https://trnews.it/2026/11/01/bomba-carta-nella-notte-a-nociglia-esplosione-danneggia-auto-e-abitazione",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T12:47:26+00:00"
   },
   {
    "id": "7386e6bb317c",
@@ -233,28 +255,6 @@
    "published_at": "2026-11-01T12:27:44+00:00"
   },
   {
-   "id": "6915f0b7ced3",
-   "title": "«Devono sapere al Tg che ti hanno ammazzata», 16enne minacciata dall'ex. Indagato18enne",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG-20220922-WA0009.jpg",
-   "url": "https://trnews.it/2026/11/01/devono-sapere-al-tg-che-ti-hanno-ammazzata-16enne-minacciata-dallex-indagato18enne",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-01T12:20:53+00:00"
-  },
-  {
-   "id": "c73cf515cb1a",
-   "title": "Bomba carta nella notte a Nociglia: esplosione danneggia auto e abitazione",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/06/carabinieri.jpg",
-   "url": "https://trnews.it/2026/11/01/bomba-carta-nella-notte-a-nociglia-esplosione-danneggia-auto-e-abitazione",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-01T11:47:26+00:00"
-  },
-  {
    "id": "f6400d1c76f5",
    "title": "Riprendono due sorelle di nascosto e le denudano con l’ia: perizia sui telefoni",
    "summary": "",
@@ -263,7 +263,7 @@
    "source": "TeleRama News",
    "category": "Cronaca",
    "zone": "Lecce",
-   "published_at": "2026-11-01T11:22:15+00:00"
+   "published_at": "2026-11-01T12:22:15+00:00"
   },
   {
    "id": "c6d5bcd3d635",
@@ -1986,13 +1986,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T21:56:05.840713+00:00",
+   "last_ok": "2026-11-01T22:22:04.704413+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T21:56:05.840713+00:00",
+   "last_ok": "2026-11-01T22:22:04.704413+00:00",
    "error": null
   },
   {
@@ -2004,19 +2004,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T21:56:05.840713+00:00",
+   "last_ok": "2026-11-01T22:22:04.704413+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T21:56:05.840713+00:00",
+   "last_ok": "2026-11-01T22:22:04.704413+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T21:56:05.840713+00:00",
+   "last_ok": "2026-11-01T22:22:04.704413+00:00",
    "error": null
   }
  ]
