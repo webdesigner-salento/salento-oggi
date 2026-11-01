@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T16:57:38.475992+00:00",
+ "updated_at": "2026-11-01T17:21:33.674478+00:00",
  "items": [
   {
    "id": "e5e1b832720b",
@@ -33,6 +33,17 @@
    "category": "Altro",
    "zone": "Taranto",
    "published_at": "2026-11-01T15:46:47+00:00"
+  },
+  {
+   "id": "a49facb313e8",
+   "title": "Notte di fuoco: esplode ordigno sotto un’auto, danni a veicoli e case. Indagano i Carabinieri",
+   "summary": "NOCIGLIA (Lecce) – Un forte boato ha scosso il silenzio della notte nel piccolo centro del Salento. Intorno all’una di notte, in via Girolamo Comi a Nociglia, un ordigno artigianale a basso potenzial…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/notte-di-fuoco-esplode-ordigno-sotto-unauto-danni-a-veicoli-e-case-indagano-i-carabinieri/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T15:11:28+00:00"
   },
   {
    "id": "0963ad62fd09",
@@ -1936,30 +1947,19 @@
    "category": "Sport",
    "zone": "Taranto",
    "published_at": "2026-10-29T18:20:52+00:00"
-  },
-  {
-   "id": "977d2f47cb44",
-   "title": "Squinzano Calcio 1913 – Bitonto Calcio, divieto di vendita dei tagliandi ai residenti nella provincia di Bari",
-   "summary": "Con decreto prefettizio adottato in data odierna, questa Autorità Provinciale di Pubblica Sicurezza ha ritenuto di condividere la proposta avanzata dal Questore di Lecce con riferimento alle particol…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/squinzano-calcio-1913-bitonto-calcio-divieto-di-vendita-dei-tagliandi-ai-residenti-nella-provincia-di-bari/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T16:59:42+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T16:57:38.475992+00:00",
+   "last_ok": "2026-11-01T17:21:33.674478+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T16:57:38.475992+00:00",
+   "last_ok": "2026-11-01T17:21:33.674478+00:00",
    "error": null
   },
   {
@@ -1971,19 +1971,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T16:57:38.475992+00:00",
+   "last_ok": "2026-11-01T17:21:33.674478+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T16:57:38.475992+00:00",
+   "last_ok": "2026-11-01T17:21:33.674478+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T16:57:38.475992+00:00",
+   "last_ok": "2026-11-01T17:21:33.674478+00:00",
    "error": null
   }
  ]
