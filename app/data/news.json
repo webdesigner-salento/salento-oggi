@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T23:22:40.376757+00:00",
+ "updated_at": "2026-11-01T23:53:48.535066+00:00",
  "items": [
   {
    "id": "28b6f1fea240",
@@ -1947,30 +1947,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-30T05:06:23+00:00"
-  },
-  {
-   "id": "a2d7cca6bf98",
-   "title": "Ritorno a Domusnovas, in Sardegna, dove si prova a resistere all’ampliamento della Rwm",
-   "summary": "Il paesaggio collinare tra Iglesias e Domusnovas può ingannare: a prima vista infatti non farebbe pensare che proprio qui in Sardegna c'è uno dei più importanti poli di armamento del Paese. Oltre la…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/stop-RWM-Manifattura.jpg",
-   "url": "https://altreconomia.it/ritorno-a-domusnovas-in-sardegna-dove-si-prova-a-resistere-allampliamento-della-rwm/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-29T23:50:46+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T23:22:40.376757+00:00",
+   "last_ok": "2026-11-01T23:53:48.535066+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T23:22:40.376757+00:00",
+   "last_ok": "2026-11-01T23:53:48.535066+00:00",
    "error": null
   },
   {
@@ -1982,19 +1971,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T23:22:40.376757+00:00",
+   "last_ok": "2026-11-01T23:53:48.535066+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T23:22:40.376757+00:00",
+   "last_ok": "2026-11-01T23:53:48.535066+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T23:22:40.376757+00:00",
+   "last_ok": "2026-11-01T23:53:48.535066+00:00",
    "error": null
   }
  ]
