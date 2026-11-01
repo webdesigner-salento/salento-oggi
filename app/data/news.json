@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T15:55:33.991906+00:00",
+ "updated_at": "2026-11-01T16:23:14.967918+00:00",
  "items": [
   {
    "id": "e5e1b832720b",
@@ -1980,96 +1980,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-29T16:46:00+00:00"
-  },
-  {
-   "id": "ddde2f2d7b3e",
-   "title": "Il Party Salento Show Live sbarca ad Alliste nel giorno di Ognissanti",
-   "summary": "ALLISTE (Lecce) – Domenica 1 novembre, la macchina del tempo del “Party Salento Show Live” farà tappa ad Alliste in piazza San Quintino a partite dalle 21:30. Un grande spettacolo che farà rivivere l…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/il-party-salento-show-live-sbarca-ad-alliste-nel-giorno-di-ognissanti/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T16:09:13+00:00"
-  },
-  {
-   "id": "dd64781a887f",
-   "title": "La Fiera di San Simone entra nell’Inventario del Patrimonio Culturale Immateriale della Regione Puglia",
-   "summary": "SANNICOLA (Lecce) – Dopo circa 400 anni di storia, arriva il riconoscimento ufficiale per una delle tradizioni più identitarie di Sannicola. Un traguardo che premia la memoria collettiva di un’intera…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/la-fiera-di-san-simone-entra-nellinventario-del-patrimonio-culturale-immateriale-della-regione-puglia/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T16:06:44+00:00"
-  },
-  {
-   "id": "843b608f730f",
-   "title": "Sabato 7 novembre il Trio of Doom formato da Domenico Sanna, Dario Deidda e Francesco Ciniglio da Nasca il Teatro per Good Vibes",
-   "summary": "Tre musicisti dalle personalità distinte, accomunati dalla versatilità e da una fitta rete di esperienze nella scena jazz italiana e internazionale, si incontrano in un progetto che fa del dialogo e…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/sabato-7-novembre-il-trio-of-doom-formato-da-domenico-sanna-dario-deidda-e-francesco-ciniglio-da-nasca-il-teatro-per-good-vibes/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T16:05:05+00:00"
-  },
-  {
-   "id": "bcacb3312fdc",
-   "title": "Autismo, madri costrette a lasciare il lavoro e famiglie senza sostegno: l’allarme dei medici leccesi",
-   "summary": "LECCE – Madri costrette a rinunciare al lavoro per assistere i figli, famiglie lasciate sole ad affrontare difficoltà quotidiane e servizi pubblici insufficienti, che obbligano a rivolgersi al privat…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/autismo-madri-costrette-a-lasciare-il-lavoro-e-famiglie-senza-sostegno-lallarme-dei-medici-leccesi/",
-   "source": "Corriere Salentino",
-   "category": "Salute",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T16:04:54+00:00"
-  },
-  {
-   "id": "5325a538333c",
-   "title": "Sanità, Minerva: “24 milioni alla Puglia per le cure a domicilio. Ora servono risorse stabili e personale per arrivare a tutti”",
-   "summary": "“Quasi 24 milioni di euro assegnati alla Puglia per aver raggiunto gli obiettivi del Pnrr sull’assistenza domiciliare sono un risultato concreto e importante. Nel 2025 oltre 112mila anziani hanno ric…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/sanita-minerva-24-milioni-alla-puglia-per-le-cure-a-domicilio-ora-servono-risorse-stabili-e-personale-per-arrivare-a-tutti/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-10-29T16:03:10+00:00"
-  },
-  {
-   "id": "dbc396e58693",
-   "title": "Grecia e Grecìa si incontrano ad Atene, con la pizzica e i canti in griko dell’Orchestra Popolare La Notte della Taranta",
-   "summary": "Sabato 31 ottobre alle 20.00 l’Orchestra Popolare e il corpo di ballo de La Notte della Taranta si esibiranno sul palcoscenico del Megaron – The Athens Concert Hall di Atene, nella Sala Alexandra Tri…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/grecia-e-grecia-si-incontrano-ad-atene-con-la-pizzica-e-i-canti-in-griko-dellorchestra-popolare-la-notte-della-taranta/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-29T16:03:01+00:00"
-  },
-  {
-   "id": "b99bf9bc08c6",
-   "title": "Patto locale per la lettura, ecco come aderire",
-   "summary": "NARDO‘ (Lecce) – È stato pubblicato sul sito web del Comune l’avviso pubblico finalizzato alla raccolta delle manifestazioni di interesse dei soggetti che intendano aderire al Patto locale per la let…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/patto-locale-per-la-lettura-ecco-come-aderire/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T16:00:26+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T15:55:33.991906+00:00",
+   "last_ok": "2026-11-01T16:23:14.967918+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T15:55:33.991906+00:00",
+   "last_ok": "2026-11-01T16:23:14.967918+00:00",
    "error": null
   },
   {
@@ -2081,19 +2004,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T15:55:33.991906+00:00",
+   "last_ok": "2026-11-01T16:23:14.967918+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T15:55:33.991906+00:00",
+   "last_ok": "2026-11-01T16:23:14.967918+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T15:55:33.991906+00:00",
+   "last_ok": "2026-11-01T16:23:14.967918+00:00",
    "error": null
   }
  ]
