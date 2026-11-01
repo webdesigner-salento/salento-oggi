@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-01T22:56:22.141642+00:00",
+ "updated_at": "2026-11-01T23:22:40.376757+00:00",
  "items": [
+  {
+   "id": "28b6f1fea240",
+   "title": "La stagione del melograno. L’ecocidio israeliano in Libano e la resistenza che parte dalla terra",
+   "summary": "Zaynab Mahdi è una contadina originaria della cittadina di Naqoura e ora sfollata a Tiro, nel Sud del Libano. Mentre parla mostra una a una le fotografie che ha conservato con cura sul suo cellulare.…",
+   "image": "https://altreconomia.it/app/uploads/2026/10/IMG_20260826_103819-scaled.jpg",
+   "url": "https://altreconomia.it/la-stagione-del-melograno-lecocidio-israeliano-in-libano-e-la-resistenza-che-parte-dalla-terra/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-01T23:01:52+00:00"
+  },
   {
    "id": "1055ea3111b7",
    "title": "Volley A3: Galatone cede in casa, Taviano e Capo di Leuca corsari",
@@ -1947,52 +1958,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-29T23:50:46+00:00"
-  },
-  {
-   "id": "e149696e14ea",
-   "title": "Sono passati 60 anni dall’alluvione dell’Arno. Indagine sul rischio idraulico in Toscana",
-   "summary": "È la notte tra il 3 e il 4 novembre 1966: dopo ore di pioggia incessante l’Arno esonda nel Casentino e nel Valdarno Superiore. A Firenze la piena riempie le strade alla velocità di 60 chilometri orar…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/Alluvione-2-scaled.jpg",
-   "url": "https://altreconomia.it/sono-passati-60-anni-dallalluvione-dellarno-indagine-sul-rischio-idraulico-in-toscana/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-29T23:01:43+00:00"
-  },
-  {
-   "id": "97a7e19a3186",
-   "title": "Dalla sorveglianza digitale alla regia sui rimpatri: così Frontex sarà potenziata nei prossimi anni",
-   "summary": "“Non so se definirla più l’Agenzia dei rimpatri o la nuova intelligence europea”. Laura Salzano, ricercatrice postdoc al Ludwig Boltzmann institute di Vienna, sintetizza con sarcasmo il contenuto del…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/IPA88020028-scaled.jpg",
-   "url": "https://altreconomia.it/dalla-sorveglianza-digitale-alla-regia-sui-rimpatri-cosi-frontex-sara-potenziata-nei-prossimi-anni/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-29T23:01:35+00:00"
-  },
-  {
-   "id": "2aa5fd34dd26",
-   "title": "Botte alla moglie anche quando era in gravidanza e poi finita in ospedale: 44enne condannato a 4 anni",
-   "summary": "MATINO (Lecce) – Avrebbe maltrattato la moglie con ripetute offese e atti di violenza fisica: in più occasioni, l’avrebbe picchiata con calci e pugni e afferrandola con forza per i capelli anche nei…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/botte-alla-moglie-anche-quando-era-in-gravidanza-e-poi-finita-in-ospedale-44enne-condannato-a-5-anni/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T22:59:10+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T22:56:22.141642+00:00",
+   "last_ok": "2026-11-01T23:22:40.376757+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T22:56:22.141642+00:00",
+   "last_ok": "2026-11-01T23:22:40.376757+00:00",
    "error": null
   },
   {
@@ -2004,19 +1982,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T22:56:22.141642+00:00",
+   "last_ok": "2026-11-01T23:22:40.376757+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T22:56:22.141642+00:00",
+   "last_ok": "2026-11-01T23:22:40.376757+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T22:56:22.141642+00:00",
+   "last_ok": "2026-11-01T23:22:40.376757+00:00",
    "error": null
   }
  ]
