@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-11-01T20:19:41.615531+00:00",
+ "updated_at": "2026-11-01T20:57:13.197548+00:00",
  "items": [
+  {
+   "id": "946bda6697cc",
+   "title": "Volley A2/F: Itas Trentino batte Narconon Melendugno 3-0",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/01/Narconon-Melendugno-2-gen-819x1024.jpg",
+   "url": "https://trnews.it/2026/11/01/volley-a2-f-itas-trentino-batte-narconon-melendugno-3-0",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T20:47:16+00:00"
+  },
+  {
+   "id": "79fd3bfb6506",
+   "title": "Sticchi Damiani : \"Squadra in difficoltà, pesano le assenze sugli euqilibri\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/STICCHI-POST-GENOA-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/01/sticchi-damiani-squadra-in-difficolta-pesano-le-assenze-sugli-euqilibri",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T20:38:49+00:00"
+  },
+  {
+   "id": "9b697ac0d6c7",
+   "title": "Lecce, operazione per Pierotti",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/05/pierotti.jpg",
+   "url": "https://trnews.it/2026/11/01/lecce-operazione-per-pierotti",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T20:02:59+00:00"
+  },
   {
    "id": "962cdee33e63",
    "title": "Lecce – Genoa, Sticchi Damiani: sconfitta immeritata, è una squadra falcidiata dagli infortuni",
@@ -1947,41 +1980,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-29T21:32:09+00:00"
-  },
-  {
-   "id": "94e31677845e",
-   "title": "A proposito dell’aumento dell’aliquota Ires al 30% per le banche nella Legge di Bilancio",
-   "summary": "Il pacchetto di interventi fiscali a carico del comparto bancario e finanziario è uno dei punti centrali, in termini di coperture, della manovra di bilancio, senza il quale sarebbe davvero difficile…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/DSC02776_3-scaled.jpeg",
-   "url": "https://altreconomia.it/a-proposito-dellaumento-dellaliquota-ires-al-30-per-le-banche-nella-legge-di-bilancio/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-29T20:32:12+00:00"
-  },
-  {
-   "id": "ade45476b207",
-   "title": "Di Francesco dopo il ko di Frosinone: \"Poca tenuta mentale\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/05/Di-Francesco-pre-Genoa-1024x768.jpg",
-   "url": "https://trnews.it/2026/10/29/di-francesco-dopo-il-ko-di-frosinone-poca-tenuta-mentale",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T20:31:41+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T20:19:41.615531+00:00",
+   "last_ok": "2026-11-01T20:57:13.197548+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T20:19:41.615531+00:00",
+   "last_ok": "2026-11-01T20:57:13.197548+00:00",
    "error": null
   },
   {
@@ -1993,19 +2004,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T20:19:41.615531+00:00",
+   "last_ok": "2026-11-01T20:57:13.197548+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T20:19:41.615531+00:00",
+   "last_ok": "2026-11-01T20:57:13.197548+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T20:19:41.615531+00:00",
+   "last_ok": "2026-11-01T20:57:13.197548+00:00",
    "error": null
   }
  ]
