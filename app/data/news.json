@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-11-01T17:54:41.694617+00:00",
+ "updated_at": "2026-11-01T18:20:58.743919+00:00",
  "items": [
+  {
+   "id": "783a3e3bdd19",
+   "title": "La trappola della legge elettorale, il nemico di turno e un campo largo (pure troppo). Viaggio nella politica italiana #21",
+   "summary": "Viaggio nella politica italiana questa volta è andato in scena dal vivo a Napoli, con Arianna Ciccone, Adriano Biondi di Fanpage e Dino Amenduni. Abbiamo provato a capire dove sta andando la politica…",
+   "image": null,
+   "url": "https://www.valigiablu.it/viaggio-politica-italiana-napoli-21-podcast/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-01T18:02:38+00:00"
+  },
+  {
+   "id": "9260df05737e",
+   "title": "Eccellenza: l'undicesima giornata",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/08/Eccellenza-750x500-1.jpg",
+   "url": "https://trnews.it/2026/11/01/eccellenza-lundicesima-giornata",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-11-01T17:32:27+00:00"
+  },
   {
    "id": "e5e1b832720b",
    "title": "Taranto, rigasifficatore al molo polisettoriale: il \"no\" dei cittadini di Lido Azzurro",
@@ -59,7 +81,7 @@
   {
    "id": "63922357958e",
    "title": "Incendio all’impianto di biostabilizzazione di Burgesi: fiamme domate a Ugento, scatta la bonifica",
-   "summary": "BURGESI (Lecce) – Un incendio è divampato all’interno dell’impianto di biostabilizzazione dei rifiuti di Burgesi, a Ugento, facendo scattare l’allarme nella zona industriale. A evitare danni peggiori…",
+   "summary": "BURGESI (Lecce) – Un principio di incendio è divampato all’interno dell’impianto di biostabilizzazione dei rifiuti di Burgesi, a Ugento, all’interno di una cella di stabilizzazione, facendo scattare…",
    "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/Corriere-salentino-2-300x169.png",
    "url": "https://www.corrieresalentino.it/2026/11/incendio-allimpianto-di-biostabilizzazione-di-burgesi-fiamme-domate-a-ugento-scatta-la-bonifica/",
    "source": "Corriere Salentino",
@@ -1936,30 +1958,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-29T18:57:34+00:00"
-  },
-  {
-   "id": "502fb7b0e375",
-   "title": "Taranto, risolto il contratto con Perretta",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/08/ss-taranto-2025.jpg",
-   "url": "https://trnews.it/2026/10/29/taranto-risolto-il-contratto-con-perretta",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-10-29T18:20:52+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T17:54:41.694617+00:00",
+   "last_ok": "2026-11-01T18:20:58.743919+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T17:54:41.694617+00:00",
+   "last_ok": "2026-11-01T18:20:58.743919+00:00",
    "error": null
   },
   {
@@ -1971,19 +1982,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T17:54:41.694617+00:00",
+   "last_ok": "2026-11-01T18:20:58.743919+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T17:54:41.694617+00:00",
+   "last_ok": "2026-11-01T18:20:58.743919+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T17:54:41.694617+00:00",
+   "last_ok": "2026-11-01T18:20:58.743919+00:00",
    "error": null
   }
  ]
