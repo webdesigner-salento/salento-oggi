@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-11-01T11:25:11.269724+00:00",
+ "updated_at": "2026-11-01T11:55:28.980129+00:00",
  "items": [
+  {
+   "id": "0963ad62fd09",
+   "title": "Festa di Halloween interrotta al Teatro Comunale di Novoli: controlli e stop per estintori scaduti e assenza di addetti",
+   "summary": "NOVOLI (Lecce) – Una festa di Halloween dedicata ai più piccoli e alle famiglie si è conclusa con lo stop delle autorità e il trasferimento dei partecipanti a pochi passi di distanza. È accaduto nell…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/festa-di-halloween-interrotta-al-teatro-comunale-di-novoli-controlli-e-stop-per-estintori-scaduti-e-assenza-di-addetti/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T11:54:48+00:00"
+  },
+  {
+   "id": "c73cf515cb1a",
+   "title": "Bomba carta nella notte a Nociglia: esplosione danneggia auto e abitazione",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/06/carabinieri.jpg",
+   "url": "https://trnews.it/2026/11/01/bomba-carta-nella-notte-a-nociglia-esplosione-danneggia-auto-e-abitazione",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T11:47:26+00:00"
+  },
+  {
+   "id": "7386e6bb317c",
+   "title": "Caro vita, la pentola a pressione che rischia di esplodere come le vetrine dei negozi, mentre ritorna la minaccia dei tagli a scuola",
+   "summary": "SALENTO – Dopo anni di tagli nel pubblico, che hanno fatto collassare i servizi in vari settori, dai Comuni alla sanità, il governo Meloni, con le spalle al muro, ha deciso di tagliare migliaia di po…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/caro-vita-la-pentola-a-pressione-che-rischia-di-esplodere-come-le-vetrine-dei-negozi-mentre-ritorna-la-minaccia-dei-tagli-a-scuola/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-11-01T11:25:22+00:00"
+  },
   {
    "id": "f6400d1c76f5",
    "title": "Riprendono due sorelle di nascosto e le denudano con l’ia: perizia sui telefoni",
@@ -2118,13 +2151,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T11:25:11.269724+00:00",
+   "last_ok": "2026-11-01T11:55:28.980129+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T11:25:11.269724+00:00",
+   "last_ok": "2026-11-01T11:55:28.980129+00:00",
    "error": null
   },
   {
@@ -2136,19 +2169,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T11:25:11.269724+00:00",
+   "last_ok": "2026-11-01T11:55:28.980129+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T11:25:11.269724+00:00",
+   "last_ok": "2026-11-01T11:55:28.980129+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T11:25:11.269724+00:00",
+   "last_ok": "2026-11-01T11:55:28.980129+00:00",
    "error": null
   }
  ]
