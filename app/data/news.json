@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T19:56:32.016254+00:00",
+ "updated_at": "2026-11-01T20:19:41.615531+00:00",
  "items": [
   {
    "id": "962cdee33e63",
@@ -48,7 +48,7 @@
   {
    "id": "744041bb7474",
    "title": "Scuole chiuse domani a Lecce per allerta meteo: stop anche a parchi e cimitero",
-   "summary": "LECCE –Scatterà domani, lunedì 2 novembre 2026, la chiusura di tutte le scuole di ogni ordine e grado a Lecce. La decisione è stata formalizzata dal Comune di Lecce con un’ordinanza precauzionale ado…",
+   "summary": "LECCE – Scatterà domani, lunedì 2 novembre, la chiusura di tutte le scuole di ogni ordine e grado nel territorio comunale di Lecce.Il provvedimento è stato disposto dal sindaco Adriana Poli Bortone a…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/11/scuole-chiuse-domani-a-lecce-per-allerta-meteo-stop-anche-a-parchi-e-cimitero/",
    "source": "Corriere Salentino",
@@ -1969,30 +1969,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-29T20:31:41+00:00"
-  },
-  {
-   "id": "a0b9cc289502",
-   "title": "Le pagelle dei salentini in Frosinone – Lecce: difesa da incubo, prima gol per Monteiro",
-   "summary": "Falcone 6,5, Il voto più strano per un portiere che prende 5 gol. Eppure basta immaginare se Falcone non si fosse superato a più riprese Siebert 5, l’impegno non può bastare di fronte al limite tecni…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/le-pagelle-dei-salentini-in-frosinone-lecce-difesa-da-incubo-prima-gol-per-monteiro/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T20:16:17+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T19:56:32.016254+00:00",
+   "last_ok": "2026-11-01T20:19:41.615531+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T19:56:32.016254+00:00",
+   "last_ok": "2026-11-01T20:19:41.615531+00:00",
    "error": null
   },
   {
@@ -2004,19 +1993,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T19:56:32.016254+00:00",
+   "last_ok": "2026-11-01T20:19:41.615531+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T19:56:32.016254+00:00",
+   "last_ok": "2026-11-01T20:19:41.615531+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T19:56:32.016254+00:00",
+   "last_ok": "2026-11-01T20:19:41.615531+00:00",
    "error": null
   }
  ]
