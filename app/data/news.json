@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-01T04:35:38.300094+00:00",
+ "updated_at": "2026-11-01T05:29:49.277790+00:00",
  "items": [
+  {
+   "id": "5af7109898e4",
+   "title": "Serie A, Lecce-Genoa in diretta su TeleRama con Lecce Channel in Campo",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_20261030_085333-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/01/serie-a-lecce-genoa-in-diretta-su-telerama-con-lecce-channel-in-campo",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T05:00:39+00:00"
+  },
   {
    "id": "2ab681fddcd4",
    "title": "Testo unico delle leggi di pubblica sicurezza: quali informazioni “sensibili” cela il Viminale?",
@@ -310,6 +321,17 @@
    "published_at": "2026-10-31T15:48:22+00:00"
   },
   {
+   "id": "2f80bd495a28",
+   "title": "Frascaro della Motorsport domina a Navarra, il titolo si decide in Portogallo",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/2025_ChEu_R04lm_04962-1024x683-1.jpg",
+   "url": "https://trnews.it/2026/10/31/frascaro-della-motorsport-domina-a-navarra-il-titolo-si-decide-in-portogallo",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-10-31T15:47:00+00:00"
+  },
+  {
    "id": "0d417e5daf44",
    "title": "\"Il mondo sulle spalle\": Giorgio Napolitano raccontato dal figlio",
    "summary": "",
@@ -319,17 +341,6 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-31T15:43:06+00:00"
-  },
-  {
-   "id": "2f80bd495a28",
-   "title": "Frascaro della Motorsport domina a Navarra, il titolo si decide in Portogallo",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/2025_ChEu_R04lm_04962-1024x683-1.jpg",
-   "url": "https://trnews.it/2026/10/31/frascaro-della-motorsport-domina-a-navarra-il-titolo-si-decide-in-portogallo",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-31T14:47:00+00:00"
   },
   {
    "id": "6a63798dec5c",
@@ -2200,30 +2211,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-29T05:52:51+00:00"
-  },
-  {
-   "id": "8f9be743b002",
-   "title": "La ricetta del giorno: Funghi cardoncelli trifolati (ricetta tipica pugliese)",
-   "summary": "Ingredienti Funghi cardoncelli (almeno 5 di medie dimensioni) 1 peperoncino Olio evo Sale Prezzemolo Procedimento: Pulire delicatamente i funghi con un panno morbido; Tagliare grossolanamente i fungh…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/la-ricetta-del-giorno-funghi-cardoncelli-trifolati-ricetta-tipica-pugliese/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-29T05:03:37+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T04:35:38.300094+00:00",
+   "last_ok": "2026-11-01T05:29:49.277790+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T04:35:38.300094+00:00",
+   "last_ok": "2026-11-01T05:29:49.277790+00:00",
    "error": null
   },
   {
@@ -2235,19 +2235,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T04:35:38.300094+00:00",
+   "last_ok": "2026-11-01T05:29:49.277790+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T04:35:38.300094+00:00",
+   "last_ok": "2026-11-01T05:29:49.277790+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T04:35:38.300094+00:00",
+   "last_ok": "2026-11-01T05:29:49.277790+00:00",
    "error": null
   }
  ]
