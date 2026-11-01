@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-11-01T15:24:03.720678+00:00",
+ "updated_at": "2026-11-01T15:55:33.991906+00:00",
  "items": [
+  {
+   "id": "e5e1b832720b",
+   "title": "Taranto, rigasifficatore al molo polisettoriale: il \"no\" dei cittadini di Lido Azzurro",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-2-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/01/taranto-rigasifficatore-al-molo-polisettoriale-il-no-dei-cittadini-di-lido-azzurro",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Taranto",
+   "published_at": "2026-11-01T15:47:54+00:00"
+  },
+  {
+   "id": "0b76c12b352c",
+   "title": "Manduria, il governo boccia le pale eoliche tra i vigneti",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-1-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/01/manduria-il-governo-boccia-le-pale-eoliche-tra-i-vigneti",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Taranto",
+   "published_at": "2026-11-01T15:47:19+00:00"
+  },
+  {
+   "id": "ce52d2a4a118",
+   "title": "Taranto, sviluppo: l'impegno di politica, professioni e imprese",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/01/taranto-sviluppo-limpegno-di-politica-professioni-e-imprese",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Taranto",
+   "published_at": "2026-11-01T15:46:47+00:00"
+  },
   {
    "id": "0963ad62fd09",
    "title": "Festa di Halloween interrotta al Teatro Comunale di Novoli: controlli e stop per estintori scaduti e assenza di addetti",
@@ -2024,63 +2057,19 @@
    "category": "Cultura",
    "zone": "Lecce",
    "published_at": "2026-10-29T16:00:26+00:00"
-  },
-  {
-   "id": "27604f549bbc",
-   "title": "Consumi, crescono le vendite dei prodotti “targati” puglia +3,6% a valore. Trainano vini, mozzarelle e taralli",
-   "summary": "PUGLIA – Il legame con il territorio conquista spazio sugli scaffali e nel carrello della spesa con i 894 prodotti alimentari e le bevande che richiamano la Puglia in etichetta che hanno sviluppato q…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/consumi-crescono-le-vendite-dei-prodotti-targati-puglia-36-a-valore-trainano-vini-mozzarelle-e-taralli/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-29T15:52:06+00:00"
-  },
-  {
-   "id": "ffbd494edeed",
-   "title": "Taranto, turismo plurale e balneare: Comuni in prima linea",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-105-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/29/taranto-turismo-plurale-e-balneare-comuni-in-prima-linea",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Taranto",
-   "published_at": "2026-10-29T15:49:11+00:00"
-  },
-  {
-   "id": "1099a4cb8760",
-   "title": "Confcommercio Taranto: \"Destinazioni integrate\" con i Comuni",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-104-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/29/confcommercio-taranto-destinazioni-integrate-con-i-comuni",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Taranto",
-   "published_at": "2026-10-29T15:48:25+00:00"
-  },
-  {
-   "id": "36ed38fa6095",
-   "title": "Xylella, approvato il bando da 30 milioni. Paolicelli: “Incontriamo gli agricoltori per accompagnarli nelle opportunità della misura”",
-   "summary": "Regione Puglia dà il via libera all’Avviso pubblico da 30 milioni di euro per sostenere il ripristino del potenziale produttivo agricolo danneggiato da Xylella fastidiosa. E, nel mese di novembre, un…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/xylella-approvato-il-bando-da-30-milioni-paolicelli-incontriamo-gli-agricoltori-per-accompagnarli-nelle-opportunita-della-misura/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-10-29T15:46:12+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T15:24:03.720678+00:00",
+   "last_ok": "2026-11-01T15:55:33.991906+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T15:24:03.720678+00:00",
+   "last_ok": "2026-11-01T15:55:33.991906+00:00",
    "error": null
   },
   {
@@ -2092,19 +2081,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T15:24:03.720678+00:00",
+   "last_ok": "2026-11-01T15:55:33.991906+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T15:24:03.720678+00:00",
+   "last_ok": "2026-11-01T15:55:33.991906+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T15:24:03.720678+00:00",
+   "last_ok": "2026-11-01T15:55:33.991906+00:00",
    "error": null
   }
  ]
