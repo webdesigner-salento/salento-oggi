@@ -1,6 +1,72 @@
 {
- "updated_at": "2026-11-01T07:28:17.877892+00:00",
+ "updated_at": "2026-11-01T08:14:40.298146+00:00",
  "items": [
+  {
+   "id": "02dd69b48722",
+   "title": "Musk spegne Starlink in Ucraina: l’Europa non può affidare la propria sicurezza a un privato",
+   "summary": "Lo stop a Starlink al fronte mostra il vero rischio della guerra moderna: la difesa trasformata in abbonamento privato in balìa di Elon Musk e Washington.",
+   "image": null,
+   "url": "https://www.valigiablu.it/starlink-ucraina-musk-silicon-valley-usa-europa/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-01T08:12:38+00:00"
+  },
+  {
+   "id": "01b6dada44ad",
+   "title": "Fortezze di Puglia: Il Castello di Canne della Battaglia",
+   "summary": "La città di Canne oggi non esiste più, al suo posto restano le rovine e le vestigia, ovviamente visitabili, di quello che un tempo fu un centro abitato come tanti altri. Il suo nome è legato alla cel…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/fortezze-di-puglia-il-castello-di-canne-della-battaglia/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Salento",
+   "published_at": "2026-11-01T08:10:17+00:00"
+  },
+  {
+   "id": "5206e6a896cc",
+   "title": "Smantellata l’edicola De Vitis: a Lecce sparisce un altro pezzo di memoria",
+   "summary": "Chi è nato prima degli anni Duemila lo riconosce al primo sguardo il senso di vuoto che lascia uno spazio urbano improvvisamente liberato dalla sua storia. Questa volta non si tratta semplicemente di…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/smantellata-ledicola-de-vitis-a-lecce-sparisce-un-altro-pezzo-di-memoria/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T08:09:36+00:00"
+  },
+  {
+   "id": "32ff9f5fa101",
+   "title": "Alex, l’autunno secondo Alessandra Civilla: quando la cucina diventa un racconto di stagione",
+   "summary": "Lecce – Ci sono stagioni che invitano a rallentare, a ritrovare il piacere di una tavola capace di accogliere e a lasciarsi conquistare da sapori più profondi, avvolgenti, intimamente legati alla ter…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/risotto-alex-225x300.jpg",
+   "url": "https://www.corrieresalentino.it/2026/11/alex-lautunno-secondo-alessandra-civilla-quando-la-cucina-diventa-un-racconto-di-stagione/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T07:48:18+00:00"
+  },
+  {
+   "id": "1507735a0d4b",
+   "title": "Eccellenze gastronomiche salentine: Olio Extravergine d’Oliva, l’oro del Salento",
+   "summary": "Prodotto principalmente dalle secolari cultivar Ogliarola Salentina e Cellina di Nardò (e oggi affiancato dalle varietà resistenti come Favolosa e Leccino), l’olio EVO salentino si presenta con un co…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/eccellenze-gastronomiche-salentine-olio-extravergine-doliva-loro-del-salento/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T07:42:38+00:00"
+  },
+  {
+   "id": "4ef870b233fa",
+   "title": "La fauna del Salento: il Gufo, lo stoico del bosco",
+   "summary": "Rapace notturno di medie dimensioni, caratterizzato da grandi occhi arancioni o dorati e da due lunghi “ciuffi auricolari” di piume sulla testa che non sono orecchie, ma semplici penne decorative usa…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/la-fauna-del-salento-il-gufo-lo-stoico-del-bosco/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-01T07:40:32+00:00"
+  },
   {
    "id": "4f8d0c4f30f8",
    "title": "Milena Gabanelli a “L’Elefante” (Rai 3): «I ragazzi mi hanno detto: sono mesi che manifestiamo, ma per vederci qualcuno ha dovuto sfondare le vetrine”",
@@ -11,6 +77,17 @@
    "category": "Politica",
    "zone": "Salento",
    "published_at": "2026-11-01T07:25:08+00:00"
+  },
+  {
+   "id": "807bd64c62b7",
+   "title": "“Al tg devono sapere che sei morta”, minacce via Tik Tok alla ex di 16 anni. Indagato 19enne per stalking",
+   "summary": "SALENTO – Video intimi pubblicati sui social per vendicarsi della fine della relazione. E dopo la denuncia, nonostante un divieto di avvicinamento, un ragazzo di 18 anni, residente in un comune salen…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/al-tg-devono-sapere-che-sei-morta-minacce-via-tik-tok-alla-ex-di-16-anni-indagato-19enne-per-stalking/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-11-01T07:20:26+00:00"
   },
   {
    "id": "7b8bbc8d458a",
@@ -297,17 +374,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-31T19:31:36+00:00"
-  },
-  {
-   "id": "86cd59993893",
-   "title": "“Al tg devono sapere che sei morta”, minacce via Tik Tok alla ex di 16 anni. Indagato 19enne per stalking",
-   "summary": "SALENTO – Video intimi pubblicati sui social per vendicarsi della fine della relazione. E dopo la denuncia, nonostante un divieto di avvicinamento, un ragazzo di 18 anni, residente in un comune salen…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/al-tg-devono-sapere-che-sei-morta-minacce-via-tik-tok-alla-ex-di-16-anni-indagato-19enne-per-stalking/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-10-31T19:20:26+00:00"
   },
   {
    "id": "dd65e93a7b3c",
@@ -2167,41 +2233,19 @@
    "category": "Politica",
    "zone": "Salento",
    "published_at": "2026-10-29T08:21:17+00:00"
-  },
-  {
-   "id": "3c77f31be8fd",
-   "title": "Halloween a Spongano: Ultimi Fuochi Teatro porta in scena paure, misteri e avventure immersive",
-   "summary": "SPONGANO (Lecce) – Nel weekend più spaventoso dell’anno, la stagione teatrale Fuochi Comuni di Ultimi Fuochi Teatro si prepara a celebrare Halloween con due spettacoli che trasformano gli spazi del C…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/halloween-a-spongano-ultimi-fuochi-teatro-porta-in-scena-paure-misteri-e-avventure-immersive/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T08:13:50+00:00"
-  },
-  {
-   "id": "0ac2aeb0c51c",
-   "title": "Venerdì 30 ottobre “Artisti barboni per un giorno – Barbonaggio Teatrale Collettivo” in piazza Sant’Oronzo",
-   "summary": "LECCE – Un palchetto e un costume con tante storie da condividere per un grande rito collettivo: venerdì 30 ottobre in Piazza Sant’Oronzo a Lecce torna “Artisti barboni per un giorno – Barbonaggio Te…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/venerdi-30-ottobre-artisti-barboni-per-un-giorno-barbonaggio-teatrale-collettivo-in-piazza-santoronzo/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T08:10:17+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T07:28:17.877892+00:00",
+   "last_ok": "2026-11-01T08:14:40.298146+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T07:28:17.877892+00:00",
+   "last_ok": "2026-11-01T08:14:40.298146+00:00",
    "error": null
   },
   {
@@ -2213,19 +2257,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T07:28:17.877892+00:00",
+   "last_ok": "2026-11-01T08:14:40.298146+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T07:28:17.877892+00:00",
+   "last_ok": "2026-11-01T08:14:40.298146+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T07:28:17.877892+00:00",
+   "last_ok": "2026-11-01T08:14:40.298146+00:00",
    "error": null
   }
  ]
