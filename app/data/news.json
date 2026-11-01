@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-11-01T08:14:40.298146+00:00",
+ "updated_at": "2026-11-01T09:07:52.012521+00:00",
  "items": [
+  {
+   "id": "9f815a476dbd",
+   "title": "Alla scoperta del Salento: Leuca una terra ricca di storia, arte e tesori da scoprire",
+   "summary": "Il suo nome in greco significa “bianca” e ad assegnarglielo furono gli antichi marinai proveniente dall’Oriente, ai quali questa incantevole località appariva da lontano splendente, perché illuminata…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2022/07/leuca-palazzo-632x420.jpg",
+   "url": "https://www.corrieresalentino.it/2026/11/alla-scoperta-del-salento-leuca-una-terra-ricca-di-storia-arte-e-tesori-da-scoprire/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T08:18:11+00:00"
+  },
+  {
+   "id": "8f6349372e89",
+   "title": "Alla scoperta del Salento: le antiche Porte di Lecce",
+   "summary": "A passi lenti ci avviciniamo alla nostra città e ci fermiamo…proprio davanti alle porte! Erano ingressi virtuali che anticamente rappresentavano i confini reali di Lecce: facciamo, allora, “il giro d…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2017/02/malennio-400x300.jpg",
+   "url": "https://www.corrieresalentino.it/2026/11/alla-scoperta-del-salento-le-antiche-porte-di-lecce/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T08:16:51+00:00"
+  },
   {
    "id": "02dd69b48722",
    "title": "Musk spegne Starlink in Ucraina: l’Europa non può affidare la propria sicurezza a un privato",
@@ -11,6 +33,28 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-01T08:12:38+00:00"
+  },
+  {
+   "id": "14dc0dfe800a",
+   "title": "Sull”arte della cartapesta a Lecce",
+   "summary": "Lo storico Luigi Giuseppe De Simone pare che sia stato il primo ad occuparsene, stando al saggio di Nicola Vacca, “Appunti storici sulla cartapesta leccese”, pubblicato nel 1934 in Rinascenza Salenti…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/sullarte-della-cartapesta-a-lecce/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T08:12:36+00:00"
+  },
+  {
+   "id": "c6afbdf2cafe",
+   "title": "Figli del Salento: Rina Durante, scrittrice, giornalista e fondatrice del Canzoniere Grecanico Salentino",
+   "summary": "Il giorno di Natale del 2004 il Salento ha perso una delle sue più grandi figlie: Caterina Durante. Per tutti e per sempre Rina Durante. Non esiste in Salento adulto che non conosca colei che definir…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/figli-del-salento-rina-durante/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Salento",
+   "published_at": "2026-11-01T08:11:07+00:00"
   },
   {
    "id": "01b6dada44ad",
@@ -2222,30 +2266,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-29T09:32:49+00:00"
-  },
-  {
-   "id": "0d1cd7b454f2",
-   "title": "Fitto: positiva l’intesa su decreto bollette fra Italia e Commissione Ue",
-   "summary": "“Saluto positivamente l’intesa raggiunta tra il governo italiano e la Commissione europea sul decreto bollette. È il risultato di un lavoro costante, fondato sul dialogo e sulla collaborazione istitu…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/fitto-positiva-lintesa-su-decreto-bollette-fra-italia-e-commissione-ue/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-10-29T08:21:17+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T08:14:40.298146+00:00",
+   "last_ok": "2026-11-01T09:07:52.012521+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T08:14:40.298146+00:00",
+   "last_ok": "2026-11-01T09:07:52.012521+00:00",
    "error": null
   },
   {
@@ -2257,19 +2290,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T08:14:40.298146+00:00",
+   "last_ok": "2026-11-01T09:07:52.012521+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T08:14:40.298146+00:00",
+   "last_ok": "2026-11-01T09:07:52.012521+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T08:14:40.298146+00:00",
+   "last_ok": "2026-11-01T09:07:52.012521+00:00",
    "error": null
   }
  ]
