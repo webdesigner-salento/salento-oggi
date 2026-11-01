@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-01T13:16:23.361162+00:00",
+ "updated_at": "2026-11-01T14:02:46.858927+00:00",
  "items": [
+  {
+   "id": "ea958bc60d02",
+   "title": "Funziona il Piano della viabilità varato per la Festa di Ognissanti",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-30-at-14.08.38-1024x576.jpeg",
+   "url": "https://trnews.it/2026/11/01/funziona-il-piano-della-viabilita-varato-per-la-festa-di-ognissanti",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T13:08:38+00:00"
+  },
   {
    "id": "7386e6bb317c",
    "title": "Caro vita, la pentola a pressione che rischia di esplodere come le vetrine dei negozi, mentre ritorna la minaccia dei tagli a scuola",
@@ -2068,41 +2079,19 @@
    "category": "Altro",
    "zone": "Taranto",
    "published_at": "2026-10-29T14:42:07+00:00"
-  },
-  {
-   "id": "98a39a5ba50c",
-   "title": "Volley, due arrivi per Prisma Taranto",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-29-145959.png",
-   "url": "https://trnews.it/2026/10/29/volley-due-arrivi-per-prisma-taranto",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-10-29T13:45:01+00:00"
-  },
-  {
-   "id": "dd87a5cecf7a",
-   "title": "Contatori autonomi e rientro morosità, in Prefettura siglato l'accordo tra Arca Sud e Aqp",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2024/10/prefettura-1-678x381-1.jpeg",
-   "url": "https://trnews.it/2026/10/29/contatori-autonomi-e-rientro-morosita-in-prefettura-siglato-laccordo-tra-arca-sud-e-aqp",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T13:32:06+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T13:16:23.361162+00:00",
+   "last_ok": "2026-11-01T14:02:46.858927+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T13:16:23.361162+00:00",
+   "last_ok": "2026-11-01T14:02:46.858927+00:00",
    "error": null
   },
   {
@@ -2114,19 +2103,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T13:16:23.361162+00:00",
+   "last_ok": "2026-11-01T14:02:46.858927+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T13:16:23.361162+00:00",
+   "last_ok": "2026-11-01T14:02:46.858927+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T13:16:23.361162+00:00",
+   "last_ok": "2026-11-01T14:02:46.858927+00:00",
    "error": null
   }
  ]
