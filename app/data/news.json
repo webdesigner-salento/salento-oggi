@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-11-01T14:02:46.858927+00:00",
+ "updated_at": "2026-11-01T14:57:52.071712+00:00",
  "items": [
+  {
+   "id": "0963ad62fd09",
+   "title": "Festa di Halloween interrotta al Teatro Comunale di Novoli: controlli e stop per estintori scaduti e assenza di addetti",
+   "summary": "NOVOLI (Lecce) – Una festa di Halloween dedicata ai più piccoli e alle famiglie si è conclusa con lo stop delle autorità e il trasferimento dei partecipanti a pochi passi di distanza. È accaduto nell…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/festa-di-halloween-interrotta-al-teatro-comunale-di-novoli-controlli-e-stop-per-estintori-scaduti-e-assenza-di-addetti/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T14:54:48+00:00"
+  },
+  {
+   "id": "63922357958e",
+   "title": "Incendio all’impianto di biostabilizzazione di Burgesi: fiamme domate a Ugento, scatta la bonifica",
+   "summary": "BURGESI (Lecce) – Un incendio è divampato all’interno dell’impianto di biostabilizzazione dei rifiuti di Burgesi, a Ugento, facendo scattare l’allarme nella zona industriale. A evitare danni peggiori…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/Corriere-salentino-2-300x169.png",
+   "url": "https://www.corrieresalentino.it/2026/11/incendio-allimpianto-di-biostabilizzazione-di-burgesi-fiamme-domate-a-ugento-scatta-la-bonifica/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T14:22:23+00:00"
+  },
   {
    "id": "ea958bc60d02",
    "title": "Funziona il Piano della viabilità varato per la Festa di Ognissanti",
@@ -44,17 +66,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-11-01T12:20:53+00:00"
-  },
-  {
-   "id": "0963ad62fd09",
-   "title": "Festa di Halloween interrotta al Teatro Comunale di Novoli: controlli e stop per estintori scaduti e assenza di addetti",
-   "summary": "NOVOLI (Lecce) – Una festa di Halloween dedicata ai più piccoli e alle famiglie si è conclusa con lo stop delle autorità e il trasferimento dei partecipanti a pochi passi di distanza. È accaduto nell…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/festa-di-halloween-interrotta-al-teatro-comunale-di-novoli-controlli-e-stop-per-estintori-scaduti-e-assenza-di-addetti/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-01T11:54:48+00:00"
   },
   {
    "id": "c73cf515cb1a",
@@ -2068,30 +2079,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-29T15:15:09+00:00"
-  },
-  {
-   "id": "aee2b9a36048",
-   "title": "Ex Ilva, la Cassazione conferma lo stop all’area a caldo: respinti tutti i ricorsi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2024/02/ex-ilva.jpg",
-   "url": "https://trnews.it/2026/10/29/ex-ilva-la-cassazione-conferma-lo-stop-allarea-a-caldo-respinti-tutti-i-ricorsi",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Taranto",
-   "published_at": "2026-10-29T14:42:07+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T14:02:46.858927+00:00",
+   "last_ok": "2026-11-01T14:57:52.071712+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T14:02:46.858927+00:00",
+   "last_ok": "2026-11-01T14:57:52.071712+00:00",
    "error": null
   },
   {
@@ -2103,19 +2103,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T14:02:46.858927+00:00",
+   "last_ok": "2026-11-01T14:57:52.071712+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T14:02:46.858927+00:00",
+   "last_ok": "2026-11-01T14:57:52.071712+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T14:02:46.858927+00:00",
+   "last_ok": "2026-11-01T14:57:52.071712+00:00",
    "error": null
   }
  ]
