@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-01T21:24:59.667489+00:00",
+ "updated_at": "2026-11-01T21:56:05.840713+00:00",
  "items": [
+  {
+   "id": "1055ea3111b7",
+   "title": "Volley A3: Galatone cede in casa, Taviano e Capo di Leuca corsari",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/A_DSC00068-1024x683.jpg",
+   "url": "https://trnews.it/2026/11/01/volley-a3-galatone-cede-in-casa-taviano-e-capo-di-leuca-corsari",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T21:05:51+00:00"
+  },
   {
    "id": "946bda6697cc",
    "title": "Volley A2/F: Itas Trentino batte Narconon Melendugno 3-0",
@@ -1969,30 +1980,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-29T22:37:04+00:00"
-  },
-  {
-   "id": "6e15ee39178d",
-   "title": "Di Francesco, la sua opinione sul rigore mancato e l’analisi della gara col Frosinone",
-   "summary": "FROSINONE- Il rigore al centro delle polemiche nel dopo partita di Eusebio Di Francesco. L’allenatore del Lecce non nasconde il proprio disappunto per l’episodio che, a suo giudizio, ha indirizzato l…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/di-francesco-la-sua-opinione-sul-rigore-mancato-e-lanalisi-della-gara-col-frosinone/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T21:32:09+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T21:24:59.667489+00:00",
+   "last_ok": "2026-11-01T21:56:05.840713+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T21:24:59.667489+00:00",
+   "last_ok": "2026-11-01T21:56:05.840713+00:00",
    "error": null
   },
   {
@@ -2004,19 +2004,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T21:24:59.667489+00:00",
+   "last_ok": "2026-11-01T21:56:05.840713+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T21:24:59.667489+00:00",
+   "last_ok": "2026-11-01T21:56:05.840713+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T21:24:59.667489+00:00",
+   "last_ok": "2026-11-01T21:56:05.840713+00:00",
    "error": null
   }
  ]
