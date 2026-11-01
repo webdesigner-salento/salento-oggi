@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T16:23:14.967918+00:00",
+ "updated_at": "2026-11-01T16:57:38.475992+00:00",
  "items": [
   {
    "id": "e5e1b832720b",
@@ -1947,52 +1947,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-29T16:59:42+00:00"
-  },
-  {
-   "id": "dd3e39d4b373",
-   "title": "Vernole, Roberta Braj lascia il gruppo consiliare “Futuro Insieme” e prosegue il mandato da consigliera indipendente",
-   "summary": "VERNOLE – La consigliera comunale Roberta Braj ha formalizzato il recesso dal gruppo consiliare “Futuro Insieme”, comunicando la propria decisione al Presidente del Consiglio Comunale, al Sindaco e a…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/vernole-roberta-braj-lascia-il-gruppo-consiliare-futuro-insieme-e-prosegue-il-mandato-da-consigliera-indipendente/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T16:54:25+00:00"
-  },
-  {
-   "id": "216cc1516504",
-   "title": "Valtur Brindisi, si ferma Esposito. Sarà operato alla spalla",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/10/esposito-valtur-1024x1024.jpg",
-   "url": "https://trnews.it/2026/10/29/valtur-brindis-si-ferma-esposito-sara-operato-alla-spalla",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-10-29T16:50:45+00:00"
-  },
-  {
-   "id": "211598178ffb",
-   "title": "Tecnologia, sovranità, sicurezza: l’Europa deve smettere di affidarsi a Palantir di Peter Thiel",
-   "summary": "L'Europa spende 1,4 miliardi per Palantir perdendo il controllo dei dati strategici: come l'azienda USA conquista i governi e perché è un errore evitabile.",
-   "image": null,
-   "url": "https://www.valigiablu.it/palantir-europa-sicurezza-dati-sovranita/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-29T16:46:00+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T16:23:14.967918+00:00",
+   "last_ok": "2026-11-01T16:57:38.475992+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T16:23:14.967918+00:00",
+   "last_ok": "2026-11-01T16:57:38.475992+00:00",
    "error": null
   },
   {
@@ -2004,19 +1971,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T16:23:14.967918+00:00",
+   "last_ok": "2026-11-01T16:57:38.475992+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T16:23:14.967918+00:00",
+   "last_ok": "2026-11-01T16:57:38.475992+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T16:23:14.967918+00:00",
+   "last_ok": "2026-11-01T16:57:38.475992+00:00",
    "error": null
   }
  ]
