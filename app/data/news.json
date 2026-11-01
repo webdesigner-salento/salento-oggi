@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T22:22:04.704413+00:00",
+ "updated_at": "2026-11-01T22:56:22.141642+00:00",
  "items": [
   {
    "id": "1055ea3111b7",
@@ -22,6 +22,17 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-11-01T21:02:59+00:00"
+  },
+  {
+   "id": "63b9ef79406b",
+   "title": "Lecce. Di Francesco: \"Torniamo umili e lavoriamo. I veri valori alla lunga vengono fuori\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/05/Di-Francesco-pre-Genoa-1024x768.jpg",
+   "url": "https://trnews.it/2026/11/01/lecce-di-francesco-torniamo-umili-e-lavoriamo-i-veri-valori-alla-lunga-vengono-fuori",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T20:58:11+00:00"
   },
   {
    "id": "946bda6697cc",
@@ -1969,30 +1980,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-29T22:59:10+00:00"
-  },
-  {
-   "id": "9df88c1f357d",
-   "title": "Telefonini in carcere per contattare moglie, conviventi, figlia e genitori: otto indagati",
-   "summary": "LECCE – Telefonini in carcere per contattare familiari direttamente dalle celle di borgo San Nicola. Otto detenuti sono stati raggiunti da un avviso di chiusa inchiesta con l’accusa di accesso indebi…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/telefonini-in-carcere-per-contattare-moglie-conviventi-figlia-e-genitori-otto-indagati/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T22:37:04+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T22:22:04.704413+00:00",
+   "last_ok": "2026-11-01T22:56:22.141642+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T22:22:04.704413+00:00",
+   "last_ok": "2026-11-01T22:56:22.141642+00:00",
    "error": null
   },
   {
@@ -2004,19 +2004,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T22:22:04.704413+00:00",
+   "last_ok": "2026-11-01T22:56:22.141642+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T22:22:04.704413+00:00",
+   "last_ok": "2026-11-01T22:56:22.141642+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T22:22:04.704413+00:00",
+   "last_ok": "2026-11-01T22:56:22.141642+00:00",
    "error": null
   }
  ]
