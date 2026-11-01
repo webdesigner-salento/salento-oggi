@@ -1,9 +1,31 @@
 {
- "updated_at": "2026-11-01T12:24:57.439412+00:00",
+ "updated_at": "2026-11-01T13:16:23.361162+00:00",
  "items": [
   {
+   "id": "7386e6bb317c",
+   "title": "Caro vita, la pentola a pressione che rischia di esplodere come le vetrine dei negozi, mentre ritorna la minaccia dei tagli a scuola",
+   "summary": "SALENTO – Dopo anni di tagli nel pubblico, che hanno fatto collassare i servizi in vari settori, dai Comuni alla sanità, il governo Meloni, con le spalle al muro, ha deciso di tagliare migliaia di po…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/caro-vita-la-pentola-a-pressione-che-rischia-di-esplodere-come-le-vetrine-dei-negozi-mentre-ritorna-la-minaccia-dei-tagli-a-scuola/",
+   "source": "Corriere Salentino",
+   "category": "Economia",
+   "zone": "Salento",
+   "published_at": "2026-11-01T12:33:22+00:00"
+  },
+  {
+   "id": "8536609cb381",
+   "title": "Caso Konecta, incubo esuberi: un tavolo per formazione e riconversione",
+   "summary": "Il caso di Konecta con possibili esuberi anche nello stabilimento di Lecce che occupa circa 850 addetti, fa scattare l’emergenza nel settore dei lavoratori dei call center e pone sul tavolo il proble…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/caso-konecta-incubo-esuberi/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-01T12:27:44+00:00"
+  },
+  {
    "id": "6915f0b7ced3",
-   "title": "«Devono sapere al tg che ti hanno ammazzata», 16enne minacciata dall'ex. Indagato18enne",
+   "title": "«Devono sapere al Tg che ti hanno ammazzata», 16enne minacciata dall'ex. Indagato18enne",
    "summary": "",
    "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG-20220922-WA0009.jpg",
    "url": "https://trnews.it/2026/11/01/devono-sapere-al-tg-che-ti-hanno-ammazzata-16enne-minacciata-dallex-indagato18enne",
@@ -33,17 +55,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-11-01T11:47:26+00:00"
-  },
-  {
-   "id": "7386e6bb317c",
-   "title": "Caro vita, la pentola a pressione che rischia di esplodere come le vetrine dei negozi, mentre ritorna la minaccia dei tagli a scuola",
-   "summary": "SALENTO – Dopo anni di tagli nel pubblico, che hanno fatto collassare i servizi in vari settori, dai Comuni alla sanità, il governo Meloni, con le spalle al muro, ha deciso di tagliare migliaia di po…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/caro-vita-la-pentola-a-pressione-che-rischia-di-esplodere-come-le-vetrine-dei-negozi-mentre-ritorna-la-minaccia-dei-tagli-a-scuola/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-01T11:25:22+00:00"
   },
   {
    "id": "f6400d1c76f5",
@@ -497,6 +508,17 @@
    "published_at": "2026-10-31T23:10:31+00:00"
   },
   {
+   "id": "6a63798dec5c",
+   "title": "Omicidio Mazzotta, Greco: “Colpo di pistola partito accidentalmente”, ma il giudice lo lascia in carcere",
+   "summary": "SURBO (Lecce) – L’assassino parla di un colpo partito accidentalmente ma il giudice si allinea con la ricostruzione degli inquirenti e conferma: si è trattato un omicidio volontario. Emmanuel Greco,…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/EMMANUEL-GRECO.jpg",
+   "url": "https://www.corrieresalentino.it/2026/10/omicidio-mazzotta-greco-colpo-di-pistola-partito-accidentalmente-ma-il-giudice-lo-lascia-in-carcere/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-10-31T22:44:43+00:00"
+  },
+  {
    "id": "3aadb5058d47",
    "title": "Valtur Brindisi sconfitta a Mestre",
    "summary": "",
@@ -594,17 +616,6 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-31T15:43:06+00:00"
-  },
-  {
-   "id": "6a63798dec5c",
-   "title": "Omicidio Mazzotta, Greco: “Colpo di pistola partito accidentalmente”, ma il giudice lo lascia in carcere",
-   "summary": "SURBO (Lecce) – L’assassino parla di un colpo partito accidentalmente ma il giudice si allinea con la ricostruzione degli inquirenti e conferma: si è trattato un omicidio volontario. Emmanuel Greco,…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/EMMANUEL-GRECO.jpg",
-   "url": "https://www.corrieresalentino.it/2026/10/omicidio-mazzotta-greco-colpo-di-pistola-partito-accidentalmente-ma-il-giudice-lo-lascia-in-carcere/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-31T14:44:43+00:00"
   },
   {
    "id": "6c3eef6e068d",
@@ -2079,52 +2090,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-29T13:32:06+00:00"
-  },
-  {
-   "id": "d5167de224cf",
-   "title": "Prima la rissa e poi l’aggressione ai poliziotti, arrestato un 24enne e denunciate altre tre persone",
-   "summary": "Lecce – Un arresto e tre denunce a seguito di una rissa e poi di aggressioni ai poliziotti. Nella notte di domenica scorsa, 25 ottobre, la Polizia di Stato ha arrestato a Lecce un uomo di 24 anni, re…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/prima-la-rissa-e-poi-laggressione-ai-poliziotti-arrestato-un-24enne-e-denunciate-altre-tre-persone/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-29T13:06:14+00:00"
-  },
-  {
-   "id": "caf61e416000",
-   "title": "L'abbraccio della città a Giuseppe Meo",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-103-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/29/labbraccio-della-citta-a-giuseppe-meo",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Brindisi",
-   "published_at": "2026-10-29T13:03:29+00:00"
-  },
-  {
-   "id": "ef8a48f80877",
-   "title": "Recuperati due trattori da 120mila euro",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-102-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/29/recuperati-due-trattori-da-120mila-euro",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Brindisi",
-   "published_at": "2026-10-29T12:58:40+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-01T12:24:57.439412+00:00",
+   "last_ok": "2026-11-01T13:16:23.361162+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-01T12:24:57.439412+00:00",
+   "last_ok": "2026-11-01T13:16:23.361162+00:00",
    "error": null
   },
   {
@@ -2136,19 +2114,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-01T12:24:57.439412+00:00",
+   "last_ok": "2026-11-01T13:16:23.361162+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-01T12:24:57.439412+00:00",
+   "last_ok": "2026-11-01T13:16:23.361162+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-01T12:24:57.439412+00:00",
+   "last_ok": "2026-11-01T13:16:23.361162+00:00",
    "error": null
   }
  ]
