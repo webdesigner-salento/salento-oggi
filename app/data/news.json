@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-02T14:44:26.085711+00:00",
+ "updated_at": "2026-11-02T15:42:17.564326+00:00",
  "items": [
+  {
+   "id": "6bc8ddf2aa57",
+   "title": "Lecce e provincia, 13 arresti e 51 indagati: maxi controlli contro droga e criminalità giovanile",
+   "summary": "SALENTO – Tredici arresti, 51 persone indagate e 6.802 soggetti identificati. È il bilancio dei controlli della polizia in provincia di Lecce, nell’ambito di una vasta operazione nazionale contro la…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/lecce-e-provincia-13-arresti-e-51-indagati-maxi-controlli-contro-droga-e-criminalita-giovanile/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T15:33:18+00:00"
+  },
   {
    "id": "7d107fe21ae6",
    "title": "Tenta di rapinare avvocato, professionista reagisce e malvivente fugge",
@@ -220,17 +231,6 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-02T09:52:58+00:00"
-  },
-  {
-   "id": "6bc8ddf2aa57",
-   "title": "Lecce e provincia, 13 arresti e 51 indagati: maxi controlli contro droga e criminalità giovanile",
-   "summary": "SALENTO – Tredici arresti, 51 persone indagate e 6.802 soggetti identificati. È il bilancio dei controlli della polizia in provincia di Lecce, nell’ambito di una vasta operazione nazionale contro la…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/lecce-e-provincia-13-arresti-e-51-indagati-maxi-controlli-contro-droga-e-criminalita-giovanile/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T09:43:18+00:00"
   },
   {
    "id": "ce939112655d",
@@ -1870,41 +1870,19 @@
    "category": "Cultura",
    "zone": "Lecce",
    "published_at": "2026-10-30T15:58:13+00:00"
-  },
-  {
-   "id": "0f3aa67eb4ee",
-   "title": "Maxi furto da 160mila euro ai danni di un’anziana a Campi Salentina: nei guai anche il presunto riciclatore",
-   "summary": "CAMPI SALENTINA (Lecce) – Non si sono fermate al blitz di inizio ottobre le indagini dei Carabinieri della Stazione di Campi Salentina sul colpo milionario messo a segno lo scorso 2 agosto nell’abita…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/1ac113b4-84fc-4186-b852-f358f22d82d3-187x300.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/10/maxi-furto-da-160mila-euro-ai-danni-di-unanziana-a-campi-salentina-nei-guai-anche-il-presunto-riciclatore/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T15:30:54+00:00"
-  },
-  {
-   "id": "0b3bafb045ae",
-   "title": "Pagliaro: “Tac rotta, esame rimandato a data da destinarsi. Pazienti oncologici abbandonati, la ASL trovi subito alternative”",
-   "summary": "“La Tac è rotta, l’appuntamento è rimandato a data da destinarsi. È la comunicazione arrivata oggi ai pazienti oncologici che avrebbero dovuto sottoporsi all’esame nella giornata di domani. Un avviso…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/pagliaro-tac-rotta-esame-rimandato-a-data-da-destinarsi-pazienti-oncologici-abbandonati-la-asl-trovi-subito-alternative/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-10-30T15:25:44+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-02T14:44:26.085711+00:00",
+   "last_ok": "2026-11-02T15:42:17.564326+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-02T14:44:26.085711+00:00",
+   "last_ok": "2026-11-02T15:42:17.564326+00:00",
    "error": null
   },
   {
@@ -1916,19 +1894,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-02T14:44:26.085711+00:00",
+   "last_ok": "2026-11-02T15:42:17.564326+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-02T14:44:26.085711+00:00",
+   "last_ok": "2026-11-02T15:42:17.564326+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-02T14:44:26.085711+00:00",
+   "last_ok": "2026-11-02T15:42:17.564326+00:00",
    "error": null
   }
  ]
