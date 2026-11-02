@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T20:30:30.453849+00:00",
+ "updated_at": "2026-11-02T21:28:22.192677+00:00",
  "items": [
   {
    "id": "8121885130b9",
@@ -1815,41 +1815,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-30T21:47:39+00:00"
-  },
-  {
-   "id": "85c29ebcb7cc",
-   "title": "Si è spento Franco Buscicchio , aveva 65 anni",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/buschiccio-e1793391341185.jpg",
-   "url": "https://trnews.it/2026/10/30/si-e-spento-franco-buscicchio-aveva-65-anni",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T21:16:05+00:00"
-  },
-  {
-   "id": "f36c4053c6c8",
-   "title": "Lecce; si ferma anche l’attaccante Guebbels",
-   "summary": "E’ un Lecce con le ossa rotte quello rientrato dal tracollo di Frosinone, con l’ennesimo infortunio stagionale registrato. L’attaccante francese Guebbels, che ha dovuto alzare bandiera bianca poco pr…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lecce-si-ferma-anche-lattaccante-guebbels/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T21:00:19+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-02T20:30:30.453849+00:00",
+   "last_ok": "2026-11-02T21:28:22.192677+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-02T20:30:30.453849+00:00",
+   "last_ok": "2026-11-02T21:28:22.192677+00:00",
    "error": null
   },
   {
@@ -1861,19 +1839,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-02T20:30:30.453849+00:00",
+   "last_ok": "2026-11-02T21:28:22.192677+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-02T20:30:30.453849+00:00",
+   "last_ok": "2026-11-02T21:28:22.192677+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-02T20:30:30.453849+00:00",
+   "last_ok": "2026-11-02T21:28:22.192677+00:00",
    "error": null
   }
  ]
