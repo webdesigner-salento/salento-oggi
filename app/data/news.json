@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-02T05:45:18.087950+00:00",
+ "updated_at": "2026-11-02T06:51:44.480973+00:00",
  "items": [
+  {
+   "id": "7d951fad0472",
+   "title": "Maltempo, allerta arancione: scuole chiuse a Lecce e in provincia. Stop anche ai mercati",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/02/maltempo-1024x477.jpg",
+   "url": "https://trnews.it/2026/11/02/maltempo-allerta-arancione-scuole-chiuse-a-lecce-e-in-provincia-stop-anche-ai-mercati",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T06:28:36+00:00"
+  },
   {
    "id": "2961add07953",
    "title": "Appuntamento con Piazza Giallorossa questa sera su TeleRama",
@@ -1947,41 +1958,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-30T06:52:43+00:00"
-  },
-  {
-   "id": "1aec09689b60",
-   "title": "Si è spento il padre di Antonio Decaro, il cordoglio del mondo politico",
-   "summary": "Si è spento a 83 anni Giovanni Decaro, il padre del presidente della Regione Puglia, Antonio Decaro, e di Nicola, professore universitario. Era ricoverato nell’ospedale oncologico Giovanni Paolo II d…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/si-e-spento-il-padre-di-antonio-decaro-il-cordoglio-del-mondo-politico/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-10-30T06:37:35+00:00"
-  },
-  {
-   "id": "8eb3a0faa3ae",
-   "title": "L’almanacco di oggi 30 ottobre",
-   "summary": "Il Santo del giorno: San Germano. Il proverbio di Mesciu Ronzu: Paru cerca paru e paru pija. Significato: Ognuno cerca il suo simile e con il suo simile si accompagna. – Sono nati in questo giorno 19…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lalmanacco-di-oggi-30-ottobre/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-30T06:22:20+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-02T05:45:18.087950+00:00",
+   "last_ok": "2026-11-02T06:51:44.480973+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-02T05:45:18.087950+00:00",
+   "last_ok": "2026-11-02T06:51:44.480973+00:00",
    "error": null
   },
   {
@@ -1993,19 +1982,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-02T05:45:18.087950+00:00",
+   "last_ok": "2026-11-02T06:51:44.480973+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-02T05:45:18.087950+00:00",
+   "last_ok": "2026-11-02T06:51:44.480973+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-02T05:45:18.087950+00:00",
+   "last_ok": "2026-11-02T06:51:44.480973+00:00",
    "error": null
   }
  ]
