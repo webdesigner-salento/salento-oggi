@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-11-02T03:37:52.965686+00:00",
+ "updated_at": "2026-11-02T04:43:25.289584+00:00",
  "items": [
+  {
+   "id": "de7efb8337ca",
+   "title": "Seveso, dal disastro alla legge",
+   "summary": "Dal 1982 la direttiva Seveso serve a prevenire gli incidenti industriali. In Italia gli impianti coinvolti sono circa un migliaio. Crisi climatica e transizione energetica sono le nuove sfide, ma ser…",
+   "image": null,
+   "url": "https://irpimedia.irpi.eu/seveso-dal-disastro-alla-legge/?utm_source=rss&utm_medium=rss&utm_campaign=seveso-dal-disastro-alla-legge",
+   "source": "IrpiMedia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-02T04:00:00+00:00"
+  },
+  {
+   "id": "3f9af7f231bb",
+   "title": "Newsroom – La corsa ai terreni agricoli per i parchi solari in Sicilia. A che punto sono le comunità energetiche in Italia",
+   "summary": "Un intermediario senza esperienza dietro quattro parchi solari da quasi mezzo miliardo. In Italia ci sono circa 5.000 comunità energetiche, ma alcune esistono solo sulla carta L'articolo Newsroom – L…",
+   "image": null,
+   "url": "https://irpimedia.irpi.eu/newsroom-newsroom-105-sicilia-fotovoltaico-cer-comunitaenergetiche/?utm_source=rss&utm_medium=rss&utm_campaign=newsroom-newsroom-105-sicilia-fotovoltaico-cer-comunitaenergetiche",
+   "source": "IrpiMedia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-02T04:00:00+00:00"
+  },
   {
    "id": "28b6f1fea240",
    "title": "La stagione del melograno. L’ecocidio israeliano in Libano e la resistenza che parte dalla terra",
@@ -1953,13 +1975,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-02T03:37:52.965686+00:00",
+   "last_ok": "2026-11-02T04:43:25.289584+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-02T03:37:52.965686+00:00",
+   "last_ok": "2026-11-02T04:43:25.289584+00:00",
    "error": null
   },
   {
@@ -1971,19 +1993,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-02T03:37:52.965686+00:00",
+   "last_ok": "2026-11-02T04:43:25.289584+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-02T03:37:52.965686+00:00",
+   "last_ok": "2026-11-02T04:43:25.289584+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-02T03:37:52.965686+00:00",
+   "last_ok": "2026-11-02T04:43:25.289584+00:00",
    "error": null
   }
  ]
