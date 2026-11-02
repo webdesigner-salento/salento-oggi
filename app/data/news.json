@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T19:40:49.559072+00:00",
+ "updated_at": "2026-11-02T20:30:30.453849+00:00",
  "items": [
   {
    "id": "8121885130b9",
@@ -24,6 +24,17 @@
    "published_at": "2026-11-02T19:26:20+00:00"
   },
   {
+   "id": "1388d0a9ae06",
+   "title": "Traffico di droga nel sud Salento, sequestrati immobili e aziende: sigilli anche ad una villa con piscina",
+   "summary": "SALENTO – Una villa con piscina, immobili di pregio, autovetture, denaro contante e un’attività commerciale. È il patrimonio finito sotto sequestro nel Salento nell’ambito di un’operazione della guar…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/sequestro-finanza-immobile-gallipoli-4-768x420.png",
+   "url": "https://www.corrieresalentino.it/2026/11/traffico-di-droga-nel-sud-salento-sequestrati-immobili-e-aziende-sigilli-anche-ad-una-villa-con-piscina/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-11-02T19:25:02+00:00"
+  },
+  {
    "id": "37b41cf8a423",
    "title": "Lecce, il maltempo prolunga le chiusure: anche martedì stop a cimitero, parchi e Campo Montefusco",
    "summary": "LECCE – Cancelli chiusi anche martedì 3 novembre: per l’intera giornata resteranno inaccessibili la Villa Comunale, il Parco del Galateo, il Cimitero comunale, il Campo Montefusco, il Parco delle Cav…",
@@ -33,6 +44,17 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-11-02T19:21:07+00:00"
+  },
+  {
+   "id": "4293e41fd4eb",
+   "title": "Lecce, infortunio al polpaccio per Monteiro",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Monteiro-1024x767.jpeg",
+   "url": "https://trnews.it/2026/11/02/lecce-infortunio-al-polpaccio-per-monteiro",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T17:36:26+00:00"
   },
   {
    "id": "1ed8490de9d1",
@@ -134,6 +156,17 @@
    "published_at": "2026-11-02T13:36:56+00:00"
   },
   {
+   "id": "a0913e04e249",
+   "title": "Tromba d'aria devasta lo storico Lido Tiziana a Specchiolla",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-3-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/02/tromba-daria-devasta-lo-storico-lido-tiziana-a-specchiolla",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Brindisi",
+   "published_at": "2026-11-02T13:32:18+00:00"
+  },
+  {
    "id": "ee21e767b684",
    "title": "Tre interventi in poche ore per i vigili del fuoco nel Brindisino",
    "summary": "",
@@ -222,17 +255,6 @@
    "published_at": "2026-11-02T12:32:46+00:00"
   },
   {
-   "id": "a0913e04e249",
-   "title": "Tromba d'aria devasta lo storico Lido Tiziana a Specchiolla",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-3-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/02/tromba-daria-devasta-lo-storico-lido-tiziana-a-specchiolla",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Brindisi",
-   "published_at": "2026-11-02T12:32:18+00:00"
-  },
-  {
    "id": "e9bdb73b9f82",
    "title": "Lecce, sabato si va a Torino, vendita dei tagliandi per il settore ospiti già attiva",
    "summary": "",
@@ -288,6 +310,17 @@
    "published_at": "2026-11-02T10:35:36+00:00"
   },
   {
+   "id": "ce939112655d",
+   "title": "Droga nel Basso Salento, sequestrati beni per 2 milioni di euro: nel mirino anche una villa con piscina",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/04/guardia-finanza.jpg",
+   "url": "https://trnews.it/2026/11/02/droga-nel-basso-salento-sequestrati-beni-per-2-milioni-di-euro-nel-mirino-anche-una-villa-con-piscina",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T10:35:31+00:00"
+  },
+  {
    "id": "2b3180199604",
    "title": "Aree idonee, la Puglia resta in attesa. Legambiente sollecita un calendario certo: “Le rinnovabili hanno bisogno di scelte”",
    "summary": "PUGLIA – Quasi otto mesi di passaggi istituzionali, un testo interamente riscritto e un nuovo appuntamento per ascoltare altri contributi. Sulle aree idonee agli impianti da fonti rinnovabili, la Pug…",
@@ -308,17 +341,6 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-02T09:52:58+00:00"
-  },
-  {
-   "id": "ce939112655d",
-   "title": "Droga nel Basso Salento, sequestrati beni per 2 milioni di euro: nel mirino anche una villa con piscina",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/04/guardia-finanza.jpg",
-   "url": "https://trnews.it/2026/11/02/droga-nel-basso-salento-sequestrati-beni-per-2-milioni-di-euro-nel-mirino-anche-una-villa-con-piscina",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T09:35:31+00:00"
   },
   {
    "id": "817e5430ace1",
@@ -343,17 +365,6 @@
    "published_at": "2026-11-02T09:28:13+00:00"
   },
   {
-   "id": "1388d0a9ae06",
-   "title": "Traffico di droga nel sud Salento, sequestrati immobili e aziende: sigilli anche ad una villa con piscina",
-   "summary": "SALENTO – Una villa con piscina, immobili di pregio, autovetture, denaro contante e un’attività commerciale. È il patrimonio finito sotto sequestro nel Salento nell’ambito di un’operazione della guar…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/sequestro-finanza-immobile-gallipoli-4-768x420.png",
-   "url": "https://www.corrieresalentino.it/2026/11/traffico-di-droga-nel-sud-salento-sequestrati-immobili-e-aziende-sigilli-anche-ad-una-villa-con-piscina/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-11-02T09:25:02+00:00"
-  },
-  {
    "id": "ee6f5160212f",
    "title": "Commemorare i defunti, il crisantemo resta il fiore più richiesto",
    "summary": "PUGLIA – Il crisantemo si conferma il protagonista indiscusso degli acquisti in occasione della commemorazione dei defunti, seguito da anthurium, rose e gigli, ma tra i fiori recisi si registra quest…",
@@ -365,6 +376,17 @@
    "published_at": "2026-11-02T08:39:01+00:00"
   },
   {
+   "id": "3fd676e5e69c",
+   "title": "Basket C, Monteroni \"piega\" Monopoli",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG-20261102-WA00041-819x1024.jpg",
+   "url": "https://trnews.it/2026/11/02/basket-c-monteroni-piega-monopoli",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-11-02T08:29:55+00:00"
+  },
+  {
    "id": "d6822b6a609b",
    "title": "Il pasticcere salentino Enrico Casarano campione del mondo a Tokyo",
    "summary": "Il maestro pasticciere salentino Enrico Casarano vince il titolo di campione del mondo alla Panettone World Cup Tokyo 2026, svoltasi lo scorso 29 ottobre all’Istituto Italiano di Cultura di Tokyo. Or…",
@@ -374,6 +396,17 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-11-02T08:28:38+00:00"
+  },
+  {
+   "id": "d5e49ebe5140",
+   "title": "Operazione “Sud Est”, giudice dispone due scarcerazioni per altrettanti imputati",
+   "summary": "MINERVINO/POGGIADO (Lecce) – Il giudice per le indagini preliminari del Tribunale di Lecce con ordinanza del 13 ottobre 2026, ha disposto la sostituzione della misura cautelare degli arresti domicili…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/operazione-sud-est-giudice-dispone-due-scarcerazioni-per-altrettanti-imputati/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T07:49:54+00:00"
   },
   {
    "id": "8b97ea42ef56",
@@ -409,17 +442,6 @@
    "published_at": "2026-11-02T07:30:55+00:00"
   },
   {
-   "id": "3fd676e5e69c",
-   "title": "Basket C, Monteroni \"piega\" Monopoli",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG-20261102-WA00041-819x1024.jpg",
-   "url": "https://trnews.it/2026/11/02/basket-c-monteroni-piega-monopoli",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-11-02T07:29:55+00:00"
-  },
-  {
    "id": "e308c0f2b449",
    "title": "La “festa di San Nicola”- patrono di Specchia nell’inventario del Patrimonio Culturale Immateriale Pugliese",
    "summary": "SPECCHIA (Lecce) – La Parrocchia Beata Vergine Maria di Specchia comunica che con Determina n.421 del 27/10/2026 è stata sancita l’iscrizione ufficiale della Festa di San Nicola Vescovo (Santo Patron…",
@@ -451,6 +473,17 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-11-02T06:43:01+00:00"
+  },
+  {
+   "id": "c4ddb27ddf34",
+   "title": "Eccellenza, il Taranto cade male pure a Bisceglie, Tiozzo verso l'esonero?",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/08/ss-taranto-2025.jpg",
+   "url": "https://trnews.it/2026/11/02/eccellenza-il-taranto-cade-male-pure-a-bisceglie",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-11-02T06:39:22+00:00"
   },
   {
    "id": "7d951fad0472",
@@ -495,17 +528,6 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-02T05:59:00+00:00"
-  },
-  {
-   "id": "c4ddb27ddf34",
-   "title": "Eccellenza, il Taranto cade male pure a Bisceglie, Tiozzo verso l'esonero?",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/08/ss-taranto-2025.jpg",
-   "url": "https://trnews.it/2026/11/02/eccellenza-il-taranto-cade-male-pure-a-bisceglie",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-11-02T05:39:22+00:00"
   },
   {
    "id": "de7efb8337ca",
@@ -1815,41 +1837,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-30T21:00:19+00:00"
-  },
-  {
-   "id": "a114b07d1267",
-   "title": "Omicidio Mazzotta, l'autopsia: colpo mortale al volto",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-10.43.10-1024x839.jpeg",
-   "url": "https://trnews.it/2026/10/30/omicidio-mazzotta-lautopsia-colpo-mortale-al-volto",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T20:12:23+00:00"
-  },
-  {
-   "id": "f3d6745d81f2",
-   "title": "Zucca, oltre Halloween c’è un tesoro per la salute: il professor Minelli spiega perché non buttare polpa e semi",
-   "summary": "Prima di diventare una lanterna da esporre per Halloween, la zucca merita un posto in cucina. A richiamare l’attenzione sul valore di polpa e semi, spesso eliminati durante la preparazione delle deco…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2021/04/minelli-300x170.jpg",
-   "url": "https://www.corrieresalentino.it/2026/10/zucca-oltre-halloween-ce-un-tesoro-per-la-salute-il-professor-minelli-spiega-perche-non-buttare-polpa-e-semi/",
-   "source": "Corriere Salentino",
-   "category": "Salute",
-   "zone": "Salento",
-   "published_at": "2026-10-30T19:56:49+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-02T19:40:49.559072+00:00",
+   "last_ok": "2026-11-02T20:30:30.453849+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-02T19:40:49.559072+00:00",
+   "last_ok": "2026-11-02T20:30:30.453849+00:00",
    "error": null
   },
   {
@@ -1861,19 +1861,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-02T19:40:49.559072+00:00",
+   "last_ok": "2026-11-02T20:30:30.453849+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-02T19:40:49.559072+00:00",
+   "last_ok": "2026-11-02T20:30:30.453849+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-02T19:40:49.559072+00:00",
+   "last_ok": "2026-11-02T20:30:30.453849+00:00",
    "error": null
   }
  ]
