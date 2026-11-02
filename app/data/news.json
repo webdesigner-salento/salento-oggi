@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-02T04:43:25.289584+00:00",
+ "updated_at": "2026-11-02T05:45:18.087950+00:00",
  "items": [
+  {
+   "id": "2961add07953",
+   "title": "Appuntamento con Piazza Giallorossa questa sera su TeleRama",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/piazza-giallorossa-2026-27--1024x572.jpeg",
+   "url": "https://trnews.it/2026/11/02/appuntamento-con-piazza-giallorossa-questa-sera-su-telerama-12",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T05:20:13+00:00"
+  },
   {
    "id": "de7efb8337ca",
    "title": "Seveso, dal disastro alla legge",
@@ -1958,30 +1969,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-30T06:22:20+00:00"
-  },
-  {
-   "id": "765800384c3d",
-   "title": "La ricetta del giorno: Spaghetti con alici e mollica di pane tostato",
-   "summary": "INGREDIENTI per 4 persone: – 500 gr. di spaghetti 5 pomodori maturi piccoli – 7 alici in olio – 1 spicchio d’aglio – mezzo bicchiere di olio EVO – peperoncino piccante – mollica di pane sbriciolata –…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/la-ricetta-del-giorno-spaghetti-con-alici-e-mollica-di-pane-tostato/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-30T05:06:23+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-02T04:43:25.289584+00:00",
+   "last_ok": "2026-11-02T05:45:18.087950+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-02T04:43:25.289584+00:00",
+   "last_ok": "2026-11-02T05:45:18.087950+00:00",
    "error": null
   },
   {
@@ -1993,19 +1993,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-02T04:43:25.289584+00:00",
+   "last_ok": "2026-11-02T05:45:18.087950+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-02T04:43:25.289584+00:00",
+   "last_ok": "2026-11-02T05:45:18.087950+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-02T04:43:25.289584+00:00",
+   "last_ok": "2026-11-02T05:45:18.087950+00:00",
    "error": null
   }
  ]
