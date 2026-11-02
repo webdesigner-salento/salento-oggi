@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-02T15:42:17.564326+00:00",
+ "updated_at": "2026-11-02T16:47:18.287599+00:00",
  "items": [
+  {
+   "id": "527505eb3924",
+   "title": "Studentessa dell’I.C. “A. De Bernart” di Ruffano conquista il quinto posto alla Finale Nazionale del Campionato del Disegno Tecnico 2026",
+   "summary": "Orgoglio per l’I.C. “A. De Bernart” di Ruffano: la studentessa della provincia di Lecce conquista il quinto posto alla Finale Nazionale del Campionato del Disegno Tecnico 2026. Un prestigioso risulta…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/studentessa-delli-c-a-de-bernart-di-ruffano-conquista-il-quinto-posto-alla-finale-nazionale-del-campionato-del-disegno-tecnico-2026/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T15:43:47+00:00"
+  },
   {
    "id": "6bc8ddf2aa57",
    "title": "Lecce e provincia, 13 arresti e 51 indagati: maxi controlli contro droga e criminalità giovanile",
@@ -1826,63 +1837,19 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-30T17:02:11+00:00"
-  },
-  {
-   "id": "fb909d5c05d1",
-   "title": "Violenza di genere nel Salento: due misure cautelari con braccialetto elettronico",
-   "summary": "SALENTO – Picchiata in auto dall’ex che le spegne persino una sigaretta sulla schiena; insultata, denigrata e minacciata di morte per mesi in un altro contesto. Due storie di violenza e sopraffazione…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/violenza-di-genere-nel-salento-due-misure-cautelari-con-braccialetto-elettronico/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-10-30T16:25:36+00:00"
-  },
-  {
-   "id": "825251786534",
-   "title": "Israele, allearsi con i cittadini palestinesi per liberarsi di Netanyahu",
-   "summary": "Un'affluenza record e 19 seggi arabi: i numeri per voltare pagina ci sono, ma il rifiuto dell'opposizione di contare i cittadini palestinesi rischia di salvare Netanyahu.",
-   "image": null,
-   "url": "https://www.valigiablu.it/elezioni-israele-netanyahu-opposizione-arabi/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-30T16:20:02+00:00"
-  },
-  {
-   "id": "1d7555342191",
-   "title": "Lecce - Genoa: cambia il 4°uomo, Feliciani al posto di Abisso",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/feliciani-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/30/lecce-genoa-cambia-il-4uomo-feliciani-al-posto-di-abisso",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T16:01:38+00:00"
-  },
-  {
-   "id": "1e747b8fb914",
-   "title": "Sanità digitale, ANTHEM a Lecce: UniSalento presenta i risultati del progetto e rilancia la collaborazione con la fondazione",
-   "summary": "LECCE – Dare continuità all’accordo, con nuove progettualità e nuove risorse. È quanto emerso oggi, venerdì 30 ottobre, nella sala conferenze del Rettorato, durante l’incontro “Visioni innovative e s…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/sanita-digitale-anthem-a-lecce-unisalento-presenta-i-risultati-del-progetto-e-rilancia-la-collaborazione-con-la-fondazione/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T15:58:13+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-02T15:42:17.564326+00:00",
+   "last_ok": "2026-11-02T16:47:18.287599+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-02T15:42:17.564326+00:00",
+   "last_ok": "2026-11-02T16:47:18.287599+00:00",
    "error": null
   },
   {
@@ -1894,19 +1861,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-02T15:42:17.564326+00:00",
+   "last_ok": "2026-11-02T16:47:18.287599+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-02T15:42:17.564326+00:00",
+   "last_ok": "2026-11-02T16:47:18.287599+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-02T15:42:17.564326+00:00",
+   "last_ok": "2026-11-02T16:47:18.287599+00:00",
    "error": null
   }
  ]
