@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T17:42:58.825867+00:00",
+ "updated_at": "2026-11-02T18:39:08.211690+00:00",
  "items": [
   {
    "id": "0a13c4ccaafc",
@@ -398,6 +398,17 @@
    "published_at": "2026-11-02T06:28:36+00:00"
   },
   {
+   "id": "2961add07953",
+   "title": "Appuntamento con Piazza Giallorossa questa sera su TeleRama",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/piazza-giallorossa-2026-27--1024x572.jpeg",
+   "url": "https://trnews.it/2026/11/02/appuntamento-con-piazza-giallorossa-questa-sera-su-telerama-12",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T06:20:13+00:00"
+  },
+  {
    "id": "e20a053df6e5",
    "title": "L’almanacco di oggi 2 novembre",
    "summary": "Il Santo del giorno: Sant’Amico. Il proverbio di Mesciu Ronzu: Picca mangiare e picca parlare, no face mai male. Significato: Mangiare poco e parlare poco, non fa mai male. – Sono nati in questo gior…",
@@ -429,17 +440,6 @@
    "category": "Sport",
    "zone": "Taranto",
    "published_at": "2026-11-02T05:39:22+00:00"
-  },
-  {
-   "id": "2961add07953",
-   "title": "Appuntamento con Piazza Giallorossa questa sera su TeleRama",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/piazza-giallorossa-2026-27--1024x572.jpeg",
-   "url": "https://trnews.it/2026/11/02/appuntamento-con-piazza-giallorossa-questa-sera-su-telerama-12",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T05:20:13+00:00"
   },
   {
    "id": "de7efb8337ca",
@@ -1771,85 +1771,19 @@
    "category": "Salute",
    "zone": "Salento",
    "published_at": "2026-10-30T19:56:49+00:00"
-  },
-  {
-   "id": "d3b1623fcd7c",
-   "title": "Festival Organistico del Salento: nella Basilica di Santa Croce a Lecce il concerto “Soli Deo Gloria” con Tiziana De Vito e Gianluigi Corsano",
-   "summary": "Sabato 31 ottobre, alle ore 19.30, un nuovo appuntamento della XII edizione del Festival Organistico del Salento, la rassegna dedicata alla valorizzazione della musica organistica e del patrimonio st…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/festival-organistico-del-salento-nella-basilica-di-santa-croce-a-lecce-il-concerto-soli-deo-gloria-con-tiziana-de-vito-e-gianluigi-corsano/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T18:34:01+00:00"
-  },
-  {
-   "id": "c2869180a7ed",
-   "title": "Infortunio Geubbels, lesione di basso grado all'adduttore",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/geubbles.avif",
-   "url": "https://trnews.it/2026/10/30/infortunio-geubbels-lesione-di-basso-grado-alladduttore",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T18:26:03+00:00"
-  },
-  {
-   "id": "39c1ccce913f",
-   "title": "Lecce, la protesta contro le strisce blu nelle periferie cambia passo: ricorso collettivo al Tar con i residenti",
-   "summary": "LECCE – Perché far pagare il parcheggio anche in quartieri periferici, fino alle strade vicine alla tangenziale? E quali studi giustificano una scelta così estesa? Sono le domande che associazioni e…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lecce-la-protesta-contro-le-strisce-blu-nelle-periferie-cambia-passo-ricorso-collettivo-al-tar-con-i-residenti/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T18:19:01+00:00"
-  },
-  {
-   "id": "e233d919723c",
-   "title": "Taranto, il giorno della protesta: USB e studenti",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-108-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/30/taranto-il-giorno-della-protesta-usb-e-studenti",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Taranto",
-   "published_at": "2026-10-30T18:06:26+00:00"
-  },
-  {
-   "id": "30743fe4aa08",
-   "title": "Ex Ilva, la Cassazione conferma: si chiude l'area a caldo",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-107-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/30/ex-ilva-la-cassazione-conferma-si-chiude-larea-a-caldo",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Taranto",
-   "published_at": "2026-10-30T18:02:53+00:00"
-  },
-  {
-   "id": "b2bd3c0e0507",
-   "title": "A Taranto l'ultimo ammaina bandiera del Durand de la Penne",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-106-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/30/a-taranto-lultimo-ammaina-bandiera-del-durand-de-la-penne",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Taranto",
-   "published_at": "2026-10-30T18:01:45+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-02T17:42:58.825867+00:00",
+   "last_ok": "2026-11-02T18:39:08.211690+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-02T17:42:58.825867+00:00",
+   "last_ok": "2026-11-02T18:39:08.211690+00:00",
    "error": null
   },
   {
@@ -1861,19 +1795,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-02T17:42:58.825867+00:00",
+   "last_ok": "2026-11-02T18:39:08.211690+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-02T17:42:58.825867+00:00",
+   "last_ok": "2026-11-02T18:39:08.211690+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-02T17:42:58.825867+00:00",
+   "last_ok": "2026-11-02T18:39:08.211690+00:00",
    "error": null
   }
  ]
