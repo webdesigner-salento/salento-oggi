@@ -1,6 +1,50 @@
 {
- "updated_at": "2026-11-02T18:39:08.211690+00:00",
+ "updated_at": "2026-11-02T19:40:49.559072+00:00",
  "items": [
+  {
+   "id": "8121885130b9",
+   "title": "Vietava alla moglie di indossare scollature e di frequentare l’Università. Donna denuncia, indagato marito",
+   "summary": "GALATINA (Lecce) – Avrebbe impedito alla moglie per 15 anni di iscriversi all’Università, indossare in pubblico abiti con una pur minima scollatura, limitandone le uscite e l’utilizzo dei social. E q…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/vietava-alla-moglie-di-indossare-scollature-e-di-frequentare-luniversita-donna-denuncia-indagato-marito/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T19:34:06+00:00"
+  },
+  {
+   "id": "f35845448888",
+   "title": "Valtur Brindisi, coach Brienza: \"Teniamo la testa alta\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-02-204013.png",
+   "url": "https://trnews.it/2026/11/02/valtur-brindisi-coach-brienza-teniamo-la-testa-alta",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-11-02T19:26:20+00:00"
+  },
+  {
+   "id": "37b41cf8a423",
+   "title": "Lecce, il maltempo prolunga le chiusure: anche martedì stop a cimitero, parchi e Campo Montefusco",
+   "summary": "LECCE – Cancelli chiusi anche martedì 3 novembre: per l’intera giornata resteranno inaccessibili la Villa Comunale, il Parco del Galateo, il Cimitero comunale, il Campo Montefusco, il Parco delle Cav…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/lecce-il-maltempo-prolunga-le-chiusure-anche-martedi-stop-a-cimitero-parchi-e-campo-montefusco/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T19:21:07+00:00"
+  },
+  {
+   "id": "1ed8490de9d1",
+   "title": "Alla Biblioteca Bernardini di Lecce Nichi Vendola con “Il vizio della ferocia”",
+   "summary": "Sarà presentato a Lecce, venerdì 6 novembre, alle 19.00, alla Biblioteca Bernardini, il nuovo libro di Nichi Vendola, “Il vizio della ferocia” edito da Laterza. Dialogano con l’autore Stefano Cristan…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/alla-biblioteca-bernardini-di-lecce-nichi-vendola-con-il-vizio-della-ferocia/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T17:33:24+00:00"
+  },
   {
    "id": "0a13c4ccaafc",
    "title": "Taranto, Tiozzo paga per tutti. Per ora",
@@ -233,6 +277,17 @@
    "published_at": "2026-11-02T10:42:12+00:00"
   },
   {
+   "id": "d0a0b4a1b6bd",
+   "title": "Carabinieri: prorogata al 9 novembre la scadenza del concorso straordinario per 400 allievi marescialli in possesso di laurea",
+   "summary": "Al fine di consentire la più ampia partecipazione a chi è venuto a conoscenza solo di recente del primo concorso straordinario per Allievi Marescialli dell’Arma dei Carabinieri in possesso di laurea,…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/carabinieri-prorogata-al-9-novembre-la-scadenza-del-concorso-straordinario-per-400-allievi-marescialli-in-possesso-di-laurea/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-02T10:35:36+00:00"
+  },
+  {
    "id": "2b3180199604",
    "title": "Aree idonee, la Puglia resta in attesa. Legambiente sollecita un calendario certo: “Le rinnovabili hanno bisogno di scelte”",
    "summary": "PUGLIA – Quasi otto mesi di passaggi istituzionali, un testo interamente riscritto e un nuovo appuntamento per ascoltare altri contributi. Sulle aree idonee agli impianti da fonti rinnovabili, la Pug…",
@@ -308,6 +363,17 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-02T08:39:01+00:00"
+  },
+  {
+   "id": "d6822b6a609b",
+   "title": "Il pasticcere salentino Enrico Casarano campione del mondo a Tokyo",
+   "summary": "Il maestro pasticciere salentino Enrico Casarano vince il titolo di campione del mondo alla Panettone World Cup Tokyo 2026, svoltasi lo scorso 29 ottobre all’Istituto Italiano di Cultura di Tokyo. Or…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/Campione-240x300.jpg",
+   "url": "https://www.corrieresalentino.it/2026/11/il-pasticcere-salentino-enrico-casarano-campione-del-mondo-a-tokyo/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T08:28:38+00:00"
   },
   {
    "id": "8b97ea42ef56",
@@ -1777,13 +1843,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-02T18:39:08.211690+00:00",
+   "last_ok": "2026-11-02T19:40:49.559072+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-02T18:39:08.211690+00:00",
+   "last_ok": "2026-11-02T19:40:49.559072+00:00",
    "error": null
   },
   {
@@ -1795,19 +1861,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-02T18:39:08.211690+00:00",
+   "last_ok": "2026-11-02T19:40:49.559072+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-02T18:39:08.211690+00:00",
+   "last_ok": "2026-11-02T19:40:49.559072+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-02T18:39:08.211690+00:00",
+   "last_ok": "2026-11-02T19:40:49.559072+00:00",
    "error": null
   }
  ]
