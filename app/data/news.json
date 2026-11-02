@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-11-02T08:11:49.114675+00:00",
+ "updated_at": "2026-11-02T09:28:56.712417+00:00",
  "items": [
+  {
+   "id": "7467480b6bd1",
+   "title": "Yeast Photo Festival, le dieci mostre della quinta edizione ancora visitabili nel centro storico di Galatina fino a domenica 8 novembre",
+   "summary": "GALATINA (Lecce) – Visitabili fino all’8 novembre prossimo nel cuore antico di Galatina le mostre della quinta edizione di Yeast Photo Festival, appuntamento culturale organizzato nel Salento dalle a…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/yeast-photo-festival-le-dieci-mostre-della-quinta-edizione-ancora-visitabili-nel-centro-storico-di-galatina-fino-a-domenica-8-novembre/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T09:28:13+00:00"
+  },
+  {
+   "id": "1388d0a9ae06",
+   "title": "Traffico di droga nel sud Salento, sequestrati immobili e aziende: sigilli anche ad una villa con piscina",
+   "summary": "SALENTO – Una villa con piscina, immobili di pregio, autovetture, denaro contante e un’attività commerciale. È il patrimonio finito sotto sequestro nel Salento nell’ambito di un’operazione della guar…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/sequestro-finanza-immobile-gallipoli-4-768x420.png",
+   "url": "https://www.corrieresalentino.it/2026/11/traffico-di-droga-nel-sud-salento-sequestrati-immobili-e-aziende-sigilli-anche-ad-una-villa-con-piscina/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-11-02T09:25:02+00:00"
+  },
+  {
+   "id": "ee6f5160212f",
+   "title": "Commemorare i defunti, il crisantemo resta il fiore più richiesto",
+   "summary": "PUGLIA – Il crisantemo si conferma il protagonista indiscusso degli acquisti in occasione della commemorazione dei defunti, seguito da anthurium, rose e gigli, ma tra i fiori recisi si registra quest…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/commemorare-i-defunti-il-crisantemo-resta-il-fiore-piu-richiesto/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-02T08:39:01+00:00"
+  },
   {
    "id": "aa62c0421e50",
    "title": "La Dream fa sul serio: show al Pala “Andrea Pasca”, Santa Lucia Roma travolta 3-0",
@@ -1848,63 +1881,19 @@
    "category": "Politica",
    "zone": "Salento",
    "published_at": "2026-10-30T09:30:28+00:00"
-  },
-  {
-   "id": "08b8b3101fa0",
-   "title": "Vendola: “Siher? Meloni ha preso a calci l’indipendenza della magistratura”",
-   "summary": "“La premier Meloni ha colto l’occasione per fare due operazioni: prendere come sempre a calci negli stinchi l’autonomia e l’indipendenza della magistratura e provare a rimettere al centro l’identikit…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/vendola-siher-meloni-ha-preso-a-calci-lindipendenza-della-magistratura/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-10-30T09:25:37+00:00"
-  },
-  {
-   "id": "407d7dd056a9",
-   "title": "Dall’8 novembre tornano i Concerti con Aperitivo al Teatro Paisiello",
-   "summary": "LECCE – I Concerti con Aperitivo tornano protagonisti nella programmazione della Camerata Musicale Salentina, storica associazione fondata nel 1970 dal M° Carlo Vitale, che da oltre cinquant’anni por…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/dall8-novembre-tornano-i-concerti-con-aperitivo-al-teatro-paisiello-3/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T08:52:16+00:00"
-  },
-  {
-   "id": "6cad449a6fa5",
-   "title": "Sabato 31 ottobre The Black Night per la rassegna Ci vuole un fiore – famiglie a teatro",
-   "summary": "NOVOLI (Lecce) – Fino a domenica 18 aprile prosegue “Ci vuole un fiore – famiglie a teatro”, la rassegna dei Teatri del Nord Salento, progetto di Factory Compagnia Transadriatica in collaborazione co…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/sabato-31-ottobre-the-black-night-per-la-rassegna-ci-vuole-un-fiore-famiglie-a-teatro/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T08:50:34+00:00"
-  },
-  {
-   "id": "3f8c7a65a22a",
-   "title": "Per Open Kids sabato 31 ottobre Halloween al Castello Carlo V di Lecce",
-   "summary": "LECCE – Con “Halloween al Castello”, Open Kids celebra, sabato 31 ottobre, la ricorrenza che anticipa la festa di Ognissanti trasformando le antiche sale in Escape Rooms per un pomeriggio fra enigmi…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/per-open-kids-sabato-31-ottobre-halloween-al-castello-carlo-v-di-lecce/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T08:37:28+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-02T08:11:49.114675+00:00",
+   "last_ok": "2026-11-02T09:28:56.712417+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-02T08:11:49.114675+00:00",
+   "last_ok": "2026-11-02T09:28:56.712417+00:00",
    "error": null
   },
   {
@@ -1916,19 +1905,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-02T08:11:49.114675+00:00",
+   "last_ok": "2026-11-02T09:28:56.712417+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-02T08:11:49.114675+00:00",
+   "last_ok": "2026-11-02T09:28:56.712417+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-02T08:11:49.114675+00:00",
+   "last_ok": "2026-11-02T09:28:56.712417+00:00",
    "error": null
   }
  ]
