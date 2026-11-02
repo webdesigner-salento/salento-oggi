@@ -1,6 +1,61 @@
 {
- "updated_at": "2026-11-02T09:28:56.712417+00:00",
+ "updated_at": "2026-11-02T10:27:40.023135+00:00",
  "items": [
+  {
+   "id": "2b3180199604",
+   "title": "Aree idonee, la Puglia resta in attesa. Legambiente sollecita un calendario certo: “Le rinnovabili hanno bisogno di scelte”",
+   "summary": "PUGLIA – Quasi otto mesi di passaggi istituzionali, un testo interamente riscritto e un nuovo appuntamento per ascoltare altri contributi. Sulle aree idonee agli impianti da fonti rinnovabili, la Pug…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/aree-idonee-la-puglia-resta-in-attesa-legambiente-sollecita-un-calendario-certo-le-rinnovabili-hanno-bisogno-di-scelte/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-11-02T10:17:18+00:00"
+  },
+  {
+   "id": "20ef5a73251a",
+   "title": "La battaglia per l’indipendenza dei giudici e lo Stato di diritto: cosa sta davvero succedendo in Polonia",
+   "summary": "Perché è scoppiata la resa dei conti sul Tribunale Costituzionale in Polonia: scontro aperto tra Tusk e il presidente Nawrocki tra accuse di golpe e difesa dello Stato di diritto. Cosa sta succedendo…",
+   "image": null,
+   "url": "https://www.valigiablu.it/crisi-polonia-giudici-tribunale-costituzionale/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-02T09:52:58+00:00"
+  },
+  {
+   "id": "6bc8ddf2aa57",
+   "title": "Lecce e provincia, 13 arresti e 51 indagati: maxi controlli contro droga e criminalità giovanile",
+   "summary": "SALENTO – Tredici arresti, 51 persone indagate e 6.802 soggetti identificati. È il bilancio dei controlli della polizia in provincia di Lecce, nell’ambito di una vasta operazione nazionale contro la…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/lecce-e-provincia-13-arresti-e-51-indagati-maxi-controlli-contro-droga-e-criminalita-giovanile/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T09:43:18+00:00"
+  },
+  {
+   "id": "ce939112655d",
+   "title": "Droga nel Basso Salento, sequestrati beni per 2 milioni di euro: nel mirino anche una villa con piscina",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/04/guardia-finanza.jpg",
+   "url": "https://trnews.it/2026/11/02/droga-nel-basso-salento-sequestrati-beni-per-2-milioni-di-euro-nel-mirino-anche-una-villa-con-piscina",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T09:35:31+00:00"
+  },
+  {
+   "id": "817e5430ace1",
+   "title": "Incendio in un deposito a Cutrofiano, distrutti attrezzi e utensili: cause da accertare",
+   "summary": "CUTROFIANO (Lecce) – Un incendio è divampato in un deposito adiacente a un’abitazione in contrada Contatore, a Cutrofiano. Il rogo ha interessato una struttura di circa 15 metri quadrati, coperta da…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/incendio-in-un-deposito-a-cutrofiano-distrutti-attrezzi-e-utensili-cause-da-accertare/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T09:34:35+00:00"
+  },
   {
    "id": "7467480b6bd1",
    "title": "Yeast Photo Festival, le dieci mostre della quinta edizione ancora visitabili nel centro storico di Galatina fino a domenica 8 novembre",
@@ -44,17 +99,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-11-02T07:38:36+00:00"
-  },
-  {
-   "id": "817e5430ace1",
-   "title": "Incendio in un deposito a Cutrofiano, distrutti attrezzi e utensili: cause da accertare",
-   "summary": "CUTROFIANO (Lecce) – Un incendio è divampato in un deposito adiacente a un’abitazione in contrada Contatore, a Cutrofiano. Il rogo ha interessato una struttura di circa 15 metri quadrati, coperta da…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/incendio-in-un-deposito-a-cutrofiano-distrutti-attrezzi-e-utensili-cause-da-accertare/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T07:34:35+00:00"
   },
   {
    "id": "3fd676e5e69c",
@@ -1804,96 +1848,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-30T10:38:22+00:00"
-  },
-  {
-   "id": "a1a292d1566d",
-   "title": "Lecce, il corteo attraversa il centro: sciopero contro carovita e riarmo. Lavoratori e studenti uniti nella protesta",
-   "summary": "LECCE – Da Porta Napoli verso piazza Sant’Oronzo, la protesta attraversa la città e porta nelle strade del centro le rivendicazioni dello sciopero generale di oggi, venerdì 30 ottobre. Il corteo è pa…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lecce-il-corteo-attraversa-il-centro-sciopero-contro-carovita-e-riarmo-lavoratori-e-studenti-uniti-nella-protesta/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T10:21:07+00:00"
-  },
-  {
-   "id": "38445eaa7d16",
-   "title": "Meteo del weekend di Halloween nel Salento: previsioni, temperature e cosa aspettarsi",
-   "summary": "Puglia – Sabato. Giornata all’insegna del tempo instabile con molte nuvole sia al mattino che al pomeriggio associate a piogge e acquazzoni sparsi. Ancora fenomeni possibili in serata e nottata speci…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/meteo-del-weekend-di-halloween-nel-salento-previsioni-temperature-e-cosa-aspettarsi/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T10:17:43+00:00"
-  },
-  {
-   "id": "707c17c2908e",
-   "title": "Il TAR Lecce conferma la vittoria del Sindaco Palese",
-   "summary": "Con la sentenza appena pubblicata il Giudice Amministrativo ha dichiarato irricevibile per tardività, e comunque infondato nel merito, il ricorso proposto dai consiglieri di opposizione, tra i quali…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/il-tar-lecce-conferma-la-vittoria-del-sindaco-palese/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T10:11:26+00:00"
-  },
-  {
-   "id": "b79d252cbbe5",
-   "title": "Sabato 31 ottobre ritorna al Raffo Parco Gondar di Gallipoli la notte di Halloween più terrificante e attesa di Puglia",
-   "summary": "GALLIPOLI (Lecce) – La notte di Ognissanti si accende al Raffo Parco Gondar con uno degli appuntamenti più attesi e imponenti della stagione. Il 31 ottobre, a partire dalle ore 23.00, la celebre loca…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/sabato-31-ottobre-ritorna-al-raffo-parco-gondar-di-gallipoli-la-notte-di-halloween-piu-terrificante-e-attesa-di-puglia-2/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T10:04:55+00:00"
-  },
-  {
-   "id": "d91a39a81a54",
-   "title": "Manibus: domenica al Petruzzelli la cerimonia di consegna. Svelati i 6 premiati",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/premio-manibus-2026-1024x619.jpg",
-   "url": "https://trnews.it/2026/10/30/manibus-domenica-al-petruzzelli-la-cerimonia-di-consegna-svelati-i-6-premiati",
-   "source": "TeleRama News",
-   "category": "Cultura",
-   "zone": "Salento",
-   "published_at": "2026-10-30T10:01:18+00:00"
-  },
-  {
-   "id": "a65207a25235",
-   "title": "Sabato 31 ottobre è tempo di zucca in tutta la Puglia dalla tavola all’intaglio",
-   "summary": "PUGLIA – Dalla tavola alle decorazioni di Halloween, passando per le ricette della tradizione e i segreti dell’intaglio, domani sabato 31 ottobre i mercati contadini di Campagna Amica in Puglia si tr…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/sabato-31-ottobre-e-tempo-di-zucca-in-tutta-la-puglia-dalla-tavola-allintaglio/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-30T09:47:10+00:00"
-  },
-  {
-   "id": "59030d796d2f",
-   "title": "Fitto: “Grazie al Pnrr i tempi dei procedimenti civili si sono ridotti del 50%”",
-   "summary": "“Il Pnrr rappresenta una grande opportunità di modernizzazione del paese. L’Italia ha già ricevuto circa 166 miliardi di euro, sui 194,4 miliardi previsti, ed ha presentato la richiesta dell’ultima r…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/fitto-grazie-al-pnrr-i-tempi-dei-procedimenti-civili-si-sono-ridotti-del-50/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-10-30T09:30:28+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-02T09:28:56.712417+00:00",
+   "last_ok": "2026-11-02T10:27:40.023135+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-02T09:28:56.712417+00:00",
+   "last_ok": "2026-11-02T10:27:40.023135+00:00",
    "error": null
   },
   {
@@ -1905,19 +1872,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-02T09:28:56.712417+00:00",
+   "last_ok": "2026-11-02T10:27:40.023135+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-02T09:28:56.712417+00:00",
+   "last_ok": "2026-11-02T10:27:40.023135+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-02T09:28:56.712417+00:00",
+   "last_ok": "2026-11-02T10:27:40.023135+00:00",
    "error": null
   }
  ]
