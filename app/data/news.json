@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T11:18:03.291654+00:00",
+ "updated_at": "2026-11-02T12:13:50.193422+00:00",
  "items": [
   {
    "id": "4ce67a952542",
@@ -201,7 +201,7 @@
   },
   {
    "id": "c4ddb27ddf34",
-   "title": "Eccellenza, il Taranto cade male pure a Bisceglie",
+   "title": "Eccellenza, il Taranto cade male pure a Bisceglie, Tiozzo verso l'esonero?",
    "summary": "",
    "image": "https://wp.trnews.it/wp-content/uploads/2025/08/ss-taranto-2025.jpg",
    "url": "https://trnews.it/2026/11/02/eccellenza-il-taranto-cade-male-pure-a-bisceglie",
@@ -1826,63 +1826,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-30T12:27:59+00:00"
-  },
-  {
-   "id": "11ad4e99c132",
-   "title": "Basket A2, Brindisi ospite di Mestre",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-13-201244.png",
-   "url": "https://trnews.it/2026/10/30/basket-a2-brindisi-ospite-di-mestre",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-10-30T12:10:39+00:00"
-  },
-  {
-   "id": "6f7b4fad6be5",
-   "title": "Ucraina e Russia si preparano alla battaglia decisiva nel Donbas",
-   "summary": "La battaglia nel Donbas verso il suo culmine: la tenuta della \"cintura delle fortezze\", le manovre di Kyiv contro le infiltrazioni russe e le incognite dell'inverno.",
-   "image": null,
-   "url": "https://www.valigiablu.it/ucraina-russia-battaglia-donbas/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-10-30T12:00:00+00:00"
-  },
-  {
-   "id": "d6157d88eb91",
-   "title": "Tre assalti nella notte nel nord Salento: ladri in fuga, le telecamere li riprendono",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/malviventi.jpg",
-   "url": "https://trnews.it/2026/10/30/tre-assalti-nella-notte-nel-nord-salento-ladri-in-fuga-le-telecamere-li-riprendono",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T11:29:09+00:00"
-  },
-  {
-   "id": "880c7c93f1b4",
-   "title": "Halloween in sala: tra pecore, magia e vampiri",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/RUBRICA-CINECLUB-30-10-2026-1024x670.jpg",
-   "url": "https://trnews.it/2026/10/30/halloween-in-sala-tra-pecore-magia-e-vampiri",
-   "source": "TeleRama News",
-   "category": "Cultura",
-   "zone": "Brindisi",
-   "published_at": "2026-10-30T11:24:23+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-02T11:18:03.291654+00:00",
+   "last_ok": "2026-11-02T12:13:50.193422+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-02T11:18:03.291654+00:00",
+   "last_ok": "2026-11-02T12:13:50.193422+00:00",
    "error": null
   },
   {
@@ -1894,19 +1850,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-02T11:18:03.291654+00:00",
+   "last_ok": "2026-11-02T12:13:50.193422+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
-   "ok": true,
+   "ok": false,
    "last_ok": "2026-11-02T11:18:03.291654+00:00",
-   "error": null
+   "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-02T11:18:03.291654+00:00",
+   "last_ok": "2026-11-02T12:13:50.193422+00:00",
    "error": null
   }
  ]
