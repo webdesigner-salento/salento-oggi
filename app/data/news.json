@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T22:06:17.694086+00:00",
+ "updated_at": "2026-11-02T23:00:04.891144+00:00",
  "items": [
   {
    "id": "8121885130b9",
@@ -1793,30 +1793,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-31T04:11:00+00:00"
-  },
-  {
-   "id": "69bcdec5b0de",
-   "title": "A 14 anni costretta ad accudire la sorella di 6 perchè la mamma è sempre fuori di casa e chiama i carabinieri",
-   "summary": "SALENTO – “Venite non ce la faccio più. Mamma è andata via e io sono sola con mia sorella di 6 anni”. La richiesta di aiuto arrivata alla centrale operativa del Comando dei carabinieri lanciata da un…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/a-14-anni-costretta-ad-accudire-la-sorella-di-6-perche-la-mamma-e-sempre-fuori-di-casa-e-chiama-i-carabinieri/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-10-30T22:10:21+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-02T22:06:17.694086+00:00",
+   "last_ok": "2026-11-02T23:00:04.891144+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-02T22:06:17.694086+00:00",
+   "last_ok": "2026-11-02T23:00:04.891144+00:00",
    "error": null
   },
   {
@@ -1828,19 +1817,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-02T22:06:17.694086+00:00",
+   "last_ok": "2026-11-02T23:00:04.891144+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-02T22:06:17.694086+00:00",
+   "last_ok": "2026-11-02T23:00:04.891144+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-02T22:06:17.694086+00:00",
+   "last_ok": "2026-11-02T23:00:04.891144+00:00",
    "error": null
   }
  ]
