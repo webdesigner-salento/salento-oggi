@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-02T16:47:18.287599+00:00",
+ "updated_at": "2026-11-02T17:42:58.825867+00:00",
  "items": [
+  {
+   "id": "0a13c4ccaafc",
+   "title": "Taranto, Tiozzo paga per tutti. Per ora",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/09/luca-tiozzo.jpg",
+   "url": "https://trnews.it/2026/11/02/taranto-tiozzo-paga-per-tutti-per-ora",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-11-02T16:55:56+00:00"
+  },
   {
    "id": "527505eb3924",
    "title": "Studentessa dell’I.C. “A. De Bernart” di Ruffano conquista il quinto posto alla Finale Nazionale del Campionato del Disegno Tecnico 2026",
@@ -1826,30 +1837,19 @@
    "category": "Eventi",
    "zone": "Taranto",
    "published_at": "2026-10-30T18:01:45+00:00"
-  },
-  {
-   "id": "b20ea1bd8aef",
-   "title": "Poli Bortone apre a Cateno De Luca: \"Io Sud a disposizione del progetto Sindaci d’Italia\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-30-175854-1024x629.png",
-   "url": "https://trnews.it/2026/10/30/poli-bortone-apre-a-cateno-de-luca-io-sud-a-disposizione-del-progetto-sindaci-ditalia",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-10-30T17:02:11+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-02T16:47:18.287599+00:00",
+   "last_ok": "2026-11-02T17:42:58.825867+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-02T16:47:18.287599+00:00",
+   "last_ok": "2026-11-02T17:42:58.825867+00:00",
    "error": null
   },
   {
@@ -1861,19 +1861,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-02T16:47:18.287599+00:00",
+   "last_ok": "2026-11-02T17:42:58.825867+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-02T16:47:18.287599+00:00",
+   "last_ok": "2026-11-02T17:42:58.825867+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-02T16:47:18.287599+00:00",
+   "last_ok": "2026-11-02T17:42:58.825867+00:00",
    "error": null
   }
  ]
