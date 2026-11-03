@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T04:37:15.126856+00:00",
+ "updated_at": "2026-11-03T05:38:17.388275+00:00",
  "items": [
   {
    "id": "64f7e66c9877",
@@ -1804,31 +1804,20 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-31T06:30:50+00:00"
-  },
-  {
-   "id": "97cd209e7af1",
-   "title": "La ricetta del giorno: Tenerini ricotta e nutella",
-   "summary": "Dei buonissimi biscotti dal gusto irresistibile, con un morbido cuore al nutella e un guscio di pasta biscotto a base di ricotta. Vi ho già detto che sono senza uova ?! Pochissimi ingredienti e pochi…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2021/10/tenerini-1-225x300.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/10/la-ricetta-del-giorno-tenerini-ricotta-e-nutella/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-31T05:29:01+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-03T04:37:15.126856+00:00",
+   "last_ok": "2026-11-03T05:38:17.388275+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
-   "ok": false,
-   "last_ok": "2026-11-03T02:35:20.367431+00:00",
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "last_ok": "2026-11-03T05:38:17.388275+00:00",
+   "error": null
   },
   {
    "source": "Il Post",
@@ -1839,20 +1828,20 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-03T04:37:15.126856+00:00",
+   "last_ok": "2026-11-03T05:38:17.388275+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-03T04:37:15.126856+00:00",
+   "last_ok": "2026-11-03T05:38:17.388275+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
-   "ok": false,
-   "last_ok": "2026-11-03T02:35:20.367431+00:00",
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "last_ok": "2026-11-03T05:38:17.388275+00:00",
+   "error": null
   }
  ]
 }
