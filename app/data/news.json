@@ -1,6 +1,61 @@
 {
- "updated_at": "2026-11-03T15:30:48.064555+00:00",
+ "updated_at": "2026-11-03T16:38:14.572147+00:00",
  "items": [
+  {
+   "id": "58343e98b492",
+   "title": "Tributo 630, Casarano chiama a raccolta i Comuni per bloccare le cartelle",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-10-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/03/tributo-630-casarano-chiama-a-raccolta-i-comuni-per-bloccare-le-cartelle",
+   "source": "TeleRama News",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T16:34:53+00:00"
+  },
+  {
+   "id": "0d41bce4afdf",
+   "title": "Finto operatore bancario svuota il conto di un 54enne: cinque denunciati per una truffa",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/72d709e9-b816-4e5b-b3bc-9485a8e15966-1024x682.jpg",
+   "url": "https://trnews.it/2026/11/03/finto-operatore-bancario-svuota-il-conto-di-un-54enne-cinque-denunciati-per-una-truffa",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T16:32:25+00:00"
+  },
+  {
+   "id": "4398c400baa7",
+   "title": "Movember 2026, la prevenzione maschile comincia da giovani: ci vogliono le palle per giocare d’anticipo",
+   "summary": "A novembre la Fondazione Foresta propone una campagna sulla salute maschile rivolta a tre fasce d’età: 18–30 anni, 30–50 anni e over 50. Salute riproduttiva e sessuale al centro dell’iniziativa, che…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/movember-2026-la-prevenzione-maschile-comincia-da-giovani-ci-vogliono-le-palle-per-giocare-danticipo/",
+   "source": "Corriere Salentino",
+   "category": "Salute",
+   "zone": "Salento",
+   "published_at": "2026-11-03T16:31:26+00:00"
+  },
+  {
+   "id": "2c94f09cb2e3",
+   "title": "“Acqua e Zucchero” apre la Stagione teatrale 2026/27 del Comune: al Paisiello Clio Evans e Lele Spedicato",
+   "summary": "LECCE – La diagnosi di una malattia cambia gli equilibri di una famiglia, impone nuove abitudini e apre scenari difficili da affrontare. Ma può diventare anche il punto di partenza di un racconto cap…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/acqua-e-zucchero-apre-la-stagione-teatrale-2026-27-del-comune-al-paisiello-clio-evans-e-lele-spedicato/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T16:01:24+00:00"
+  },
+  {
+   "id": "95dc1ece7cc4",
+   "title": "Domenica 8 novembre l’anteprima di Diario di una perdita per la rassegna Altre latitudini di Principio Attivo Teatro alle Manifatture Knos",
+   "summary": "LECCE – Come la luce delle stelle morte continua a raggiungerci, così le persone amate lasciano tracce che sopravvivono alla loro scomparsa. Domenica 8 novembre (ore 19:00 | ingresso 10 euro – ridott…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/domenica-8-novembre-lanteprima-di-diario-di-una-perdita-per-la-rassegna-altre-latitudini-di-principio-attivo-teatro-alle-manifatture-knos/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T15:58:46+00:00"
+  },
   {
    "id": "5399d4a18ced",
    "title": "“Sembravamo dei fenomeni”, Di Francesco si assume le responsabilità. Là tegole Monteiro è l’ennesima",
@@ -519,6 +574,17 @@
    "published_at": "2026-11-02T19:21:07+00:00"
   },
   {
+   "id": "4293e41fd4eb",
+   "title": "Lecce, infortunio al polpaccio per Monteiro",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Monteiro-1024x767.jpeg",
+   "url": "https://trnews.it/2026/11/02/lecce-infortunio-al-polpaccio-per-monteiro",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T18:36:26+00:00"
+  },
+  {
    "id": "0a13c4ccaafc",
    "title": "Taranto, Tiozzo paga per tutti. Per ora",
    "summary": "",
@@ -528,17 +594,6 @@
    "category": "Sport",
    "zone": "Taranto",
    "published_at": "2026-11-02T17:55:56+00:00"
-  },
-  {
-   "id": "4293e41fd4eb",
-   "title": "Lecce, infortunio al polpaccio per Monteiro",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Monteiro-1024x767.jpeg",
-   "url": "https://trnews.it/2026/11/02/lecce-infortunio-al-polpaccio-per-monteiro",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T17:36:26+00:00"
   },
   {
    "id": "1ed8490de9d1",
@@ -1815,63 +1870,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-31T16:48:22+00:00"
-  },
-  {
-   "id": "5a45dcf2f5ee",
-   "title": "Minicar e veicoli industriali fantasma: truffa online da oltre 100mila euro",
-   "summary": "SALENTO – Oltre 100mila euro ottenuti attraverso la vendita online di minicar e veicoli industriali inesistenti. È la truffa ricostruita dagli agenti di polizia, che ha denunciato due persone residen…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/minicar-e-veicoli-industriali-fantasma-truffa-online-da-oltre-100mila-euro/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-10-31T16:29:01+00:00"
-  },
-  {
-   "id": "83a23c88e355",
-   "title": "Omicidio Nisi, ritrovata l'arma del delitto",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-111-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/31/omicidio-nisi-ritrovata-larma-del-delitto",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Brindisi",
-   "published_at": "2026-10-31T16:03:16+00:00"
-  },
-  {
-   "id": "2f80bd495a28",
-   "title": "Frascaro della Motorsport domina a Navarra, il titolo si decide in Portogallo",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/2025_ChEu_R04lm_04962-1024x683-1.jpg",
-   "url": "https://trnews.it/2026/10/31/frascaro-della-motorsport-domina-a-navarra-il-titolo-si-decide-in-portogallo",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-31T15:47:00+00:00"
-  },
-  {
-   "id": "0d417e5daf44",
-   "title": "\"Il mondo sulle spalle\": Giorgio Napolitano raccontato dal figlio",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-16.40.21-1024x768.jpeg",
-   "url": "https://trnews.it/2026/10/31/il-mondo-sulle-spalle-giorgio-napolitano-raccontato-dal-figlio",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-31T15:43:06+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-03T15:30:48.064555+00:00",
+   "last_ok": "2026-11-03T16:38:14.572147+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-03T15:30:48.064555+00:00",
+   "last_ok": "2026-11-03T16:38:14.572147+00:00",
    "error": null
   },
   {
@@ -1883,19 +1894,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-03T15:30:48.064555+00:00",
+   "last_ok": "2026-11-03T16:38:14.572147+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-03T15:30:48.064555+00:00",
+   "last_ok": "2026-11-03T16:38:14.572147+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-03T15:30:48.064555+00:00",
+   "last_ok": "2026-11-03T16:38:14.572147+00:00",
    "error": null
   }
  ]
