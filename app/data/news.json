@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-03T05:38:17.388275+00:00",
+ "updated_at": "2026-11-03T06:42:34.929870+00:00",
  "items": [
+  {
+   "id": "3d225a4da7ea",
+   "title": "Più di un miliardo per droni e aerei: come Frontex controlla i confini dal cielo",
+   "summary": "Le spese dell’agenzia europea per le frontiere in questo campo sono in crescita vertiginosa. Sono cruciali per consentire le intercettazioni dei migranti da parte della guardia costiera libica. E pot…",
+   "image": null,
+   "url": "https://irpimedia.irpi.eu/piu-di-un-miliardo-per-droni-e-aerei-come-frontex-controlla-i-confini-dal-cielo/?utm_source=rss&utm_medium=rss&utm_campaign=piu-di-un-miliardo-per-droni-e-aerei-come-frontex-controlla-i-confini-dal-cielo",
+   "source": "IrpiMedia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-03T06:30:00+00:00"
+  },
   {
    "id": "64f7e66c9877",
    "title": "Casarano, Zauri: \"Il pareggio? Risultato giusto, abbiamo rischiato di vincerla\"",
@@ -1793,30 +1804,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-10-31T07:14:56+00:00"
-  },
-  {
-   "id": "c9bb21eb2f26",
-   "title": "L’almanacco di oggi 31 ottobre",
-   "summary": "Il Santo del giorno: Santa Lucilla. Il proverbio di Mesciu Ronzu: Quandu pare ca sta mangi sagne, sta mangi cime de cucuzze longhe. Significato: Quando pare che stai mangiando lasagne stai mangiando…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lalmanacco-di-oggi-31-ottobre/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-31T06:30:50+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-03T05:38:17.388275+00:00",
+   "last_ok": "2026-11-03T06:42:34.929870+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-03T05:38:17.388275+00:00",
+   "last_ok": "2026-11-03T06:42:34.929870+00:00",
    "error": null
   },
   {
@@ -1828,19 +1828,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-03T05:38:17.388275+00:00",
+   "last_ok": "2026-11-03T06:42:34.929870+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-03T05:38:17.388275+00:00",
+   "last_ok": "2026-11-03T06:42:34.929870+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-03T05:38:17.388275+00:00",
+   "last_ok": "2026-11-03T06:42:34.929870+00:00",
    "error": null
   }
  ]
