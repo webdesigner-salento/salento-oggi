@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T19:38:05.304336+00:00",
+ "updated_at": "2026-11-03T20:30:23.912352+00:00",
  "items": [
   {
    "id": "075e7874b8bd",
@@ -220,6 +220,17 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-11-03T15:11:47+00:00"
+  },
+  {
+   "id": "589450b8e8f9",
+   "title": "Carmiano e Magliano celebrano il 4 Novembre: tre cerimonie e una mostra di cimeli della Seconda Guerra Mondiale",
+   "summary": "Il Comune di Carmiano si prepara a celebrare la Giornata dell’Unità Nazionale e delle Forze Armate con un programma che unisce le tradizionali commemorazioni istituzionali a un’esposizione storica ap…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/carmiano-e-magliano-celebrano-il-4-novembre-tre-cerimonie-e-una-mostra-di-cimeli-della-seconda-guerra-mondiale/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T15:04:42+00:00"
   },
   {
    "id": "035097a5a250",
@@ -1958,30 +1969,19 @@
    "category": "Sport",
    "zone": "Brindisi",
    "published_at": "2026-10-31T22:24:38+00:00"
-  },
-  {
-   "id": "63fba37111f1",
-   "title": "Omicidio Mazzotta, 32enne resta in carcere, il gip: “il colpo accidentale pura fantasia”",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG_4406-1024x560.jpeg",
-   "url": "https://trnews.it/2026/10/31/omicidio-mazzotta-32enne-resta-in-carcere-il-gip-il-colpo-accidentale-pura-fantasia",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-31T19:54:23+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-03T19:38:05.304336+00:00",
+   "last_ok": "2026-11-03T20:30:23.912352+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-03T19:38:05.304336+00:00",
+   "last_ok": "2026-11-03T20:30:23.912352+00:00",
    "error": null
   },
   {
@@ -1993,19 +1993,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-03T19:38:05.304336+00:00",
+   "last_ok": "2026-11-03T20:30:23.912352+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-03T19:38:05.304336+00:00",
+   "last_ok": "2026-11-03T20:30:23.912352+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-03T19:38:05.304336+00:00",
+   "last_ok": "2026-11-03T20:30:23.912352+00:00",
    "error": null
   }
  ]
