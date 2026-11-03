@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-03T17:37:17.365462+00:00",
+ "updated_at": "2026-11-03T18:30:36.871543+00:00",
  "items": [
+  {
+   "id": "ede735176614",
+   "title": "Beni di Tito Schipa, il Comune procederà all'acquisizione",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/05/2017_tito_schipa.jpg",
+   "url": "https://trnews.it/2026/11/03/beni-di-tito-schipa-il-comune-procedera-allacquisizione",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T17:29:52+00:00"
+  },
   {
    "id": "a16814fcdcc1",
    "title": "Sud. Congedo: Governo rilancia impegno per diminuire gap con il nord",
@@ -1920,13 +1931,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-03T17:37:17.365462+00:00",
+   "last_ok": "2026-11-03T18:30:36.871543+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-03T17:37:17.365462+00:00",
+   "last_ok": "2026-11-03T18:30:36.871543+00:00",
    "error": null
   },
   {
@@ -1938,19 +1949,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-03T17:37:17.365462+00:00",
+   "last_ok": "2026-11-03T18:30:36.871543+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-03T17:37:17.365462+00:00",
+   "last_ok": "2026-11-03T18:30:36.871543+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-03T17:37:17.365462+00:00",
+   "last_ok": "2026-11-03T18:30:36.871543+00:00",
    "error": null
   }
  ]
