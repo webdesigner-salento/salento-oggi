@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-03T08:47:39.886604+00:00",
+ "updated_at": "2026-11-03T09:41:20.098586+00:00",
  "items": [
+  {
+   "id": "0789e5350be7",
+   "title": "Meteo di domani 4 novembre nel Salento: previsioni, temperature e cosa aspettarsi",
+   "summary": "Puglia – Giornata all’insegna del tempo stabile su tutta la regione con nuvolosità in transito alternata a schiarite sia al mattino che al pomeriggio. Si rinnovano condizioni di tempo asciutto anche…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/meteo-di-domani-4-novembre-nel-salento-previsioni-temperature-e-cosa-aspettarsi/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T09:38:08+00:00"
+  },
   {
    "id": "e39d7e29b01f",
    "title": "Gli Stati Uniti al voto: le elezioni del Congresso sotto l’attacco di Trump",
@@ -1727,41 +1738,19 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-10-31T09:54:06+00:00"
-  },
-  {
-   "id": "68f7b6de2843",
-   "title": "Basket A2: stasera Brindisi ci prova a Mestre.",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/09/valtur-brindisi-Cinciarini-contro-Ruvo-Memorial-Pentassuglia-1024x819.jpeg",
-   "url": "https://trnews.it/2026/10/31/basket-a2-stasera-brindisi-ci-prova-a-mestre",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-10-31T09:38:54+00:00"
-  },
-  {
-   "id": "55e082f07730",
-   "title": "Oggi pomeriggio Sport Club",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Sport-Club-2.jpg",
-   "url": "https://trnews.it/2026/10/31/oggi-pomeriggio-sport-club",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-10-31T09:28:58+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-03T08:47:39.886604+00:00",
+   "last_ok": "2026-11-03T09:41:20.098586+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-03T08:47:39.886604+00:00",
+   "last_ok": "2026-11-03T09:41:20.098586+00:00",
    "error": null
   },
   {
@@ -1773,19 +1762,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-03T08:47:39.886604+00:00",
+   "last_ok": "2026-11-03T09:41:20.098586+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-03T08:47:39.886604+00:00",
+   "last_ok": "2026-11-03T09:41:20.098586+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-03T08:47:39.886604+00:00",
+   "last_ok": "2026-11-03T09:41:20.098586+00:00",
    "error": null
   }
  ]
