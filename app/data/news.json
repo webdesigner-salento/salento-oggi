@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-11-03T07:57:22.077138+00:00",
+ "updated_at": "2026-11-03T08:47:39.886604+00:00",
  "items": [
+  {
+   "id": "e39d7e29b01f",
+   "title": "Gli Stati Uniti al voto: le elezioni del Congresso sotto l’attacco di Trump",
+   "summary": "USA al voto per il Midterm: debole nei sondaggi, Trump rilancia la narrazione dei brogli preventivi. In gioco il controllo del Congresso e la tenuta democratica.",
+   "image": null,
+   "url": "https://www.valigiablu.it/elezioni-midterm-usa-trump-democrazia-attacco/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-03T08:09:41+00:00"
+  },
+  {
+   "id": "ad9471b7c97c",
+   "title": "Lecce, la Corte dei conti promuove il risanamento ma richiama il Comune: riscossione debole e regole da rispettare",
+   "summary": "LECCE – Il risanamento dei conti procede meglio delle previsioni, ma la difficoltà di incassare tributi e vecchi crediti resta un punto debole del bilancio comunale. La Corte dei conti riconosce a Le…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/lecce-la-corte-dei-conti-promuove-il-risanamento-ma-richiama-il-comune-riscossione-debole-e-regole-da-rispettare/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T07:59:38+00:00"
+  },
   {
    "id": "7865a7c0f874",
    "title": "Decaro: “Siamo tutti in difficoltà, non abbiamo i fondi per chiudere i bilanci”",
@@ -1727,96 +1749,19 @@
    "category": "Sport",
    "zone": "Salento",
    "published_at": "2026-10-31T09:28:58+00:00"
-  },
-  {
-   "id": "2feeb4840f9f",
-   "title": "Tentano la spaccata nella notte alla farmacia: l’arrivo della vigilanza mette in fuga i ladri",
-   "summary": "ALEZIO (Lecce) – Spaccano la vetrata d’ingresso ma sono costretti a fuggire a mani vuote. Un furto è stato sventato nella notte ai danni della farmacia di via Salvatore Anaclerio, nel centro di Alezi…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/tentano-la-spaccata-nella-notte-alla-farmacia-larrivo-della-vigilanza-mette-in-fuga-i-ladri/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-31T08:38:34+00:00"
-  },
-  {
-   "id": "3a75277cd47b",
-   "title": "Maxisequestro della Guardia di Finanza per Halloween: ritirati dal mercato 130mila prodotti",
-   "summary": "SALENTO – Oltre 130mila articoli non a norma e potenzialmente pericolosi per la salute, per la gran parte gadget, costumi e accessori dedicati ai più piccoli per la festa di Halloween, sono stati rit…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/maxisequestro-della-guardia-di-finanza-per-halloween-ritirati-dal-mercato-130mila-prodotti/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-10-31T08:37:59+00:00"
-  },
-  {
-   "id": "e43d66200c8f",
-   "title": "Esami rinviati all’Oncologico di Lecce, la Asl: “Tac funzionanti”. Pagliaro: “I pazienti confermano le cancellazioni”",
-   "summary": "LECCE – Per la Asl le Tac dell’Oncologico del Vito Fazzi funzionano regolarmente e il fermo ha riguardato la risonanza magnetica. Per il consigliere regionale Paolo Pagliaro, invece, restano le testi…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/esami-rinviati-alloncologico-di-lecce-la-asl-tac-funzionanti-pagliaro-i-pazienti-confermano-le-cancellazioni/",
-   "source": "Corriere Salentino",
-   "category": "Salute",
-   "zone": "Lecce",
-   "published_at": "2026-10-31T08:36:01+00:00"
-  },
-  {
-   "id": "1f8d3229f682",
-   "title": "FIADEL Puglia, allarme sicurezza per gli operatori: chiesto lo stop al porta a porta",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-08.01.54-1024x768.jpeg",
-   "url": "https://trnews.it/2026/10/31/fiadel-puglia-allarme-sicurezza-per-gli-operatori-chiesto-lo-stop-al-porta-a-porta",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-31T08:31:55+00:00"
-  },
-  {
-   "id": "97ac50ef4c79",
-   "title": "Cadavere ritrovato in un pozzo a Torre Rinalda, autopsia ‘il killer gli ha sparato al volto’",
-   "summary": "Un colpo sparato da distanza ravvicinata al volto, che ha attraversato la colonna cervicale e si è fermato nel collo, da dove è stato estratto. E’ il risultato dell’autopsia compiuta nel pomeriggio d…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/cadavere-ritrovato-in-un-pozzo-a-torre-rinalda-autopsia-il-killer-gli-ha-sparato-al-volto/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-10-31T08:26:09+00:00"
-  },
-  {
-   "id": "816a7ed742ce",
-   "title": "Lecce – Genoa. I rossoblú per la 21esima volta al Via Del Mare: buono il bilancio dei giallorossi",
-   "summary": "Per la decima giornata il Lecce, dopo cinque mesi, ritorna ad ospitare il Genoa e lo fa, in campionato, per la 21esima volta. Nelle precedenti 20 partite (10 in Serie A e 10 in B; 11 giocate nel seco…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/lecce-genoa-i-rossoblu-per-la-21esima-volta-al-via-del-mare-buono-il-bilancio-dei-giallorossi/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-31T08:11:01+00:00"
-  },
-  {
-   "id": "bf6887749fbf",
-   "title": "Arbitro di Lecce – Genoa: il romano Marchetti per l’ottava volta con i giallorossi",
-   "summary": "La partita sarà arbitrata dal Signor Matteo MARCHETTI della Sezione A.I.A. di Ostia Lido (frazione di Roma). L’arbitro MARCHETTI ha 36 anni. Ė nato il 10 novembre 1989 a Ostia Lido, dove risiede. Pro…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/arbitro-di-lecce-genoa-il-romano-marchetti-per-lottava-volta-con-i-giallorossi/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-31T08:04:16+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-03T07:57:22.077138+00:00",
+   "last_ok": "2026-11-03T08:47:39.886604+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-03T07:57:22.077138+00:00",
+   "last_ok": "2026-11-03T08:47:39.886604+00:00",
    "error": null
   },
   {
@@ -1828,19 +1773,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-03T07:57:22.077138+00:00",
+   "last_ok": "2026-11-03T08:47:39.886604+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-03T07:57:22.077138+00:00",
+   "last_ok": "2026-11-03T08:47:39.886604+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-03T07:57:22.077138+00:00",
+   "last_ok": "2026-11-03T08:47:39.886604+00:00",
    "error": null
   }
  ]
