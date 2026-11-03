@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T02:35:20.367431+00:00",
+ "updated_at": "2026-11-03T03:35:35.867248+00:00",
  "items": [
   {
    "id": "64f7e66c9877",
@@ -1832,14 +1832,14 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-03T02:35:20.367431+00:00",
+   "last_ok": "2026-11-03T03:35:35.867248+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
-   "ok": true,
+   "ok": false,
    "last_ok": "2026-11-03T02:35:20.367431+00:00",
-   "error": null
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "source": "Il Post",
@@ -1850,20 +1850,20 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-03T02:35:20.367431+00:00",
+   "last_ok": "2026-11-03T03:35:35.867248+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-03T02:35:20.367431+00:00",
+   "last_ok": "2026-11-03T03:35:35.867248+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
-   "ok": true,
+   "ok": false,
    "last_ok": "2026-11-03T02:35:20.367431+00:00",
-   "error": null
+   "error": "TimeoutError: The read operation timed out"
   }
  ]
 }
