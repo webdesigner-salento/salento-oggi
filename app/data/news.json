@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-11-03T22:11:43.094118+00:00",
+ "updated_at": "2026-11-03T23:06:17.230879+00:00",
  "items": [
+  {
+   "id": "84410e12ac61",
+   "title": "“Israele rilasci immediatamente il dottor Obeid dopo due anni di detenzione arbitraria”",
+   "summary": "Sono passati due anni e il dottor Mohammed Obeid, chirurgo ortopedico palestinese che lavorava per Medici senza frontiere (Msf), è ancora detenuto dalle forze israeliane senza alcuna accusa. L’organi…",
+   "image": "https://altreconomia.it/app/uploads/2026/11/Screenshot-2026-11-03-alle-22.27.17.png",
+   "url": "https://altreconomia.it/israele-rilasci-immediatamente-il-dottor-obeid-dopo-due-anni-di-detenzione-arbitraria/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-03T23:02:23+00:00"
+  },
+  {
+   "id": "2287577180f8",
+   "title": "Tra le priorità della Lista studentesca in Serbia “devono rimanere le vittime di Novi Sad”",
+   "summary": "Sono venuti in tanti il primo novembre a stringersi attorno alla città che più di tutte ha pagato il conto della corruzione del governo dell’ex presidente Aleksandar Vučić, sconfitto nelle elezioni g…",
+   "image": "https://altreconomia.it/app/uploads/2026/11/IMG_0751-scaled.jpg",
+   "url": "https://altreconomia.it/tra-le-priorita-della-lista-studentesca-in-serbia-devono-rimanere-le-vittime-di-novi-sad/",
+   "source": "Altreconomia",
+   "category": "Politica",
+   "zone": "Italia",
+   "published_at": "2026-11-03T23:01:21+00:00"
+  },
   {
    "id": "075e7874b8bd",
    "title": "Nei cellulari custodivano sticker pedopornografici: indagati due “della gang del bosco” e vittima aggressione",
@@ -1947,41 +1969,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-10-31T23:10:31+00:00"
-  },
-  {
-   "id": "6a63798dec5c",
-   "title": "Omicidio Mazzotta, Greco: “Colpo di pistola partito accidentalmente”, ma il giudice lo lascia in carcere",
-   "summary": "SURBO (Lecce) – L’assassino parla di un colpo partito accidentalmente ma il giudice si allinea con la ricostruzione degli inquirenti e conferma: si è trattato un omicidio volontario. Emmanuel Greco,…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/EMMANUEL-GRECO.jpg",
-   "url": "https://www.corrieresalentino.it/2026/10/omicidio-mazzotta-greco-colpo-di-pistola-partito-accidentalmente-ma-il-giudice-lo-lascia-in-carcere/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-31T22:44:43+00:00"
-  },
-  {
-   "id": "3aadb5058d47",
-   "title": "Valtur Brindisi sconfitta a Mestre",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot_20261031_232241.jpg",
-   "url": "https://trnews.it/2026/10/31/valtur-brindisi-sconfitta-a-mestre",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-10-31T22:24:38+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-03T22:11:43.094118+00:00",
+   "last_ok": "2026-11-03T23:06:17.230879+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-03T22:11:43.094118+00:00",
+   "last_ok": "2026-11-03T23:06:17.230879+00:00",
    "error": null
   },
   {
@@ -1993,19 +1993,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-03T22:11:43.094118+00:00",
+   "last_ok": "2026-11-03T23:06:17.230879+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-03T22:11:43.094118+00:00",
+   "last_ok": "2026-11-03T23:06:17.230879+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-03T22:11:43.094118+00:00",
+   "last_ok": "2026-11-03T23:06:17.230879+00:00",
    "error": null
   }
  ]
