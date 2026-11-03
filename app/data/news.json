@@ -1,6 +1,50 @@
 {
- "updated_at": "2026-11-03T14:41:50.203959+00:00",
+ "updated_at": "2026-11-03T15:30:48.064555+00:00",
  "items": [
+  {
+   "id": "5399d4a18ced",
+   "title": "“Sembravamo dei fenomeni”, Di Francesco si assume le responsabilità. Là tegole Monteiro è l’ennesima",
+   "summary": "LECCE – “Sembravamo dei fenomeni”. Le parole di Eusebio Di Francesco che ricorda di tenere i piedi per terra e richiama l’ambiente del Lecce alla realtà. Dopo la sconfitta contro il Genoa di domenica…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/sembravamo-dei-fenomeni-di-francesco-si-assume-le-responsabilita-la-tegole-monteiro-e-lennesima/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T15:11:47+00:00"
+  },
+  {
+   "id": "035097a5a250",
+   "title": "Centenaria a Matino, il messaggio di auguri del sindaco Toma",
+   "summary": "Il messaggio del sindaco Toma per gli auguri alla Signora Rita Caggiula, centenaria a Matino “A nome mio personale e dell’intera Amministrazione Comunale di Matino, desidero rivolgerle i più sinceri…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/centenaria-a-matino-il-messaggio-di-auguri-del-sindaco-toma/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T14:58:27+00:00"
+  },
+  {
+   "id": "229caee6a4a5",
+   "title": "Auto troppo veloci tra le case, allarme nei quartieri a Lecce: si punta a decine di attraversamenti rialzati",
+   "summary": "LECCE – Il timore dei residenti è lo stesso in più quartieri: uscire di casa, attraversare la strada e trovarsi davanti un’auto che arriva a velocità sostenuta. Da via Massaia a via Monteroni, fino a…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/auto-troppo-veloci-tra-le-case-allarme-nei-quartieri-a-lecce-si-punta-a-decine-di-attraversamenti-rialzati/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T14:56:51+00:00"
+  },
+  {
+   "id": "06f3d3433655",
+   "title": "Il Lecce cerca una via d'uscita tra errori e infortuni. Fofana in nazionale",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/DSC_0341-1024x768.jpg",
+   "url": "https://trnews.it/2026/11/03/il-lecce-cerca-una-via-duscita-tra-errori-e-infortuni-fofana-in-nazionale",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T14:49:35+00:00"
+  },
   {
    "id": "e1eb1ff3cf39",
    "title": "Sabato 7 novembre “Dàula e il mare” di Principio Attivo Teatro per la rassegna Ci vuole un fiore – famiglie a teatro",
@@ -1815,30 +1859,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-31T15:43:06+00:00"
-  },
-  {
-   "id": "6c3eef6e068d",
-   "title": "Omicidio Mazzotta, Greco si difende: “Colpo di pistola partito accidentalmente dopo una bastonata sull mano”",
-   "summary": "SURBO (Lecce) – Nessuna intenzione di ammazzare ma un gesto scaturito da una fatalità: il colpo di pistola con cui l’assassino avrebbe ferito mortalmente Antimo Mazzotta (come accertato dall’autopsia…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/EMMANUEL-GRECO.jpg",
-   "url": "https://www.corrieresalentino.it/2026/10/omicidio-mazzotta-greco-si-difende-colpo-di-pistola-partito-accidentalmente-dopo-una-bastonata/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-31T14:44:43+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-03T14:41:50.203959+00:00",
+   "last_ok": "2026-11-03T15:30:48.064555+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-03T14:41:50.203959+00:00",
+   "last_ok": "2026-11-03T15:30:48.064555+00:00",
    "error": null
   },
   {
@@ -1850,19 +1883,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-03T14:41:50.203959+00:00",
+   "last_ok": "2026-11-03T15:30:48.064555+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-03T14:41:50.203959+00:00",
+   "last_ok": "2026-11-03T15:30:48.064555+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-03T14:41:50.203959+00:00",
+   "last_ok": "2026-11-03T15:30:48.064555+00:00",
    "error": null
   }
  ]
