@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-02T23:30:30.412293+00:00",
+ "updated_at": "2026-11-03T00:24:41.615555+00:00",
  "items": [
+  {
+   "id": "47b8d9ec61ce",
+   "title": "Serie C - Folle derby: il Foggia beffa in pieno recupero il Casarano. Al \"Capozza\" si chiude sul 2-2",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/20261102_203921-1024x768.jpg",
+   "url": "https://trnews.it/2026/11/03/serie-c-folle-derby-il-foggia-beffa-in-pieno-recupero-il-casarano",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T23:54:56+00:00"
+  },
   {
    "id": "8121885130b9",
    "title": "Vietava alla moglie di indossare scollature e di frequentare l’Università. Donna denuncia, indagato marito",
@@ -1799,13 +1810,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-02T23:30:30.412293+00:00",
+   "last_ok": "2026-11-03T00:24:41.615555+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-02T23:30:30.412293+00:00",
+   "last_ok": "2026-11-03T00:24:41.615555+00:00",
    "error": null
   },
   {
@@ -1817,19 +1828,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-02T23:30:30.412293+00:00",
+   "last_ok": "2026-11-03T00:24:41.615555+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-02T23:30:30.412293+00:00",
+   "last_ok": "2026-11-03T00:24:41.615555+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-02T23:30:30.412293+00:00",
+   "last_ok": "2026-11-03T00:24:41.615555+00:00",
    "error": null
   }
  ]
