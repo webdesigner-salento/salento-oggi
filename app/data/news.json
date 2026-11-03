@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-11-03T13:56:38.448268+00:00",
+ "updated_at": "2026-11-03T14:41:50.203959+00:00",
  "items": [
+  {
+   "id": "e1eb1ff3cf39",
+   "title": "Sabato 7 novembre “Dàula e il mare” di Principio Attivo Teatro per la rassegna Ci vuole un fiore – famiglie a teatro",
+   "summary": "GUAGNANO (Lecce) – Un’esperienza sensoriale dedicata anche ai piccolissimi, per scoprire il mare come luogo di incontro tra culture. Sabato 7 novembre alle 17:45 (ingresso 8 euro, ridotto 6 euro | in…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/sabato-7-novembre-daula-e-il-mare-di-principio-attivo-teatro-per-la-rassegna-ci-vuole-un-fiore-famiglie-a-teatro/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T14:07:26+00:00"
+  },
+  {
+   "id": "ee767f2c5d0f",
+   "title": "La cocaina miscelata con il robot da cucina: scoperto laboratorio domestico",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/foto1-8-e1793714509804.png",
+   "url": "https://trnews.it/2026/11/03/la-cocaina-miscelata-con-il-robot-da-cucina-scoperto-laboratorio-domestico",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T14:02:05+00:00"
+  },
   {
    "id": "f22296b56ac7",
    "title": "Intensificati a Brindisi i controlli contro i reati ambientali",
@@ -27,7 +49,7 @@
    "id": "fb6b3b030b46",
    "title": "Salute psicologica e gestione del rischio",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-7.jpg",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-7-1024x576.jpg",
    "url": "https://trnews.it/2026/11/03/salute-psicologica-e-gestione-del-rischio",
    "source": "TeleRama News",
    "category": "Altro",
@@ -319,6 +341,17 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-11-03T07:22:54+00:00"
+  },
+  {
+   "id": "90254be5502b",
+   "title": "Tutto pronto per “Novello in festa”: al via a Leverano la XXVIII edizione della rassegna dei vini rossi del Salento",
+   "summary": "LECCE – Da venerdì 6 a domenica 8 novembre, nel centro storico di Leverano, torna “Novello in Festa”, la rassegna dei vini rossi del Salento, organizzata dalla Pro Loco di Leverano, in collaborazione…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/tutto-pronto-per-novello-in-festa-al-via-a-leverano-la-xxviii-edizione-della-rassegna-dei-vini-rossi-del-salento/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T06:57:32+00:00"
   },
   {
    "id": "3d225a4da7ea",
@@ -1793,52 +1826,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-10-31T14:44:43+00:00"
-  },
-  {
-   "id": "2b30bb8ccb72",
-   "title": "Greco al gip: “Armato per precauzione. Il colpo è partito accidentalmente”",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_4388-1024x554.jpeg",
-   "url": "https://trnews.it/2026/10/31/greco-al-gip-armato-per-precauzione-il-colpo-e-partito-accidentalmente",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-10-31T14:20:23+00:00"
-  },
-  {
-   "id": "0d9194d2fbf0",
-   "title": "Strisce blu, il centrosinistra leccese prepara un ricorso collettivo al Tar",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/protesta-centrosx-parcheggi-1024x589.jpg",
-   "url": "https://trnews.it/2026/10/31/strisce-blu-il-centrosinistra-leccese-prepara-un-ricorso-collettivo-al-tar",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-31T14:13:45+00:00"
-  },
-  {
-   "id": "8361c31c6250",
-   "title": "A Carovigno quattro mesi di disagi senza bancomat",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/maxresdefault-109-1024x576.jpg",
-   "url": "https://trnews.it/2026/10/31/a-carovigno-quattro-mesi-di-disagi-senza-bancomat",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Brindisi",
-   "published_at": "2026-10-31T14:05:20+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-03T13:56:38.448268+00:00",
+   "last_ok": "2026-11-03T14:41:50.203959+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-03T13:56:38.448268+00:00",
+   "last_ok": "2026-11-03T14:41:50.203959+00:00",
    "error": null
   },
   {
@@ -1850,19 +1850,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-03T13:56:38.448268+00:00",
+   "last_ok": "2026-11-03T14:41:50.203959+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-03T13:56:38.448268+00:00",
+   "last_ok": "2026-11-03T14:41:50.203959+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-03T13:56:38.448268+00:00",
+   "last_ok": "2026-11-03T14:41:50.203959+00:00",
    "error": null
   }
  ]
