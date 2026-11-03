@@ -1,6 +1,61 @@
 {
- "updated_at": "2026-11-03T16:38:14.572147+00:00",
+ "updated_at": "2026-11-03T17:37:17.365462+00:00",
  "items": [
+  {
+   "id": "a16814fcdcc1",
+   "title": "Sud. Congedo: Governo rilancia impegno per diminuire gap con il nord",
+   "summary": "“La legge di bilancio che tra qualche giorno approda alla Camera contiene una serie di misure per il Mezzogiorno per incentivare ulteriormente il suo ruolo di locomotore dell’intera Nazione, un fatto…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/sud-congedo-governo-rilancia-impegno-per-diminuire-gap-con-il-nord/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-11-03T17:20:27+00:00"
+  },
+  {
+   "id": "f7ba8beac785",
+   "title": "Raffica di furti a Leverano: i Carabinieri individuano un presunto responsabile",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/carabinieri-leverano-e1793725053519-1024x701.jpg",
+   "url": "https://trnews.it/2026/11/03/raffica-di-furti-a-leverano-i-carabinieri-individuano-un-presunto-responsabile",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T16:57:39+00:00"
+  },
+  {
+   "id": "ec0d1b013f46",
+   "title": "Lecce, testa al Torino: domani seduta pomeridiana",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/Di-Francesco-Fiorentina-1024x755.jpg",
+   "url": "https://trnews.it/2026/11/03/lecce-testa-al-torino-domani-seduta-pomeridiana",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T16:49:10+00:00"
+  },
+  {
+   "id": "521257d8909f",
+   "title": "Serie C, Casarano: una giornata a Negro",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-c-1024x576.png",
+   "url": "https://trnews.it/2026/11/03/serie-c-casarano-una-giornata-a-negro",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T16:47:33+00:00"
+  },
+  {
+   "id": "aac1025a8d61",
+   "title": "Il Teatro Italia accoglie i ‘Dialoghi di Legalità’: protagonista il ‘De Viti De Marco’ di Casarano",
+   "summary": "GALLIPOLI (Lecce) – Settecento studenti dell’ITE “De Viti De Marco”di Casarano, illustri rappresentanti della Magistratura, Autorità di pubblica sicurezza e Istituzioni del Territorio riuniti per un’…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/foto-2-560x420.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/il-teatro-italia-accoglie-i-dialoghi-di-legalita-protagonista-il-de-viti-de-marco-di-casarano/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T16:44:38+00:00"
+  },
   {
    "id": "58343e98b492",
    "title": "Tributo 630, Casarano chiama a raccolta i Comuni per bloccare le cartelle",
@@ -112,6 +167,17 @@
    "published_at": "2026-11-03T14:07:26+00:00"
   },
   {
+   "id": "bbf8f1182ef1",
+   "title": "Enogastronomia e tradizione, ecco \"Novello in festa\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2024/08/AVVIO-VENDEMMIA-SITO.jpg",
+   "url": "https://trnews.it/2026/11/03/enogastronomia-e-tradizione-ecco-novello-in-festa",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-03T14:03:05+00:00"
+  },
+  {
    "id": "ee767f2c5d0f",
    "title": "La cocaina miscelata con il robot da cucina: scoperto laboratorio domestico",
    "summary": "",
@@ -154,17 +220,6 @@
    "category": "Altro",
    "zone": "Brindisi",
    "published_at": "2026-11-03T13:04:11+00:00"
-  },
-  {
-   "id": "bbf8f1182ef1",
-   "title": "Enogastronomia e tradizione, ecco \"Novello in festa\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2024/08/AVVIO-VENDEMMIA-SITO.jpg",
-   "url": "https://trnews.it/2026/11/03/enogastronomia-e-tradizione-ecco-novello-in-festa",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-03T13:03:05+00:00"
   },
   {
    "id": "b6f59dd356af",
@@ -494,7 +549,7 @@
    "source": "TeleRama News",
    "category": "Sport",
    "zone": "Lecce",
-   "published_at": "2026-11-03T00:56:47+00:00"
+   "published_at": "2026-11-03T01:56:47+00:00"
   },
   {
    "id": "7101975097d2",
@@ -505,7 +560,7 @@
    "source": "TeleRama News",
    "category": "Sport",
    "zone": "Lecce",
-   "published_at": "2026-11-03T00:25:23+00:00"
+   "published_at": "2026-11-03T01:25:23+00:00"
   },
   {
    "id": "47b8d9ec61ce",
@@ -516,7 +571,7 @@
    "source": "TeleRama News",
    "category": "Sport",
    "zone": "Lecce",
-   "published_at": "2026-11-02T23:54:56+00:00"
+   "published_at": "2026-11-03T00:54:56+00:00"
   },
   {
    "id": "76a6afc85525",
@@ -640,6 +695,17 @@
    "published_at": "2026-11-02T15:33:18+00:00"
   },
   {
+   "id": "c534f02c5c56",
+   "title": "Galatina, 15 anni di divieti e controllo sulla moglie: scatta il divieto di avvicinamento",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-6-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/02/galatina-15-anni-di-divieti-e-controllo-sulla-moglie-scatta-il-divieto-di-avvicinamento",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T15:16:52+00:00"
+  },
+  {
    "id": "7d107fe21ae6",
    "title": "Tenta di rapinare avvocato, professionista reagisce e malvivente fugge",
    "summary": "",
@@ -649,17 +715,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-11-02T14:17:58+00:00"
-  },
-  {
-   "id": "c534f02c5c56",
-   "title": "Galatina, 15 anni di divieti e controllo sulla moglie: scatta il divieto di avvicinamento",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-6-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/02/galatina-15-anni-di-divieti-e-controllo-sulla-moglie-scatta-il-divieto-di-avvicinamento",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T14:16:52+00:00"
   },
   {
    "id": "e28f14514519",
@@ -1859,30 +1914,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-31T19:13:16+00:00"
-  },
-  {
-   "id": "ce99554bf077",
-   "title": "Ipertermia oncologica nel Salento: medici e politici a confronto",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-16.47.56-1024x768.jpeg",
-   "url": "https://trnews.it/2026/10/31/ipertermia-oncologica-nel-salento-medici-e-politici-a-confronto",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-31T16:48:22+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-03T16:38:14.572147+00:00",
+   "last_ok": "2026-11-03T17:37:17.365462+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-03T16:38:14.572147+00:00",
+   "last_ok": "2026-11-03T17:37:17.365462+00:00",
    "error": null
   },
   {
@@ -1894,19 +1938,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-03T16:38:14.572147+00:00",
+   "last_ok": "2026-11-03T17:37:17.365462+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-03T16:38:14.572147+00:00",
+   "last_ok": "2026-11-03T17:37:17.365462+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-03T16:38:14.572147+00:00",
+   "last_ok": "2026-11-03T17:37:17.365462+00:00",
    "error": null
   }
  ]
