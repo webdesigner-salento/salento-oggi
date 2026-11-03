@@ -1,6 +1,50 @@
 {
- "updated_at": "2026-11-03T10:42:10.196105+00:00",
+ "updated_at": "2026-11-03T11:37:52.746367+00:00",
  "items": [
+  {
+   "id": "270ae1ea4107",
+   "title": "Cosa succede se vince Putin",
+   "summary": "Cosa accadrebbe se Putin vincesse la guerra in Ucraina? I dieci scenari che travolgerebbero l'Europa. Ecco perché il destino di Kyiv riguarda tutti noi.",
+   "image": null,
+   "url": "https://www.valigiablu.it/cosa-succede-se-vince-putin-ucraina-europa/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-03T11:36:36+00:00"
+  },
+  {
+   "id": "955f2a9ee1ba",
+   "title": "Un ragazzo di 2000 anni fa dal Fayum all’Ara Pacis. In mostra la scoperta UniSalento",
+   "summary": "LECCE – Tra le oltre 110 opere di “Il potere del ritratto. Egitto e Roma. I volti del Fayum” ce n’è una scoperta dall’Università del Salento. La mostra aprirà il 5 novembre al Museo dell’Ara Pacis di…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/un-ragazzo-di-2000-anni-fa-dal-fayum-allara-pacis-in-mostra-la-scoperta-unisalento/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T11:05:06+00:00"
+  },
+  {
+   "id": "0ba469655dec",
+   "title": "I due morti al Porto Vecchio di Trieste e i rischi costanti per i richiedenti asilo esclusi a tavolino",
+   "summary": "Nella notte tra il primo e il 2 novembre, due persone sono morte nell'incendio divampato in uno dei magazzini abbandonati del Porto Vecchio di Trieste, dove da tempo trovano riparo decine di persone…",
+   "image": "https://altreconomia.it/app/uploads/2026/11/WhatsApp-Image-2026-11-02-at-12.10.53.jpeg",
+   "url": "https://altreconomia.it/i-due-morti-al-porto-vecchio-di-trieste-e-i-rischi-costanti-per-i-richiedenti-asilo-esclusi-a-tavolino/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-03T10:57:14+00:00"
+  },
+  {
+   "id": "2a75cd1761c6",
+   "title": "Questa sera su Tele Rama Lecce-Genoa",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/DSC_0064-1024x768.jpg",
+   "url": "https://trnews.it/2026/11/03/questa-sera-su-tele-rama-lecce-genoa-2",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T10:45:33+00:00"
+  },
   {
    "id": "1e40d5b9eeca",
    "title": "Sorpreso a bruciare rifiuti potenzialmente pericolosi, 53enne finisce ai domiciliari",
@@ -37,7 +81,7 @@
   {
    "id": "567ce9d37ca4",
    "title": "Mercoledì 4 novembre Giornata dell’Unità Nazionale e delle Forze Armate, il programma a Nardò",
-   "summary": "NARDO’ (Lecce) – Si celebra domani, mercoledì 4 novembre, la Giornata dell’Unità Nazionale e delle Forze Armate, con la quale si ricorda la vittoria dell’Italia nella Prima Guerra mondiale e il compl…",
+   "summary": "NARDO‘ (Lecce) – Si celebra domani, mercoledì 4 novembre, la Giornata dell’Unità Nazionale e delle Forze Armate, con la quale si ricorda la vittoria dell’Italia nella Prima Guerra mondiale e il compl…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/11/mercoledi-4-novembre-giornata-dellunita-nazionale-e-delle-forze-armate-il-programma-a-nardo/",
    "source": "Corriere Salentino",
@@ -1738,30 +1782,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-10-31T11:43:10+00:00"
-  },
-  {
-   "id": "d00441afba70",
-   "title": "Il Salento scommette sul turismo a pedali",
-   "summary": "OTRANTO (Lecce) – Unire il Salento attraverso la bicicletta, mettendo in rete paesaggi costieri, borghi storici, patrimonio naturalistico e tradizioni locali. È questo l’obiettivo di “Benvenuto Ladri…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/il-salento-scommette-sul-turismo-a-pedali/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-10-31T10:49:25+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-03T10:42:10.196105+00:00",
+   "last_ok": "2026-11-03T11:37:52.746367+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-03T10:42:10.196105+00:00",
+   "last_ok": "2026-11-03T11:37:52.746367+00:00",
    "error": null
   },
   {
@@ -1773,19 +1806,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-03T10:42:10.196105+00:00",
+   "last_ok": "2026-11-03T11:37:52.746367+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-03T10:42:10.196105+00:00",
+   "last_ok": "2026-11-03T11:37:52.746367+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-03T10:42:10.196105+00:00",
+   "last_ok": "2026-11-03T11:37:52.746367+00:00",
    "error": null
   }
  ]
