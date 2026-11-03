@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T01:30:16.989617+00:00",
+ "updated_at": "2026-11-03T02:35:20.367431+00:00",
  "items": [
   {
    "id": "64f7e66c9877",
@@ -156,6 +156,28 @@
    "published_at": "2026-11-02T14:16:52+00:00"
   },
   {
+   "id": "e28f14514519",
+   "title": "Case Noe di Carmiano, Erroi: \"Nessuno spreco di danaro pubblico, il bosco si farà\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/SINDACO-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/02/case-noe-di-carmiano-erroi-nessuno-spreco-di-danaro-pubblico-il-bosco-si-fara",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T14:03:17+00:00"
+  },
+  {
+   "id": "6d504fa7a77f",
+   "title": "Violenze nel centro storico, presentato un nuovo esposto-denuncia",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/01/via-ascanio-grandi.jpg",
+   "url": "https://trnews.it/2026/11/02/violenze-nel-centro-storico-presentato-un-nuovo-esposto-denuncia",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T13:52:23+00:00"
+  },
+  {
    "id": "8d7bdd64f120",
    "title": "“L’ora di tutti” di Stefania Rocca inaugura la XXVII edizione del Festival del Cinema Europeo",
    "summary": "LECCE – Sarà il film di Stefania Rocca, “L’ora di tutti”, ad aprire la XXVII edizione del Festival del Cinema Europeo, diretto da Alberto La Monica e in programma al Cinema Multisala Massimo di Lecce…",
@@ -176,6 +198,17 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-11-02T13:39:29+00:00"
+  },
+  {
+   "id": "2d46e0837d27",
+   "title": "La Cattedrale di Brindisi candidata ai luoghi del cuore",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-4-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/02/la-cattedrale-di-brindisi-candidata-ai-luoghi-del-cuore",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Brindisi",
+   "published_at": "2026-11-02T13:37:33+00:00"
   },
   {
    "id": "f4802b8deb1d",
@@ -200,6 +233,17 @@
    "published_at": "2026-11-02T13:32:18+00:00"
   },
   {
+   "id": "e9bdb73b9f82",
+   "title": "Lecce, sabato si va a Torino, vendita dei tagliandi per il settore ospiti già attiva",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Still0412_00010-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/02/lecce-sabato-si-va-a-torino-vendita-dei-tagliandi-per-il-settore-ospiti-gia-attiva",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T13:20:57+00:00"
+  },
+  {
    "id": "ee21e767b684",
    "title": "Tre interventi in poche ore per i vigili del fuoco nel Brindisino",
    "summary": "",
@@ -209,17 +253,6 @@
    "category": "Cronaca",
    "zone": "Brindisi",
    "published_at": "2026-11-02T13:17:21+00:00"
-  },
-  {
-   "id": "e28f14514519",
-   "title": "Case Noe di Carmiano, Erroi: \"Nessuno spreco di danaro pubblico, il bosco si farà\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/SINDACO-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/02/case-noe-di-carmiano-erroi-nessuno-spreco-di-danaro-pubblico-il-bosco-si-fara",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T13:03:17+00:00"
   },
   {
    "id": "9717dc1554c4",
@@ -244,17 +277,6 @@
    "published_at": "2026-11-02T12:55:01+00:00"
   },
   {
-   "id": "6d504fa7a77f",
-   "title": "Violenze nel centro storico, presentato un nuovo esposto-denuncia",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/01/via-ascanio-grandi.jpg",
-   "url": "https://trnews.it/2026/11/02/violenze-nel-centro-storico-presentato-un-nuovo-esposto-denuncia",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T12:52:23+00:00"
-  },
-  {
    "id": "715a563302c5",
    "title": "La Fiorentina vince l’undicesima edizione del Trofeo Caroli Hotels Under 13",
    "summary": "La Fiorentina vince l’undicesima edizione del Trofeo Caroli Hotels Under 13. I viola superano il Bologna al termine di un match interessante ed equilibrato disputato allo stadio “Antonio Bianco” di G…",
@@ -266,17 +288,6 @@
    "published_at": "2026-11-02T12:41:46+00:00"
   },
   {
-   "id": "2d46e0837d27",
-   "title": "La Cattedrale di Brindisi candidata ai luoghi del cuore",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-4-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/02/la-cattedrale-di-brindisi-candidata-ai-luoghi-del-cuore",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Brindisi",
-   "published_at": "2026-11-02T12:37:33+00:00"
-  },
-  {
    "id": "f3a9c07e1ff0",
    "title": "Le Previsioni Meteo di domani 3 Novembre 2026",
    "summary": "Puglia Condizioni di tempo instabile nel corso della giornata con nuvolosità irregolare in transito associata a piogge e acquazzoni sparsi sia al mattino che al pomeriggio. In serata e nottata tempo…",
@@ -286,17 +297,6 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-02T12:32:46+00:00"
-  },
-  {
-   "id": "e9bdb73b9f82",
-   "title": "Lecce, sabato si va a Torino, vendita dei tagliandi per il settore ospiti già attiva",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Still0412_00010-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/02/lecce-sabato-si-va-a-torino-vendita-dei-tagliandi-per-il-settore-ospiti-gia-attiva",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T12:20:57+00:00"
   },
   {
    "id": "c24a68309be2",
@@ -1832,13 +1832,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-03T01:30:16.989617+00:00",
+   "last_ok": "2026-11-03T02:35:20.367431+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-03T01:30:16.989617+00:00",
+   "last_ok": "2026-11-03T02:35:20.367431+00:00",
    "error": null
   },
   {
@@ -1850,19 +1850,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-03T01:30:16.989617+00:00",
+   "last_ok": "2026-11-03T02:35:20.367431+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-03T01:30:16.989617+00:00",
+   "last_ok": "2026-11-03T02:35:20.367431+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-03T01:30:16.989617+00:00",
+   "last_ok": "2026-11-03T02:35:20.367431+00:00",
    "error": null
   }
  ]
