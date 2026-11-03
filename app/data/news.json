@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-11-03T06:42:34.929870+00:00",
+ "updated_at": "2026-11-03T07:57:22.077138+00:00",
  "items": [
+  {
+   "id": "7865a7c0f874",
+   "title": "Decaro: “Siamo tutti in difficoltà, non abbiamo i fondi per chiudere i bilanci”",
+   "summary": "“Le Regioni sono in grande difficoltà. Già quest’anno chiudiamo tutti in disavanzo e stiamo litigando sui criteri di riparto. Abbiamo chiesto di utilizzare 650 milioni del 2026 per l’aggiornamento de…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/decaro-siamo-tutti-in-difficolta-non-abbiamo-i-fondi-per-chiudere-i-bilanci/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-11-03T07:36:39+00:00"
+  },
+  {
+   "id": "96b992b628ac",
+   "title": "Tromba d’aria a Frigole, devastato il Lido Smeraldo: muri e alberi abbattuti. Crolli di alberature anche in altre zone",
+   "summary": "LECCE – Muri abbattuti, alberi crollati e gravi danni al Lido Smeraldo: una tromba d’aria ha colpito Frigole, lasciando una scia di devastazione nella marina leccese. Ma i crolli di alberature sono s…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/maltempo-lecce-1-560x420.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/tromba-daria-a-frigole-devastato-il-lido-smeraldo-muri-e-alberi-abbattuti-crolli-di-alberature-anche-in-altre-zone/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T07:33:21+00:00"
+  },
+  {
+   "id": "8c05a0222c4d",
+   "title": "Bosco di Carmiano, il sindaco Erroi rassicura: “Nessuno spreco, il reimpianto è già garantito”",
+   "summary": "CARMIANO – Il secondo reimpianto è già previsto e sarà gratuito, senza ulteriori costi per il Comune. Il finanziamento non rischia di essere revocato e si attende un ulteriore contributo per il mante…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/bosco-di-carmiano-il-sindaco-erroi-rassicura-nessuno-spreco-il-reimpianto-e-gia-garantito/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T07:22:54+00:00"
+  },
   {
    "id": "3d225a4da7ea",
    "title": "Più di un miliardo per droni e aerei: come Frontex controlla i confini dal cielo",
@@ -11,6 +44,28 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-03T06:30:00+00:00"
+  },
+  {
+   "id": "4b44117b77b3",
+   "title": "L’almanacco di oggi 3 novembre",
+   "summary": "Il Santo del giorno: Santa Silvia. Il proverbio di Mesciu Ronzu: Trete suntu li potenti: lu Papa, li re, e ciunca nu tene nienti. Significato: Tre sono i potenti: il Papa, il Re e i nullatenenti. – S…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/lalmanacco-di-oggi-3-novembre/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-03T06:00:05+00:00"
+  },
+  {
+   "id": "5ac450915471",
+   "title": "La ricetta del giorno: Torta alla zucca",
+   "summary": "Ingredienti 300 g di zucca 3 uova una noce di burro 150 ml di olio di semi 150 g di zucchero 200 g di farina 00 1 bustina di vanillina 3 amaretti 1 bustina di lievito vanigliato buccia d’arancia grat…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/la-ricetta-del-giorno-torta-alla-zucca/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-03T05:36:28+00:00"
   },
   {
    "id": "64f7e66c9877",
@@ -44,6 +99,17 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-11-02T23:54:56+00:00"
+  },
+  {
+   "id": "76a6afc85525",
+   "title": "Avvocato sorpreso sotto casa da un bandito: parte colpo di pistola. Tragedia sfiorata. Caccia al bandito",
+   "summary": "LECCE – Paura alla periferia di Lecce nella serata di ieri. Un noto avvocato è rimasto vittima di un tentativo di rapina che, solo per puro miracolo, non è sfociato in tragedia. Nella colluttazione,…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/avvocato-sorpreso-sotto-casa-da-un-bandito-parte-colpo-di-pistola-tragedia-sfiorata-caccia-al-bandito/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T22:55:01+00:00"
   },
   {
    "id": "8121885130b9",
@@ -110,6 +176,17 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-11-02T17:33:24+00:00"
+  },
+  {
+   "id": "2655d18f4ef9",
+   "title": "Il Lecce perde anche Monteiro, ha una lesione al polpaccio",
+   "summary": "Non c’è pace per il Lecce, che continua a fare i conti con un’infermeria sempre più affollata. L’ultimo in ordine di tempo è Joel Monteiro, l’attaccante svizzero uscito anzitempo ieri nella sfida con…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/il-lecce-perde-anche-monteiro-ha-una-lesione-al-polpaccio/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-02T17:31:59+00:00"
   },
   {
    "id": "0a13c4ccaafc",
@@ -275,17 +352,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-11-02T12:59:27+00:00"
-  },
-  {
-   "id": "76a6afc85525",
-   "title": "Avvocato sorpreso sotto casa da un bandito: parte colpo di pistola. Tragedia sfiorata. Caccia al bandito",
-   "summary": "LECCE – Paura alla periferia di Lecce nella serata di ieri. Un noto avvocato è rimasto vittima di un tentativo di rapina che, solo per puro miracolo, non è sfociato in tragedia. Nella colluttazione,…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/avvocato-sorpreso-sotto-casa-da-un-bandito-parte-colpo-di-pistola-tragedia-sfiorata-caccia-al-bandito/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T12:55:01+00:00"
   },
   {
    "id": "715a563302c5",
@@ -1738,85 +1804,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-10-31T08:04:16+00:00"
-  },
-  {
-   "id": "a8ad2db898c8",
-   "title": "L’ipertermia come terapia aggiuntiva per i pazienti oncologici nel Salento: la battaglia di Antonella riparte da Carmiano",
-   "summary": "CARMIANO – “La battaglia di Antonella adesso è la battaglia di tutta una comunità: quella di Carmiano e di Magliano, dove lei viveva”. Nelle parole del sindaco Giovanni Erroi il significato del conve…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/10/IMG_8650-300x225.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/10/lipertermia-come-terapia-aggiuntiva-per-i-pazienti-oncologici-nel-salento-la-battaglia-di-antonella-riparte-da-carmiano/",
-   "source": "Corriere Salentino",
-   "category": "Salute",
-   "zone": "Lecce",
-   "published_at": "2026-10-31T07:48:28+00:00"
-  },
-  {
-   "id": "0598f972c1b2",
-   "title": "La grande kickboxing mondiale fa tappa in Puglia",
-   "summary": "Nardò (Le) – Si è concluso con un’affluenza record e un entusiasmo travolgente il seminario internazionale di Point Fighting, tenutosi lo scorso 28 ottobre presso l’Advantage Academy in Via Alessandr…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/la-grande-kickboxing-mondiale-fa-tappa-in-puglia/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-31T07:44:54+00:00"
-  },
-  {
-   "id": "2e34d552b432",
-   "title": "Narconon Volley Melendugno, a Lecce arriva Trentino: la sfida per confermare la crescita",
-   "summary": "Il campionato di Serie A2 FINECO entra nel vivo e il Palasport San Giuseppe da Copertino di Lecce si prepara a vivere un pomeriggio di grande e appassionante pallavolo. Domenica 1° novembre, alle ore…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/narconon-volley-melendugno-a-lecce-arriva-trentino-la-sfida-per-confermare-la-crescita/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-31T07:22:20+00:00"
-  },
-  {
-   "id": "5124489a9d6c",
-   "title": "Le granata scendono in campo domenica contro le capitoline capoliste",
-   "summary": "NARDO‘ (Lecce) – Le granata scendono in campo domenica contro le capitoline capoliste. L’Assistant Coach Marco Malecore: “Squadra in crescita, ma occorre alzare l’asticella per giocarsela con tutti”.…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/le-granata-scendono-in-campo-domenica-contro-le-capitoline-capoliste/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-10-31T07:19:29+00:00"
-  },
-  {
-   "id": "83b673a41573",
-   "title": "Domenica 1 novembre “A New Sketches of Spain” con la danza di Israel Galván e la musica di Michael Leonhart per il festival Salento Jazz al Teatro Koreja",
-   "summary": "LECCE – Domenica 1 novembre (ore 18:00 | ingresso 35 euro + dp | prevendite attive su TicketOne e Ticketmaster) al Teatro Koreja di Lecce, per il festival Salento Jazz, musica e danza si incontrano i…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/10/domenica-1-novembre-a-new-sketches-of-spain-con-la-danza-di-israel-galvan-e-la-musica-di-michael-leonhart-per-il-festival-salento-jazz-al-teatro-koreja/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-10-31T07:17:39+00:00"
-  },
-  {
-   "id": "a91bf1e21415",
-   "title": "Food blogger in vetrina: Timballo di anelletti al forno di Cinzia Carcia",
-   "summary": "Per la rubrica “Food blogger in vetrina”, ospitiamo oggi una palermitana doc, Cinzia Carcia, food blogger. Dal 2009, Cinzia gestisce il blog “Il forno incantato”, sulle cui pagine condivide preparazi…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2017/12/9396AB60-E3DE-4124-B495-9DFE73DC0778-400x170.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/10/food-blogger-vetrina-timballo-di-anelletti-al-forno-di-cinzia-raso/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-10-31T07:14:56+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-03T06:42:34.929870+00:00",
+   "last_ok": "2026-11-03T07:57:22.077138+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-03T06:42:34.929870+00:00",
+   "last_ok": "2026-11-03T07:57:22.077138+00:00",
    "error": null
   },
   {
@@ -1828,19 +1828,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-03T06:42:34.929870+00:00",
+   "last_ok": "2026-11-03T07:57:22.077138+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-03T06:42:34.929870+00:00",
+   "last_ok": "2026-11-03T07:57:22.077138+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-03T06:42:34.929870+00:00",
+   "last_ok": "2026-11-03T07:57:22.077138+00:00",
    "error": null
   }
  ]
