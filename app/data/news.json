@@ -1,6 +1,72 @@
 {
- "updated_at": "2026-11-04T13:35:19.759843+00:00",
+ "updated_at": "2026-11-04T14:45:23.568625+00:00",
  "items": [
+  {
+   "id": "0d58aa8d1919",
+   "title": "La sberla elettorale per Trump e la posizione dei tre colossi globali del risparmio gestito",
+   "summary": "La posizione dei tre colossi globali del risparmio gestito -BlackRock, Vanguard e State Street- di fronte al delicato appuntamento con le elezioni di m idterm americane si caratterizza per un approcc…",
+   "image": "https://altreconomia.it/app/uploads/2026/11/IPA90497157-scaled.jpg",
+   "url": "https://altreconomia.it/la-sberla-elettorale-per-trump-e-la-posizione-dei-tre-colossi-globali-del-risparmio-gestito/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-04T14:12:37+00:00"
+  },
+  {
+   "id": "2cb49b333a26",
+   "title": "Droga e oltre 10mila euro in casa, arrestato un 24enne per spaccio di hashish e cocaina",
+   "summary": "Lecce – Aveva in casa droga, nello specifico hashish e cocaina, e oltre 10mila euro in contanti, probabile provento dell’attività di spaccio. Per questo un 24enne di Lecce è finito agli arresti domic…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/droga-e-oltre-10mila-euro-in-casa-arrestato-un-24enne-per-spaccio-di-hashish-e-cocaina/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-04T14:00:43+00:00"
+  },
+  {
+   "id": "4f1c41da77c7",
+   "title": "I Malfattori, vent'anni e un nuovo tour",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-13-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/04/i-malfattori-ventanni-e-un-nuovo-tour",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-11-04T13:57:45+00:00"
+  },
+  {
+   "id": "4a009a57e30f",
+   "title": "“Salvarono una persona da morte certa”: encomio a due carabinieri",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/729b6a4f-e096-444c-95dd-0a2eaab28439-1024x768.jpeg",
+   "url": "https://trnews.it/2026/11/04/salvarono-una-persona-da-morte-certa-encomio-a-due-carabinieri",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-04T13:43:32+00:00"
+  },
+  {
+   "id": "05773d29f141",
+   "title": "Tragedia sfiorata: crolla un solaio in un casolare nella campagna brindisina",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-12-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/04/tragedia-sfiorata-crolla-un-solaio-in-un-casolare-nella-campagna-brindisina",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Brindisi",
+   "published_at": "2026-11-04T13:26:41+00:00"
+  },
+  {
+   "id": "363a4a52b9cf",
+   "title": "Dati allarmanti sul gioco d'azzardo nel Brindisino",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-11-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/04/dati-allarmanti-sul-gioco-dazzardo-nel-brindisino",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Brindisi",
+   "published_at": "2026-11-04T13:21:40+00:00"
+  },
   {
    "id": "4194ae61b89f",
    "title": "Incidente mortale a Casarano, il cordoglio della Cgil",
@@ -189,6 +255,17 @@
    "published_at": "2026-11-04T09:05:51+00:00"
   },
   {
+   "id": "13e67c16ec8c",
+   "title": "Serie C, il Casarano pensa alla Casertana, il Bari al Picerno",
+   "summary": "",
+   "image": null,
+   "url": "https://trnews.it/2026/11/04/serie-c-il-casarano-pensa-alla-casertana-il-bari-al-picerno",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-04T09:04:22+00:00"
+  },
+  {
    "id": "4dbed5930450",
    "title": "Lecce, è ora di cambiare abitudini",
    "summary": "",
@@ -220,17 +297,6 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-11-04T08:10:55+00:00"
-  },
-  {
-   "id": "13e67c16ec8c",
-   "title": "Serie C, il Casarano pensa alla Casertana, il Bari al Picerno",
-   "summary": "",
-   "image": null,
-   "url": "https://trnews.it/2026/11/04/serie-c-il-casarano-pensa-alla-casertana-il-bari-al-picerno",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-04T08:04:22+00:00"
   },
   {
    "id": "edec4b857eda",
@@ -1815,30 +1881,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-11-01T14:54:48+00:00"
-  },
-  {
-   "id": "63922357958e",
-   "title": "Incendio all’impianto di biostabilizzazione di Burgesi: fiamme domate a Ugento, scatta la bonifica",
-   "summary": "BURGESI (Lecce) – Un principio di incendio è divampato all’interno dell’impianto di biostabilizzazione dei rifiuti di Burgesi, a Ugento, all’interno di una cella di stabilizzazione, facendo scattare…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/Corriere-salentino-2-300x169.png",
-   "url": "https://www.corrieresalentino.it/2026/11/incendio-allimpianto-di-biostabilizzazione-di-burgesi-fiamme-domate-a-ugento-scatta-la-bonifica/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-01T14:42:23+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-04T13:35:19.759843+00:00",
+   "last_ok": "2026-11-04T14:45:23.568625+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-04T13:35:19.759843+00:00",
+   "last_ok": "2026-11-04T14:45:23.568625+00:00",
    "error": null
   },
   {
@@ -1850,19 +1905,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-04T13:35:19.759843+00:00",
+   "last_ok": "2026-11-04T14:45:23.568625+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-04T13:35:19.759843+00:00",
+   "last_ok": "2026-11-04T14:45:23.568625+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-04T13:35:19.759843+00:00",
+   "last_ok": "2026-11-04T14:45:23.568625+00:00",
    "error": null
   }
  ]
