@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T14:45:23.568625+00:00",
+ "updated_at": "2026-11-04T15:40:28.943586+00:00",
  "items": [
   {
    "id": "0d58aa8d1919",
@@ -1859,41 +1859,19 @@
    "category": "Altro",
    "zone": "Taranto",
    "published_at": "2026-11-01T16:46:47+00:00"
-  },
-  {
-   "id": "a49facb313e8",
-   "title": "Notte di fuoco: esplode ordigno sotto un’auto, danni a veicoli e case. Indagano i Carabinieri",
-   "summary": "NOCIGLIA (Lecce) – Un forte boato ha scosso il silenzio della notte nel piccolo centro del Salento. Intorno all’una di notte, in via Girolamo Comi a Nociglia, un ordigno artigianale a basso potenzial…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/notte-di-fuoco-esplode-ordigno-sotto-unauto-danni-a-veicoli-e-case-indagano-i-carabinieri/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-01T15:11:28+00:00"
-  },
-  {
-   "id": "0963ad62fd09",
-   "title": "Festa di Halloween interrotta al Teatro Comunale di Novoli: controlli e stop per estintori scaduti e assenza di addetti",
-   "summary": "NOVOLI (Lecce) – Una festa di Halloween dedicata ai più piccoli e alle famiglie si è conclusa con lo stop delle autorità e il trasferimento dei partecipanti a pochi passi di distanza. È accaduto nell…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/festa-di-halloween-interrotta-al-teatro-comunale-di-novoli-controlli-e-stop-per-estintori-scaduti-e-assenza-di-addetti/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-01T14:54:48+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-04T14:45:23.568625+00:00",
+   "last_ok": "2026-11-04T15:40:28.943586+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-04T14:45:23.568625+00:00",
+   "last_ok": "2026-11-04T15:40:28.943586+00:00",
    "error": null
   },
   {
@@ -1905,19 +1883,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-04T14:45:23.568625+00:00",
+   "last_ok": "2026-11-04T15:40:28.943586+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-04T14:45:23.568625+00:00",
+   "last_ok": "2026-11-04T15:40:28.943586+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-04T14:45:23.568625+00:00",
+   "last_ok": "2026-11-04T15:40:28.943586+00:00",
    "error": null
   }
  ]
