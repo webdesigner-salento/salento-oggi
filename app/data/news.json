@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T04:39:52.122836+00:00",
+ "updated_at": "2026-11-04T05:42:12.599227+00:00",
  "items": [
   {
    "id": "8638b68c6bd8",
@@ -1738,30 +1738,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-01T06:00:35+00:00"
-  },
-  {
-   "id": "e54cb7dfd7ae",
-   "title": "Ricetta del giorno: Vitello Tonnato",
-   "summary": "Ingredienti per 4 persone: 1 kg di vitello 2 carote 1 costa di sedano 1 spicchio di aglio 5 rametti di prezzemolo 3 foglie di salvia 1 bicchiere di vino bianco Olio evo sale pepe 300 gr di tonno sott…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/ricetta-del-giorno-vitello-tonnato/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-01T05:20:36+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-04T04:39:52.122836+00:00",
+   "last_ok": "2026-11-04T05:42:12.599227+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-04T04:39:52.122836+00:00",
+   "last_ok": "2026-11-04T05:42:12.599227+00:00",
    "error": null
   },
   {
@@ -1773,19 +1762,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-04T04:39:52.122836+00:00",
+   "last_ok": "2026-11-04T05:42:12.599227+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-04T04:39:52.122836+00:00",
+   "last_ok": "2026-11-04T05:42:12.599227+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-04T04:39:52.122836+00:00",
+   "last_ok": "2026-11-04T05:42:12.599227+00:00",
    "error": null
   }
  ]
