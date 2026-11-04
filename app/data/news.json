@@ -1,11 +1,33 @@
 {
- "updated_at": "2026-11-04T10:28:37.427108+00:00",
+ "updated_at": "2026-11-04T11:29:05.531167+00:00",
  "items": [
+  {
+   "id": "5e1d026ae7a5",
+   "title": "Elezioni FIGC, c'è la candidatura di Malagò. Il Lecce lo sostiene",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/lazionewseu-malago-abodi-incontro-1024x682.jpg",
+   "url": "https://trnews.it/2026/11/04/elezioni-figc-ce-la-candidatura-di-malago-il-lecce-lo-sostiene",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-04T10:54:32+00:00"
+  },
+  {
+   "id": "36f0168319a9",
+   "title": "Negata accoglienza a un bisognoso: il comune di Ruffano chiede chiarezza sulla rete emergenziale",
+   "summary": "RUFFANO – Una persona in difficoltà, bisognosa di assistenza e di un riparo per la notte, per la quale l’attivazione della rete di emergenza sociale non ha consentito di ottenere l’accoglienza richie…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/negata-accoglienza-a-un-bisognoso-il-comune-di-ruffano-chiede-chiarezza-sulla-rete-emergenziale/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-04T10:33:48+00:00"
+  },
   {
    "id": "56607aff7ea0",
    "title": "Perde la vita, schiacciato da un cancello, ennesimo incidente sul lavoro nel Salento",
-   "summary": "Casarano (Lecce) – Ancora un incidente mortale sul lavoro, purtroppo, in mattinata, a Casarano, in contrada Spagnolo. La vittima, un 60enne di origini albanesi, è il titolare di una ditta edile indiv…",
-   "image": null,
+   "summary": "Casarano (Lecce) – Ancora un incidente mortale sul lavoro, purtroppo, in mattinata, nelle campagne attorno a Casarano, in contrada Spagnolo. La vittima, Bashkim Rushani, 61enne di origini albanesi, n…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/schiacciato-cancello-5-932x420.jpg",
    "url": "https://www.corrieresalentino.it/2026/11/perde-la-vita-schiacciato-da-un-cancello-ennesimo-incidente-sul-lavoro-nel-salento/",
    "source": "Corriere Salentino",
    "category": "Cronaca",
@@ -1771,30 +1793,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-11-01T12:22:15+00:00"
-  },
-  {
-   "id": "c6d5bcd3d635",
-   "title": "Frosinone – Lecce su TeleRama, oggi alle 15:00",
-   "summary": "LECCE - Alle ore 15:00, subito dopo il telegiornale delle 14:30, su TeleRama andrà in onda, in differita, la gara Frosinone-Lecce, valida per la nona giornata del campionato di Serie A. Telecronaca a…",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/Di-Francesco-Fiorentina-1024x755.jpg",
-   "url": "https://trnews.it/2026/11/01/frosinone-lecce-su-telerama-oggi-alle-1500",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-01T10:45:26+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-04T10:28:37.427108+00:00",
+   "last_ok": "2026-11-04T11:29:05.531167+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-04T10:28:37.427108+00:00",
+   "last_ok": "2026-11-04T11:29:05.531167+00:00",
    "error": null
   },
   {
@@ -1806,19 +1817,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-04T10:28:37.427108+00:00",
+   "last_ok": "2026-11-04T11:29:05.531167+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-04T10:28:37.427108+00:00",
+   "last_ok": "2026-11-04T11:29:05.531167+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-04T10:28:37.427108+00:00",
+   "last_ok": "2026-11-04T11:29:05.531167+00:00",
    "error": null
   }
  ]
