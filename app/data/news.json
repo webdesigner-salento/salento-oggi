@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-04T21:35:51.281843+00:00",
+ "updated_at": "2026-11-04T22:33:16.923260+00:00",
  "items": [
+  {
+   "id": "d9392a01d18b",
+   "title": "La Regione sospende il dg Stallone, avviato il procedimento di decadenza",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/085827532-c3425591-eb28-424f-a93d-a03647f31292.jpg",
+   "url": "https://trnews.it/2026/11/04/la-regione-sospende-il-dg-stallone-avviato-il-procedimento-di-decadenza",
+   "source": "TeleRama News",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-11-04T22:13:07+00:00"
+  },
   {
    "id": "2bcd8553237b",
    "title": "Morte sul lavoro a Villa Marchesi: una condanna, assolti l’esecutore dei lavori e il direttore dei lavori",
@@ -1870,52 +1881,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-01T23:01:52+00:00"
-  },
-  {
-   "id": "1055ea3111b7",
-   "title": "Volley A3: Galatone cede in casa, Taviano e Capo di Leuca corsari",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/A_DSC00068-1024x683.jpg",
-   "url": "https://trnews.it/2026/11/01/volley-a3-galatone-cede-in-casa-taviano-e-capo-di-leuca-corsari",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-01T22:05:51+00:00"
-  },
-  {
-   "id": "63b9ef79406b",
-   "title": "Lecce. Di Francesco: \"Torniamo umili e lavoriamo. I veri valori alla lunga vengono fuori\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/05/Di-Francesco-pre-Genoa-1024x768.jpg",
-   "url": "https://trnews.it/2026/11/01/lecce-di-francesco-torniamo-umili-e-lavoriamo-i-veri-valori-alla-lunga-vengono-fuori",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-01T21:58:11+00:00"
-  },
-  {
-   "id": "79fd3bfb6506",
-   "title": "Sticchi Damiani : \"Squadra in difficoltà, pesano le assenze sugli euqilibri\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/STICCHI-POST-GENOA-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/01/sticchi-damiani-squadra-in-difficolta-pesano-le-assenze-sugli-euqilibri",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-01T21:38:49+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-04T21:35:51.281843+00:00",
+   "last_ok": "2026-11-04T22:33:16.923260+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-04T21:35:51.281843+00:00",
+   "last_ok": "2026-11-04T22:33:16.923260+00:00",
    "error": null
   },
   {
@@ -1927,19 +1905,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-04T21:35:51.281843+00:00",
+   "last_ok": "2026-11-04T22:33:16.923260+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-04T21:35:51.281843+00:00",
+   "last_ok": "2026-11-04T22:33:16.923260+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-04T21:35:51.281843+00:00",
+   "last_ok": "2026-11-04T22:33:16.923260+00:00",
    "error": null
   }
  ]
