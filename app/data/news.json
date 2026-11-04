@@ -1,6 +1,50 @@
 {
- "updated_at": "2026-11-04T11:29:05.531167+00:00",
+ "updated_at": "2026-11-04T12:11:45.105787+00:00",
  "items": [
+  {
+   "id": "d2ee52bc8523",
+   "title": "Il fenomeno dei rifiuti abbandonati dilaga a Monteroni di Lecce. L’appello del gruppo consiliare “Insieme”",
+   "summary": "Il fenomeno dei rifiuti abbandonati dilaga a Monteroni di Lecce. Campagne, parchi, giardini comunali, strade urbane, il problema è diffuso a macchia di leopardo. L’allarme è lanciato dal gruppo consi…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/rifiuti-spazzatura-1-315x420.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/il-fenomeno-dei-rifiuti-abbandonati-dilaga-a-monteroni-di-lecce-lappello-del-gruppo-consiliare-insieme/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-11-04T11:49:30+00:00"
+  },
+  {
+   "id": "e21552cd3688",
+   "title": "La falsa notizia delle “camere della tortura” di Zelensky: cosa è successo davvero negli scontri con la Guardia Nazionale vicino Kyiv",
+   "summary": "L'assalto a un centro per coscritti alle porte di Kyiv, innescato da una finta soccorritrice e cavalcato dalla propaganda russa ed europea, ha fatto parlare di \"camere della tortura\" di Zelensky: la…",
+   "image": null,
+   "url": "https://www.valigiablu.it/kyiv-camere-tortura-zelensky-disinformazione/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-04T11:32:23+00:00"
+  },
+  {
+   "id": "b201abd9b5b5",
+   "title": "Cardinale Parolin a Molfetta per i cento anni del Seminario regionale: “Governanti collaborino per bene comune”",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Cardinale-Parolin-a-Molfetta-per-centenario-Seminario-regionale-1024x568.jpeg",
+   "url": "https://trnews.it/2026/11/04/cardinale-parolin-a-molfetta-per-i-cento-anni-del-seminario-regionale-governanti-collaborino-per-bene-comune",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-04T11:20:24+00:00"
+  },
+  {
+   "id": "d757b6896db5",
+   "title": "Feliciani di Teramo dirigerà Torino - Lecce",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Ermanno-Feliciani-Referee-3-scaled-e1793792164326-1024x660.jpg",
+   "url": "https://trnews.it/2026/11/04/feliciani-di-teramo-dirigera-torino-lecce",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-04T11:17:42+00:00"
+  },
   {
    "id": "5e1d026ae7a5",
    "title": "Elezioni FIGC, c'è la candidatura di Malagò. Il Lecce lo sostiene",
@@ -90,6 +134,17 @@
    "published_at": "2026-11-04T09:05:51+00:00"
   },
   {
+   "id": "4dbed5930450",
+   "title": "Lecce, è ora di cambiare abitudini",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/09/DSC05922-1024x684.jpg",
+   "url": "https://trnews.it/2026/11/04/lecce-e-ora-di-cambiare-abitudini",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-04T08:45:51+00:00"
+  },
+  {
    "id": "779cb28f050b",
    "title": "Trovata impiccata, cominciato il processo per maltrattamenti all’ex fidanzato",
    "summary": "E’ cominciato, al Tribunale di Lecce, il processo per maltrattamenti aggravati a Davide Falcone, di 36 anni, ai danni della sua fidanzata, Roberta Bertacchi, trovata impiccata alla ringhiera del balc…",
@@ -132,17 +187,6 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-11-04T07:52:33+00:00"
-  },
-  {
-   "id": "4dbed5930450",
-   "title": "Lecce, è ora di cambiare abitudini",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/09/DSC05922-1024x684.jpg",
-   "url": "https://trnews.it/2026/11/04/lecce-e-ora-di-cambiare-abitudini",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-04T07:45:51+00:00"
   },
   {
    "id": "88c36716f341",
@@ -1799,13 +1843,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-04T11:29:05.531167+00:00",
+   "last_ok": "2026-11-04T12:11:45.105787+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-04T11:29:05.531167+00:00",
+   "last_ok": "2026-11-04T12:11:45.105787+00:00",
    "error": null
   },
   {
@@ -1817,19 +1861,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-04T11:29:05.531167+00:00",
+   "last_ok": "2026-11-04T12:11:45.105787+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-04T11:29:05.531167+00:00",
+   "last_ok": "2026-11-04T12:11:45.105787+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-04T11:29:05.531167+00:00",
+   "last_ok": "2026-11-04T12:11:45.105787+00:00",
    "error": null
   }
  ]
