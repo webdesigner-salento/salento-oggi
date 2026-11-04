@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T19:44:19.544837+00:00",
+ "updated_at": "2026-11-04T20:36:53.255390+00:00",
  "items": [
   {
    "id": "2bcd8553237b",
@@ -365,6 +365,17 @@
    "published_at": "2026-11-04T10:54:32+00:00"
   },
   {
+   "id": "2d21d2c57f8d",
+   "title": "Massafra: le Fiamme Gialle sequestrano 79 mila piante di ulivo prive di tracciabilità",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/04.11.2026-sequestro-piante-ulivo_01-e1793785866905.jpg",
+   "url": "https://trnews.it/2026/11/04/massafra-le-fiamme-gialle-sequestrano-79-mila-piante-di-ulivo-prive-di-tracciabilita",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Taranto",
+   "published_at": "2026-11-04T10:51:36+00:00"
+  },
+  {
    "id": "36f0168319a9",
    "title": "Negata accoglienza a un bisognoso: il comune di Ruffano chiede chiarezza sulla rete emergenziale",
    "summary": "RUFFANO – Una persona in difficoltà, bisognosa di assistenza e di un riparo per la notte, per la quale l’attivazione della rete di emergenza sociale non ha consentito di ottenere l’accoglienza richie…",
@@ -374,6 +385,17 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-11-04T10:33:48+00:00"
+  },
+  {
+   "id": "0f4ee11b2b9e",
+   "title": "Taranto, una panchina senza pace",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/taranto-2-1024x682.jpg",
+   "url": "https://trnews.it/2026/11/04/taranto-una-panchina-senza-pace",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-11-04T10:28:42+00:00"
   },
   {
    "id": "56607aff7ea0",
@@ -387,17 +409,6 @@
    "published_at": "2026-11-04T10:02:23+00:00"
   },
   {
-   "id": "2d21d2c57f8d",
-   "title": "Massafra: le Fiamme Gialle sequestrano 79 mila piante di ulivo prive di tracciabilità",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/04.11.2026-sequestro-piante-ulivo_01-e1793785866905.jpg",
-   "url": "https://trnews.it/2026/11/04/massafra-le-fiamme-gialle-sequestrano-79-mila-piante-di-ulivo-prive-di-tracciabilita",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Taranto",
-   "published_at": "2026-11-04T09:51:36+00:00"
-  },
-  {
    "id": "d60fc3ba63c7",
    "title": "Casarano, infortunio sul lavoro: titolare muore schiacciato dal cancello automatico",
    "summary": "",
@@ -407,17 +418,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-11-04T09:35:22+00:00"
-  },
-  {
-   "id": "0f4ee11b2b9e",
-   "title": "Taranto, una panchina senza pace",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/taranto-2-1024x682.jpg",
-   "url": "https://trnews.it/2026/11/04/taranto-una-panchina-senza-pace",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-11-04T09:28:42+00:00"
   },
   {
    "id": "ee476a8e2368",
@@ -1925,41 +1925,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-11-01T20:47:16+00:00"
-  },
-  {
-   "id": "87901d708b18",
-   "title": "A Via del Mare passa 2-1 il Genoa",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG-20261101-WA0131-1-1024x682.jpg",
-   "url": "https://trnews.it/2026/11/01/a-via-del-mare-passa-2-1-il-genoa",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-01T20:21:15+00:00"
-  },
-  {
-   "id": "962cdee33e63",
-   "title": "Lecce – Genoa, Sticchi Damiani: sconfitta immeritata, è una squadra falcidiata dagli infortuni",
-   "summary": "Le parole del Presidente del Lecce, Saverio Sticchi Damiani alla fine del match Lecce – Genoa.",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/lecce-genoa-sticchi-damiani-sconfitta-immeritata-e-una-squadra-falcidiata-dagli-infortuni/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-01T19:53:14+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-04T19:44:19.544837+00:00",
+   "last_ok": "2026-11-04T20:36:53.255390+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-04T19:44:19.544837+00:00",
+   "last_ok": "2026-11-04T20:36:53.255390+00:00",
    "error": null
   },
   {
@@ -1971,19 +1949,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-04T19:44:19.544837+00:00",
+   "last_ok": "2026-11-04T20:36:53.255390+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-04T19:44:19.544837+00:00",
+   "last_ok": "2026-11-04T20:36:53.255390+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-04T19:44:19.544837+00:00",
+   "last_ok": "2026-11-04T20:36:53.255390+00:00",
    "error": null
   }
  ]
