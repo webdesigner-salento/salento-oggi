@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-11-04T05:42:12.599227+00:00",
+ "updated_at": "2026-11-04T06:48:10.972881+00:00",
  "items": [
+  {
+   "id": "c6ba894d672a",
+   "title": "Ex Ilva, Telerama riavvolge il nastro: due serate speciali con le storiche inchieste de “L’Indiano”",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot_2026-11-04-07-27-21-97_f9ee0578fe1cc94de7482bd41accb329-1024x668.jpg",
+   "url": "https://trnews.it/2026/11/04/ex-ilva-telerama-riavvolge-il-nastro-due-serate-speciali-con-le-storiche-inchieste-de-lindiano",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Taranto",
+   "published_at": "2026-11-04T06:37:57+00:00"
+  },
+  {
+   "id": "1c1691253390",
+   "title": "Midterm 2026, l’inizio della fine di Trump: i dem si riprendono il Congresso",
+   "summary": "I candidati democratici riconquistano Camera e Senato, contro lo strapotere dei miliardari che hanno investito sui repubblicani. A due anni dalla fine del suo mandato, per Donald Trump inizia il peri…",
+   "image": null,
+   "url": "https://www.valigiablu.it/elezioni-midterm-vittoria-dem/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-04T06:15:48+00:00"
+  },
+  {
+   "id": "c3b8e5bd4d32",
+   "title": "L’almanacco di oggi 4 novembre",
+   "summary": "Il Santo del giorno: San Carlo Borromeo. Il proverbio di Mesciu Ronzu: Porcu binchiatu, spota la pila. Significato: Maiale sazio, rivolta la mangiatoia. Soggetto immeritevole. – Sono nati in questo g…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/lalmanacco-di-oggi-4-novembre/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-04T05:50:56+00:00"
+  },
   {
    "id": "8638b68c6bd8",
    "title": "La mobilitazione dal basso contro la costruzione di un Cpr ad Aulla. Mentre la politica ci gioca",
@@ -109,7 +142,62 @@
    "source": "TeleRama News",
    "category": "Altro",
    "zone": "Lecce",
-   "published_at": "2026-11-03T17:29:52+00:00"
+   "published_at": "2026-11-03T18:29:52+00:00"
+  },
+  {
+   "id": "f7ba8beac785",
+   "title": "Raffica di furti a Leverano: i Carabinieri individuano un presunto responsabile",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/carabinieri-leverano-e1793725053519-1024x701.jpg",
+   "url": "https://trnews.it/2026/11/03/raffica-di-furti-a-leverano-i-carabinieri-individuano-un-presunto-responsabile",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T17:57:39+00:00"
+  },
+  {
+   "id": "ec0d1b013f46",
+   "title": "Lecce, testa al Torino: domani seduta pomeridiana",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/Di-Francesco-Fiorentina-1024x755.jpg",
+   "url": "https://trnews.it/2026/11/03/lecce-testa-al-torino-domani-seduta-pomeridiana",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T17:49:10+00:00"
+  },
+  {
+   "id": "521257d8909f",
+   "title": "Serie C, Casarano: una giornata a Negro",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-c-1024x576.png",
+   "url": "https://trnews.it/2026/11/03/serie-c-casarano-una-giornata-a-negro",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T17:47:33+00:00"
+  },
+  {
+   "id": "58343e98b492",
+   "title": "Tributo 630, Casarano chiama a raccolta i Comuni per bloccare le cartelle",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-10-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/03/tributo-630-casarano-chiama-a-raccolta-i-comuni-per-bloccare-le-cartelle",
+   "source": "TeleRama News",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T17:34:53+00:00"
+  },
+  {
+   "id": "0d41bce4afdf",
+   "title": "Finto operatore bancario svuota il conto di un 54enne: cinque denunciati per una truffa",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/72d709e9-b816-4e5b-b3bc-9485a8e15966-1024x682.jpg",
+   "url": "https://trnews.it/2026/11/03/finto-operatore-bancario-svuota-il-conto-di-un-54enne-cinque-denunciati-per-una-truffa",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T17:32:25+00:00"
   },
   {
    "id": "a16814fcdcc1",
@@ -134,39 +222,6 @@
    "published_at": "2026-11-03T17:00:42+00:00"
   },
   {
-   "id": "f7ba8beac785",
-   "title": "Raffica di furti a Leverano: i Carabinieri individuano un presunto responsabile",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/carabinieri-leverano-e1793725053519-1024x701.jpg",
-   "url": "https://trnews.it/2026/11/03/raffica-di-furti-a-leverano-i-carabinieri-individuano-un-presunto-responsabile",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-03T16:57:39+00:00"
-  },
-  {
-   "id": "ec0d1b013f46",
-   "title": "Lecce, testa al Torino: domani seduta pomeridiana",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/Di-Francesco-Fiorentina-1024x755.jpg",
-   "url": "https://trnews.it/2026/11/03/lecce-testa-al-torino-domani-seduta-pomeridiana",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-03T16:49:10+00:00"
-  },
-  {
-   "id": "521257d8909f",
-   "title": "Serie C, Casarano: una giornata a Negro",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-c-1024x576.png",
-   "url": "https://trnews.it/2026/11/03/serie-c-casarano-una-giornata-a-negro",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-03T16:47:33+00:00"
-  },
-  {
    "id": "aac1025a8d61",
    "title": "Il Teatro Italia accoglie i ‘Dialoghi di Legalità’: protagonista il ‘De Viti De Marco’ di Casarano",
    "summary": "GALLIPOLI (Lecce) – Settecento studenti dell’ITE “De Viti De Marco”di Casarano, illustri rappresentanti della Magistratura, Autorità di pubblica sicurezza e Istituzioni del Territorio riuniti per un’…",
@@ -178,17 +233,6 @@
    "published_at": "2026-11-03T16:44:38+00:00"
   },
   {
-   "id": "58343e98b492",
-   "title": "Tributo 630, Casarano chiama a raccolta i Comuni per bloccare le cartelle",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-10-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/03/tributo-630-casarano-chiama-a-raccolta-i-comuni-per-bloccare-le-cartelle",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-03T16:34:53+00:00"
-  },
-  {
    "id": "96b992b628ac",
    "title": "Tromba d’aria a Frigole, devastato il Lido Smeraldo: muri e alberi abbattuti. Crolli di alberature anche in altre zone",
    "summary": "LECCE – Muri abbattuti, alberi crollati e gravi danni al Lido Smeraldo: una tromba d’aria ha colpito Frigole, lasciando una scia di devastazione nella marina leccese. Ma i crolli di alberature sono s…",
@@ -198,17 +242,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-11-03T16:33:21+00:00"
-  },
-  {
-   "id": "0d41bce4afdf",
-   "title": "Finto operatore bancario svuota il conto di un 54enne: cinque denunciati per una truffa",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/72d709e9-b816-4e5b-b3bc-9485a8e15966-1024x682.jpg",
-   "url": "https://trnews.it/2026/11/03/finto-operatore-bancario-svuota-il-conto-di-un-54enne-cinque-denunciati-per-una-truffa",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-03T16:32:25+00:00"
   },
   {
    "id": "4398c400baa7",
@@ -244,6 +277,17 @@
    "published_at": "2026-11-03T15:58:46+00:00"
   },
   {
+   "id": "06f3d3433655",
+   "title": "Il Lecce cerca una via d'uscita tra errori e infortuni. Fofana in nazionale",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/DSC_0341-1024x768.jpg",
+   "url": "https://trnews.it/2026/11/03/il-lecce-cerca-una-via-duscita-tra-errori-e-infortuni-fofana-in-nazionale",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T15:49:35+00:00"
+  },
+  {
    "id": "5399d4a18ced",
    "title": "“Sembravamo dei fenomeni”, Di Francesco si assume le responsabilità. Là tegole Monteiro è l’ennesima",
    "summary": "LECCE – “Sembravamo dei fenomeni”. Le parole di Eusebio Di Francesco che ricorda di tenere i piedi per terra e richiama l’ambiente del Lecce alla realtà. Dopo la sconfitta contro il Genoa di domenica…",
@@ -264,6 +308,17 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-11-03T15:04:42+00:00"
+  },
+  {
+   "id": "ee767f2c5d0f",
+   "title": "La cocaina miscelata con il robot da cucina: scoperto laboratorio domestico",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/foto1-8-e1793714509804.png",
+   "url": "https://trnews.it/2026/11/03/la-cocaina-miscelata-con-il-robot-da-cucina-scoperto-laboratorio-domestico",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T15:02:05+00:00"
   },
   {
    "id": "035097a5a250",
@@ -288,15 +343,26 @@
    "published_at": "2026-11-03T14:56:51+00:00"
   },
   {
-   "id": "06f3d3433655",
-   "title": "Il Lecce cerca una via d'uscita tra errori e infortuni. Fofana in nazionale",
+   "id": "f22296b56ac7",
+   "title": "Intensificati a Brindisi i controlli contro i reati ambientali",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/DSC_0341-1024x768.jpg",
-   "url": "https://trnews.it/2026/11/03/il-lecce-cerca-una-via-duscita-tra-errori-e-infortuni-fofana-in-nazionale",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-9-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/03/intensificati-a-brindisi-i-controlli-contro-i-reati-ambientali",
    "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-03T14:49:35+00:00"
+   "category": "Altro",
+   "zone": "Brindisi",
+   "published_at": "2026-11-03T14:11:39+00:00"
+  },
+  {
+   "id": "e23b65e8c844",
+   "title": "Infiltrazioni e disagi al Perrino la denuncia di Luigi Caroli",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-8-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/03/infiltrazioni-e-disagi-al-perrino-la-denuncia-di-luigi-caroli",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Brindisi",
+   "published_at": "2026-11-03T14:08:25+00:00"
   },
   {
    "id": "e1eb1ff3cf39",
@@ -319,39 +385,6 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-03T14:03:05+00:00"
-  },
-  {
-   "id": "ee767f2c5d0f",
-   "title": "La cocaina miscelata con il robot da cucina: scoperto laboratorio domestico",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/foto1-8-e1793714509804.png",
-   "url": "https://trnews.it/2026/11/03/la-cocaina-miscelata-con-il-robot-da-cucina-scoperto-laboratorio-domestico",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-03T14:02:05+00:00"
-  },
-  {
-   "id": "f22296b56ac7",
-   "title": "Intensificati a Brindisi i controlli contro i reati ambientali",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-9-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/03/intensificati-a-brindisi-i-controlli-contro-i-reati-ambientali",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Brindisi",
-   "published_at": "2026-11-03T13:11:39+00:00"
-  },
-  {
-   "id": "e23b65e8c844",
-   "title": "Infiltrazioni e disagi al Perrino la denuncia di Luigi Caroli",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-8-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/03/infiltrazioni-e-disagi-al-perrino-la-denuncia-di-luigi-caroli",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Brindisi",
-   "published_at": "2026-11-03T13:08:25+00:00"
   },
   {
    "id": "fb6b3b030b46",
@@ -453,6 +486,17 @@
    "published_at": "2026-11-03T11:45:49+00:00"
   },
   {
+   "id": "2a75cd1761c6",
+   "title": "Questa sera su Tele Rama Lecce-Genoa",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/DSC_0064-1024x768.jpg",
+   "url": "https://trnews.it/2026/11/03/questa-sera-su-tele-rama-lecce-genoa-2",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-03T11:45:33+00:00"
+  },
+  {
    "id": "48360f497fbb",
    "title": "Cimitero monumentale di Lecce, dal Ministero 92.400 euro per valorizzarne la storia",
    "summary": "LECCE – Un patrimonio di arte, architettura e memoria da valorizzare, custodito tra i viali e le cappelle del cimitero monumentale. Il Ministero della Cultura ha comunicato alla sindaca Adriana Poli…",
@@ -495,17 +539,6 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-03T10:57:14+00:00"
-  },
-  {
-   "id": "2a75cd1761c6",
-   "title": "Questa sera su Tele Rama Lecce-Genoa",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/DSC_0064-1024x768.jpg",
-   "url": "https://trnews.it/2026/11/03/questa-sera-su-tele-rama-lecce-genoa-2",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-03T10:45:33+00:00"
   },
   {
    "id": "1e40d5b9eeca",
@@ -1716,41 +1749,19 @@
    "category": "Cronaca",
    "zone": "Salento",
    "published_at": "2026-11-01T07:20:26+00:00"
-  },
-  {
-   "id": "5af7109898e4",
-   "title": "Serie A, Lecce-Genoa in diretta su TeleRama con Lecce Channel in Campo",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/IMG_20261030_085333-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/01/serie-a-lecce-genoa-in-diretta-su-telerama-con-lecce-channel-in-campo",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-01T06:00:39+00:00"
-  },
-  {
-   "id": "7b8bbc8d458a",
-   "title": "L’almanacco di oggi 1 novembre",
-   "summary": "Il Santo del giorno: Tutti i Santi. Il proverbio di Mesciu Ronzu: Ti tutti li santi, ( 1 novembre) cappottu e uànti. Significato: Di tutti i santi, si fa sentire il freddo. – Sono nati in questo gior…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/lalmanacco-di-oggi-1-novembre/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-01T06:00:35+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-04T05:42:12.599227+00:00",
+   "last_ok": "2026-11-04T06:48:10.972881+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-04T05:42:12.599227+00:00",
+   "last_ok": "2026-11-04T06:48:10.972881+00:00",
    "error": null
   },
   {
@@ -1762,19 +1773,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-04T05:42:12.599227+00:00",
+   "last_ok": "2026-11-04T06:48:10.972881+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-04T05:42:12.599227+00:00",
+   "last_ok": "2026-11-04T06:48:10.972881+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-04T05:42:12.599227+00:00",
+   "last_ok": "2026-11-04T06:48:10.972881+00:00",
    "error": null
   }
  ]
