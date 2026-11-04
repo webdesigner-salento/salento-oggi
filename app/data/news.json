@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T20:36:53.255390+00:00",
+ "updated_at": "2026-11-04T21:35:51.281843+00:00",
  "items": [
   {
    "id": "2bcd8553237b",
@@ -1903,41 +1903,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-11-01T21:38:49+00:00"
-  },
-  {
-   "id": "9b697ac0d6c7",
-   "title": "Lecce, operazione per Pierotti",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/05/pierotti.jpg",
-   "url": "https://trnews.it/2026/11/01/lecce-operazione-per-pierotti",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-01T21:02:59+00:00"
-  },
-  {
-   "id": "946bda6697cc",
-   "title": "Volley A2/F: Itas Trentino batte Narconon Melendugno 3-0",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/01/Narconon-Melendugno-2-gen-819x1024.jpg",
-   "url": "https://trnews.it/2026/11/01/volley-a2-f-itas-trentino-batte-narconon-melendugno-3-0",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-01T20:47:16+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-04T20:36:53.255390+00:00",
+   "last_ok": "2026-11-04T21:35:51.281843+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-04T20:36:53.255390+00:00",
+   "last_ok": "2026-11-04T21:35:51.281843+00:00",
    "error": null
   },
   {
@@ -1949,19 +1927,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-04T20:36:53.255390+00:00",
+   "last_ok": "2026-11-04T21:35:51.281843+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-04T20:36:53.255390+00:00",
+   "last_ok": "2026-11-04T21:35:51.281843+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-04T20:36:53.255390+00:00",
+   "last_ok": "2026-11-04T21:35:51.281843+00:00",
    "error": null
   }
  ]
