@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-04T22:33:16.923260+00:00",
+ "updated_at": "2026-11-04T23:28:49.177904+00:00",
  "items": [
+  {
+   "id": "dc92a5dcc995",
+   "title": "Il paradosso nucleare e la fede (mal risposta) nella deterrenza",
+   "summary": "Più di 27mila persone intervistate in 24 Paesi di sei continenti, nel giugno 2023, con la minaccia nucleare russa sullo sfondo: è la base di uno studio di Lauren Sukin, Luis Rodriguez e Stephen Herzo…",
+   "image": "https://altreconomia.it/app/uploads/2026/10/mohamed-nohassi-jsuoptjY12g-unsplash.jpg",
+   "url": "https://altreconomia.it/il-paradosso-nucleare-e-la-fede-mal-risposta-nella-deterrenza/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-04T23:01:30+00:00"
+  },
   {
    "id": "d9392a01d18b",
    "title": "La Regione sospende il dg Stallone, avviato il procedimento di decadenza",
@@ -321,6 +332,17 @@
    "published_at": "2026-11-04T12:46:00+00:00"
   },
   {
+   "id": "b201abd9b5b5",
+   "title": "Cardinale Parolin a Molfetta per i cento anni del Seminario regionale: “Governanti collaborino per bene comune”",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Cardinale-Parolin-a-Molfetta-per-centenario-Seminario-regionale-1024x568.jpeg",
+   "url": "https://trnews.it/2026/11/04/cardinale-parolin-a-molfetta-per-i-cento-anni-del-seminario-regionale-governanti-collaborino-per-bene-comune",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-04T12:20:24+00:00"
+  },
+  {
    "id": "d2ee52bc8523",
    "title": "Il fenomeno dei rifiuti abbandonati dilaga a Monteroni di Lecce. L’appello del gruppo consiliare “Insieme”",
    "summary": "Il fenomeno dei rifiuti abbandonati dilaga a Monteroni di Lecce. Campagne, parchi, giardini comunali, strade urbane, il problema è diffuso a macchia di leopardo. L’allarme è lanciato dal gruppo consi…",
@@ -341,17 +363,6 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-04T11:32:23+00:00"
-  },
-  {
-   "id": "b201abd9b5b5",
-   "title": "Cardinale Parolin a Molfetta per i cento anni del Seminario regionale: “Governanti collaborino per bene comune”",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Cardinale-Parolin-a-Molfetta-per-centenario-Seminario-regionale-1024x568.jpeg",
-   "url": "https://trnews.it/2026/11/04/cardinale-parolin-a-molfetta-per-i-cento-anni-del-seminario-regionale-governanti-collaborino-per-bene-comune",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-04T11:20:24+00:00"
   },
   {
    "id": "d757b6896db5",
@@ -1870,30 +1881,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-02T04:00:00+00:00"
-  },
-  {
-   "id": "28b6f1fea240",
-   "title": "La stagione del melograno. L’ecocidio israeliano in Libano e la resistenza che parte dalla terra",
-   "summary": "Zaynab Mahdi è una contadina originaria della cittadina di Naqoura e ora sfollata a Tiro, nel Sud del Libano. Mentre parla mostra una a una le fotografie che ha conservato con cura sul suo cellulare.…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/IMG_20260826_103819-scaled.jpg",
-   "url": "https://altreconomia.it/la-stagione-del-melograno-lecocidio-israeliano-in-libano-e-la-resistenza-che-parte-dalla-terra/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-01T23:01:52+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-04T22:33:16.923260+00:00",
+   "last_ok": "2026-11-04T23:28:49.177904+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-04T22:33:16.923260+00:00",
+   "last_ok": "2026-11-04T23:28:49.177904+00:00",
    "error": null
   },
   {
@@ -1905,19 +1905,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-04T22:33:16.923260+00:00",
+   "last_ok": "2026-11-04T23:28:49.177904+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-04T22:33:16.923260+00:00",
+   "last_ok": "2026-11-04T23:28:49.177904+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-04T22:33:16.923260+00:00",
+   "last_ok": "2026-11-04T23:28:49.177904+00:00",
    "error": null
   }
  ]
