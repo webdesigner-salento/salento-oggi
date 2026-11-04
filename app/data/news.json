@@ -1,6 +1,50 @@
 {
- "updated_at": "2026-11-04T08:03:51.294699+00:00",
+ "updated_at": "2026-11-04T09:19:14.272355+00:00",
  "items": [
+  {
+   "id": "ee476a8e2368",
+   "title": "Serie D, il Brindisi vola alto",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/10/ROBERTOTAURINO-1600x900-1-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/04/serie-d-il-brindisi-vola-alto",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-11-04T09:07:16+00:00"
+  },
+  {
+   "id": "8ec09dff0db6",
+   "title": "Meteo di domani 5 novembre nel Salento: previsioni, temperature e cosa aspettarsi",
+   "summary": "Puglia – Giornata all’insegna del tempo stabile su tutta la regione con nuvolosità in transito alternata a schiarite sia al mattino che al pomeriggio. Si rinnovano condizioni di tempo asciutto anche…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/meteo-di-domani-5-novembre-nel-salento-previsioni-temperature-e-cosa-aspettarsi/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-04T09:05:51+00:00"
+  },
+  {
+   "id": "779cb28f050b",
+   "title": "Trovata impiccata, cominciato il processo per maltrattamenti all’ex fidanzato",
+   "summary": "E’ cominciato, al Tribunale di Lecce, il processo per maltrattamenti aggravati a Davide Falcone, di 36 anni, ai danni della sua fidanzata, Roberta Bertacchi, trovata impiccata alla ringhiera del balc…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/trovata-impiccata-cominciato-il-processo-per-maltrattamenti-allex-fidanzato/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-04T08:21:23+00:00"
+  },
+  {
+   "id": "13e67c16ec8c",
+   "title": "Serie C, il Casarano pensa alla Casertana, il Bari al Picerno",
+   "summary": "",
+   "image": null,
+   "url": "https://trnews.it/2026/11/04/serie-c-il-casarano-pensa-alla-casertana-il-bari-al-picerno",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-04T08:04:22+00:00"
+  },
   {
    "id": "edec4b857eda",
    "title": "Riccia’s Professional, da Lecce una nuova visione dei capelli ricci: non un risultato imposto, ma la libertà di scegliere",
@@ -13,6 +57,17 @@
    "published_at": "2026-11-04T07:52:33+00:00"
   },
   {
+   "id": "4dbed5930450",
+   "title": "Lecce, è ora di cambiare abitudini",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/09/DSC05922-1024x684.jpg",
+   "url": "https://trnews.it/2026/11/04/lecce-e-ora-di-cambiare-abitudini",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-04T07:45:51+00:00"
+  },
+  {
    "id": "88c36716f341",
    "title": "Strisce blu a Lecce, De Matteis chiede 15 minuti gratis da subito con l’app Sgm",
    "summary": "Anticipare a prima di Natale la gratuità dei primi 15 minuti di sosta sulle strisce blu, attivandola da subito per chi usa l’app di Sgm. È la proposta avanzata da Antonio De Matteis, consigliere comu…",
@@ -22,6 +77,17 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-11-04T07:45:43+00:00"
+  },
+  {
+   "id": "cb8d012129c1",
+   "title": "Agrivoltaico a Corigliano, il 6 novembre confronto pubblico sull’energia rinnovabile che salvaguarda l’agricoltura, ma la sindaca dice “no” al dialogo",
+   "summary": "CORIGLIANO D’OTRANTO – Che cosa si continuerà a coltivare nei campi dove saranno installati i pannelli? Come si autorizza un impianto agrivoltaico e quali ricadute può avere per chi vive e lavora nel…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/agrivoltaico-a-corigliano-il-6-novembre-confronto-pubblico-sullenergia-rinnovabile-che-salvaguarda-lagricoltura-ma-la-sindaca-dice-no-al-dialogo/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-04T07:27:41+00:00"
   },
   {
    "id": "3fc7e39189e6",
@@ -1694,96 +1760,19 @@
    "category": "Sport",
    "zone": "Brindisi",
    "published_at": "2026-11-01T10:09:54+00:00"
-  },
-  {
-   "id": "9f815a476dbd",
-   "title": "Alla scoperta del Salento: Leuca una terra ricca di storia, arte e tesori da scoprire",
-   "summary": "Il suo nome in greco significa “bianca” e ad assegnarglielo furono gli antichi marinai proveniente dall’Oriente, ai quali questa incantevole località appariva da lontano splendente, perché illuminata…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2022/07/leuca-palazzo-632x420.jpg",
-   "url": "https://www.corrieresalentino.it/2026/11/alla-scoperta-del-salento-leuca-una-terra-ricca-di-storia-arte-e-tesori-da-scoprire/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-11-01T08:18:11+00:00"
-  },
-  {
-   "id": "8f6349372e89",
-   "title": "Alla scoperta del Salento: le antiche Porte di Lecce",
-   "summary": "A passi lenti ci avviciniamo alla nostra città e ci fermiamo…proprio davanti alle porte! Erano ingressi virtuali che anticamente rappresentavano i confini reali di Lecce: facciamo, allora, “il giro d…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2017/02/malennio-400x300.jpg",
-   "url": "https://www.corrieresalentino.it/2026/11/alla-scoperta-del-salento-le-antiche-porte-di-lecce/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-11-01T08:16:51+00:00"
-  },
-  {
-   "id": "02dd69b48722",
-   "title": "Musk spegne Starlink in Ucraina: l’Europa non può affidare la propria sicurezza a un privato",
-   "summary": "Lo stop a Starlink al fronte mostra il vero rischio della guerra moderna: la difesa trasformata in abbonamento privato in balìa di Elon Musk e Washington.",
-   "image": null,
-   "url": "https://www.valigiablu.it/starlink-ucraina-musk-silicon-valley-usa-europa/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-01T08:12:38+00:00"
-  },
-  {
-   "id": "14dc0dfe800a",
-   "title": "Sull”arte della cartapesta a Lecce",
-   "summary": "Lo storico Luigi Giuseppe De Simone pare che sia stato il primo ad occuparsene, stando al saggio di Nicola Vacca, “Appunti storici sulla cartapesta leccese”, pubblicato nel 1934 in Rinascenza Salenti…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/sullarte-della-cartapesta-a-lecce/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-11-01T08:12:36+00:00"
-  },
-  {
-   "id": "c6afbdf2cafe",
-   "title": "Figli del Salento: Rina Durante, scrittrice, giornalista e fondatrice del Canzoniere Grecanico Salentino",
-   "summary": "Il giorno di Natale del 2004 il Salento ha perso una delle sue più grandi figlie: Caterina Durante. Per tutti e per sempre Rina Durante. Non esiste in Salento adulto che non conosca colei che definir…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/figli-del-salento-rina-durante/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Salento",
-   "published_at": "2026-11-01T08:11:07+00:00"
-  },
-  {
-   "id": "01b6dada44ad",
-   "title": "Fortezze di Puglia: Il Castello di Canne della Battaglia",
-   "summary": "La città di Canne oggi non esiste più, al suo posto restano le rovine e le vestigia, ovviamente visitabili, di quello che un tempo fu un centro abitato come tanti altri. Il suo nome è legato alla cel…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/fortezze-di-puglia-il-castello-di-canne-della-battaglia/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Salento",
-   "published_at": "2026-11-01T08:10:17+00:00"
-  },
-  {
-   "id": "5206e6a896cc",
-   "title": "Smantellata l’edicola De Vitis: a Lecce sparisce un altro pezzo di memoria",
-   "summary": "Chi è nato prima degli anni Duemila lo riconosce al primo sguardo il senso di vuoto che lascia uno spazio urbano improvvisamente liberato dalla sua storia. Questa volta non si tratta semplicemente di…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/smantellata-ledicola-de-vitis-a-lecce-sparisce-un-altro-pezzo-di-memoria/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-01T08:09:36+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-04T08:03:51.294699+00:00",
+   "last_ok": "2026-11-04T09:19:14.272355+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-04T08:03:51.294699+00:00",
+   "last_ok": "2026-11-04T09:19:14.272355+00:00",
    "error": null
   },
   {
@@ -1795,19 +1784,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-04T08:03:51.294699+00:00",
+   "last_ok": "2026-11-04T09:19:14.272355+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-04T08:03:51.294699+00:00",
+   "last_ok": "2026-11-04T09:19:14.272355+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-04T08:03:51.294699+00:00",
+   "last_ok": "2026-11-04T09:19:14.272355+00:00",
    "error": null
   }
  ]
