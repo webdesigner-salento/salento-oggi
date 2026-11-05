@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T05:44:54.076690+00:00",
+ "updated_at": "2026-11-05T06:48:54.639730+00:00",
  "items": [
   {
    "id": "dc92a5dcc995",
@@ -1793,85 +1793,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-11-02T07:22:13+00:00"
-  },
-  {
-   "id": "9f6a6cdd3207",
-   "title": "A trentasei anni il suo ultimo gesto d’amore: salva più vite con il dono dei suoi organi",
-   "summary": "LECCE – Una donna di 36 anni, deceduta nel Reparto di Anestesia e Rianimazione del Vito Fazzi di Lecce, ha donato cuore, polmoni, fegato e cornee. La Direzione strategica ringrazia tutti gli operator…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/a-trentasei-anni-il-suo-ultimo-gesto-damore-salva-piu-vite-con-il-dono-dei-suoi-organi/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T06:43:01+00:00"
-  },
-  {
-   "id": "c4ddb27ddf34",
-   "title": "Eccellenza, il Taranto cade male pure a Bisceglie, Tiozzo verso l'esonero?",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/08/ss-taranto-2025.jpg",
-   "url": "https://trnews.it/2026/11/02/eccellenza-il-taranto-cade-male-pure-a-bisceglie",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-11-02T06:39:22+00:00"
-  },
-  {
-   "id": "7d951fad0472",
-   "title": "Maltempo, allerta arancione: scuole chiuse a Lecce e in provincia. Stop anche ai mercati",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/02/maltempo-1024x477.jpg",
-   "url": "https://trnews.it/2026/11/02/maltempo-allerta-arancione-scuole-chiuse-a-lecce-e-in-provincia-stop-anche-ai-mercati",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T06:28:36+00:00"
-  },
-  {
-   "id": "2961add07953",
-   "title": "Appuntamento con Piazza Giallorossa questa sera su TeleRama",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/piazza-giallorossa-2026-27--1024x572.jpeg",
-   "url": "https://trnews.it/2026/11/02/appuntamento-con-piazza-giallorossa-questa-sera-su-telerama-12",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T06:20:13+00:00"
-  },
-  {
-   "id": "e20a053df6e5",
-   "title": "L’almanacco di oggi 2 novembre",
-   "summary": "Il Santo del giorno: Sant’Amico. Il proverbio di Mesciu Ronzu: Picca mangiare e picca parlare, no face mai male. Significato: Mangiare poco e parlare poco, non fa mai male. – Sono nati in questo gior…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/52756/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-02T06:12:28+00:00"
-  },
-  {
-   "id": "6f718ceff6fe",
-   "title": "La ricetta del giorno: Pesce spada alla gallipolina",
-   "summary": "4 fette di pesce spada 5-6 cucchiai di pangrattato aglio tre cucchiai di prezzemolo tritato sale e olio q.b. Unire il pangrattato con tutti gli aromi tritati, il prezzemolo, aglio, sale e pepe. Impan…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/la-ricetta-del-giorno-pesce-spada-alla-gallipolina/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-02T05:59:00+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-05T05:44:54.076690+00:00",
+   "last_ok": "2026-11-05T06:48:54.639730+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-05T05:44:54.076690+00:00",
+   "last_ok": "2026-11-05T06:48:54.639730+00:00",
    "error": null
   },
   {
@@ -1883,19 +1817,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-05T05:44:54.076690+00:00",
+   "last_ok": "2026-11-05T06:48:54.639730+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-05T05:44:54.076690+00:00",
+   "last_ok": "2026-11-05T06:48:54.639730+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-05T05:44:54.076690+00:00",
+   "last_ok": "2026-11-05T06:48:54.639730+00:00",
    "error": null
   }
  ]
