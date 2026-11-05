@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-05T19:39:34.742655+00:00",
+ "updated_at": "2026-11-05T20:32:43.050372+00:00",
  "items": [
+  {
+   "id": "edbaf7f2dddd",
+   "title": "“Drogata e costretta dal suo ex a rapporti sessuali di gruppo e con altre donne”, finisce in Psichiatria",
+   "summary": "SALENTO – Avrebbe costretto la sua ex ragazza a intrattenere rapporti sessuali ora di gruppo ora con altre donne dopo averle fatto assumere alcol e droga. E quando la giovane si rifiutava, sarebbero…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/drogata-e-costretta-dal-suo-ex-a-rapporti-sessuali-di-gruppo-e-con-altre-donne-finisce-in-psichiatria/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-11-05T19:43:09+00:00"
+  },
   {
    "id": "422784654e36",
    "title": "L’ultima gondola di Tinto Brass",
@@ -2035,30 +2046,19 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-11-02T22:55:01+00:00"
-  },
-  {
-   "id": "f35845448888",
-   "title": "Valtur Brindisi, coach Brienza: \"Teniamo la testa alta\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-02-204013.png",
-   "url": "https://trnews.it/2026/11/02/valtur-brindisi-coach-brienza-teniamo-la-testa-alta",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-11-02T20:26:20+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-05T19:39:34.742655+00:00",
+   "last_ok": "2026-11-05T20:32:43.050372+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-05T19:39:34.742655+00:00",
+   "last_ok": "2026-11-05T20:32:43.050372+00:00",
    "error": null
   },
   {
@@ -2070,19 +2070,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-05T19:39:34.742655+00:00",
+   "last_ok": "2026-11-05T20:32:43.050372+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-05T19:39:34.742655+00:00",
+   "last_ok": "2026-11-05T20:32:43.050372+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-05T19:39:34.742655+00:00",
+   "last_ok": "2026-11-05T20:32:43.050372+00:00",
    "error": null
   }
  ]
