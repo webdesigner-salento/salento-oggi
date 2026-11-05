@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-11-05T15:43:02.176677+00:00",
+ "updated_at": "2026-11-05T16:51:13.946072+00:00",
  "items": [
+  {
+   "id": "cec0b129474a",
+   "title": "Burgesi, dopo il rogo il Comitato chiede lo stop alla sopraelevazione e un piano di bonifica",
+   "summary": "L’incendio del 1° novembre riaccende il confronto sul futuro del polo dei rifiuti di Burgesi, a Ugento. Dopo il rogo che ha interessato una porzione dell’impianto di biostabilizzazione e trattamento…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/burgesi-dopo-il-rogo-il-comitato-chiede-lo-stop-alla-sopraelevazione-e-un-piano-di-bonifica/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T16:09:14+00:00"
+  },
+  {
+   "id": "59bbdadc8faf",
+   "title": "Torrepaduli si prepara ai solenni festeggiamenti in onore del suo Patrono San Teodoro Martire",
+   "summary": "TORREPADULI (Lecce) – Entra nel vivo la tradizionale festività novembrina dedicata a San Teodoro Martire, Patrono della comunità parrocchiale di Torrepaduli. Con il patrocinio del Comune di Ruffano,…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/torrepaduli-si-prepara-ai-solenni-festeggiamenti-in-onore-del-suo-patrono-san-teodoro-martire/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T15:54:57+00:00"
+  },
   {
    "id": "96672e068b29",
    "title": "Scovato in casa con hashish e marijuana, a tre settimane dall’arresto 19enne torna libero",
@@ -63,7 +85,7 @@
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/11/cavallino-celebra-la-giornata-dellunita-nazionale-e-delle-forze-armate-e-i-caduti-in-guerra/",
    "source": "Corriere Salentino",
-   "category": "Cultura",
+   "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-11-05T14:09:07+00:00"
   },
@@ -1980,30 +2002,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-11-02T17:31:59+00:00"
-  },
-  {
-   "id": "527505eb3924",
-   "title": "Studentessa dell’I.C. “A. De Bernart” di Ruffano conquista il quinto posto alla Finale Nazionale del Campionato del Disegno Tecnico 2026",
-   "summary": "Orgoglio per l’I.C. “A. De Bernart” di Ruffano: la studentessa della provincia di Lecce conquista il quinto posto alla Finale Nazionale del Campionato del Disegno Tecnico 2026. Un prestigioso risulta…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/studentessa-delli-c-a-de-bernart-di-ruffano-conquista-il-quinto-posto-alla-finale-nazionale-del-campionato-del-disegno-tecnico-2026/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T15:43:47+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-05T15:43:02.176677+00:00",
+   "last_ok": "2026-11-05T16:51:13.946072+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-05T15:43:02.176677+00:00",
+   "last_ok": "2026-11-05T16:51:13.946072+00:00",
    "error": null
   },
   {
@@ -2015,19 +2026,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-05T15:43:02.176677+00:00",
+   "last_ok": "2026-11-05T16:51:13.946072+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-05T15:43:02.176677+00:00",
+   "last_ok": "2026-11-05T16:51:13.946072+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-05T15:43:02.176677+00:00",
+   "last_ok": "2026-11-05T16:51:13.946072+00:00",
    "error": null
   }
  ]
