@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-05T11:22:43.569202+00:00",
+ "updated_at": "2026-11-05T12:15:47.436723+00:00",
  "items": [
+  {
+   "id": "3b61743ef6f7",
+   "title": "Novoli, morì precipitando da cinque metri: condannato datore di lavoro",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/VILLA-MARCHESI-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/05/novoli-mori-precipitando-da-cinque-metri-condannato-datore-di-lavoro",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T11:38:43+00:00"
+  },
   {
    "id": "d9ff2a22c754",
    "title": "Lecce, Gandelman in Nazionale",
@@ -431,6 +442,17 @@
    "published_at": "2026-11-04T22:13:07+00:00"
   },
   {
+   "id": "20ea23bf8ecc",
+   "title": "Andria, ultimo saluto a Laura Procacci. Vescovo Mansi: “Vita intrisa di premura costante verso il prossimo\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/funerali-laura-procacci-andria-1024x768.webp",
+   "url": "https://trnews.it/2026/11/04/andria-ultimo-saluto-a-laura-procacci-vescovo-mansi-vita-intrisa-di-premura-costante-verso-il-prossimo",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-11-04T19:21:56+00:00"
+  },
+  {
    "id": "2bcd8553237b",
    "title": "Morte sul lavoro a Villa Marchesi: una condanna, assolti l’esecutore dei lavori e il direttore dei lavori",
    "summary": "NOVOLI (Lecce) – Oggi il Tribunale di Lecce, I Sezione penale in composizione monocratica (giudice dott.ssa Elena Coppola), ha letto il dispositivo della sentenza di primo grado sul processo che rigu…",
@@ -464,15 +486,26 @@
    "published_at": "2026-11-04T19:03:00+00:00"
   },
   {
-   "id": "20ea23bf8ecc",
-   "title": "Andria, ultimo saluto a Laura Procacci. Vescovo Mansi: “Vita intrisa di premura costante verso il prossimo\"",
+   "id": "379536a1d3cb",
+   "title": "Taranto, contatti con Ciullo e De Luca",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/funerali-laura-procacci-andria-1024x768.webp",
-   "url": "https://trnews.it/2026/11/04/andria-ultimo-saluto-a-laura-procacci-vescovo-mansi-vita-intrisa-di-premura-costante-verso-il-prossimo",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/11/ciullo-e1763208714243.jpg",
+   "url": "https://trnews.it/2026/11/04/taranto-contatti-con-ciullo-e-de-luca",
    "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-11-04T18:21:56+00:00"
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-11-04T18:50:14+00:00"
+  },
+  {
+   "id": "30e13c1190b5",
+   "title": "Lecce, Di Francesco valuta Coulibaly",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/DSC_4858-1024x698.jpg",
+   "url": "https://trnews.it/2026/11/04/lecce-di-francesco-valuta-coulibaly",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-04T18:33:25+00:00"
   },
   {
    "id": "813386e284db",
@@ -506,28 +539,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-11-04T17:54:46+00:00"
-  },
-  {
-   "id": "379536a1d3cb",
-   "title": "Taranto, contatti con Ciullo e De Luca",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/11/ciullo-e1763208714243.jpg",
-   "url": "https://trnews.it/2026/11/04/taranto-contatti-con-ciullo-e-de-luca",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-11-04T17:50:14+00:00"
-  },
-  {
-   "id": "30e13c1190b5",
-   "title": "Lecce, Di Francesco valuta Coulibaly",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/DSC_4858-1024x698.jpg",
-   "url": "https://trnews.it/2026/11/04/lecce-di-francesco-valuta-coulibaly",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-04T17:33:25+00:00"
   },
   {
    "id": "4ffe580d6b13",
@@ -629,6 +640,28 @@
    "published_at": "2026-11-04T15:14:52+00:00"
   },
   {
+   "id": "4f1c41da77c7",
+   "title": "I Malfattori, vent'anni e un nuovo tour",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-13-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/04/i-malfattori-ventanni-e-un-nuovo-tour",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-11-04T14:57:45+00:00"
+  },
+  {
+   "id": "05773d29f141",
+   "title": "Tragedia sfiorata: crolla un solaio in un casolare nella campagna brindisina",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-12-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/04/tragedia-sfiorata-crolla-un-solaio-in-un-casolare-nella-campagna-brindisina",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Brindisi",
+   "published_at": "2026-11-04T14:26:41+00:00"
+  },
+  {
    "id": "0d58aa8d1919",
    "title": "La sberla elettorale per Trump e la posizione dei tre colossi globali del risparmio gestito",
    "summary": "La posizione dei tre colossi globali del risparmio gestito -BlackRock, Vanguard e State Street- di fronte al delicato appuntamento con le elezioni di m idterm americane si caratterizza per un approcc…",
@@ -649,28 +682,6 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-11-04T14:00:43+00:00"
-  },
-  {
-   "id": "4f1c41da77c7",
-   "title": "I Malfattori, vent'anni e un nuovo tour",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-13-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/04/i-malfattori-ventanni-e-un-nuovo-tour",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-11-04T13:57:45+00:00"
-  },
-  {
-   "id": "05773d29f141",
-   "title": "Tragedia sfiorata: crolla un solaio in un casolare nella campagna brindisina",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-12-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/04/tragedia-sfiorata-crolla-un-solaio-in-un-casolare-nella-campagna-brindisina",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Brindisi",
-   "published_at": "2026-11-04T13:26:41+00:00"
   },
   {
    "id": "363a4a52b9cf",
@@ -2019,13 +2030,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-05T11:22:43.569202+00:00",
+   "last_ok": "2026-11-05T12:15:47.436723+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-05T11:22:43.569202+00:00",
+   "last_ok": "2026-11-05T12:15:47.436723+00:00",
    "error": null
   },
   {
@@ -2037,19 +2048,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-05T11:22:43.569202+00:00",
+   "last_ok": "2026-11-05T12:15:47.436723+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-05T11:22:43.569202+00:00",
+   "last_ok": "2026-11-05T12:15:47.436723+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-05T11:22:43.569202+00:00",
+   "last_ok": "2026-11-05T12:15:47.436723+00:00",
    "error": null
   }
  ]
