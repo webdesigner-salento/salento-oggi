@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-05T17:44:39.078652+00:00",
+ "updated_at": "2026-11-05T18:34:40.512909+00:00",
  "items": [
+  {
+   "id": "d2e42192ad47",
+   "title": "Tricase, i cimeli della Grande Guerra a scuola per la pace",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/photo_6010482005914619812_y-1024x577.jpg",
+   "url": "https://trnews.it/2026/11/05/tricase-i-cimeli-della-grande-guerra-a-scuola-per-la-pace",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T17:43:28+00:00"
+  },
   {
    "id": "d9568a0957c3",
    "title": "Domani ricorre il 269.mo anniversario della Dedicazione della cattedrale di Lecce",
@@ -2002,30 +2013,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-11-02T18:36:26+00:00"
-  },
-  {
-   "id": "0a13c4ccaafc",
-   "title": "Taranto, Tiozzo paga per tutti. Per ora",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/09/luca-tiozzo.jpg",
-   "url": "https://trnews.it/2026/11/02/taranto-tiozzo-paga-per-tutti-per-ora",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-11-02T17:55:56+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-05T17:44:39.078652+00:00",
+   "last_ok": "2026-11-05T18:34:40.512909+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-05T17:44:39.078652+00:00",
+   "last_ok": "2026-11-05T18:34:40.512909+00:00",
    "error": null
   },
   {
@@ -2037,19 +2037,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-05T17:44:39.078652+00:00",
+   "last_ok": "2026-11-05T18:34:40.512909+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-05T17:44:39.078652+00:00",
+   "last_ok": "2026-11-05T18:34:40.512909+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-05T17:44:39.078652+00:00",
+   "last_ok": "2026-11-05T18:34:40.512909+00:00",
    "error": null
   }
  ]
