@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-11-05T22:15:29.054571+00:00",
+ "updated_at": "2026-11-05T23:06:27.448849+00:00",
  "items": [
+  {
+   "id": "31c8075432e3",
+   "title": "Terza condanna per il Viminale: il “registro degli eventi critici” del Cpr di Gjadër va reso pubblico",
+   "summary": "Per la terza volta in meno di un anno il ministero dell’Interno è stato condannato per non aver consentito l’accesso al “registro degli eventi critici” del Centro di permanenza per il rimpatrio (Cpr)…",
+   "image": "https://altreconomia.it/app/uploads/2026/10/IPA89103652-scaled.jpg",
+   "url": "https://altreconomia.it/terza-condanna-per-il-viminale-il-registro-degli-eventi-critici-del-cpr-di-gjader-va-reso-pubblico/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-05T23:05:51+00:00"
+  },
+  {
+   "id": "f17e299b8611",
+   "title": "Quando chi inquina detta le regole. Il problematico accordo tra l’Olanda e Tata steel",
+   "summary": "Per raggiungere gli obiettivi climatici del 2030 il governo olandese si sta adoperando per concludere accordi bilaterali con le grandi industrie e aiutarle a ridurre le emissioni attraverso incentivi…",
+   "image": "https://altreconomia.it/app/uploads/2026/10/IJmuiden_hoogovens_20050928_40441.jpg",
+   "url": "https://altreconomia.it/quando-chi-inquina-detta-le-regole-il-problematico-accordo-tra-lolanda-e-tata-steel/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-05T23:01:37+00:00"
+  },
+  {
+   "id": "26f04aff9337",
+   "title": "Io Non Mollo Day, a Martano oltre 1.600 persone a tavola per sostenere i malati oncologici",
+   "summary": "MARTANO – Oltre 1.600 persone attorno a un’unica tavolata, unite dalla voglia di dare una mano. Domenica 8 novembre, dalle 13, Largo Primo Maggio a Martano ospiterà il tradizionale pranzo di benefice…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/4d788a68-7231-4ca1-8db0-aeccf7791887-300x238.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/io-non-mollo-day-a-martano-oltre-1-600-persone-a-tavola-per-sostenere-i-malati-oncologici/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T22:16:01+00:00"
+  },
   {
    "id": "13c6af21452b",
    "title": "Sticchi Damiani candidato al Consiglio Federale FIGC",
@@ -2046,30 +2079,19 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-11-03T00:54:56+00:00"
-  },
-  {
-   "id": "76a6afc85525",
-   "title": "Avvocato sorpreso sotto casa da un bandito: parte colpo di pistola. Tragedia sfiorata. Caccia al bandito",
-   "summary": "LECCE – Paura alla periferia di Lecce nella serata di ieri. Un noto avvocato è rimasto vittima di un tentativo di rapina che, solo per puro miracolo, non è sfociato in tragedia. Nella colluttazione,…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/avvocato-sorpreso-sotto-casa-da-un-bandito-parte-colpo-di-pistola-tragedia-sfiorata-caccia-al-bandito/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T22:55:01+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-05T22:15:29.054571+00:00",
+   "last_ok": "2026-11-05T23:06:27.448849+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-05T22:15:29.054571+00:00",
+   "last_ok": "2026-11-05T23:06:27.448849+00:00",
    "error": null
   },
   {
@@ -2081,19 +2103,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-05T22:15:29.054571+00:00",
+   "last_ok": "2026-11-05T23:06:27.448849+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-05T22:15:29.054571+00:00",
+   "last_ok": "2026-11-05T23:06:27.448849+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-05T22:15:29.054571+00:00",
+   "last_ok": "2026-11-05T23:06:27.448849+00:00",
    "error": null
   }
  ]
