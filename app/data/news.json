@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-11-05T08:05:03.048790+00:00",
+ "updated_at": "2026-11-05T09:24:20.596249+00:00",
  "items": [
+  {
+   "id": "55f43a83bd8f",
+   "title": "Venerdì 6 novembre un omaggio a John Coltrane per Salento Jazz nella Chiesa della Madonna di Costantinopoli",
+   "summary": "MAGLIE (Lecce) – Dopo le esibizioni di Rokia Traoré e Alessia Tondo e lo spettacolo A New Sketches of Spain che ha visto insieme sul palco il grande innovatore del flamenco contemporaneo Israel Galvá…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/venerdi-6-novembre-un-omaggio-a-john-coltrane-per-salento-jazz-nella-chiesa-della-madonna-di-costantinopoli/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T08:41:22+00:00"
+  },
+  {
+   "id": "238c5c9de98e",
+   "title": "Spaccata nella notte al bar della stazione di servizio per un bottino di appena 200 euro",
+   "summary": "Salve – Spaccata alla stazione di servizio per un bottino di appena 200 euro. Ad essere presa di mira nel corso della notte appena trascorsa la stazione di servizio Camer, alla periferia di Salve, lu…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/spaccata-salve-3-932x420.jpg",
+   "url": "https://www.corrieresalentino.it/2026/11/spaccata-nella-notte-al-bar-della-stazione-di-servizio-per-un-bottino-di-appena-200-euro/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-11-05T08:36:38+00:00"
+  },
   {
    "id": "3720d452c763",
    "title": "ColtivaItalia, 300 milioni per l’olivicoltura. Italia Olivicola: “Si agisca subito”",
@@ -121,6 +143,17 @@
    "category": "Cronaca",
    "zone": "Salento",
    "published_at": "2026-11-05T06:51:29+00:00"
+  },
+  {
+   "id": "735fe0f7b724",
+   "title": "Mondo accademico ed enti locali a confronto sull’IA: il 6 novembre a palazzo celestini l’evento formativo promosso dal DSE di Unisalento",
+   "summary": "LECCE – La Provincia di Lecce ospita un’intensa giornata formativa dedicata alle sfide e le opportunità offerte dalla trasformazione digitale e dall’intelligenza artificiale nella gestione della Pubb…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/mondo-accademico-ed-enti-locali-a-confronto-sullia-il-6-novembre-a-palazzo-celestini-levento-formativo-promosso-dal-dse-di-unisalento/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T06:07:26+00:00"
   },
   {
    "id": "661e74837c45",
@@ -1837,52 +1870,19 @@
    "category": "Cultura",
    "zone": "Lecce",
    "published_at": "2026-11-02T09:28:13+00:00"
-  },
-  {
-   "id": "ee6f5160212f",
-   "title": "Commemorare i defunti, il crisantemo resta il fiore più richiesto",
-   "summary": "PUGLIA – Il crisantemo si conferma il protagonista indiscusso degli acquisti in occasione della commemorazione dei defunti, seguito da anthurium, rose e gigli, ma tra i fiori recisi si registra quest…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/commemorare-i-defunti-il-crisantemo-resta-il-fiore-piu-richiesto/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-02T08:39:01+00:00"
-  },
-  {
-   "id": "3fd676e5e69c",
-   "title": "Basket C, Monteroni \"piega\" Monopoli",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG-20261102-WA00041-819x1024.jpg",
-   "url": "https://trnews.it/2026/11/02/basket-c-monteroni-piega-monopoli",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-11-02T08:29:55+00:00"
-  },
-  {
-   "id": "d6822b6a609b",
-   "title": "Il pasticcere salentino Enrico Casarano campione del mondo a Tokyo",
-   "summary": "Il maestro pasticciere salentino Enrico Casarano vince il titolo di campione del mondo alla Panettone World Cup Tokyo 2026, svoltasi lo scorso 29 ottobre all’Istituto Italiano di Cultura di Tokyo. Or…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/Campione-240x300.jpg",
-   "url": "https://www.corrieresalentino.it/2026/11/il-pasticcere-salentino-enrico-casarano-campione-del-mondo-a-tokyo/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T08:28:38+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-05T08:05:03.048790+00:00",
+   "last_ok": "2026-11-05T09:24:20.596249+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-05T08:05:03.048790+00:00",
+   "last_ok": "2026-11-05T09:24:20.596249+00:00",
    "error": null
   },
   {
@@ -1894,19 +1894,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-05T08:05:03.048790+00:00",
+   "last_ok": "2026-11-05T09:24:20.596249+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-05T08:05:03.048790+00:00",
+   "last_ok": "2026-11-05T09:24:20.596249+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-05T08:05:03.048790+00:00",
+   "last_ok": "2026-11-05T09:24:20.596249+00:00",
    "error": null
   }
  ]
