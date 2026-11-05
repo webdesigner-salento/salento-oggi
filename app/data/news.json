@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T14:43:19.134482+00:00",
+ "updated_at": "2026-11-05T15:43:02.176677+00:00",
  "items": [
   {
    "id": "96672e068b29",
@@ -11,6 +11,28 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-11-05T14:32:25+00:00"
+  },
+  {
+   "id": "4598906c4f2b",
+   "title": "Pierotti operato alla caviglia, intervento riuscito",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2024/11/PIE_3539-1024x698.jpg",
+   "url": "https://trnews.it/2026/11/05/pierotti-operato-alla-caviglia-intervento-riuscito",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T14:31:10+00:00"
+  },
+  {
+   "id": "bc52d4fcf361",
+   "title": "Boxe, il pugile leccese Santoro ad un passo dal mondiale Ibe",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/7de0b5f9-51e9-42ee-be9a-4245f6738a0b.jpg",
+   "url": "https://trnews.it/2026/11/05/boxe-il-pugile-leccese-santoro-ad-un-passo-dal-mondiale-ibe",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T14:27:51+00:00"
   },
   {
    "id": "77684b35f84c",
@@ -123,6 +145,17 @@
    "published_at": "2026-11-05T12:57:22+00:00"
   },
   {
+   "id": "d0a50427a947",
+   "title": "Serie D, il Brindisi è la difesa meno battuta del girone H",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/07/brindisi.jpg",
+   "url": "https://trnews.it/2026/11/05/serie-d-il-brindisi-e-la-difesa-meno-battuta-del-girone-h",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-11-05T11:41:55+00:00"
+  },
+  {
    "id": "3b61743ef6f7",
    "title": "Novoli, morì precipitando da cinque metri: condannato datore di lavoro",
    "summary": "",
@@ -211,17 +244,6 @@
    "published_at": "2026-11-05T10:43:18+00:00"
   },
   {
-   "id": "d0a50427a947",
-   "title": "Serie D, il Brindisi è la difesa meno battuta del girone H",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/07/brindisi.jpg",
-   "url": "https://trnews.it/2026/11/05/serie-d-il-brindisi-e-la-difesa-meno-battuta-del-girone-h",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-11-05T10:41:55+00:00"
-  },
-  {
    "id": "714ed0d3163b",
    "title": "Il Lions Club Lecce Santa Croce promuove “UNLOVED”: l’arte come impegno civile contro la violenza sulle donne",
    "summary": "Contrastare la violenza sulle donne significa promuovere un cambiamento culturale profondo. È in questa prospettiva che il Lions Club Lecce Santa Croce promuove “UNLOVED”, la mostra dell’artista Mano…",
@@ -231,6 +253,17 @@
    "category": "Cultura",
    "zone": "Lecce",
    "published_at": "2026-11-05T10:40:42+00:00"
+  },
+  {
+   "id": "3430a94de467",
+   "title": "Lecce, Di Francesco prenota un posto per Coulibaly",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2024/10/foto-coulibaly-ok.jpg",
+   "url": "https://trnews.it/2026/11/05/lecce-17",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T10:38:41+00:00"
   },
   {
    "id": "36c4f01b3c23",
@@ -330,17 +363,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-11-05T09:41:33+00:00"
-  },
-  {
-   "id": "3430a94de467",
-   "title": "Lecce, Di Francesco prenota un posto per Coulibaly",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2024/10/foto-coulibaly-ok.jpg",
-   "url": "https://trnews.it/2026/11/05/lecce-17",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-05T09:38:41+00:00"
   },
   {
    "id": "03515e762d1f",
@@ -1969,41 +1991,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-11-02T15:43:47+00:00"
-  },
-  {
-   "id": "6bc8ddf2aa57",
-   "title": "Lecce e provincia, 13 arresti e 51 indagati: maxi controlli contro droga e criminalità giovanile",
-   "summary": "SALENTO – Tredici arresti, 51 persone indagate e 6.802 soggetti identificati. È il bilancio dei controlli della polizia in provincia di Lecce, nell’ambito di una vasta operazione nazionale contro la…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/lecce-e-provincia-13-arresti-e-51-indagati-maxi-controlli-contro-droga-e-criminalita-giovanile/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T15:33:18+00:00"
-  },
-  {
-   "id": "c534f02c5c56",
-   "title": "Galatina, 15 anni di divieti e controllo sulla moglie: scatta il divieto di avvicinamento",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-6-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/02/galatina-15-anni-di-divieti-e-controllo-sulla-moglie-scatta-il-divieto-di-avvicinamento",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T15:16:52+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-05T14:43:19.134482+00:00",
+   "last_ok": "2026-11-05T15:43:02.176677+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-05T14:43:19.134482+00:00",
+   "last_ok": "2026-11-05T15:43:02.176677+00:00",
    "error": null
   },
   {
@@ -2015,19 +2015,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-05T14:43:19.134482+00:00",
+   "last_ok": "2026-11-05T15:43:02.176677+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-05T14:43:19.134482+00:00",
+   "last_ok": "2026-11-05T15:43:02.176677+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-05T14:43:19.134482+00:00",
+   "last_ok": "2026-11-05T15:43:02.176677+00:00",
    "error": null
   }
  ]
