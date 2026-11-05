@@ -1,6 +1,83 @@
 {
- "updated_at": "2026-11-05T18:34:40.512909+00:00",
+ "updated_at": "2026-11-05T19:39:34.742655+00:00",
  "items": [
+  {
+   "id": "422784654e36",
+   "title": "L’ultima gondola di Tinto Brass",
+   "summary": "L’ultima gondola di Tinto Brass di Vincenzo Candido Renna Addio al regista che non filmò il sesso, ma l’ostinazione umana a sognarlo* Una gondola nera scivola verso San Michele. A bordo, un morto e u…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/lultima-gondola-di-tinto-brass/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Salento",
+   "published_at": "2026-11-05T19:23:55+00:00"
+  },
+  {
+   "id": "de0fce2cb1ae",
+   "title": "Operaio morto in un incidente in un capannone: 1 anno di reclusione al proprietario della ditta che effettuava i lavori",
+   "summary": "TREPUZZI (Lecce) – Ha patteggiato 1 anno di reclusione – beneficiando della pena sospesa e della non menzione – L.G., 62 anni, di Trepuzzi, con l’accusa di omicidio colposo, titolare di una ditta ind…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/operaio-morto-in-un-incidente-in-un-capannone-1-anno-di-reclusione-al-proprietario-della-ditta-che-effettuava-i-lavori/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T19:20:26+00:00"
+  },
+  {
+   "id": "751d5dd0d7fa",
+   "title": "Un 72enne morì in un incidente in paese: sentenza a 1 anno e 6 mesi per conducente seconda auto",
+   "summary": "TAURISANO (Lecce) – Ha patteggiato 1 anno e 6 mesi di reclusione R.B., un 60enne di Taurisano, responsabile dell’incidente stradale in cui, il 12 dicembre 2025, ha perso la vita Salvatore Melileo, un…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/un-72enne-mori-in-un-incidente-in-paese-sentenza-a-1-anno-e-6-mesi-per-conducente-seconda-auto/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T19:19:11+00:00"
+  },
+  {
+   "id": "4ae9a241c0c8",
+   "title": "Eredità di don Toscano: risarcimento da oltre 1,7 milioni e due condanne definitive per riciclaggio",
+   "summary": "SALENTO – Il Tribunale di Lecce ha condannato in sede civile sei persone, tra cui un avvocato leccese, in solido tra loro, a risarcire Maria Teresa Staiani. Secondo i conteggi aggiornati, il credito…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/eredita-di-don-toscano-risarcimento-da-oltre-17-milioni-e-due-condanne-definitive-per-riciclaggio/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T19:17:58+00:00"
+  },
+  {
+   "id": "d3d6e0ed10b8",
+   "title": "Torino – Lecce, ecco le probabili formazioni",
+   "summary": "Novanta minuti per rialzare la testa, ritrovare fiducia e provare a invertire una rotta che, nelle ultime settimane, si è fatta sempre più complicata. Il Lecce si prepara a una trasferta delicata sul…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/torino-lecce-ecco-le-probabili-formazioni/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T19:04:25+00:00"
+  },
+  {
+   "id": "7d58fe056ab3",
+   "title": "Molotov contro la casa del consigliere e segretario Pd, spuntano due indagati: scattano perquisizioni e sequestri",
+   "summary": "RACALE (Lecce) – A quasi quattro mesi dall’attentato incendiario, le indagini arrivano a una svolta. Questa mattina i carabinieri della Compagnia di Casarano hanno eseguito, su disposizione della Pro…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/molotov-contro-la-casa-del-consigliere-e-segretario-pd-spuntano-due-indagati-scattano-perquisizioni-e-sequestri/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T19:00:26+00:00"
+  },
+  {
+   "id": "7aedd654bdfc",
+   "title": "Bottiglia incendiaria contro l’abitazione del consigliere Renna: due indagati",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG_4531.jpeg",
+   "url": "https://trnews.it/2026/11/05/bottiglia-incendiaria-contro-labitazione-del-consigliere-renna-due-indagati",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T18:27:30+00:00"
+  },
   {
    "id": "d2e42192ad47",
    "title": "Tricase, i cimeli della Grande Guerra a scuola per la pace",
@@ -244,6 +321,17 @@
    "published_at": "2026-11-05T11:38:43+00:00"
   },
   {
+   "id": "36c4f01b3c23",
+   "title": "Monteroni, a fuoco tre auto",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/photo_6007810377342717483_y-1024x765.jpg",
+   "url": "https://trnews.it/2026/11/05/monteroni-a-fuoco-tre-auto",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T11:37:42+00:00"
+  },
+  {
    "id": "d9ff2a22c754",
    "title": "Lecce, Gandelman in Nazionale",
    "summary": "",
@@ -264,6 +352,17 @@
    "category": "Sport",
    "zone": "Taranto",
    "published_at": "2026-11-05T11:11:05+00:00"
+  },
+  {
+   "id": "82d294f76143",
+   "title": "Salve, spaccata al bar della stazione di servizio: rubati 300 euro",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG_4500-1024x562.jpeg",
+   "url": "https://trnews.it/2026/11/05/salve-spaccata-al-bar-della-stazione-di-servizio-rubati-300-euro",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T10:58:55+00:00"
   },
   {
    "id": "f578f2556b60",
@@ -343,17 +442,6 @@
    "published_at": "2026-11-05T10:38:41+00:00"
   },
   {
-   "id": "36c4f01b3c23",
-   "title": "Monteroni, a fuoco tre auto",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/photo_6007810377342717483_y-1024x765.jpg",
-   "url": "https://trnews.it/2026/11/05/monteroni-a-fuoco-tre-auto",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-05T10:37:42+00:00"
-  },
-  {
    "id": "2697917470d3",
    "title": "Tubi nascosti nei minivan e minacce agli agenti: sei daspo ai tifosi del Lecce",
    "summary": "",
@@ -396,17 +484,6 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-11-05T10:01:08+00:00"
-  },
-  {
-   "id": "82d294f76143",
-   "title": "Salve, spaccata al bar della stazione di servizio: rubati 300 euro",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG_4500-1024x562.jpeg",
-   "url": "https://trnews.it/2026/11/05/salve-spaccata-al-bar-della-stazione-di-servizio-rubati-300-euro",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-05T09:58:55+00:00"
   },
   {
    "id": "d6d6ac1fb708",
@@ -1969,63 +2046,19 @@
    "category": "Sport",
    "zone": "Brindisi",
    "published_at": "2026-11-02T20:26:20+00:00"
-  },
-  {
-   "id": "8121885130b9",
-   "title": "Vietava alla moglie di indossare scollature e di frequentare l’Università. Donna denuncia, indagato marito",
-   "summary": "GALATINA (Lecce) – Avrebbe impedito alla moglie per 15 anni di iscriversi all’Università, indossare in pubblico abiti con una pur minima scollatura, limitandone le uscite e l’utilizzo dei social. E q…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/vietava-alla-moglie-di-indossare-scollature-e-di-frequentare-luniversita-donna-denuncia-indagato-marito/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T19:34:06+00:00"
-  },
-  {
-   "id": "1388d0a9ae06",
-   "title": "Traffico di droga nel sud Salento, sequestrati immobili e aziende: sigilli anche ad una villa con piscina",
-   "summary": "SALENTO – Una villa con piscina, immobili di pregio, autovetture, denaro contante e un’attività commerciale. È il patrimonio finito sotto sequestro nel Salento nell’ambito di un’operazione della guar…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/sequestro-finanza-immobile-gallipoli-4-768x420.png",
-   "url": "https://www.corrieresalentino.it/2026/11/traffico-di-droga-nel-sud-salento-sequestrati-immobili-e-aziende-sigilli-anche-ad-una-villa-con-piscina/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-11-02T19:25:02+00:00"
-  },
-  {
-   "id": "37b41cf8a423",
-   "title": "Lecce, il maltempo prolunga le chiusure: anche martedì stop a cimitero, parchi e Campo Montefusco",
-   "summary": "LECCE – Cancelli chiusi anche martedì 3 novembre: per l’intera giornata resteranno inaccessibili la Villa Comunale, il Parco del Galateo, il Cimitero comunale, il Campo Montefusco, il Parco delle Cav…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/lecce-il-maltempo-prolunga-le-chiusure-anche-martedi-stop-a-cimitero-parchi-e-campo-montefusco/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T19:21:07+00:00"
-  },
-  {
-   "id": "4293e41fd4eb",
-   "title": "Lecce, infortunio al polpaccio per Monteiro",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Monteiro-1024x767.jpeg",
-   "url": "https://trnews.it/2026/11/02/lecce-infortunio-al-polpaccio-per-monteiro",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-02T18:36:26+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-05T18:34:40.512909+00:00",
+   "last_ok": "2026-11-05T19:39:34.742655+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-05T18:34:40.512909+00:00",
+   "last_ok": "2026-11-05T19:39:34.742655+00:00",
    "error": null
   },
   {
@@ -2037,19 +2070,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-05T18:34:40.512909+00:00",
+   "last_ok": "2026-11-05T19:39:34.742655+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-05T18:34:40.512909+00:00",
+   "last_ok": "2026-11-05T19:39:34.742655+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-05T18:34:40.512909+00:00",
+   "last_ok": "2026-11-05T19:39:34.742655+00:00",
    "error": null
   }
  ]
