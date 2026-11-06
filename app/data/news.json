@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T05:43:41.628841+00:00",
+ "updated_at": "2026-11-06T06:49:26.819408+00:00",
  "items": [
   {
    "id": "31c8075432e3",
@@ -2013,41 +2013,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-11-03T06:57:32+00:00"
-  },
-  {
-   "id": "3d225a4da7ea",
-   "title": "Più di un miliardo per droni e aerei: come Frontex controlla i confini dal cielo",
-   "summary": "Le spese dell’agenzia europea per le frontiere in questo campo sono in crescita vertiginosa. Sono cruciali per consentire le intercettazioni dei migranti da parte della guardia costiera libica. E pot…",
-   "image": null,
-   "url": "https://irpimedia.irpi.eu/piu-di-un-miliardo-per-droni-e-aerei-come-frontex-controlla-i-confini-dal-cielo/?utm_source=rss&utm_medium=rss&utm_campaign=piu-di-un-miliardo-per-droni-e-aerei-come-frontex-controlla-i-confini-dal-cielo",
-   "source": "IrpiMedia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-03T06:30:00+00:00"
-  },
-  {
-   "id": "4b44117b77b3",
-   "title": "L’almanacco di oggi 3 novembre",
-   "summary": "Il Santo del giorno: Santa Silvia. Il proverbio di Mesciu Ronzu: Trete suntu li potenti: lu Papa, li re, e ciunca nu tene nienti. Significato: Tre sono i potenti: il Papa, il Re e i nullatenenti. – S…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/lalmanacco-di-oggi-3-novembre/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-03T06:00:05+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-06T05:43:41.628841+00:00",
+   "last_ok": "2026-11-06T06:49:26.819408+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-06T05:43:41.628841+00:00",
+   "last_ok": "2026-11-06T06:49:26.819408+00:00",
    "error": null
   },
   {
@@ -2059,19 +2037,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-06T05:43:41.628841+00:00",
+   "last_ok": "2026-11-06T06:49:26.819408+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-06T05:43:41.628841+00:00",
+   "last_ok": "2026-11-06T06:49:26.819408+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-06T05:43:41.628841+00:00",
+   "last_ok": "2026-11-06T06:49:26.819408+00:00",
    "error": null
   }
  ]
