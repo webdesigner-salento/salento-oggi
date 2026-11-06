@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-11-06T07:59:53.137359+00:00",
+ "updated_at": "2026-11-06T08:48:05.219153+00:00",
  "items": [
+  {
+   "id": "509d31a998fb",
+   "title": "Torino – Lecce, è la 16esima volta in casa dei granata: finora solo due vittorie",
+   "summary": "Per la 11esima giornata il Lecce, dopo nove mesi, ritorna allo “Stadio Olimpico Grande Torino” (questa denominazione è stata data nel 2016; è il vecchio “Stadio Comunale” inaugurato nel maggio del 19…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/torino-lecce-e-la-16esima-volta-in-casa-dei-granata-finora-solo-due-vittorie/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-06T08:18:01+00:00"
+  },
+  {
+   "id": "e3246d70f531",
+   "title": "Arbitro di Torino – Lecce, fischia l’imprenditore abruzzese Feliciani: per la terza volta con i giallorossi",
+   "summary": "La partita sarà arbitrata dal Signor Ermanno FELICIANI della Sezione A.I.A. di Teramo. L’arbitro FELICIANI ha 35 anni. Ẻ nato il 18 giugno 1991 ad Atri (Teramo). Ė residente a Roseto degli Abruzzi (T…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/arbitro-di-torino-lecce-fischia-limprenditore-abruzzese-feliciani-per-la-terza-volta-con-i-giallorossi/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-06T08:15:32+00:00"
+  },
   {
    "id": "597f81c1339e",
    "title": "Bombe carta e fuochi illegali, maxi sequestro nel Salento: i botto fabbricati anche in un garage",
@@ -8,9 +30,20 @@
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/11/bombe-carta-e-fuochi-illegali-maxi-sequestro-nel-salento-i-botto-fabbricati-anche-in-un-garage/",
    "source": "Corriere Salentino",
-   "category": "Altro",
+   "category": "Cronaca",
    "zone": "Salento",
-   "published_at": "2026-11-06T07:52:19+00:00"
+   "published_at": "2026-11-06T08:04:19+00:00"
+  },
+  {
+   "id": "47385dfc2fa1",
+   "title": "Fiamme all’alba a Racale: distrutta l’auto in uso alla famiglia del sindaco Rizzo",
+   "summary": "RACALE (Lecce) – Un’auto distrutta dalle fiamme e una seconda vettura danneggiata. È il bilancio dell’incendio divampato intorno alle 5.20 in via Costa, a Racale, dove sono intervenuti i vigili del f…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/fiamme-allalba-a-racale-distrutta-lauto-in-uso-alla-famiglia-del-sindaco-rizzo/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-06T08:01:44+00:00"
   },
   {
    "id": "95c0a67f2354",
@@ -79,6 +112,17 @@
    "published_at": "2026-11-05T23:01:37+00:00"
   },
   {
+   "id": "edbaf7f2dddd",
+   "title": "“Drogata e costretta dal suo ex a rapporti sessuali di gruppo e con altre donne”, finisce in Psichiatria",
+   "summary": "SALENTO – Avrebbe costretto la sua ex ragazza a intrattenere rapporti sessuali ora di gruppo ora con altre donne dopo averle fatto assumere alcol e droga. E quando la giovane si rifiutava, sarebbero…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/drogata-e-costretta-dal-suo-ex-a-rapporti-sessuali-di-gruppo-e-con-altre-donne-finisce-in-psichiatria/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-11-05T22:43:09+00:00"
+  },
+  {
    "id": "26f04aff9337",
    "title": "Io Non Mollo Day, a Martano oltre 1.600 persone a tavola per sostenere i malati oncologici",
    "summary": "MARTANO – Oltre 1.600 persone attorno a un’unica tavolata, unite dalla voglia di dare una mano. Domenica 8 novembre, dalle 13, Largo Primo Maggio a Martano ospiterà il tradizionale pranzo di benefice…",
@@ -90,6 +134,17 @@
    "published_at": "2026-11-05T22:16:01+00:00"
   },
   {
+   "id": "7d58fe056ab3",
+   "title": "Molotov contro la casa del consigliere e segretario Pd, spuntano due indagati: scattano perquisizioni e sequestri",
+   "summary": "RACALE (Lecce) – A quasi quattro mesi dall’attentato incendiario, le indagini arrivano a una svolta. Questa mattina i carabinieri della Compagnia di Casarano hanno eseguito, su disposizione della Pro…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/molotov-contro-la-casa-del-consigliere-e-segretario-pd-spuntano-due-indagati-scattano-perquisizioni-e-sequestri/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T22:00:26+00:00"
+  },
+  {
    "id": "13c6af21452b",
    "title": "Sticchi Damiani candidato al Consiglio Federale FIGC",
    "summary": "",
@@ -99,17 +154,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-11-05T20:39:58+00:00"
-  },
-  {
-   "id": "edbaf7f2dddd",
-   "title": "“Drogata e costretta dal suo ex a rapporti sessuali di gruppo e con altre donne”, finisce in Psichiatria",
-   "summary": "SALENTO – Avrebbe costretto la sua ex ragazza a intrattenere rapporti sessuali ora di gruppo ora con altre donne dopo averle fatto assumere alcol e droga. E quando la giovane si rifiutava, sarebbero…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/drogata-e-costretta-dal-suo-ex-a-rapporti-sessuali-di-gruppo-e-con-altre-donne-finisce-in-psichiatria/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-11-05T19:43:09+00:00"
   },
   {
    "id": "422784654e36",
@@ -165,17 +209,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-11-05T19:04:25+00:00"
-  },
-  {
-   "id": "7d58fe056ab3",
-   "title": "Molotov contro la casa del consigliere e segretario Pd, spuntano due indagati: scattano perquisizioni e sequestri",
-   "summary": "RACALE (Lecce) – A quasi quattro mesi dall’attentato incendiario, le indagini arrivano a una svolta. Questa mattina i carabinieri della Compagnia di Casarano hanno eseguito, su disposizione della Pro…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/molotov-contro-la-casa-del-consigliere-e-segretario-pd-spuntano-due-indagati-scattano-perquisizioni-e-sequestri/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-05T19:00:26+00:00"
   },
   {
    "id": "7aedd654bdfc",
@@ -2024,30 +2057,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-11-03T09:38:08+00:00"
-  },
-  {
-   "id": "e39d7e29b01f",
-   "title": "Gli Stati Uniti al voto: le elezioni del Congresso sotto l’attacco di Trump",
-   "summary": "USA al voto per il Midterm: debole nei sondaggi, Trump rilancia la narrazione dei brogli preventivi. In gioco il controllo del Congresso e la tenuta democratica.",
-   "image": null,
-   "url": "https://www.valigiablu.it/elezioni-midterm-usa-trump-democrazia-attacco/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-03T08:09:41+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-06T07:59:53.137359+00:00",
+   "last_ok": "2026-11-06T08:48:05.219153+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-06T07:59:53.137359+00:00",
+   "last_ok": "2026-11-06T08:48:05.219153+00:00",
    "error": null
   },
   {
@@ -2059,19 +2081,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-06T07:59:53.137359+00:00",
+   "last_ok": "2026-11-06T08:48:05.219153+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-06T07:59:53.137359+00:00",
+   "last_ok": "2026-11-06T08:48:05.219153+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-06T07:59:53.137359+00:00",
+   "last_ok": "2026-11-06T08:48:05.219153+00:00",
    "error": null
   }
  ]
