@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T04:42:14.160409+00:00",
+ "updated_at": "2026-11-06T05:43:41.628841+00:00",
  "items": [
   {
    "id": "31c8075432e3",
@@ -2035,30 +2035,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-03T06:00:05+00:00"
-  },
-  {
-   "id": "5ac450915471",
-   "title": "La ricetta del giorno: Torta alla zucca",
-   "summary": "Ingredienti 300 g di zucca 3 uova una noce di burro 150 ml di olio di semi 150 g di zucchero 200 g di farina 00 1 bustina di vanillina 3 amaretti 1 bustina di lievito vanigliato buccia d’arancia grat…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/la-ricetta-del-giorno-torta-alla-zucca/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-03T05:36:28+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-06T04:42:14.160409+00:00",
+   "last_ok": "2026-11-06T05:43:41.628841+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-06T04:42:14.160409+00:00",
+   "last_ok": "2026-11-06T05:43:41.628841+00:00",
    "error": null
   },
   {
@@ -2070,19 +2059,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-06T04:42:14.160409+00:00",
+   "last_ok": "2026-11-06T05:43:41.628841+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-06T04:42:14.160409+00:00",
+   "last_ok": "2026-11-06T05:43:41.628841+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-06T04:42:14.160409+00:00",
+   "last_ok": "2026-11-06T05:43:41.628841+00:00",
    "error": null
   }
  ]
