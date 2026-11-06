@@ -1,6 +1,61 @@
 {
- "updated_at": "2026-11-06T08:48:05.219153+00:00",
+ "updated_at": "2026-11-06T09:48:15.762268+00:00",
  "items": [
+  {
+   "id": "e9e9f9fdf9c8",
+   "title": "Le previsioni meteo di domani 7 novembre 2026",
+   "summary": "Puglia Sabato. Giornata all’insegna del tempo instabile con molte nuvole sia al mattino che al pomeriggio associate a piogge e acquazzoni sparsi. Tempo in graduale miglioramento in serata e nottata m…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/le-previsioni-meteo-di-domani-7-novembre-2026/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-06T09:44:07+00:00"
+  },
+  {
+   "id": "071f366ecc0c",
+   "title": "Sanità: Tramacere (Pd): «Carenza di medici in Chirurgia senologica al Vito Fazzi, servono assunzioni e più posti letto»",
+   "summary": "LECCE – La carenza di personale medico rischia di mettere in affanno il reparto di Chirurgia senologica dell’ospedale Vito Fazzi di Lecce, dove appena due specialisti garantiscono l’esecuzione di olt…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/sanita-tramacere-pd-carenza-di-medici-in-chirurgia-senologica-al-vito-fazzi-servono-assunzioni-e-piu-posti-letto/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-11-06T09:37:30+00:00"
+  },
+  {
+   "id": "4b2ed81190fd",
+   "title": "Virtus Francavilla, Martina e Brindisi: che lotta in vetta alla serie D",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/virtus-francavilla-2026-27-1024x682.jpg",
+   "url": "https://trnews.it/2026/11/06/virtus-francavilla-martina-e-brindisi-che-lotta-in-vetta-alla-serie-d",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-11-06T09:00:33+00:00"
+  },
+  {
+   "id": "0220d7130b3a",
+   "title": "Meloni a Decaro: “Condivido la preoccupazione per i bambini di Gaza”",
+   "summary": "“Condivido la preoccupazione per i bambini di Gaza e la necessità di lavorare per proteggerli e restituire loro un futuro. Con i partner europei, continuerò chiedere al Governo israeliano gesti concr…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/meloni-a-decaro-condivido-la-preoccupazione-per-i-bambini-di-gaza/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-11-06T08:59:36+00:00"
+  },
+  {
+   "id": "036b4362b991",
+   "title": "Note, teatro e sapori al Paisiello: con “Sapidi baci” al via i Concerti con Aperitivo della Camerata Salentina",
+   "summary": "LECCE – Un modo diverso di vivere la domenica mattino, intrecciando ascolto musicale, racconto teatrale e convivialità. Prende il via al Teatro Paisiello di Lecce la rassegna “Concerti con Aperitivo”…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/note-teatro-e-sapori-al-paisiello-con-sapidi-baci-al-via-i-concerti-con-aperitivo-della-camerata-salentina/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-06T08:52:39+00:00"
+  },
   {
    "id": "509d31a998fb",
    "title": "Torino – Lecce, è la 16esima volta in casa dei granata: finora solo due vittorie",
@@ -37,7 +92,7 @@
   {
    "id": "47385dfc2fa1",
    "title": "Fiamme all’alba a Racale: distrutta l’auto in uso alla famiglia del sindaco Rizzo",
-   "summary": "RACALE (Lecce) – Un’auto distrutta dalle fiamme e una seconda vettura danneggiata. È il bilancio dell’incendio divampato intorno alle 5.20 in via Costa, a Racale, dove sono intervenuti i vigili del f…",
+   "summary": "Un’auto distrutta dalle fiamme e una seconda vettura danneggiata. È il bilancio dell’incendio divampato intorno alle 5.20 in via Costa, a Racale, dove sono intervenuti i vigili del fuoco del Distacca…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/11/fiamme-allalba-a-racale-distrutta-lauto-in-uso-alla-famiglia-del-sindaco-rizzo/",
    "source": "Corriere Salentino",
@@ -55,6 +110,17 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-06T07:30:00+00:00"
+  },
+  {
+   "id": "6ed828394831",
+   "title": "iOS 27, il tuo iPhone si scarica troppo velocemente? Il problema potrebbe non essere l’aggiornamento",
+   "summary": "Ogni anno si ripete la stessa storia. Apple rilascia una nuova versione di iOS e, puntualmente, migliaia di utenti iniziano a lamentare gli stessi problemi: batterie che durano meno, dispositivi che…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/ios-27-il-tuo-iphone-si-scarica-troppo-velocemente-il-problema-potrebbe-non-essere-laggiornamento/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-06T07:11:08+00:00"
   },
   {
    "id": "09c302a8681e",
@@ -209,6 +275,28 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-11-05T19:04:25+00:00"
+  },
+  {
+   "id": "c6bebcdf9095",
+   "title": "Pierotti operato a Pisa per frattura del malleolo: “Perfettamente riuscito”",
+   "summary": "Santiago Pierotti, esterno offensivo del Lecce, è stato sottoposto questa mattina presso la casa di cura San Rossore di Pisa a un intervento chirurgico di osteosintesi della frattura del malleolo med…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/pierotti-operato-a-pisa-per-frattura-del-malleolo-perfettamente-riuscito/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T18:55:46+00:00"
+  },
+  {
+   "id": "3efc9d437fb3",
+   "title": "Coulibaly riprende a lavorare in gruppo",
+   "summary": "Una buona notizia in casa Lecce con il recupero del centrocampista Lassana Coulibaly che ha ripreso a lavorare, anche se parzialmente, in gruppo. Un passo in avanti nel percorso di recupero dopo l’in…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/coulibaly-riprende-a-lavorare-in-gruppo/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-05T18:54:30+00:00"
   },
   {
    "id": "7aedd654bdfc",
@@ -2013,63 +2101,19 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-11-03T10:18:48+00:00"
-  },
-  {
-   "id": "567ce9d37ca4",
-   "title": "Mercoledì 4 novembre Giornata dell’Unità Nazionale e delle Forze Armate, il programma a Nardò",
-   "summary": "NARDO‘ (Lecce) – Si celebra domani, mercoledì 4 novembre, la Giornata dell’Unità Nazionale e delle Forze Armate, con la quale si ricorda la vittoria dell’Italia nella Prima Guerra mondiale e il compl…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/mercoledi-4-novembre-giornata-dellunita-nazionale-e-delle-forze-armate-il-programma-a-nardo/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-03T09:48:12+00:00"
-  },
-  {
-   "id": "04544cd3278f",
-   "title": "Tartufi, con le piogge decolla la stagione. Attesa per un prodotto di alta qualità nelle aree vocate della Puglia",
-   "summary": "PUGLIA – Con le piogge decolla la stagione del tartufo pugliese, rimasta a lungo frenata dal caldo persistente e dalla prolungata siccità che avevano mantenuto i terreni troppo asciutti per favorire…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/tartufi-con-le-piogge-decolla-la-stagione-attesa-per-un-prodotto-di-alta-qualita-nelle-aree-vocate-della-puglia/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-03T09:44:07+00:00"
-  },
-  {
-   "id": "34c4de201853",
-   "title": "Sabato 7 novembre “Trio of Doom” con Domenico Sanna, Dario Deidda e Francesco Ciniglio da Nasca il Teatro per Good Vibes",
-   "summary": "LECCE – Tre musicisti dalle personalità distinte, accomunati dalla versatilità e da una fitta rete di esperienze nella scena jazz italiana e internazionale, si incontrano in un progetto che fa del di…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/sabato-7-novembre-trio-of-doom-con-domenico-sanna-dario-deidda-e-francesco-ciniglio-da-nasca-il-teatro-per-good-vibes/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-11-03T09:41:32+00:00"
-  },
-  {
-   "id": "0789e5350be7",
-   "title": "Meteo di domani 4 novembre nel Salento: previsioni, temperature e cosa aspettarsi",
-   "summary": "Puglia – Giornata all’insegna del tempo stabile su tutta la regione con nuvolosità in transito alternata a schiarite sia al mattino che al pomeriggio. Si rinnovano condizioni di tempo asciutto anche…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/meteo-di-domani-4-novembre-nel-salento-previsioni-temperature-e-cosa-aspettarsi/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-03T09:38:08+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-06T08:48:05.219153+00:00",
+   "last_ok": "2026-11-06T09:48:15.762268+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-06T08:48:05.219153+00:00",
+   "last_ok": "2026-11-06T09:48:15.762268+00:00",
    "error": null
   },
   {
@@ -2081,19 +2125,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-06T08:48:05.219153+00:00",
+   "last_ok": "2026-11-06T09:48:15.762268+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-06T08:48:05.219153+00:00",
+   "last_ok": "2026-11-06T09:48:15.762268+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-06T08:48:05.219153+00:00",
+   "last_ok": "2026-11-06T09:48:15.762268+00:00",
    "error": null
   }
  ]
