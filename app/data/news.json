@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-06T22:27:35.123947+00:00",
+ "updated_at": "2026-11-07T02:07:52.892312+00:00",
  "items": [
+  {
+   "id": "5d5420ce71c4",
+   "title": "Torino - Lecce alle 15: le probabili formazioni",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/probabili-formazioni-1024x580.jpg",
+   "url": "https://trnews.it/2026/11/07/torino-lecce-alle-15-le-probabili-formazioni",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-06T23:15:26+00:00"
+  },
   {
    "id": "4a7d1b9d228f",
    "title": "Droga e mafia nel Salento: per 12 imputati sentenza ridotta dopo concordato in Appello",
@@ -2090,52 +2101,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-04T05:02:06+00:00"
-  },
-  {
-   "id": "8638b68c6bd8",
-   "title": "La mobilitazione dal basso contro la costruzione di un Cpr ad Aulla. Mentre la politica ci gioca",
-   "summary": "Lo scorso 28 settembre al Palazzo Ducale di Massa è stato convocato un Consiglio provinciale per discutere dell’apertura di un Centro di permanenza per il rimpatrio (Cpr) a Pallerone, frazione del Co…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/Pallerone_Aulla-panorama_da_Bibola2-1-scaled.jpg",
-   "url": "https://altreconomia.it/la-mobilitazione-dal-basso-contro-la-costruzione-di-un-cpr-ad-aulla-mentre-la-politica-ci-gioca/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-03T23:10:37+00:00"
-  },
-  {
-   "id": "84410e12ac61",
-   "title": "“Israele rilasci immediatamente il dottor Obeid dopo due anni di detenzione arbitraria”",
-   "summary": "Sono passati due anni e il dottor Mohammed Obeid, chirurgo ortopedico palestinese che lavorava per Medici senza frontiere (Msf), è ancora detenuto dalle forze israeliane senza alcuna accusa. L’organi…",
-   "image": "https://altreconomia.it/app/uploads/2026/11/Screenshot-2026-11-03-alle-22.27.17.png",
-   "url": "https://altreconomia.it/israele-rilasci-immediatamente-il-dottor-obeid-dopo-due-anni-di-detenzione-arbitraria/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-03T23:02:23+00:00"
-  },
-  {
-   "id": "2287577180f8",
-   "title": "Tra le priorità della Lista studentesca in Serbia “devono rimanere le vittime di Novi Sad”",
-   "summary": "Sono venuti in tanti il primo novembre a stringersi attorno alla città che più di tutte ha pagato il conto della corruzione del governo dell’ex presidente Aleksandar Vučić, sconfitto nelle elezioni g…",
-   "image": "https://altreconomia.it/app/uploads/2026/11/IMG_0751-scaled.jpg",
-   "url": "https://altreconomia.it/tra-le-priorita-della-lista-studentesca-in-serbia-devono-rimanere-le-vittime-di-novi-sad/",
-   "source": "Altreconomia",
-   "category": "Politica",
-   "zone": "Italia",
-   "published_at": "2026-11-03T23:01:21+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-06T22:27:35.123947+00:00",
+   "last_ok": "2026-11-07T02:07:52.892312+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-06T22:27:35.123947+00:00",
+   "last_ok": "2026-11-07T02:07:52.892312+00:00",
    "error": null
   },
   {
@@ -2147,19 +2125,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-06T22:27:35.123947+00:00",
+   "last_ok": "2026-11-07T02:07:52.892312+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-06T22:27:35.123947+00:00",
+   "last_ok": "2026-11-07T02:07:52.892312+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-06T22:27:35.123947+00:00",
+   "last_ok": "2026-11-07T02:07:52.892312+00:00",
    "error": null
   }
  ]
