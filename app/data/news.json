@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-07T19:29:48.344503+00:00",
+ "updated_at": "2026-11-07T22:53:48.929143+00:00",
  "items": [
+  {
+   "id": "54ced54507d5",
+   "title": "Cresta sui guadagni del distributore? Dipendente assolto dall’accusa di truffa. Era stato licenziato",
+   "summary": "OTRANTO (Lecce) – Era accusato di aver riportato nei registri di carico e scarico dati relativi alle forniture e alle vendite del carburante non corrispondenti a quelli risultanti dai totalizzatori d…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/cresta-sui-guadagni-del-distributore-dipendente-assolto-dallaccusa-di-truffa-era-stato-licenziato/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-07T22:26:33+00:00"
+  },
   {
    "id": "25e7f5a9d953",
    "title": "Serie C, sconfitte per Casarano e Audace Cerignola",
@@ -299,6 +310,17 @@
    "published_at": "2026-11-07T13:26:12+00:00"
   },
   {
+   "id": "5f726e9a8ad0",
+   "title": "Primavera 1 - Il Lecce strapazza 4-1 il Genoa in trasferta",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/Simone-Schipa-allenatore-US-Lecce-foto-Andrea-Stella-1024x855.jpeg",
+   "url": "https://trnews.it/2026/11/07/primavera-1-il-lecce-strapazza-4-1-il-genoa-in-trasferta",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-07T12:58:19+00:00"
+  },
+  {
    "id": "99fca130a21e",
    "title": "Se una sera di Novembre un popolo smette di arrossire",
    "summary": "Se una sera di novembre un popolo smette di arrossire Il pudore non è la paura di mostrarsi. È la consapevolezza che non tutto ciò che siamo può essere consegnato allo sguardo degli altri. C’è una do…",
@@ -319,17 +341,6 @@
    "category": "Sport",
    "zone": "Salento",
    "published_at": "2026-11-07T12:07:42+00:00"
-  },
-  {
-   "id": "5f726e9a8ad0",
-   "title": "Primavera 1 - Il Lecce strapazza 4-1 il Genoa in trasferta",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/Simone-Schipa-allenatore-US-Lecce-foto-Andrea-Stella-1024x855.jpeg",
-   "url": "https://trnews.it/2026/11/07/primavera-1-il-lecce-strapazza-4-1-il-genoa-in-trasferta",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-07T11:58:19+00:00"
   },
   {
    "id": "12355149b5ce",
@@ -2134,30 +2145,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-04T23:01:30+00:00"
-  },
-  {
-   "id": "d9392a01d18b",
-   "title": "La Regione sospende il dg Stallone, avviato il procedimento di decadenza",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/085827532-c3425591-eb28-424f-a93d-a03647f31292.jpg",
-   "url": "https://trnews.it/2026/11/04/la-regione-sospende-il-dg-stallone-avviato-il-procedimento-di-decadenza",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-04T22:13:07+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-07T19:29:48.344503+00:00",
+   "last_ok": "2026-11-07T22:53:48.929143+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-07T19:29:48.344503+00:00",
+   "last_ok": "2026-11-07T22:53:48.929143+00:00",
    "error": null
   },
   {
@@ -2169,19 +2169,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-07T19:29:48.344503+00:00",
+   "last_ok": "2026-11-07T22:53:48.929143+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-07T19:29:48.344503+00:00",
+   "last_ok": "2026-11-07T22:53:48.929143+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-07T19:29:48.344503+00:00",
+   "last_ok": "2026-11-07T22:53:48.929143+00:00",
    "error": null
   }
  ]
