@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-11-08T19:48:40.286331+00:00",
+ "updated_at": "2026-11-08T23:14:16.288279+00:00",
  "items": [
+  {
+   "id": "3ef12341aeb0",
+   "title": "Basket C, Monteroni cade a Ceglie, ma con carattere",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG-20261108-WA0079-819x1024.jpg",
+   "url": "https://trnews.it/2026/11/08/basket-c-monteroni-cade-a-ceglie-ma-con-carattere",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-11-08T21:20:49+00:00"
+  },
+  {
+   "id": "248b9f2ec981",
+   "title": "Il Taranto solleva dall'incarico il Ds Montervino",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Montervino-1-1024x630.jpeg",
+   "url": "https://trnews.it/2026/11/08/il-taranto-solleva-dallincarico-il-ds-montervino",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-11-08T21:00:17+00:00"
+  },
+  {
+   "id": "64ef0bab1f1c",
+   "title": "Volley A3: colpo di Capo di Leuca, Galatone vince il derby con Taviano",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/GALATONE-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/08/volley-a3-colpo-di-capo-di-leuca-galatone-vince-il-derby-con-taviano",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-08T20:43:53+00:00"
+  },
   {
    "id": "91e2c6d59732",
    "title": "Volley A2, Melendugno perde 3-1 il derby con Fasano",
@@ -14,12 +47,12 @@
   },
   {
    "id": "6456701d0cb3",
-   "title": "Caos Taranto, esonerato Montervino",
+   "title": "Caos Taranto: sconfitta, fischi e malumore",
    "summary": "",
    "image": "https://wp.trnews.it/wp-content/uploads/2025/01/montervino.png",
    "url": "https://trnews.it/2026/11/08/taranto-esonerato-montervino",
    "source": "TeleRama News",
-   "category": "Eventi",
+   "category": "Sport",
    "zone": "Taranto",
    "published_at": "2026-11-08T18:35:29+00:00"
   },
@@ -41,18 +74,18 @@
    "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-c-1024x576.png",
    "url": "https://trnews.it/2026/11/08/serie-c-la-tredicesima-giornata",
    "source": "TeleRama News",
-   "category": "Eventi",
+   "category": "Sport",
    "zone": "Salento",
    "published_at": "2026-11-08T17:31:46+00:00"
   },
   {
    "id": "e3f78bbce7a3",
-   "title": "Serie D, l'undicesima giornata nel girone H. Virtus Francavilla ok, il Brindisi",
+   "title": "Serie D, l'undicesima giornata nel girone H. Virtus Francavilla ok, il Brindisi cade",
    "summary": "",
    "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-d-1024x538.jpg",
    "url": "https://trnews.it/2026/11/08/serie-d-lundicesima-giornata",
    "source": "TeleRama News",
-   "category": "Eventi",
+   "category": "Sport",
    "zone": "Brindisi",
    "published_at": "2026-11-08T17:30:45+00:00"
   },
@@ -101,6 +134,17 @@
    "published_at": "2026-11-08T16:34:02+00:00"
   },
   {
+   "id": "da9294308a80",
+   "title": "Ulivo d'oro alla carriera per Enzo D'Alò al FCE 2026",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/ULIVO-DORO-DALO-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/08/ulivo-doro-alla-carriera-per-enzo-dalo-al-fce-2026",
+   "source": "TeleRama News",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-08T14:40:11+00:00"
+  },
+  {
    "id": "c8ff8a8e8086",
    "title": "Agrogepaciok: la capitale del gusto con oltre 400 marchi in fiera a Lecce",
    "summary": "",
@@ -132,17 +176,6 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-11-08T13:45:48+00:00"
-  },
-  {
-   "id": "da9294308a80",
-   "title": "Ulivo d'oro alla carriera per Enzo D'Alò al FCE 2026",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/ULIVO-DORO-DALO-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/08/ulivo-doro-alla-carriera-per-enzo-dalo-al-fce-2026",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-11-08T13:40:11+00:00"
   },
   {
    "id": "708661d5f330",
@@ -1848,85 +1881,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-06T05:24:56+00:00"
-  },
-  {
-   "id": "31c8075432e3",
-   "title": "Terza condanna per il Viminale: il “registro degli eventi critici” del Cpr di Gjadër va reso pubblico",
-   "summary": "Per la terza volta in meno di un anno il ministero dell’Interno è stato condannato per non aver consentito l’accesso al “registro degli eventi critici” del Centro di permanenza per il rimpatrio (Cpr)…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/IPA89103652-scaled.jpg",
-   "url": "https://altreconomia.it/terza-condanna-per-il-viminale-il-registro-degli-eventi-critici-del-cpr-di-gjader-va-reso-pubblico/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-05T23:05:51+00:00"
-  },
-  {
-   "id": "f17e299b8611",
-   "title": "Quando chi inquina detta le regole. Il problematico accordo tra l’Olanda e Tata steel",
-   "summary": "Per raggiungere gli obiettivi climatici del 2030 il governo olandese si sta adoperando per concludere accordi bilaterali con le grandi industrie e aiutarle a ridurre le emissioni attraverso incentivi…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/IJmuiden_hoogovens_20050928_40441.jpg",
-   "url": "https://altreconomia.it/quando-chi-inquina-detta-le-regole-il-problematico-accordo-tra-lolanda-e-tata-steel/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-05T23:01:37+00:00"
-  },
-  {
-   "id": "edbaf7f2dddd",
-   "title": "“Drogata e costretta dal suo ex a rapporti sessuali di gruppo e con altre donne”, finisce in Psichiatria",
-   "summary": "SALENTO – Avrebbe costretto la sua ex ragazza a intrattenere rapporti sessuali ora di gruppo ora con altre donne dopo averle fatto assumere alcol e droga. E quando la giovane si rifiutava, sarebbero…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/drogata-e-costretta-dal-suo-ex-a-rapporti-sessuali-di-gruppo-e-con-altre-donne-finisce-in-psichiatria/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-11-05T22:43:09+00:00"
-  },
-  {
-   "id": "26f04aff9337",
-   "title": "Io Non Mollo Day, a Martano oltre 1.600 persone a tavola per sostenere i malati oncologici",
-   "summary": "MARTANO – Oltre 1.600 persone attorno a un’unica tavolata, unite dalla voglia di dare una mano. Domenica 8 novembre, dalle 13, Largo Primo Maggio a Martano ospiterà il tradizionale pranzo di benefice…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/4d788a68-7231-4ca1-8db0-aeccf7791887-300x238.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/11/io-non-mollo-day-a-martano-oltre-1-600-persone-a-tavola-per-sostenere-i-malati-oncologici/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-05T22:16:01+00:00"
-  },
-  {
-   "id": "7d58fe056ab3",
-   "title": "Molotov contro la casa del consigliere e segretario Pd, spuntano due indagati: scattano perquisizioni e sequestri",
-   "summary": "RACALE (Lecce) – A quasi quattro mesi dall’attentato incendiario, le indagini arrivano a una svolta. Questa mattina i carabinieri della Compagnia di Casarano hanno eseguito, su disposizione della Pro…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/molotov-contro-la-casa-del-consigliere-e-segretario-pd-spuntano-due-indagati-scattano-perquisizioni-e-sequestri/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-05T22:00:26+00:00"
-  },
-  {
-   "id": "13c6af21452b",
-   "title": "Sticchi Damiani candidato al Consiglio Federale FIGC",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/sticchio--1024x576.jpg",
-   "url": "https://trnews.it/2026/11/05/sticchi-damiani-candidato-al-consiglio-federale-figc",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-05T21:39:58+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-08T19:48:40.286331+00:00",
+   "last_ok": "2026-11-08T23:14:16.288279+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-08T19:48:40.286331+00:00",
+   "last_ok": "2026-11-08T23:14:16.288279+00:00",
    "error": null
   },
   {
@@ -1938,19 +1905,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-08T19:48:40.286331+00:00",
+   "last_ok": "2026-11-08T23:14:16.288279+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-08T19:48:40.286331+00:00",
+   "last_ok": "2026-11-08T23:14:16.288279+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-08T19:48:40.286331+00:00",
+   "last_ok": "2026-11-08T23:14:16.288279+00:00",
    "error": null
   }
  ]
