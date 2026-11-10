@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-11-10T18:44:27.518094+00:00",
+ "updated_at": "2026-11-10T23:48:01.645618+00:00",
  "items": [
+  {
+   "id": "471a9f34e56d",
+   "title": "Oncologico, Pagliaro denuncia in consiglio regionale: “Aggrediti da addetto stampa”",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-32-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/10/oncologico-pagliaro-denuncia-in-consiglio-regionale-aggrediti-da-addetto-stampa",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-11-10T19:56:22+00:00"
+  },
+  {
+   "id": "6a9dffcf7bad",
+   "title": "Presentato a Lecce l’HUB Don Bosco. A Martignano nasce uno spazio di comunità che mette in rete generazioni, talenti e servizi",
+   "summary": "LECCE – È stato presentato questa mattina alla stampa, nella sala conferenze di Palazzo Adorno – Provincia di Lecce, l’HUB Don Bosco – Incontri, Talenti e Generazioni in Rete, il progetto di innovazi…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/35112c69-0045-4280-8c2b-ae5d53f0f7e8-300x225.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/presentato-a-lecce-lhub-don-bosco-a-martignano-nasce-uno-spazio-di-comunita-che-mette-in-rete-generazioni-talenti-e-servizi/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-10T19:39:17+00:00"
+  },
   {
    "id": "8582055c2c9b",
    "title": "L’Ordine della Puglia: caso Pagliaro, no all’arroganza politica sulla pelle dei malati",
@@ -69,7 +91,7 @@
   },
   {
    "id": "8eeb543f6105",
-   "title": "Casarano, due giornate a Matino, una a Chiricò",
+   "title": "Casarano, due giornate a Matino, una a Chiricò. Multa per Foggia e Bari",
    "summary": "",
    "image": "https://wp.trnews.it/wp-content/uploads/2026/03/Still0412_00032-1024x576.jpg",
    "url": "https://trnews.it/2026/11/10/casarano-due-giornate-a-matino-una-a-chirico",
@@ -156,6 +178,17 @@
    "published_at": "2026-11-10T14:01:52+00:00"
   },
   {
+   "id": "255c69684746",
+   "title": "Sequestro di beni per oltre 600mila euro a 43enne",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2024/11/dia-1024x525.jpg",
+   "url": "https://trnews.it/2026/11/10/sequestro-di-beni-per-oltre-600mila-euro-a-43enne",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-10T14:00:10+00:00"
+  },
+  {
    "id": "184d9debdff4",
    "title": "Lecce, mercato via Bari: tre aperture straordinarie di domenica",
    "summary": "",
@@ -184,7 +217,7 @@
    "image": "https://wp.trnews.it/wp-content/uploads/2026/11/COPERTINA-CINECLUB-10.11-1024x576.jpg",
    "url": "https://trnews.it/2026/11/10/quarta-giornata-del-fce-2026-i-riflettori-su-she-who-remains",
    "source": "TeleRama News",
-   "category": "Cultura",
+   "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-11-10T13:52:40+00:00"
   },
@@ -244,17 +277,6 @@
    "published_at": "2026-11-10T13:10:51+00:00"
   },
   {
-   "id": "255c69684746",
-   "title": "Sequestro di beni per oltre 600mila euro a 43enne",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2024/11/dia-1024x525.jpg",
-   "url": "https://trnews.it/2026/11/10/sequestro-di-beni-per-oltre-600mila-euro-a-43enne",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-10T13:00:10+00:00"
-  },
-  {
    "id": "270c8c496df6",
    "title": "De-Joseph Kakisingi. Cura e resistenza nella Repubblica democratica del Congo",
    "summary": "\"Il mio Paese, la Repubblica democratica del Congo, non può continuare a passare da un accordo di condivisione del potere sotto la pressione delle armi a un altro. Ciò alimenta l’impunità e incoraggi…",
@@ -297,6 +319,17 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-10T12:14:56+00:00"
+  },
+  {
+   "id": "f5a8ad88c05b",
+   "title": "L’economia può essere nonviolenta? Una breve storia rivoluzionaria, da Gandhi a Galtung",
+   "summary": "Neutralizzare i concorrenti, predare nuovi settori, dominare il mercato, aggredire il target. Questo è il lessico militare con il quale si esprime il capitalismo. Sue derivazioni sono il neuromarketi…",
+   "image": "https://altreconomia.it/app/uploads/2026/10/owl-illustration-agency-KYA3pY78PII-unsplash-scaled.jpg",
+   "url": "https://altreconomia.it/leconomia-puo-essere-nonviolenta-una-breve-storia-rivoluzionaria-da-gandhi-a-galtung/",
+   "source": "Altreconomia",
+   "category": "Economia",
+   "zone": "Italia",
+   "published_at": "2026-11-10T12:08:38+00:00"
   },
   {
    "id": "40fd901af133",
@@ -1804,96 +1837,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-07T23:49:50+00:00"
-  },
-  {
-   "id": "8e23e0a99599",
-   "title": "Agrivoltaico a Corigliano, ad Appidè un progetto per coltivare 87 ettari, favorire la biodiversità e produrre energia pulita",
-   "summary": "CORIGLIANO D’OTRANTO – Filari coltivati tra i pannelli, quasi sei ettari di ulivi e arnie per favorire la presenza delle api. È il disegno di “Corigliano 43.8”, il progetto agrivoltaico in località A…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/agrivoltaico-300x149.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/11/agrivoltaico-a-corigliano-ad-appide-un-progetto-per-coltivare-87-ettari-favorire-la-biodiversita-e-produrre-energia-pulita/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-07T22:59:50+00:00"
-  },
-  {
-   "id": "54ced54507d5",
-   "title": "Cresta sui guadagni del distributore? Dipendente assolto dall’accusa di truffa. Era stato licenziato",
-   "summary": "OTRANTO (Lecce) – Era accusato di aver riportato nei registri di carico e scarico dati relativi alle forniture e alle vendite del carburante non corrispondenti a quelli risultanti dai totalizzatori d…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/cresta-sui-guadagni-del-distributore-dipendente-assolto-dallaccusa-di-truffa-era-stato-licenziato/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-07T22:26:33+00:00"
-  },
-  {
-   "id": "e4f12c833cd7",
-   "title": "Basket A2, Valtur Brindisi vince con Unieuro Forlì",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/09/819098230_1105782935130108_3594196168318145226_n-1024x819.jpg",
-   "url": "https://trnews.it/2026/11/07/basket-a2-valtur-brindisi-vince-con-unieuro-forli",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-11-07T21:39:16+00:00"
-  },
-  {
-   "id": "408e83784186",
-   "title": "Basket A2, Valtur Brindisi bince con Unieuro Forlì",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/09/819098230_1105782935130108_3594196168318145226_n-1024x819.jpg",
-   "url": "https://trnews.it/2026/11/07/basket-a2-valtur-brindisi-bince-con-unieuro-forli",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-11-07T21:39:16+00:00"
-  },
-  {
-   "id": "176030228042",
-   "title": "Decaro battezza \"Prossima\": \"Io leader del Pd? Non ho il profilo del leader di partito\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-07-at-18.01.28-1024x768.jpeg",
-   "url": "https://trnews.it/2026/11/07/decaro-battezza-prossima-io-leader-del-pd-non-ho-il-profilo-del-leader-di-partito",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-07T19:22:21+00:00"
-  },
-  {
-   "id": "16c9baff0e43",
-   "title": "Oncologico di Bari, arriva il commissario",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/sanguedolce.jpeg",
-   "url": "https://trnews.it/2026/11/07/oncologico-di-bari-arriva-il-commissario",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-07T19:09:36+00:00"
-  },
-  {
-   "id": "25e7f5a9d953",
-   "title": "Serie C, sconfitte per Casarano e Audace Cerignola",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-07-201318.png",
-   "url": "https://trnews.it/2026/11/07/serie-c-sconfitte-per-casarano-e-audace-cerignola",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-07T19:08:44+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-10T18:44:27.518094+00:00",
+   "last_ok": "2026-11-10T23:48:01.645618+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-10T18:44:27.518094+00:00",
+   "last_ok": "2026-11-10T23:48:01.645618+00:00",
    "error": null
   },
   {
@@ -1905,19 +1861,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-10T18:44:27.518094+00:00",
+   "last_ok": "2026-11-10T23:48:01.645618+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
-   "ok": true,
+   "ok": false,
    "last_ok": "2026-11-10T18:44:27.518094+00:00",
-   "error": null
+   "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-10T18:44:27.518094+00:00",
+   "last_ok": "2026-11-10T23:48:01.645618+00:00",
    "error": null
   }
  ]
