@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T23:48:01.645618+00:00",
+ "updated_at": "2026-11-11T03:20:24.018574+00:00",
  "items": [
   {
    "id": "471a9f34e56d",
@@ -217,7 +217,7 @@
    "image": "https://wp.trnews.it/wp-content/uploads/2026/11/COPERTINA-CINECLUB-10.11-1024x576.jpg",
    "url": "https://trnews.it/2026/11/10/quarta-giornata-del-fce-2026-i-riflettori-su-she-who-remains",
    "source": "TeleRama News",
-   "category": "Eventi",
+   "category": "Cultura",
    "zone": "Lecce",
    "published_at": "2026-11-10T13:52:40+00:00"
   },
@@ -1826,30 +1826,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-08T05:00:21+00:00"
-  },
-  {
-   "id": "4d90c1eab75f",
-   "title": "Funghi che passione! Ma occhio alle intossicazioni",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/raccolta-funghi-557x1024.jpg",
-   "url": "https://trnews.it/2026/11/07/funghi-che-passione-ma-occhio-alle-intossicazioni",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-07T23:49:50+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-10T23:48:01.645618+00:00",
+   "last_ok": "2026-11-11T03:20:24.018574+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-10T23:48:01.645618+00:00",
+   "last_ok": "2026-11-11T03:20:24.018574+00:00",
    "error": null
   },
   {
@@ -1861,19 +1850,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-10T23:48:01.645618+00:00",
+   "last_ok": "2026-11-11T03:20:24.018574+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
-   "ok": false,
-   "last_ok": "2026-11-10T18:44:27.518094+00:00",
-   "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
+   "ok": true,
+   "last_ok": "2026-11-11T03:20:24.018574+00:00",
+   "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-10T23:48:01.645618+00:00",
+   "last_ok": "2026-11-11T03:20:24.018574+00:00",
    "error": null
   }
  ]
