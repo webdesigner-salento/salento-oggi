@@ -1,16 +1,335 @@
 {
- "updated_at": "2026-11-11T11:15:24.535596+00:00",
+ "updated_at": "2026-11-11T18:46:56.178483+00:00",
  "items": [
   {
+   "id": "5ed2394d1cae",
+   "title": "Oncologico, la replica a Ordine Giornalisti e Assostampa Puglia: “Nessuna violazione della privacy”",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-36-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/11/oncologico-la-replica-a-ordine-giornalisti-e-assostampa-puglia-nessuna-violazione-della-privacy",
+   "source": "TeleRama News",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-11-11T17:58:27+00:00"
+  },
+  {
+   "id": "5c055fc49add",
+   "title": "Galatina, viola il divieto di avvicinamento e perseguita i familiari: chiuse le indagini",
+   "summary": "",
+   "image": null,
+   "url": "https://trnews.it/2026/11/11/galatina-viola-il-divieto-di-avvicinamento-e-perseguita-i-familiari-chiuse-le-indagini",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T17:56:49+00:00"
+  },
+  {
+   "id": "cef9ca8971c8",
+   "title": "Terribile scontro tra due auto sulla Provinciale, due morti e tre feriti in codice rosso",
+   "summary": "Taviano (Lecce) – Due persone morte e tre feriti. Queste le conseguenze, purtroppo, del gravissimo incidente stradale verificatosi nel pomeriggio di oggi, intorno alle ore 17, lungo la Strada Provinc…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/mortale-mancaversa-487x420.jpg",
+   "url": "https://www.corrieresalentino.it/2026/11/terribile-scontro-tra-due-auto-sulla-provinciale-due-morti-e-tre-feriti-in-codice-rosso/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T17:24:54+00:00"
+  },
+  {
+   "id": "4c84162cf39e",
+   "title": "Maxifrode da 1,3 milioni tra false fatture e finto trading: blitz della Guardia di Finanza, 17 indagati",
+   "summary": "SALENTO – Un milione e trecentomila euro di beni messi sotto sequestro tra denaro, quote societarie, auto e immobili sparsi in sette province italiane (Lecce, Bari, Brindisi, Caserta, Foggia, Napoli…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/maxifrode-da-13-milioni-tra-false-fatture-e-finto-trading-blitz-della-guardia-di-finanza-17-indagati/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T17:23:53+00:00"
+  },
+  {
+   "id": "f2c83f70cfac",
+   "title": "Lecce, dalla musica alla solidarietà, donato uno scalda biberon alla terapia intensiva neonatale del Fazzi",
+   "summary": "Lecce, dalla musica alla solidarietà: donato uno scaldabiberon alla Terapia Intensiva Neonatale del Vito Fazzi Un gesto concreto nato dalla collaborazione tra le associazioni Angeli di Quartiere e Fi…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/lecce-dalla-musica-alla-solidarieta-donato-uno-scalda-biberon-alla-terapia-intensiva-neonatale-del-fazzi/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T17:20:54+00:00"
+  },
+  {
+   "id": "ebd35ab2275d",
+   "title": "Strage di Nassiriya, dopo 23 anni giustizia per i fratelli del soldato Carrisi",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Nassiriya-11-9d8caf61.jpeg",
+   "url": "https://trnews.it/2026/11/11/strage-di-nassiriya-dopo-23-anni-giustizia-per-i-fratelli-del-soldato-carrisi",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T16:56:20+00:00"
+  },
+  {
+   "id": "2aa6d60f0d83",
+   "title": "Lecce, giro di usura: i cinque arrestati davanti al gip",
+   "summary": "",
+   "image": null,
+   "url": "https://trnews.it/2026/11/11/lecce-giro-di-usura-i-cinque-arrestati-davanti-al-gip",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T16:44:26+00:00"
+  },
+  {
+   "id": "944eae982b02",
+   "title": "Mafia, la Regione Puglia parte civile nei processi penali",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2024/10/presidenza-regione-puglia-ok.jpg",
+   "url": "https://trnews.it/2026/11/11/mafia-la-regione-puglia-parte-civile-nei-processi-penali",
+   "source": "TeleRama News",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-11-11T16:40:00+00:00"
+  },
+  {
+   "id": "213dfe9e3b34",
+   "title": "\"Percorsi di legalità\", all'Apollo la giornata degli studenti con la Polizia di Stato",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/polizia-635x1024.jpeg",
+   "url": "https://trnews.it/2026/11/11/percorsi-di-legalita-allapollo-la-giornata-degli-studenti-con-la-polizia-di-stato",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T16:38:56+00:00"
+  },
+  {
+   "id": "3d9e6c69e904",
+   "title": "L'adrenalina sale sul ring, ecco \"La notte dei gladiatori\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/gladiatori-1024x566.jpeg",
+   "url": "https://trnews.it/2026/11/11/ladrenalina-sale-sul-ring-ecco-la-notte-dei-gladiatori",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T16:31:23+00:00"
+  },
+  {
+   "id": "86f0caecf71e",
+   "title": "Inchiesta antidroga e antimafia: si sgonfiano le accuse nel processo. Ex commercialista torna in libertà",
+   "summary": "LECCE – Si sgonfiano le accuse per i 17 imputati finiti sotto processo con rito ordinario (la stragrande maggioranza dei soggetti coinvolti è stata processata in abbreviato), nell’ambito della doppia…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/inchiesta-antidroga-e-antimafia-si-sgonfiano-le-accuse-nel-processo-ex-commercialista-torna-in-liberta/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T16:29:47+00:00"
+  },
+  {
+   "id": "6e141b81352c",
+   "title": "Palazzo dei Celestini: ecco le nuove commissioni consiliari",
+   "summary": "Insediate oggi, a Palazzo Celestini, le due nuove Commissioni consiliari composte dai consiglieri provinciali eletti nell’ultima consultazione elettorale. Nelle sedute, convocate e presiedute dal pre…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/palazzo-dei-celestini-ecco-le-nuove-commissioni-consiliari/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-11-11T14:56:32+00:00"
+  },
+  {
+   "id": "a37a6d850dd7",
+   "title": "Social housing, la Puglia porta a Urbanpromo il modello del Galateo di Lecce. Leuzzi: “La casa è un’infrastruttura sociale”",
+   "summary": "La Puglia porta a Urbanpromo, a Firenze, un’esperienza innovativa di housing sociale che integra diritto alla casa, rigenerazione urbana e inclusione. È il progetto dell’ex Galateo di Lecce, presenta…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/social-housing-la-puglia-porta-a-urbanpromo-il-modello-del-galateo-di-lecce-leuzzi-la-casa-e-uninfrastruttura-sociale/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T14:52:18+00:00"
+  },
+  {
+   "id": "806592c89861",
+   "title": "“Quale genere di Università”? Il 13 novembre a UniSalento un seminario interattivo sul divario di genere nella ricerca",
+   "summary": "LECCE – Le donne sono la maggioranza tra le studentesse e gli studenti e tra chi muove i primi passi nella ricerca, ma la loro presenza si assottiglia a ogni gradino della carriera accademica. Da qui…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/quale-genere-di-universita-il-13-novembre-a-unisalento-un-seminario-interattivo-sul-divario-di-genere-nella-ricerca/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T14:23:38+00:00"
+  },
+  {
+   "id": "7644dee84874",
+   "title": "Ulivo d'oro alla carriera a Luigi Lo Cascio al FCE 2026",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/COPERTINA-LO-CASCIO-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/11/ulivo-doro-alla-carriera-a-luigi-lo-cascio-al-fce-2026",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T14:11:34+00:00"
+  },
+  {
+   "id": "44bf95973c7a",
+   "title": "La XXVII edizione del Festival del Cinema Europeo: il programma di giovedì 12 novembre e consegna dell’Ulivo d’Oro alla Carriera",
+   "summary": "LECCE – La XXVII edizione del Festival del Cinema Europeo, diretta da Alberto La Monica e in programma a Lecce fino a sabato 14 novembre al Multisala Massimo, prosegue giovedì 12 novembre con uno deg…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/la-xxvii-edizione-del-festival-del-cinema-europeo-il-programma-di-giovedi-12-novembre-e-consegna-dellulivo-doro-alla-carriera/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T14:05:45+00:00"
+  },
+  {
+   "id": "cba980949bdd",
+   "title": "Rottura improvvisa e imprevedibile di un tronco idrico a Castrì di Lecce",
+   "summary": "CASTRI DI LECCE (Lecce) – A causa di una rottura improvvisa di un tronco idrico a servizio dell’abitato di Castrì di Lecce (LE) i tecnici di Acquedotto Pugliese stanno eseguendo un delicato intervent…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/rottura-improvvisa-e-imprevedibile-di-un-tronco-idrico-a-castri-di-lecce-2/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T14:01:04+00:00"
+  },
+  {
+   "id": "b5af3b24020c",
+   "title": "Assalto notturno al supermercato: usano una Fiat Panda come ariete ma le casse sono vuote",
+   "summary": "SALVE (Lecce) – Non si ferma la scia di colpi a spinta nel basso Salento. Nella notte il mirino della criminalità è finito sul supermercato “Simeg” di piazza Dante, a Salve, teatro di un blitz orches…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/spaccata-salve-3-236x420.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/assalto-notturno-al-supermercato-usano-una-fiat-panda-come-ariete-ma-le-casse-sono-vuote/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T13:57:18+00:00"
+  },
+  {
+   "id": "9b32d4905bf3",
+   "title": "\"Ho lasciato un potente ordigno esplosivo\": scuole evacuate e controlli dei carabinieri",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG_4813-1024x562.jpeg",
+   "url": "https://trnews.it/2026/11/11/ho-lasciato-un-potente-ordigno-esplosivo-scuole-evacuate-e-controlli-dei-carabinieri",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T13:42:21+00:00"
+  },
+  {
+   "id": "453a12d60dec",
+   "title": "Evade i domiciliari per rubare: finisce in carcere",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-35-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/11/evade-i-domiciliari-per-rubare-finisce-in-carcere",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Brindisi",
+   "published_at": "2026-11-11T13:39:51+00:00"
+  },
+  {
+   "id": "8ba9472a8757",
+   "title": "Perseguita la moglie: due anni in appello",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-34-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/11/perseguita-la-moglie-due-anni-in-appello",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Brindisi",
+   "published_at": "2026-11-11T13:36:19+00:00"
+  },
+  {
+   "id": "2558b53ffe2b",
+   "title": "“Chi paga per la sorveglianza di Stato?”. Le strategie di Palantir per eludere il fisco",
+   "summary": "Palantir contabilizza negli Stati Uniti buona parte dei ricavi generati in Europa e in Asia per poter beneficiare della tassazione più favorevole. Così favorevole che l’azienda non versa un dollaro a…",
+   "image": "https://altreconomia.it/app/uploads/2026/10/Screenshot-2026-11-11-alle-14.29.17.png",
+   "url": "https://altreconomia.it/chi-paga-per-la-sorveglianza-di-stato-le-strategie-di-palantir-per-eludere-il-fisco/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-11T13:34:37+00:00"
+  },
+  {
+   "id": "e5810750de2e",
+   "title": "Controlli serrati della Guardia di Finanza contro il lavoro nero nel Brindisino",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-33-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/11/controlli-serrati-della-guardia-di-finanza-contro-il-lavoro-nero-nel-brindisino",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Brindisi",
+   "published_at": "2026-11-11T13:29:57+00:00"
+  },
+  {
+   "id": "58af82b25c03",
+   "title": "Anche a Lecce la Giornata per il Ricordo per i caduti militari e civili",
+   "summary": "12 Novembre, il giorno della memoria: Lecce ricorda i Caduti di Nassiriya e tutti coloro che hanno sacrificato la vita per la pace Il 12 novembre è una data che richiama alla memoria una delle pagine…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/anche-a-lecce-la-giornata-per-il-ricordo-per-i-caduti-militari-e-civili/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T13:26:18+00:00"
+  },
+  {
+   "id": "34fa7bf63315",
+   "title": "Aree idonee, la Puglia approva la legge: paletti alle rinnovabili sui terreni agricoli",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/02/CONSIGLIO-REGIONALE-.jpg",
+   "url": "https://trnews.it/2026/11/11/aree-idonee-la-puglia-approva-la-legge-paletti-alle-rinnovabili-sui-terreni-agricoli",
+   "source": "TeleRama News",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-11-11T13:22:58+00:00"
+  },
+  {
+   "id": "9a7d3c3dd133",
+   "title": "Inchiesta usura ai danni di un meccanico: i cinque indagati rispondono alle domande",
+   "summary": "LECCE – Al via gli interrogatori dei cinque presunti cravattari coinvolti nell’inchiesta u un giro di usura ai danni di un meccanico. E tutti e cinque gli indagati hanno deciso di parlare. Nello spec…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/inchiesta-usura-ai-danni-di-un-meccanico-i-cinque-indagati-rispondono-alle-domande/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T12:45:14+00:00"
+  },
+  {
    "id": "30488a8d3e46",
-   "title": "Allarme bomba in decine di scuole in Italia, evacuato il Banzi di Lecce",
+   "title": "Allarme bomba in decine di scuole in Italia, evacuate varie scuole nel Salento",
    "summary": "LECCE – “Siamo venuti per annientarvi. Metteremo in atto un genocidio contro gli italiani”, si legge nella mail firmata Mikhail Antropov, leader del Vilayat di Misoginistan. Mi sono preparato a lungo…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/11/allarme-bomba-in-decine-di-scuole-in-italia-evacuato-il-banzi-di-lecce/",
    "source": "Corriere Salentino",
    "category": "Cronaca",
    "zone": "Lecce",
-   "published_at": "2026-11-11T11:09:11+00:00"
+   "published_at": "2026-11-11T12:29:11+00:00"
+  },
+  {
+   "id": "2bd89bf26d92",
+   "title": "Pranzo a sbafo e fuga in Porsche: smascherati a cena a Gallipoli",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/lv3tee1eg8df1-scaled-e1794397051517-1024x572.jpeg",
+   "url": "https://trnews.it/2026/11/11/pranzo-a-sbafo-e-fuga-in-porsche-smascherati-a-cena-a-gallipoli",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T11:37:38+00:00"
+  },
+  {
+   "id": "0e1802a1b68b",
+   "title": "Paziente oncologico, l'odissea delle prenotazioni: \"Nessuno risponde\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/visite-sanita-e1794396884547.jpg",
+   "url": "https://trnews.it/2026/11/11/paziente-oncologico-lodissea-delle-prenotazioni-nessuno-risponde",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T11:34:58+00:00"
+  },
+  {
+   "id": "7fb377766db9",
+   "title": "Google indagata per i data center in Finlandia: foreste rase al suolo e rischio danno ambientale",
+   "summary": "Alberi abbattuti e allarme acque acide: la polizia finlandese apre un’inchiesta penale sui nuovi data center di Google a Muhos in Finlandia.",
+   "image": null,
+   "url": "https://www.valigiablu.it/google-indagata-data-center-finlandia/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-11T11:27:46+00:00"
   },
   {
    "id": "dc5f8525e2b6",
@@ -55,6 +374,17 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-11T10:37:46+00:00"
+  },
+  {
+   "id": "230fe61d446c",
+   "title": "Lecce, lo scheletro di cemento che esaspera il quartiere: “Il degrado peggiora”. Interrogazione di Rotundo",
+   "summary": "LECCE – La rete arancione del cantiere è finita a terra, inghiottita dalle erbacce. Dietro, uno scheletro di cemento mostra stanze vuote, mattoni scoperti e aperture senza infissi. Il tempo sembra es…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/6c161f3f-3958-46c6-bad5-4b0d042c4868-1-300x294.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/lecce-lo-scheletro-di-cemento-che-esaspera-il-quartiere-il-degrado-peggiora-interrogazione-di-rotundo/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T10:35:07+00:00"
   },
   {
    "id": "465f87c0033a",
@@ -123,6 +453,17 @@
    "published_at": "2026-11-11T10:11:24+00:00"
   },
   {
+   "id": "cd3575a7f1eb",
+   "title": "Percorsi di legalità: 500 studenti a Lecce sono andati “in scena con la Polizia di Stato”",
+   "summary": "Lecce. Una vera e propria lezione di cittadinanza attiva, lontana dai banchi tradizionali ma vicina al linguaggio dei giovani. Si è svolto in un clima di grande entusiasmo e interattività l’atteso ev…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/percorsi-di-legalita-6-560x420.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/percorsi-di-legalita-500-studenti-a-lecce-sono-andati-in-scena-con-la-polizia-di-stato/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T09:55:55+00:00"
+  },
+  {
    "id": "eda5a2fd87f4",
    "title": "Eccellenza, Taranto: mercoledì di Coppa, esordio per il duo Cioffi",
    "summary": "",
@@ -176,17 +517,6 @@
    "category": "Cultura",
    "zone": "Lecce",
    "published_at": "2026-11-11T09:10:20+00:00"
-  },
-  {
-   "id": "b5af3b24020c",
-   "title": "Assalto notturno al supermercato: usano una Fiat Panda come ariete ma le casse sono vuote",
-   "summary": "SALVE (Lecce) – Non si ferma la scia di colpi a spinta nel basso Salento. Nella notte il mirino della criminalità è finito sul supermercato “Simeg” di piazza Dante, a Salve, teatro di un blitz orches…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/spaccata-salve-3-236x420.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/11/assalto-notturno-al-supermercato-usano-una-fiat-panda-come-ariete-ma-le-casse-sono-vuote/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T08:57:18+00:00"
   },
   {
    "id": "83b5304eebfe",
@@ -1421,6 +1751,17 @@
    "published_at": "2026-11-09T11:14:22+00:00"
   },
   {
+   "id": "0fc24e73325f",
+   "title": "Accoglienza negata: a Ceuta, centinaia di minori vengono trattati da adulti",
+   "summary": "Nell’exclave, l’accoglienza di centinaia di adolescenti procede a rilento, nonostante la legge. Il sistema è al collasso, ma i trasferimenti verso la Spagna continentale sono pochissimi, per motivi p…",
+   "image": "https://www.irpimedia.eu/wp-content/uploads/2026/11/ceuta-centinaia-di-minori-trattati-da-adulti-tende.webp",
+   "url": "https://www.irpimedia.eu/a-ceuta-centinaia-di-minori-vengono-trattati-da-adulti/",
+   "source": "IrpiMedia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-09T11:01:46+00:00"
+  },
+  {
    "id": "6006ce8c4c6c",
    "title": "Lecce, Gaspar in Nazionale",
    "summary": "",
@@ -1463,17 +1804,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-11-09T10:35:38+00:00"
-  },
-  {
-   "id": "528fd9609922",
-   "title": "Accoglienza negata: a Ceuta, centinaia di minori vengono trattati da adulti",
-   "summary": "Nell’exclave, l’accoglienza di centinaia di adolescenti procede a rilento, nonostante la legge. Il sistema è al collasso, ma i trasferimenti verso la Spagna continentale sono pochissimi, per motivi p…",
-   "image": null,
-   "url": "https://irpimedia.irpi.eu/ceuta-centinaia-di-minori-trattati-da-adulti/?utm_source=rss&utm_medium=rss&utm_campaign=ceuta-centinaia-di-minori-trattati-da-adulti",
-   "source": "IrpiMedia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-09T10:19:06+00:00"
   },
   {
    "id": "07ef7c15ecf2",
@@ -1749,228 +2079,19 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-11-08T18:49:45+00:00"
-  },
-  {
-   "id": "6456701d0cb3",
-   "title": "Caos Taranto: sconfitta, fischi e malumore",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/01/montervino.png",
-   "url": "https://trnews.it/2026/11/08/taranto-esonerato-montervino",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-11-08T18:35:29+00:00"
-  },
-  {
-   "id": "b24fc8be01f4",
-   "title": "Eccellenza: la 12esima giornata, risultati e classifica. Lo Squinzano batte il Taranto",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/Eccellenza-750x500-1.jpg",
-   "url": "https://trnews.it/2026/11/08/eccellenza-la-12esima-giornata",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-11-08T17:35:32+00:00"
-  },
-  {
-   "id": "353be8db9d00",
-   "title": "Serie C, la tredicesima giornata. Allunga il Potenza, domani il Bari va a Picerno",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-c-1024x576.png",
-   "url": "https://trnews.it/2026/11/08/serie-c-la-tredicesima-giornata",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-11-08T17:31:46+00:00"
-  },
-  {
-   "id": "e3f78bbce7a3",
-   "title": "Serie D, l'undicesima giornata nel girone H. Virtus Francavilla ok, il Brindisi cade",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-d-1024x538.jpg",
-   "url": "https://trnews.it/2026/11/08/serie-d-lundicesima-giornata",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-11-08T17:30:45+00:00"
-  },
-  {
-   "id": "84bdaaa91bf3",
-   "title": "Aggressione in centro, nei guai due siciliani",
-   "summary": "LECCE: Una lite scoppiata per banali divergenze si è trasformata in una violenta aggressione nella notte a Lecce, lungo via XXV Luglio, a due passi tra il cuore antico della città e il rione Mazzini.…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/aggressione-in-centro-nei-guai-due-siciliani/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-08T16:48:38+00:00"
-  },
-  {
-   "id": "fb7d56d9595c",
-   "title": "La Cce Lsb Lecce esulta in casa contro Monopoli",
-   "summary": "Prima vittoria in casa per la Cce Lsb Lecce. Dopo due successi esterni, gli uomini di coach Michelutti hanno rotto il ghiaccio anche tra le mura amiche del Pala San Giuseppe da Copertino liquidando M…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/la-cce-lsb-lecce-esulta-in-casa-contro-monopoli/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-08T16:38:07+00:00"
-  },
-  {
-   "id": "b3c74cc4710b",
-   "title": "Tre giovani talenti salentini chiamati dalla Scuola Scacchistica Federale",
-   "summary": "Lecce – Storica tripletta per il movimento scacchistico giovanile salentino: la Federazione Scacchistica Italiana, nei 67 giovani allievi ammessi alla Scuola Federale per la stagione 2026-2027, inclu…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/tre-giovani-talenti-salentini-chiamati-dalla-scuola-scacchistica-federale/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-08T16:37:30+00:00"
-  },
-  {
-   "id": "2587ad93e6a4",
-   "title": "Domani la terza giornata della XXVII edizione del Festival del Cinema Europeo, il programma",
-   "summary": "La terza giornata della XXVII edizione del Festival del Cinema Europeo, diretta da Alberto La Monica e in programma a Lecce fino a sabato 14 novembre al Multisala Massimo, prosegue lunedì 9 novembre…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/domani-la-terza-giornata-della-xxvii-edizione-del-festival-del-cinema-europeo-il-programma/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-08T16:34:02+00:00"
-  },
-  {
-   "id": "da9294308a80",
-   "title": "Ulivo d'oro alla carriera per Enzo D'Alò al FCE 2026",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/ULIVO-DORO-DALO-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/08/ulivo-doro-alla-carriera-per-enzo-dalo-al-fce-2026",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-11-08T14:40:11+00:00"
-  },
-  {
-   "id": "c8ff8a8e8086",
-   "title": "Agrogepaciok: la capitale del gusto con oltre 400 marchi in fiera a Lecce",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-08-142924.png",
-   "url": "https://trnews.it/2026/11/08/agrogepaciok-la-capitale-del-gusto-con-oltre-400-marchi-in-fiera-a-lecce",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-08T14:29:57+00:00"
-  },
-  {
-   "id": "3deccf9c9f17",
-   "title": "Arte urbana per trasformare il volto di Brindisi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-24-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/08/arte-urbana-per-trasformare-il-volto-di-brindisi",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Brindisi",
-   "published_at": "2026-11-08T13:48:12+00:00"
-  },
-  {
-   "id": "566f2fc8844d",
-   "title": "\"Magnifica Humanitas\", un incontro-dibattito sull'enciclica di Papa Leone XIV",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/enciclica-1024x546.jpeg",
-   "url": "https://trnews.it/2026/11/08/magnifica-humanitas-un-incontro-dibattito-sullenciclica-di-papa-leone-xiv",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-08T13:45:48+00:00"
-  },
-  {
-   "id": "708661d5f330",
-   "title": "Sanità Puglia, FdI attacca Decaro: “Vent’anni di gestione clientelare, non dia la colpa alla Meloni”",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/05/fdi-regione-puglia-PER-SITO.jpg",
-   "url": "https://trnews.it/2026/11/08/sanita-puglia-fdi-attacca-decaro-ventanni-di-gestione-clientelare-non-dia-la-colpa-alla-meloni",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-08T13:37:55+00:00"
-  },
-  {
-   "id": "10d0be1b7614",
-   "title": "Botti illegali, 170 chili di materiale pirotecnico in casa: il pm convalida il sequestro",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-08-143254.png",
-   "url": "https://trnews.it/2026/11/08/botti-illegali-170-chili-di-materiale-pirotecnico-in-casa-il-pm-convalida-il-sequestro",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-08T13:33:19+00:00"
-  },
-  {
-   "id": "02e8dc5ded2c",
-   "title": "Maria Teresa Ruta premiata nel segno della pace a San Giovanni Rotondo",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-08-143102.png",
-   "url": "https://trnews.it/2026/11/08/maria-teresa-ruta-premiata-nel-segno-della-pace-a-san-giovanni-rotondo",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-08T13:32:04+00:00"
-  },
-  {
-   "id": "2d957f20fd2f",
-   "title": "Lecce, salta la strada del Politecnico per il Pug. Ipotesi Fuksas, scontro sui 41 mila euro a Foresta",
-   "summary": "LECCE – Il Comune contava di cambiare il Piano urbanistico generale con lo stesso Politecnico di Milano che aveva contribuito a scriverlo. Palazzo Carafa aveva messo in conto di proseguire la collabo…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/lecce-salta-la-strada-del-politecnico-per-il-pug-ipotesi-fuksas-scontro-sui-41-mila-euro-a-foresta/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-08T13:00:08+00:00"
-  },
-  {
-   "id": "6e4f11976343",
-   "title": "Se il Salento più bello fosse quello da ottobre a maggio? La proposta di Marco Margari",
-   "summary": "LECCE – Ad agosto il Salento è “bellissimo, ma è stanco”. Marco Margari, agricoltore salentino, parte da qui per immaginare una stagione turistica che cominci quando quella balneare finisce. “Troppa…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/se-il-salento-piu-bello-fosse-quello-da-ottobre-a-maggio-la-proposta-di-marco-margari/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-08T12:57:20+00:00"
-  },
-  {
-   "id": "7a1d42123807",
-   "title": "Spoofing e truffe, massima attenzione nel Brindisino",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-23-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/08/spoofing-e-truffe-massima-attenzione-nel-brindisino",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Brindisi",
-   "published_at": "2026-11-08T12:44:15+00:00"
-  },
-  {
-   "id": "2b85c960640f",
-   "title": "Rubati a Mesagne 120 ulivi resistenti alla Xylella",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-22-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/08/rubati-a-mesagne-120-ulivi-resistenti-alla-xylella",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Brindisi",
-   "published_at": "2026-11-08T12:40:38+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-11T11:15:24.535596+00:00",
+   "last_ok": "2026-11-11T18:46:56.178483+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-11T11:15:24.535596+00:00",
+   "last_ok": "2026-11-11T18:46:56.178483+00:00",
    "error": null
   },
   {
@@ -1982,19 +2103,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-11T11:15:24.535596+00:00",
+   "last_ok": "2026-11-11T18:46:56.178483+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-11T11:15:24.535596+00:00",
+   "last_ok": "2026-11-11T18:46:56.178483+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-11T11:15:24.535596+00:00",
+   "last_ok": "2026-11-11T18:46:56.178483+00:00",
    "error": null
   }
  ]
