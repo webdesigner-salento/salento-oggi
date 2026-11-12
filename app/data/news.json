@@ -1,6 +1,160 @@
 {
- "updated_at": "2026-11-12T01:06:02.206674+00:00",
+ "updated_at": "2026-11-12T08:28:44.820135+00:00",
  "items": [
+  {
+   "id": "c5ce5aad81d1",
+   "title": "Operaio morto in cantiere. Chiesto processo per datore di lavoro: “Ha travolto lavoratore con il cassone”",
+   "summary": "GALATINA (Lecce) – Rischia il processo G.C., 49 anni, di Galatina, titolare della Cooperativa, con l’accusa di omicidio colposo per la morte sul lavoro dell’operaio Maurizio Misciali, il 23 ottobre 2…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/operaio-morto-in-cantiere-chiesto-processo-per-datore-di-lavoro-ha-travolto-lavoratore-con-il-cassone/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-12T08:03:44+00:00"
+  },
+  {
+   "id": "b14023f407a9",
+   "title": "Dioniso, il vino, il Salento",
+   "summary": "Nella settimana della ricorrenza di San Martino, la Cupertinum – in collaborazione con il Museo Castromediano di Lecce – propone un importantissimo incontro dedicato alla cultura del vino. Le storie…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/dioniso-il-vino-il-salento/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-12T08:02:27+00:00"
+  },
+  {
+   "id": "72b44f5d79fd",
+   "title": "Lecce commemora le Vittime della Strada: incontro di riflessione alla parrocchia San Massimiliano Kolbe",
+   "summary": "LECCE – In occasione della Giornata Mondiale in memoria delle Vittime della Strada, la comunità della parrocchia di San Massimiliano Kolbe a Lecce organizza un momento di ritrovo e riflessione sul te…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/lecce-commemora-le-vittime-della-strada-incontro-di-riflessione-alla-parrocchia-san-massimiliano-kolbe/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-11-12T08:00:36+00:00"
+  },
+  {
+   "id": "3d57bfbff0ee",
+   "title": "Cantiere abbandonato, un residente a Rotundo: “Lodevole l’interessamento, ma senza allarmismi”",
+   "summary": "LECCE – Mettere in sicurezza lo stabile abbandonato e affrontare il degrado, chiarendo però la natura dei problemi segnalati ed evitando allarmismi. È il contributo al confronto di un residente di vi…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/cantiere-abbandonato-un-residente-a-rotundo-lodevole-linteressamento-ma-senza-allarmismi/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-11-12T07:58:13+00:00"
+  },
+  {
+   "id": "14b27502d384",
+   "title": "Il futuro dell’Ucraina non spetta a Trump e Putin deciderlo",
+   "summary": "Dopo dodici anni di invasione russa, perché l’Occidente continua a discutere di cosa debba cedere l’Ucraina invece di pretendere che la Russia si tolga di mezzo una volta per tutte?",
+   "image": null,
+   "url": "https://www.valigiablu.it/colloqui-abu-dhabi-futuro-ucraina-putin-trump/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-12T07:55:47+00:00"
+  },
+  {
+   "id": "9a9fa3bed7bd",
+   "title": "Zero Scuse, lo sport come scuola di vita: tra inclusione, parità di genere e lotta al bullismo",
+   "summary": "​Dodici anni di attività, un bacino d’utenza che spazia dai 6 ai 70 anni e una forte componente femminile, che rappresenta circa il 40% degli iscritti. Sono i numeri della Zero Scuse SSD, raccontati…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/foto-eros-rollo-1-236x420.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/zero-scuse-lo-sport-come-scuola-di-vita-tra-inclusione-parita-di-genere-e-lotta-al-bullismo/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-11-12T07:51:08+00:00"
+  },
+  {
+   "id": "8d154615bc01",
+   "title": "Natale e 25 anni di Mondi Sommersi: la promo Funko Pop per le feste e il venticinquennale",
+   "summary": "LECCE – Con l’approssimarsi delle festività natalizie, la fumetteria leccese Mondi Sommersi celebra un traguardo storico: i suoi primi 25 anni di attività. Per festeggiare il venticinquennale insieme…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/lecce-natale-e-25-anni-di-mondi-sommersi-la-promo-funko-pop-per-le-feste-e-il-venticinquennale/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-12T07:40:32+00:00"
+  },
+  {
+   "id": "6a73b6026367",
+   "title": "Mantovano: “Il nuovo Piano sulle dipendenze contrasta anche il traffico di droga”",
+   "summary": "“Il nuovo Piano d’azione nazionale sulle dipendenze non si fermerà alla prevenzione, alla cura e al recupero. In linea con l’approccio equilibrato che si segue anche a livello internazionale, avrà un…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/mantovano-il-nuovo-piano-sulle-dipendenze-contrasta-anche-il-traffico-di-droga/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-11-12T07:03:44+00:00"
+  },
+  {
+   "id": "00c60cedca7b",
+   "title": "L’almanacco di oggi 12 novembre",
+   "summary": "Il Santo del giorno: San Renato. Il proverbio di Mesciu Ronzu: Quannu lu mare è in tempesta ogne bucu ete nu portu. Significato: Quando il mare è in tempesta ogni buco è un porto. – Sono nati in ques…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/lalmanacco-di-oggi-12-novembre/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-12T06:00:53+00:00"
+  },
+  {
+   "id": "a921ee6109e9",
+   "title": "Decreto bollette: lo sconto è pagato dalle famiglie",
+   "summary": "Il governo ha messo un tetto al prezzo del gas per abbassare le bollette, ma lo sconto effettivo per i consumatori è di 1,4 euro al mese. Intanto in Confindustria si scontrano i produttori elettrici…",
+   "image": "https://www.irpimedia.eu/wp-content/uploads/2022/09/gasdotti-bolletta-640x400.jpg",
+   "url": "https://www.irpimedia.eu/decreto-bollette-lo-sconto-e-pagato-dalle-famiglie/",
+   "source": "IrpiMedia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-12T06:00:00+00:00"
+  },
+  {
+   "id": "ac7049e03e67",
+   "title": "La ricetta del giorno: Torta al cacao",
+   "summary": "Ingredienti per uno stampo da 24 cm: 3 uova intere 150 grammi di zucchero 75 grammi di burro fuso 150 grammi di farina 3 cucchiai di cacao amaro 1 bicchiere di latte 1 bustina di lievito per dolci Pr…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/la-ricetta-del-giorno-torta-al-cacao/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-12T05:14:09+00:00"
+  },
+  {
+   "id": "30488a8d3e46",
+   "title": "Allarme bomba in decine di scuole in Italia, evacuate varie scuole nel Salento",
+   "summary": "LECCE – “Siamo venuti per annientarvi. Metteremo in atto un genocidio contro gli italiani”, si legge nella mail firmata Mikhail Antropov, leader del Vilayat di Misoginistan. Mi sono preparato a lungo…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/allarme-bomba-in-decine-di-scuole-in-italia-evacuato-il-banzi-di-lecce/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T22:59:11+00:00"
+  },
+  {
+   "id": "4c84162cf39e",
+   "title": "Maxifrode da 1,3 milioni tra false fatture e finto trading: blitz della Guardia di Finanza, 17 indagati",
+   "summary": "SALENTO – Un milione e trecentomila euro di beni messi sotto sequestro tra denaro, quote societarie, auto e immobili sparsi in sette province italiane (Lecce, Bari, Brindisi, Caserta, Foggia, Napoli…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/maxifrode-da-13-milioni-tra-false-fatture-e-finto-trading-blitz-della-guardia-di-finanza-17-indagati/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T22:58:53+00:00"
+  },
+  {
+   "id": "7fd2ad285486",
+   "title": "Una stanza di un b&b nel centro di Lecce base logistica per lo spaccio: arrestati un ragazzo e una ragazza",
+   "summary": "LECCE – La stanza di un B&b nel centro di Lecce come base logistica per un’intensa attività di spaccio. I movimenti dei presunti pusher, però, non sono passati inosservati e dopo una perquisizione so…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/una-stanza-di-un-bb-nel-centro-di-lecce-base-logistica-per-lo-spaccio-arrestati-un-ragazzo-e-una-ragazza/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T22:58:20+00:00"
+  },
   {
    "id": "b6ee6addae4a",
    "title": "Agrogepaciok, gran finale con l’Executive Chef Domenico Schingaro",
@@ -22,17 +176,6 @@
    "category": "Sport",
    "zone": "Brindisi",
    "published_at": "2026-11-11T21:47:46+00:00"
-  },
-  {
-   "id": "30488a8d3e46",
-   "title": "Allarme bomba in decine di scuole in Italia, evacuate varie scuole nel Salento",
-   "summary": "LECCE – “Siamo venuti per annientarvi. Metteremo in atto un genocidio contro gli italiani”, si legge nella mail firmata Mikhail Antropov, leader del Vilayat di Misoginistan. Mi sono preparato a lungo…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/allarme-bomba-in-decine-di-scuole-in-italia-evacuato-il-banzi-di-lecce/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T21:00:11+00:00"
   },
   {
    "id": "cef9ca8971c8",
@@ -57,17 +200,6 @@
    "published_at": "2026-11-11T20:05:10+00:00"
   },
   {
-   "id": "c5ce5aad81d1",
-   "title": "Operaio morto in cantiere. Chiesto processo per datore di lavoro: “Ha travolto lavoratore con il cassone”",
-   "summary": "GALATINA (Lecce) – Rischia il processo G.C., 49 anni, di Galatina, titolare della Cooperativa, con l’accusa di omicidio colposo per la morte sul lavoro dell’operaio Maurizio Misciali, il 23 ottobre 2…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/operaio-morto-in-cantiere-chiesto-processo-per-datore-di-lavoro-ha-travolto-lavoratore-con-il-cassone/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T20:00:44+00:00"
-  },
-  {
    "id": "9e14c75d554e",
    "title": "Scontro tra due auto: perdono la vita marito e moglie. Feriti due sposini",
    "summary": "",
@@ -88,6 +220,28 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-11-11T19:19:45+00:00"
+  },
+  {
+   "id": "86f0caecf71e",
+   "title": "Inchiesta antidroga e antimafia: si sgonfiano le accuse nel processo. Ex commercialista torna in libertà",
+   "summary": "LECCE – Si sgonfiano le accuse per i 17 imputati finiti sotto processo con rito ordinario (la stragrande maggioranza dei soggetti coinvolti è stata processata in abbreviato), nell’ambito della doppia…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/inchiesta-antidroga-e-antimafia-si-sgonfiano-le-accuse-nel-processo-ex-commercialista-torna-in-liberta/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T19:15:47+00:00"
+  },
+  {
+   "id": "9a7d3c3dd133",
+   "title": "Inchiesta usura ai danni di un meccanico: i cinque indagati rispondono alle domande",
+   "summary": "LECCE – Al via gli interrogatori dei cinque presunti cravattari coinvolti nell’inchiesta u un giro di usura ai danni di un meccanico. E tutti e cinque gli indagati hanno deciso di parlare. Nello spec…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/inchiesta-usura-ai-danni-di-un-meccanico-i-cinque-indagati-rispondono-alle-domande/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-11T19:14:14+00:00"
   },
   {
    "id": "b236e4481971",
@@ -167,17 +321,6 @@
    "published_at": "2026-11-11T17:31:23+00:00"
   },
   {
-   "id": "4c84162cf39e",
-   "title": "Maxifrode da 1,3 milioni tra false fatture e finto trading: blitz della Guardia di Finanza, 17 indagati",
-   "summary": "SALENTO – Un milione e trecentomila euro di beni messi sotto sequestro tra denaro, quote societarie, auto e immobili sparsi in sette province italiane (Lecce, Bari, Brindisi, Caserta, Foggia, Napoli…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/maxifrode-da-13-milioni-tra-false-fatture-e-finto-trading-blitz-della-guardia-di-finanza-17-indagati/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T17:23:53+00:00"
-  },
-  {
    "id": "f2c83f70cfac",
    "title": "Lecce, dalla musica alla solidarietà, donato uno scalda biberon alla terapia intensiva neonatale del Fazzi",
    "summary": "Lecce, dalla musica alla solidarietà: donato uno scaldabiberon alla Terapia Intensiva Neonatale del Vito Fazzi Un gesto concreto nato dalla collaborazione tra le associazioni Angeli di Quartiere e Fi…",
@@ -220,17 +363,6 @@
    "category": "Politica",
    "zone": "Salento",
    "published_at": "2026-11-11T16:40:00+00:00"
-  },
-  {
-   "id": "86f0caecf71e",
-   "title": "Inchiesta antidroga e antimafia: si sgonfiano le accuse nel processo. Ex commercialista torna in libertà",
-   "summary": "LECCE – Si sgonfiano le accuse per i 17 imputati finiti sotto processo con rito ordinario (la stragrande maggioranza dei soggetti coinvolti è stata processata in abbreviato), nell’ambito della doppia…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/inchiesta-antidroga-e-antimafia-si-sgonfiano-le-accuse-nel-processo-ex-commercialista-torna-in-liberta/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T16:29:47+00:00"
   },
   {
    "id": "6e141b81352c",
@@ -385,17 +517,6 @@
    "category": "Politica",
    "zone": "Salento",
    "published_at": "2026-11-11T13:22:58+00:00"
-  },
-  {
-   "id": "9a7d3c3dd133",
-   "title": "Inchiesta usura ai danni di un meccanico: i cinque indagati rispondono alle domande",
-   "summary": "LECCE – Al via gli interrogatori dei cinque presunti cravattari coinvolti nell’inchiesta u un giro di usura ai danni di un meccanico. E tutti e cinque gli indagati hanno deciso di parlare. Nello spec…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/inchiesta-usura-ai-danni-di-un-meccanico-i-cinque-indagati-rispondono-alle-domande/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T12:45:14+00:00"
   },
   {
    "id": "0e1802a1b68b",
@@ -2013,140 +2134,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-09T09:20:42+00:00"
-  },
-  {
-   "id": "ee6deb20eb03",
-   "title": "India, cancellati 130 milioni di elettori: esplode la protesta contro Modi",
-   "summary": "Arresti di massa e capitale blindata a New Delhi: l'India protesta contro la revisione elettorale che esclude dal voto milioni di musulmani e Dalit.",
-   "image": null,
-   "url": "https://www.valigiablu.it/india-studenti-femministe-proteste-modi-elezioni/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-09T07:59:58+00:00"
-  },
-  {
-   "id": "3d04c1b2d95c",
-   "title": "A Lecce la seconda tappa del tour nazionale di Mondadori Academy Forum Orienta",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/590641c1-2eab-4f3a-b236-4a74195013d3.png",
-   "url": "https://trnews.it/2026/11/09/a-lecce-la-seconda-tappa-del-tour-nazionale-di-mondadori-academy-forum-orienta",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-09T07:38:30+00:00"
-  },
-  {
-   "id": "9fad57099807",
-   "title": "Tennis A2 - Il Ct Maglie fermato da Club Genova: ora i playout",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG-20261108-WA00051.jpg-1024x682.jpeg",
-   "url": "https://trnews.it/2026/11/09/tennis-a2-il-ct-maglie-fermato-da-club-genova-ora-i-playout",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-09T07:36:27+00:00"
-  },
-  {
-   "id": "9d0a8bf774ce",
-   "title": "Newsroom – Droni sul Mediterraneo: così l’Europa controlla i migranti",
-   "summary": "Oltre un miliardo di euro per aerei e droni: la sorveglianza dal cielo di Frontex è cruciale per le intercettazioni in mare L'articolo Newsroom – Droni sul Mediterraneo: così l’Europa controlla i mig…",
-   "image": null,
-   "url": "https://irpimedia.irpi.eu/newsroom-droni-sul-mediterraneo-cosi-leuropa-controlla-i-migranti/?utm_source=rss&utm_medium=rss&utm_campaign=newsroom-droni-sul-mediterraneo-cosi-leuropa-controlla-i-migranti",
-   "source": "IrpiMedia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-09T07:29:58+00:00"
-  },
-  {
-   "id": "79d0cf34ec79",
-   "title": "Lecce, usura e riciclaggio: cinque misure cautelari e sequestro per 200mila euro",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/04/guardia-finanza.jpg",
-   "url": "https://trnews.it/2026/11/09/lecce-usura-e-riciclaggio-cinque-misure-cautelari-e-sequestro-per-200mila-euro",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-09T07:23:12+00:00"
-  },
-  {
-   "id": "ba1178d6148b",
-   "title": "Per la prevenzione e la riduzione del “rischio Tsunami” nel Salento",
-   "summary": "Il 5 novembre 2026 si è celebrata la Giornata Mondiale della Consapevolezza sugli Tsunami (World Tsunami Awareness Day), istituita dalle Nazioni Unite per promuovere la prevenzione, la riduzione del…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/Marisa-Grande-Salento-SITO-ASTRONOMICO--236x300.png",
-   "url": "https://www.corrieresalentino.it/2026/11/per-la-prevenzione-e-la-riduzione-del-rischio-tsunami-nel-salento/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Salento",
-   "published_at": "2026-11-09T07:15:08+00:00"
-  },
-  {
-   "id": "2a36af1d71c6",
-   "title": "Dream Volley, un ko a Bisceglie che insegna",
-   "summary": "BISCEGLIE – La Rental & Versatility Nardò esce sconfitta per 3-0 dal parquet del Pala Dolmen contro la Star Volley Bisceglie (parziali di 12-25, 16-25, 20-25), in un confronto della 4ª giornata del G…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/dream-volley-un-ko-a-bisceglie-che-insegna/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-09T07:13:32+00:00"
-  },
-  {
-   "id": "b63db06727da",
-   "title": "La Narconon Volley Melendugno lotta per oltre due ore, ma Fasano s’impone 3 a 1",
-   "summary": "Non basta una prestazione generosa, carica di agonismo e a tratti dal buon profilo tecnico alla Narconon Volley Melendugno per fare proprio il primo derby regionale della stagione. Sul taraflex del P…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/la-narconon-volley-melendugno-lotta-per-oltre-due-ore-ma-fasano-simpone-3-a-1/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-09T07:09:08+00:00"
-  },
-  {
-   "id": "130d2499b08c",
-   "title": "Il vicepresidente del Lecce, Corrado Liguori, questa sera a Piazza Giallorossa",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2024/12/Corrado-Liguori-vicepresidente-del-Lecce.png",
-   "url": "https://trnews.it/2026/11/09/il-vicepresidente-del-lecce-corrado-liguori-questa-sera-a-piazza-giallorossa",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-09T06:00:39+00:00"
-  },
-  {
-   "id": "0a4872598442",
-   "title": "L’almanacco di oggi 9 novembre",
-   "summary": "Il Santo del giorno: Sant’Oreste. Il proverbio di Mesciu Ronzu: Quandu zappi e quando puti, nò si vedunu niputi. Significato: Quando zappi e quando poti, non si vedono i nipoti. – Sono nati in questo…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/lalmanacco-di-oggi-9-novembre/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-09T06:00:19+00:00"
-  },
-  {
-   "id": "3c725d8dc358",
-   "title": "Ricetta del giorno: Lasagna di verdure",
-   "summary": "Ingredienti per 4 persone: 300 gr di lasagne 200 gr di spinaci 100 gr di fagiolini 1 zucchina 1 carota 1 patata piccola 1 spicchio di aglio 250 gr di mozzarella 150 di Parmigiano Reggiano Olio evo Sa…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/ricetta-del-giorno-lasagna-di-verdure/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-09T04:51:28+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-12T01:06:02.206674+00:00",
+   "last_ok": "2026-11-12T08:28:44.820135+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-12T01:06:02.206674+00:00",
+   "last_ok": "2026-11-12T08:28:44.820135+00:00",
    "error": null
   },
   {
@@ -2158,19 +2158,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-12T01:06:02.206674+00:00",
+   "last_ok": "2026-11-12T08:28:44.820135+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-12T01:06:02.206674+00:00",
+   "last_ok": "2026-11-12T08:28:44.820135+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-12T01:06:02.206674+00:00",
+   "last_ok": "2026-11-12T08:28:44.820135+00:00",
    "error": null
   }
  ]
