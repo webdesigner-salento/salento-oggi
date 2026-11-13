@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T22:32:14.109562+00:00",
+ "updated_at": "2026-11-13T02:59:26.062226+00:00",
  "items": [
   {
    "id": "32f64557948a",
@@ -2035,30 +2035,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-10T04:00:35+00:00"
-  },
-  {
-   "id": "79b81993b5b6",
-   "title": "Serie C, pareggi per Bari e Altamura. Al Barletta il derby col Foggia",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Serie_C_sky_wifi_2025-2026-701x1024.png",
-   "url": "https://trnews.it/2026/11/09/serie-c-pareggi-per-bari-e-altamura-al-barletta-il-derby-col-foggia",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-11-09T22:52:48+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-12T22:32:14.109562+00:00",
+   "last_ok": "2026-11-13T02:59:26.062226+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-12T22:32:14.109562+00:00",
+   "last_ok": "2026-11-13T02:59:26.062226+00:00",
    "error": null
   },
   {
@@ -2070,19 +2059,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-12T22:32:14.109562+00:00",
+   "last_ok": "2026-11-13T02:59:26.062226+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-12T22:32:14.109562+00:00",
+   "last_ok": "2026-11-13T02:59:26.062226+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-12T22:32:14.109562+00:00",
+   "last_ok": "2026-11-13T02:59:26.062226+00:00",
    "error": null
   }
  ]
