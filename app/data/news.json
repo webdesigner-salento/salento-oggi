@@ -1,6 +1,215 @@
 {
- "updated_at": "2026-11-13T02:59:26.062226+00:00",
+ "updated_at": "2026-11-13T10:33:21.486455+00:00",
  "items": [
+  {
+   "id": "f3569a4a2e4b",
+   "title": "Truffa ai danni della zia, condannati due fratelli: rimborsi fiscali incassati con false deleghe",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2024/03/STROZZINO-SOLDI-SITO.jpg",
+   "url": "https://trnews.it/2026/11/13/truffa-ai-danni-della-zia-condannati-due-fratelli-rimborsi-fiscali-incassati-con-false-deleghe",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-13T10:22:20+00:00"
+  },
+  {
+   "id": "6a6e725140d3",
+   "title": "Agente preso a pugni nel carcere di Lecce, i sindacati: “Convertire le strutture inutilizzate in Rems”",
+   "summary": "LECCE – Un agente colpito ripetutamente a pugni, l’intervento dei colleghi per fermare l’aggressione e un nuovo allarme sulla gestione dei detenuti con gravi disturbi psichiatrici. L’episodio avvenut…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/agente-preso-a-pugni-nel-carcere-di-lecce-i-sindacati-convertire-le-strutture-inutilizzate-in-rems/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-13T10:13:20+00:00"
+  },
+  {
+   "id": "d8736ef234a9",
+   "title": "Lecce, incendio in casa: due persone intossicate",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/incendio-1002x1024.jpeg",
+   "url": "https://trnews.it/2026/11/13/lecce-incendio-in-casa-due-persone-intossicate",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-13T09:58:09+00:00"
+  },
+  {
+   "id": "3096e89e7d32",
+   "title": "“La Rete italiana dell’economia solidale si prepara ad aprire una nuova fase”",
+   "summary": "Le nostre comunità attraversano un tempo difficile. Crescono le disuguaglianze, aumentano le fragilità economiche e sociali, si indeboliscono i legami di fiducia. Nei quartieri, nelle città, nei picc…",
+   "image": "https://altreconomia.it/app/uploads/2026/11/alan-aprilio-E0FAIOVw6sM-unsplash-scaled.jpg",
+   "url": "https://altreconomia.it/la-rete-italiana-delleconomia-solidale-si-prepara-ad-aprire-una-nuova-fase-della-propria-storia/",
+   "source": "Altreconomia",
+   "category": "Economia",
+   "zone": "Italia",
+   "published_at": "2026-11-13T09:49:07+00:00"
+  },
+  {
+   "id": "738e43eb9f0b",
+   "title": "Commercio abusivo di oro e argento, denunciato imprenditore",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/gdf-otranto-1024x638.jpg",
+   "url": "https://trnews.it/2026/11/13/commercio-abusivo-di-oro-e-argento-denunciato-imprenditore",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-13T09:48:35+00:00"
+  },
+  {
+   "id": "9848a5c1f38c",
+   "title": "“Parla con me”: sabato 14 novembre al Festival del Cinema Europeo il documentario di Sophie Chiarello girato a Lecce",
+   "summary": "LECCE – Dopo l’esordio nazionale dello scorso ottobre ad Alice nella città, la sezione autonoma e parallela della Festa del Cinema di Roma, approda finalmente nella città in cui è nato “Parla con me”…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/parla-con-me-sabato-14-novembre-al-festival-del-cinema-europeo-il-documentario-di-sophie-chiarello-girato-a-lecce/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-13T09:41:03+00:00"
+  },
+  {
+   "id": "015d5c543117",
+   "title": "La lezione dell’Ilva riguarda anche il nostro modo di concepire la “finanza magica”",
+   "summary": "L’area a caldo dell’Ilva è spenta e, nella sua drammaticità, sembra stare lì apposta per rammentarci quanto l’illusione della finanza salvifica abbia attraversato la politica italiana negli ultimi tr…",
+   "image": "https://altreconomia.it/app/uploads/2026/11/Ilva-40-scaled.jpg",
+   "url": "https://altreconomia.it/la-lezione-dellilva-riguarda-anche-il-nostro-modo-di-concepire-la-finanza-magica/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-13T09:36:14+00:00"
+  },
+  {
+   "id": "938041b8ca15",
+   "title": "Scrivere “dal vero” tra teatro e letteratura: a Spongano il laboratorio gratuito con Lorenzo Donati",
+   "summary": "SPONGANO (Lecce) – Nuovo appuntamento gratuito con Fuor di Libro, il progetto ideato da Ultimi Fuochi Teatro e finanziato dal Centro per il libro e la lettura per avvicinare i più giovani al mondo de…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/scrivere-dal-vero-tra-teatro-e-letteratura-a-spongano-il-laboratorio-gratuito-con-lorenzo-donati/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-13T09:15:21+00:00"
+  },
+  {
+   "id": "acd0edbfa119",
+   "title": "Il cane mascotte del rione ucciso in piazza: conducente Suv condannato in primo grado assolto in appello",
+   "summary": "MONTERONI (Lecce) – Non fu un’azione compiuta deliberatamente con l’intento di uccidere. Anzi, a dirla tutta, in attesa del deposito delle motivazioni, non si sarebbe mai accorto di aver schiacciato…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/il-cane-mascotte-del-rione-ucciso-in-piazza-conducente-suv-condannato-in-primo-grado-assolto-in-appello/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-13T09:08:36+00:00"
+  },
+  {
+   "id": "fd6c018dbf43",
+   "title": "Trasportava oltre 35 chili di oro e preziosi senza autorizzazione, imprenditore denunciato",
+   "summary": "Sud Salento – Trasporto di ori e preziosi per un valore di oltre 80mila euro senza le prescrizioni previste per legge. Nel corso di un ordinario controllo economico del territorio su strada, i milita…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/trasportava-oltre-35-chili-di-oro-e-preziosi-senza-autorizzazione-imprenditore-denunciato/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-11-13T09:01:36+00:00"
+  },
+  {
+   "id": "55aa55c52682",
+   "title": "Doppia protesi d’anca in un solo intervento: al “Ferrari” di Casarano un 70enne torna a camminare",
+   "summary": "Una grave patologia bilaterale che aveva compromesso la mobilità, risolta in un’unica seduta operatoria grazie a tecniche chirurgiche di ultima generazione. All’ospedale “Francesco Ferrari” di Casara…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/doppia-protesi-danca-in-un-solo-intervento-al-ferrari-di-casarano-un-70enne-torna-a-camminare/",
+   "source": "Corriere Salentino",
+   "category": "Salute",
+   "zone": "Lecce",
+   "published_at": "2026-11-13T08:59:51+00:00"
+  },
+  {
+   "id": "bee6f2d48893",
+   "title": "A che servono le conferenze sul clima se i governi ostacolano le soluzioni?",
+   "summary": "Mentre USA ed Europa frenano sul clima, alla COP31 di Antalya Guterres attacca le lobby del petrolio. E ora la svolta green potrebbe arrivare da Pechino.",
+   "image": null,
+   "url": "https://www.valigiablu.it/conferenze-clima-cop31-turchia-usa-cina-europa/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-13T08:55:37+00:00"
+  },
+  {
+   "id": "c8c8b18171c8",
+   "title": "C Gold Award 2026: ufficializzati i dieci calciatori del Casarano in corsa per il premio della Serie C",
+   "summary": "CASARANO (Lecce) – Ci sono anche dieci protagonisti della rosa del Casarano tra i 600 calciatori selezionati per l’edizione 2026 del C Gold Award, il riconoscimento ideato e promosso da Affidabile.or…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/c-gold-award-2026-ufficializzati-i-dieci-calciatori-del-casarano-in-corsa-per-il-premio-della-serie-c/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-13T08:38:55+00:00"
+  },
+  {
+   "id": "0f9ef8a22424",
+   "title": "Divampano le fiamme in camera da letto e una coppia finisce in ospedale",
+   "summary": "Lecce – Incendio in un’abitazione per cause in corso di verifica e due persone finiscono in ospedale. L’episodio si è verificato durante la notte appena trascorsa: alle ore 4:10, una squadra dei Vigi…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/divampano-le-fiamme-in-camera-da-letto-e-una-coppia-finisce-in-ospedale/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-13T06:47:52+00:00"
+  },
+  {
+   "id": "d74d40bb681b",
+   "title": "L’almanacco di oggi 13 novembre",
+   "summary": "Il Santo del giorno: San Diego. Il proverbio di Mesciu Ronzu: Quandu chioe e tira ientu alli cuiuni a stare attentu. Significato: Quando piove e tira vento alle palle devi stare attento. – Sono nati…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/lalmanacco-di-oggi-13-novembre/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-13T06:10:38+00:00"
+  },
+  {
+   "id": "5554116f7ccb",
+   "title": "Serie D: esame Aversa per la capolista V. Francavilla. Il Brindisi pronto a ripartire",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-12-203524.png",
+   "url": "https://trnews.it/2026/11/13/serie-d-esame-aversa-per-la-capolista-v-francavilla-il-brindisi-pronto-a-ripartire",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-11-13T06:06:04+00:00"
+  },
+  {
+   "id": "321d63358f8b",
+   "title": "Serie C, Bari-Foggia: derby ricco di storia e di tensione... in panchina",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-12-204243.png",
+   "url": "https://trnews.it/2026/11/13/serie-c-bari-foggia-derby-ricco-di-storia-e-di-tensione-in-panchina",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-11-13T06:01:09+00:00"
+  },
+  {
+   "id": "23f4c7863df9",
+   "title": "Londra riscopre Basaglia",
+   "summary": "Il servizio sanitario inglese sperimenta i centri di salute mentale ispirati al modello di Franco Basaglia. In Italia, invece, i servizi di salute mentale peggiorano con sempre meno strutture, meno p…",
+   "image": "https://public.flourish.studio/visualisation/30892785/thumbnail",
+   "url": "https://www.irpimedia.eu/londra-riscopre-basaglia-salute-mentale-strutture-italia/",
+   "source": "IrpiMedia",
+   "category": "Salute",
+   "zone": "Italia",
+   "published_at": "2026-11-13T06:00:00+00:00"
+  },
+  {
+   "id": "dc23887e0d2e",
+   "title": "La ricetta del giorno: Spaghetti al pesto",
+   "summary": "Ingredienti per 4 persone 50 gr di foglie di basilico 50 ml di olio evo 100 gr di Parmigiano Reggiano grattugiato 50 gr di formaggio pecorino grattugiato 2 spicchi di aglio 25 gr di pinoli Sale gross…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/ricetta-del-giorno-spaghetti-al-pesto/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-13T05:00:48+00:00"
+  },
   {
    "id": "32f64557948a",
    "title": "Nuove sonorità pop-elettroniche per Veetti: fuori a mezzanotte “Goodnight”",
@@ -26,7 +235,7 @@
   {
    "id": "2baadb9ae047",
    "title": "Tomba profanata per rubare: indagati madre, figlio e compro oro. Due indagati per colpi di pistola studio odeontotecnico",
-   "summary": "TAVIANO (Lecce) – Si introdussero nel cimitero di Taviano nella notte tra il 12 e il 13 aprile scorsi per profanare la tomba di un’insegnante morta il 5 gennaio 2014 a 87 anni. Dopo aver scavato e di…",
+   "summary": "TAVIANO (Lecce) – Si introdussero nel cimitero di Taviano nella notte tra il 12 e il 13 aprile scorsi per profanare la tomba di un’insegnante morta il 5 gennaio 2014, a 87 anni. Dopo aver scavato e d…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/11/tomba-profanata-per-rubare-indagati-madre-figlio-e-compro-oro-due-indagati-per-colpi-di-pistola-studio-odeontotecnico/",
    "source": "Corriere Salentino",
@@ -47,7 +256,7 @@
   },
   {
    "id": "38c57d4144cc",
-   "title": "Strage Nassiriyah, ventitré anni dopo, tribunale disponde risarcimento per fratelli del soldato salentino",
+   "title": "Strage Nassiriya, ventitré anni dopo, tribunale disponde risarcimento per fratelli del militare salentino",
    "summary": "TREPUZZI (Lecce) – Nel giorno in cui ricade l’anniversaio dalla strage di Nassiriyah – correva il 12 novembre 2003 – il fratello e la sorella del caporal maggiore Alessandro Carrisi, originario di Tr…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/11/strage-nassyriah-ventitre-anni-dopo-tribunale-disponde-risarcimento-per-fratelli-del-soldato-salentino/",
@@ -486,6 +695,17 @@
    "published_at": "2026-11-12T10:50:52+00:00"
   },
   {
+   "id": "344eb1a96673",
+   "title": "Taranto avanti in Coppa Italia ma tra i fischi",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Still0412_00000-2-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/12/taranto-avanti-in-coppa-italia-ma-tra-i-fischi",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-11-12T10:25:19+00:00"
+  },
+  {
    "id": "4951d5318c1e",
    "title": "Basi russe in Libia e rotte verso il Sahel: la morsa di Mosca nel Mediterraneo",
    "summary": "Armi russe a Tobruk, basi nel deserto e droni low cost: l'avanzata dell'Africa Corps tra Libia, Sahel e Sudan minaccia la sicurezza del Mediterraneo.",
@@ -539,17 +759,6 @@
    "category": "Sport",
    "zone": "Brindisi",
    "published_at": "2026-11-12T09:37:59+00:00"
-  },
-  {
-   "id": "344eb1a96673",
-   "title": "Taranto avanti in Coppa Italia ma tra i fischi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Still0412_00000-2-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/12/taranto-avanti-in-coppa-italia-ma-tra-i-fischi",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-11-12T09:25:19+00:00"
   },
   {
    "id": "b14023f407a9",
@@ -1914,140 +2123,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-10T10:40:29+00:00"
-  },
-  {
-   "id": "3470f69617bd",
-   "title": "Meteo di domani 11 novembre nel Salento: previsioni, temperature e cosa aspettarsi",
-   "summary": "Puglia – Condizioni di tempo asciutto nel corso della giornata su tutta la regione con molte nuvole in transito sia al mattino che al pomeriggio. In serata e nottata si rinnovano condizioni di tempo…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/meteo-di-domani-11-novembre-nel-salento-previsioni-temperature-e-cosa-aspettarsi/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-10T09:30:20+00:00"
-  },
-  {
-   "id": "7102bcae7761",
-   "title": "Basket in carrozzina, parte bene Lupiae Team Salento",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG-20261109-WA0038.jpg",
-   "url": "https://trnews.it/2026/11/10/basket-in-carrozzina-parte-bene-lupiae-team-salento",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-10T09:30:18+00:00"
-  },
-  {
-   "id": "ae0fc1c6cee6",
-   "title": "Tarantismo, incontro con Eugenio Imbriani al Museo Castromediano",
-   "summary": "MELPIGNANO (Lecce) – Giovedì 12 novembre alle ore 17.30, al Museo Sigismondo Castromediano di Lecce si terrà la presentazione del volume Breve storia del Tarantismo di Eugenio Imbriani, pubblicato da…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/tarantismo-incontro-con-eugenio-imbriani-al-museo-castromediano-2/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-11-10T08:53:59+00:00"
-  },
-  {
-   "id": "ab828bd5e0e4",
-   "title": "La Nostra Famiglia celebra 35 anni di riabilitazione a Lecce al fianco di bambine e bambini speciali",
-   "summary": "LECCE – Il Centro di Riabilitazione “La Nostra Famiglia” di Lecce taglia il traguardo dei 35 anni di attività al servizio delle bambine e dei bambini con disabilità. Per celebrare questo importante a…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/la-nostra-famiglia-celebra-35-anni-di-riabilitazione-a-lecce-al-fianco-di-bambine-e-bambini-speciali/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-10T08:33:55+00:00"
-  },
-  {
-   "id": "9168b14b2858",
-   "title": "Perché i colloqui di Abu Dhabi non metteranno fine alla guerra della Russia contro l’Ucraina",
-   "summary": "Negoziati di Abu Dhabi tra Russia e Ucraina: dietro l'apertura di facciata di Mosca si celano il tentativo di sfruttare la vanità di Donald Trump, l'immutata pretesa della resa ucraina e la scommessa…",
-   "image": null,
-   "url": "https://www.valigiablu.it/colloqui-abu-dhabi-guerra-russia-ucraina-pace/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-10T07:54:51+00:00"
-  },
-  {
-   "id": "c6c35699a16b",
-   "title": "No Tav, circa 300 manifestanti ripresi dalla testa ai piedi: «Schedatura di massa»",
-   "summary": "Il sistema Sari cerca corrispondenze negli archivi dei fotosegnalati. La polizia studia anche come riconoscere le persone dall’andatura, ma il Viminale nega sperimentazioni sui video delle manifestaz…",
-   "image": null,
-   "url": "https://irpimedia.irpi.eu/manifestazioni-riconoscimento-sistema-sari/?utm_source=rss&utm_medium=rss&utm_campaign=manifestazioni-riconoscimento-sistema-sari",
-   "source": "IrpiMedia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-10T07:43:00+00:00"
-  },
-  {
-   "id": "14ce123af8f9",
-   "title": "Smartphone al Black Friday: meglio l’ultimo modello o quello dell’anno scorso?",
-   "summary": "Ogni autunno si ripete lo stesso copione. I nuovi top di gamma arrivano sugli scaffali, accompagnati da presentazioni scintillanti e listini che superano facilmente i mille euro. Nel frattempo, i mod…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/smartphone-al-black-friday-meglio-lultimo-modello-o-quello-dellanno-scorso/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-10T07:17:07+00:00"
-  },
-  {
-   "id": "d5d655bdb1ea",
-   "title": "Il programma di aiuti di Frontex per chi accetta il rimpatrio “volontario” ha violato il diritto Ue",
-   "summary": "Per anni Frontex ha agevolato le cosiddette \"partenze volontarie\" dei cittadini stranieri residenti sul territorio europeo senza i provvedimenti di rimpatrio previsti dalla legge e violando nei fatti…",
-   "image": "https://altreconomia.it/app/uploads/2026/11/signal-2026-11-04-14-49-09-096.jpg",
-   "url": "https://altreconomia.it/il-programma-di-aiuti-di-frontex-per-chi-accetta-il-rimpatrio-volontario-ha-violato-il-diritto-ue/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-10T07:00:14+00:00"
-  },
-  {
-   "id": "02b17c1237f4",
-   "title": "In Puglia il valore terreni agricoli sale solo dello 0,9%, sotto l’inflazione",
-   "summary": "PUGLIA – Rallenta la crescita del valore dei terreni agricoli in Puglia, con un incremento medio dello 0,9% nel 2025, quasi dimezzato rispetto al +1,7% dell’anno precedente e inferiore all’inflazione…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/in-puglia-il-valore-terreni-agricoli-sale-solo-dello-09-sotto-linflazione/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-10T05:34:39+00:00"
-  },
-  {
-   "id": "7cf7c05bc671",
-   "title": "L’almanacco di oggi 10 novembre",
-   "summary": "Il Santo del giorno: S. Leone Magno papa. Il proverbio di Mesciu Ronzu: Quànnu cachi cu lu culu tou, tànnu sai. Significato: Quando fai la cacca con il tuo culo, allora saprai.Quando sarai indipenden…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/lalmanacco-di-oggi-10-novembre/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-10T05:30:29+00:00"
-  },
-  {
-   "id": "d28158ab83f6",
-   "title": "Ricetta del giorno: Risotto al limone",
-   "summary": "Ingredienti per 4 persone: 400 gr di riso 1 litro di brodo vegetale 150 gr di Parmigiano Reggiano grattugiato 50 gr di burro Due cucchiai di olio evo 2 limoni bioligici italiani Prezzemolo fresco tri…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/ricetta-del-giorno-risotto-al-limone/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-10T04:00:35+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-13T02:59:26.062226+00:00",
+   "last_ok": "2026-11-13T10:33:21.486455+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-13T02:59:26.062226+00:00",
+   "last_ok": "2026-11-13T10:33:21.486455+00:00",
    "error": null
   },
   {
@@ -2059,19 +2147,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-13T02:59:26.062226+00:00",
+   "last_ok": "2026-11-13T10:33:21.486455+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-13T02:59:26.062226+00:00",
+   "last_ok": "2026-11-13T10:33:21.486455+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-13T02:59:26.062226+00:00",
+   "last_ok": "2026-11-13T10:33:21.486455+00:00",
    "error": null
   }
  ]
