@@ -1,6 +1,160 @@
 {
- "updated_at": "2026-11-14T03:43:31.955407+00:00",
+ "updated_at": "2026-11-14T11:00:23.044687+00:00",
  "items": [
+  {
+   "id": "1fcb01311911",
+   "title": "Lecce, dopo \"Viaggi di Nozze\" Falcone rincontra Verdone. C'era pure Sticchi",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/5e631237-3859-4b08-9fb3-41755e82a793-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/14/lecce-dopo-viaggi-di-nozze-falcone-rincontra-verdone-cera-pure-sticchi",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T10:41:59+00:00"
+  },
+  {
+   "id": "8789091e485d",
+   "title": "Torre dell’Orso più green: partiti i lavori sul lungomare. Nuovi camminamenti lungo le falesie a Sant’Andrea",
+   "summary": "MELENDUGNO – La parola d’ordine è rinaturalizzare: ossia restituire alla natura quello che l’uomo si è preso, creando un nuovo spazio dove sarà gradevole sostare e ammirare il mare tra fiori, prati e…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/Torre-dellOrso-300x225.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/torre-dellorso-piu-green-partiti-i-lavori-sul-lungomare-nuovi-camminamenti-lungo-le-falesie-a-santandrea/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T10:11:31+00:00"
+  },
+  {
+   "id": "59efb00289f1",
+   "title": "Michelangelo Schipa ed il triste oblio della memoria",
+   "summary": "In via Palmieri, nel cuore della Lecce antica, in quella che fu la sua casa, si è persa traccia della targa, in pietra leccese, che l’Amministrazione provinciale volle dedicare al Prof. Michelangelo…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/a391f462-c6a7-428b-b00c-c43a85a78d29-300x225.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/794773/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T09:12:16+00:00"
+  },
+  {
+   "id": "10a4ae6f3aed",
+   "title": "Volley A2/F: Melendugno prova l'assalto a Messina",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/volley-819x1024.jpg",
+   "url": "https://trnews.it/2026/11/14/volley-a2-f-melendugno-prova-lassalto-a-messina",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T09:04:27+00:00"
+  },
+  {
+   "id": "8817127f8916",
+   "title": "Food blogger in vetrina: torta salata con rose di peperoni di Sara Morabito",
+   "summary": "Raddoppia l’appuntamento con la rubrica “Food blogger in vetrina” e questo mercoledì incontriamo la food blogger Sara Morabito, classe ’89, che di se stessa dice: “Non cucino per passione… ma mangio…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2018/01/DC1ED63D-80FE-4C33-B461-DC8D73AA7136-400x202.png",
+   "url": "https://www.corrieresalentino.it/2026/11/food-blogger-vetrina-torta-salata-con-rose-di-peperoni-di-sara-morabito/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-14T08:45:45+00:00"
+  },
+  {
+   "id": "c8ef66dc8537",
+   "title": "Racale, colpisce il padre con un martello mentre dorme: grave 54enne",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/02/carabinieri-ambulanza-118-notte-2.jpg",
+   "url": "https://trnews.it/2026/11/14/racale-colpisce-il-padre-con-un-martello-mentre-dorme-grave-54enne",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T08:30:40+00:00"
+  },
+  {
+   "id": "334dded1cc54",
+   "title": "Poche reti: Di Francesco prova a sbloccare l'attacco",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/LECCE-FOTO-PINTO--1024x767.jpeg",
+   "url": "https://trnews.it/2026/11/14/poche-reti-di-francesco-prova-a-sbloccare-lattacco",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T08:27:02+00:00"
+  },
+  {
+   "id": "4340de51542a",
+   "title": "Paura all’alba: un automobilista perde il controllo e si schianta contro il muro di una villetta",
+   "summary": "Ruffano (Lecce) – Lo schianto violento e ovviamente tanta paura questa mattina, alle prime luci dell’alba, a Ruffano, dove si è verificato un incidente stradale autonomo. ​Per cause ancora in corso d…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/paura-allalba-un-automobilista-perde-il-controllo-e-si-schianta-contro-il-muro-di-una-villetta/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T08:25:30+00:00"
+  },
+  {
+   "id": "b8ac2437e806",
+   "title": "Violenza in casa, un 16enne colpisce il padre a martellate, l’uomo è in Rianimazione",
+   "summary": "Racale (Lecce) – Ancora violenza e un dramma familiare a Racale. Un giovane di 16 anni, nel corso della notte appena trascorsa, avrebbe colpito a martellate sulla testa il padre 53enne, nell’abitazio…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/violenza-in-casa-un-16enne-colpisce-il-padre-a-martellate-luomo-e-in-rianimazione/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T07:33:57+00:00"
+  },
+  {
+   "id": "63d8131b5e71",
+   "title": "Taranto a Galatina per cercare di ritrovare la strada",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/taranto-calcio-scaled-e1785841226512-1024x878.jpg",
+   "url": "https://trnews.it/2026/11/14/taranto-a-galatina-per-cercare-di-ritrovare-la-strada",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-11-14T07:28:41+00:00"
+  },
+  {
+   "id": "dcb627c4a0b8",
+   "title": "Oggi su Tele Rama Sport Club",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Sport-Club-2.jpg",
+   "url": "https://trnews.it/2026/11/14/oggi-su-tele-rama-sport-club-2",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-11-14T06:35:32+00:00"
+  },
+  {
+   "id": "7e0aada654a3",
+   "title": "L’almanacco di oggi 14 novembre",
+   "summary": "Il Santo del giorno: San Giocondo. Il proverbio di Mesciu Ronzu: Quandu è francu ungime tuttu! Significato: Quando è gratis (l’olio) ungimi tutto. – Sono nati in questo giorno 1755 Maria Antonietta 1…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/lalmanacco-di-oggi-14-novembre/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-14T06:00:13+00:00"
+  },
+  {
+   "id": "94c7dd93c58a",
+   "title": "La ricetta del giorno: vellutata di zucca con zenzero",
+   "summary": "Ingredienti 800 gr di zucca 250 gr di patate 1 cipolla 500 ml di brodo vegetale sale olio prezzemolo Semi di zucca tostati e sbucciati 30 gr di burro 1 cucchiaino di zenzero Procedimento Eliminare la…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/la-ricetta-del-giorno-vellutata-di-zucca-con-zenzero/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-14T05:24:10+00:00"
+  },
+  {
+   "id": "a9c36fe6d147",
+   "title": "Midterm USA 2026: contro Trump e contro il tecnofascismo della Silicon Valley",
+   "summary": "Dalle urne un no netto a Big Tech e Elon Musk: perché gli americani hanno respinto l’AI degli oligarchi e il progetto tecnofascista.",
+   "image": "https://www.valigiablu.it/wp-content/uploads/2026/11/01-1024x737.jpg",
+   "url": "https://www.valigiablu.it/midterm-usa-data-center-ai-tecnofascismo-midterm/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-14T04:56:00+00:00"
+  },
   {
    "id": "9635ae1b53d3",
    "title": "La controversia per un muro divisorio con una parente finisce in tribunale: notaia e professore a processo",
@@ -90,6 +244,17 @@
    "published_at": "2026-11-13T18:13:28+00:00"
   },
   {
+   "id": "b30836963972",
+   "title": "Giornata della Gentilezza, a Bari l'educazione all'empatia parte dai banchi dell'infanzia",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/giornata-della-gentilezza-1024x564.jpeg",
+   "url": "https://trnews.it/2026/11/13/giornata-della-gentilezza-a-bari-leducazione-allempatia-parte-dai-banchi-dellinfanzia",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-13T17:37:38+00:00"
+  },
+  {
    "id": "e4789e8d4efb",
    "title": "N’Dri: la crescita, l’obiettivo, la squadra. Ecco il segreto del Lecce",
    "summary": "LECCE – “Siamo una famiglia prima di essere una squadra”. È questa l’immagine che N’Dri sceglie per descrivere lo spogliatoio del Lecce, un gruppo unito che ha raggiunto quota dieci punti prima della…",
@@ -110,17 +275,6 @@
    "category": "Cronaca",
    "zone": "Brindisi",
    "published_at": "2026-11-13T16:59:03+00:00"
-  },
-  {
-   "id": "b30836963972",
-   "title": "Giornata della Gentilezza, a Bari l'educazione all'empatia parte dai banchi dell'infanzia",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/giornata-della-gentilezza-1024x564.jpeg",
-   "url": "https://trnews.it/2026/11/13/giornata-della-gentilezza-a-bari-leducazione-allempatia-parte-dai-banchi-dellinfanzia",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-13T16:37:38+00:00"
   },
   {
    "id": "aa4e099a6429",
@@ -178,6 +332,17 @@
    "published_at": "2026-11-13T15:30:02+00:00"
   },
   {
+   "id": "8a320f790a70",
+   "title": "Il carcere “scoppia”: +600 detenuti rispetto alla capienza prevista",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2024/10/borgo-san-nicola-lecce-carcere-653x367-1.jpg",
+   "url": "https://trnews.it/2026/11/13/il-carcere-scoppia-600-detenuti-rispetto-alla-capienza-prevista",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-13T14:52:40+00:00"
+  },
+  {
    "id": "59d29b862da2",
    "title": "“Sempre gli stessi occhi”: il nuovo singolo di Riccardo Marti",
    "summary": "",
@@ -200,17 +365,6 @@
    "published_at": "2026-11-13T14:28:33+00:00"
   },
   {
-   "id": "8a320f790a70",
-   "title": "Il carcere “scoppia”: +600 detenuti rispetto alla capienza prevista",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2024/10/borgo-san-nicola-lecce-carcere-653x367-1.jpg",
-   "url": "https://trnews.it/2026/11/13/il-carcere-scoppia-600-detenuti-rispetto-alla-capienza-prevista",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-13T13:52:40+00:00"
-  },
-  {
    "id": "c970c956484b",
    "title": "Choc a Gallipoli, stroncato da un infarto a 54 anni l’ex vicesindaco e candidato a sindaco",
    "summary": "Gallipoli (Lecce) – Stroncato da un infarto, a 54 anni. Gallipoli sotto choc oggi per l’improvvisa scomparsa di Tony Piteo, avvocato ed ex vicesindaco di Gallipoli. Un anno fa, alle elezioni comunali…",
@@ -220,6 +374,17 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-11-13T13:46:54+00:00"
+  },
+  {
+   "id": "fd9d59230c19",
+   "title": "Sfuma il titolo italiano, Donno comunque protagonista al Mugello",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/lamborghini-donno-1024x538.jpg",
+   "url": "https://trnews.it/2026/11/13/sfuma-il-titolo-italiano-donno-comunque-protagonista-al-mugello",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-13T13:36:10+00:00"
   },
   {
    "id": "ad0e06df862a",
@@ -255,17 +420,6 @@
    "published_at": "2026-11-13T13:01:15+00:00"
   },
   {
-   "id": "fd9d59230c19",
-   "title": "Sfuma il titolo italiano, Donno comunque protagonista al Mugello",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/lamborghini-donno-1024x538.jpg",
-   "url": "https://trnews.it/2026/11/13/sfuma-il-titolo-italiano-donno-comunque-protagonista-al-mugello",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-13T12:36:10+00:00"
-  },
-  {
    "id": "35f0a2db3f27",
    "title": "Porto di San Cataldo, le dieci domande di Lcp sui 25 milioni: dal progetto alle opere a terra, fino al futuro del Pug",
    "summary": "LECCE – Che cosa finanziano davvero i 25 milioni destinati al porto turistico di San Cataldo? Esiste un progetto approvato? Dove sorgeranno parcheggi, strade e servizi necessari a farlo funzionare? E…",
@@ -275,6 +429,17 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-11-13T12:30:10+00:00"
+  },
+  {
+   "id": "6dc55dbb56a8",
+   "title": "N'Dri: \" A Lecce sono cresciuto tanto, voglio la salvezza\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/ndri-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/13/ndri-a-lecce-sono-cresciuto-tanto-voglio-la-salvezza",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-13T12:15:41+00:00"
   },
   {
    "id": "cab757c2c241",
@@ -310,6 +475,17 @@
    "published_at": "2026-11-13T11:47:32+00:00"
   },
   {
+   "id": "4c761c5f3157",
+   "title": "Sanità, FIMMG contro la Regione: \"pronti alla mobilitazione\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2024/09/medici.jpg",
+   "url": "https://trnews.it/2026/11/13/sanita-fimmg-contro-la-regione-pronti-alla-mobilitazione",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-13T11:31:07+00:00"
+  },
+  {
    "id": "b094a38a152a",
    "title": "Rimborsi fiscali alla zia, nipoti patteggiano: pene sospese. La difesa chiarisce",
    "summary": "",
@@ -332,17 +508,6 @@
    "published_at": "2026-11-13T11:17:23+00:00"
   },
   {
-   "id": "6dc55dbb56a8",
-   "title": "N'Dri: \" A Lecce sono cresciuto tanto, voglio la salvezza\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/ndri-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/13/ndri-a-lecce-sono-cresciuto-tanto-voglio-la-salvezza",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-13T11:15:41+00:00"
-  },
-  {
    "id": "f8e5b22608de",
    "title": "Anziana cade in casa, ma l'ambulanza arriva dopo oltre un'ora",
    "summary": "",
@@ -363,17 +528,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-11-13T10:43:00+00:00"
-  },
-  {
-   "id": "4c761c5f3157",
-   "title": "Sanità, FIMMG contro la Regione: \"pronti alla mobilitazione\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2024/09/medici.jpg",
-   "url": "https://trnews.it/2026/11/13/sanita-fimmg-contro-la-regione-pronti-alla-mobilitazione",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-13T10:31:07+00:00"
   },
   {
    "id": "f3569a4a2e4b",
@@ -1672,371 +1826,19 @@
    "category": "Sport",
    "zone": "Brindisi",
    "published_at": "2026-11-11T11:11:24+00:00"
-  },
-  {
-   "id": "dc5f8525e2b6",
-   "title": "Brindisi, battere l'Ischia per dimenticare il Melfi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/10/ROBERTOTAURINO-1600x900-1-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/11/brindisi-battere-lischia-per-dimenticare-il-melfi",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-11-11T10:56:28+00:00"
-  },
-  {
-   "id": "7b71759cf819",
-   "title": "Emma entra in classe: ha preso il via dall’Istituto Comprensivo “Quinto Ennio – Battisti” il tour di SGM nelle scuole",
-   "summary": "LECCE – È partito dalla Scuola Media dell’Istituto Comprensivo “Quinto Ennio – Battisti” il tour di Emma nelle scuole del territorio, l’iniziativa promossa da SGM per avvicinare i più giovani al tras…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/emma-entra-in-classe-ha-preso-il-via-dallistituto-comprensivo-quinto-ennio-battisti-il-tour-di-sgm-nelle-scuole/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T10:47:50+00:00"
-  },
-  {
-   "id": "5ef6fee7e121",
-   "title": "Auto in fiamme nella notte: distrutta una Lancia Ypsilon. Danni a un’altra vettura e a un’abitazione",
-   "summary": "ARADEO (Lecce) – Fiamme nel cuore della notte ad Aradeo, dove un rogo improvviso ha distrutto un’autovettura in sosta e provocato danni per irraggiamento a un secondo veicolo e a un edificio residenz…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/auto-in-fiamme-nella-notte-distrutta-una-lancia-ypsilon-danni-a-unaltra-vettura-e-a-unabitazione/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T10:40:06+00:00"
-  },
-  {
-   "id": "e3056c1545f5",
-   "title": "Spied on by governments with Israeli spyware: in Europe, no one pays the price",
-   "summary": "EU journalists, activists and political opponents targeted by invasive spyware. From Italy to Greece, five stories expose how state secrecy and obstructed investigations deny victims justice, while t…",
-   "image": null,
-   "url": "https://irpimedia.irpi.eu/spied-on-by-governments-with-israeli-spyware-in-europe-no-one-pays-the-price/?utm_source=rss&utm_medium=rss&utm_campaign=spied-on-by-governments-with-israeli-spyware-in-europe-no-one-pays-the-price",
-   "source": "IrpiMedia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-11T10:37:46+00:00"
-  },
-  {
-   "id": "230fe61d446c",
-   "title": "Lecce, lo scheletro di cemento che esaspera il quartiere: “Il degrado peggiora”. Interrogazione di Rotundo",
-   "summary": "LECCE – La rete arancione del cantiere è finita a terra, inghiottita dalle erbacce. Dietro, uno scheletro di cemento mostra stanze vuote, mattoni scoperti e aperture senza infissi. Il tempo sembra es…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/6c161f3f-3958-46c6-bad5-4b0d042c4868-1-300x294.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/11/lecce-lo-scheletro-di-cemento-che-esaspera-il-quartiere-il-degrado-peggiora-interrogazione-di-rotundo/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T10:35:07+00:00"
-  },
-  {
-   "id": "465f87c0033a",
-   "title": "Nuove strisce blu a Lecce, Cgil: “Il lavoro paga il conto”",
-   "summary": "“Il lavoro paga il conto”. Da questa mattina in città centinaia di manifesti della Cgil Lecce lanciano un messaggio inequivocabile e difficilmente contestabile: il nuovo piano dei parcheggi a pagamen…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/nuove-strisce-blu-a-lecce-cgil-il-lavoro-paga-il-conto/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T10:33:35+00:00"
-  },
-  {
-   "id": "87609f085e1c",
-   "title": "Busta con proiettile all’ imprenditore Scupola: “Nessuno può impormi il silenzio”",
-   "summary": "LECCE – Un proiettile all’interno di una busta insieme ad una sua foto e un messaggio con l’invito a non andare in televisione e a non utilizzare più i social. È l’atto intimidatorio subito lo scorso…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/busta-con-proiettile-all-imprenditore-scupola-nessuno-puo-impormi-il-silenzio/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T10:30:51+00:00"
-  },
-  {
-   "id": "b6157c6e040a",
-   "title": "Casarano, sabato il Picerno al \"Capozza\" per il pronto riscatto",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Zauri-20-ott-1024x536.jpg",
-   "url": "https://trnews.it/2026/11/11/casarano-sabato-il-picerno-al-capozza-per-il-pronto-riscatto",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T10:20:39+00:00"
-  },
-  {
-   "id": "311f58d910c9",
-   "title": "Meteo di domani 12 novembre nel Salento: previsioni, temperature e cosa aspettarsi",
-   "summary": "Puglia – Nuvolosità in transito nel corso della giornata su tutta la regione ma con tempo per lo più asciutto sia al mattino che al pomeriggio, salvo locali fenomeni sui settori settentrionali. In se…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/meteo-di-domani-12-novembre-nel-salento-previsioni-temperature-e-cosa-aspettarsi/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T10:16:04+00:00"
-  },
-  {
-   "id": "d78676fd177e",
-   "title": "EVOLIO Expo 2027: dalla tavola ai mercati internazionali, nuove opportunità per l’olio EVO italiano",
-   "summary": "BARI – Con 42 DOP e 8 IGP, l’olio extravergine di oliva italiano rappresenta un patrimonio di qualità e biodiversità che, per affermarsi sui mercati internazionali, deve essere non soltanto riconosci…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/evolio-expo-2027-dalla-tavola-ai-mercati-internazionali-nuove-opportunita-per-lolio-evo-italiano/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-11T10:14:21+00:00"
-  },
-  {
-   "id": "cd3575a7f1eb",
-   "title": "Percorsi di legalità: 500 studenti a Lecce sono andati “in scena con la Polizia di Stato”",
-   "summary": "Lecce. Una vera e propria lezione di cittadinanza attiva, lontana dai banchi tradizionali ma vicina al linguaggio dei giovani. Si è svolto in un clima di grande entusiasmo e interattività l’atteso ev…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/percorsi-di-legalita-6-560x420.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/11/percorsi-di-legalita-500-studenti-a-lecce-sono-andati-in-scena-con-la-polizia-di-stato/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T09:55:55+00:00"
-  },
-  {
-   "id": "eda5a2fd87f4",
-   "title": "Eccellenza, Taranto: mercoledì di Coppa, esordio per il duo Cioffi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/08/ss-taranto-2025.jpg",
-   "url": "https://trnews.it/2026/11/11/eccellenza-taranto-mercoledi-di-coppa-esordio-per-il-duo-cioffi",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-11-11T09:48:29+00:00"
-  },
-  {
-   "id": "b7d569786193",
-   "title": "Anemos, Nardò più resiliente ai cambiamenti climatici",
-   "summary": "NARDO‘ (Lecce) – Il Comune di Nardò compie un nuovo e importante passo in avanti nel percorso verso l’adattamento ai cambiamenti climatici e la tutela delle aree costiere, sempre più esposte a fenome…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/anemos-nardo-piu-resiliente-ai-cambiamenti-climatici/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T09:44:19+00:00"
-  },
-  {
-   "id": "a8c06bf67798",
-   "title": "Teatri Locomotive, la rassegna dalle mille anime",
-   "summary": "SALENTO – Il jazz sa essere un linguaggio aperto, capace di attraversare generi e forme espressive diverse, ed è proprio da questa certezza che il direttore artistico di Locomotive Jazz Festival, Raf…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/teatri-locomotive-la-rassegna-dalle-mille-anime/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T09:41:58+00:00"
-  },
-  {
-   "id": "0cb3fbb6dae1",
-   "title": "Giovedì 12 novembre al Teatro Comunale di Nardò il teatrodanza di Zerogrammi 25º, primo appuntamento della rassegna Quarta Parete",
-   "summary": "NARDO‘ (Lecce) – Domani, giovedì 12 novembre, alle 21, sul palco del Teatro Comunale di Nardò (Le) arriva il teatrodanza di Stefano Mazzotta e Chiara Guglielmi, su musiche di Erik Satie, con Zerogram…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/giovedi-12-novembre-al-teatro-comunale-di-nardo-il-teatrodanza-di-zerogrammi-25o-primo-appuntamento-della-rassegna-quarta-parete/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T09:14:41+00:00"
-  },
-  {
-   "id": "c9cd62a3999f",
-   "title": "La seconda edizione di Digeat Festival chiude con il manifesto “Magnifica Digitalità”",
-   "summary": "LECCE – Un Manifesto per riportare la persona, la responsabilità e il pensiero critico al centro della trasformazione digitale. È il risultato principale della seconda edizione di DIGEAT Festival, ch…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/la-seconda-edizione-di-digeat-festival-chiude-con-il-manifesto-magnifica-digitalita/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T09:10:20+00:00"
-  },
-  {
-   "id": "83b5304eebfe",
-   "title": "Schumann e Rachmaninov, tra visioni, maschere e ombre: al Teatro Paisiello il recital di Antonio Sicuro",
-   "summary": "LECCE – Una domenica mattina dedicata al grande pianismo romantico, tra virtuosismo, introspezione e immaginazione. È quella proposta dalla Camerata Musicale Salentina con Antonio Sicuro, protagonist…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/schumann-e-rachmaninov-tra-visioni-maschere-e-ombre-al-teatro-paisiello-il-recital-di-antonio-sicuro/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T08:57:07+00:00"
-  },
-  {
-   "id": "d8c2f7b2b68c",
-   "title": "Aradeo, in fiamme un'auto: danni anche a una seconda vettura e a un appartamento",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/6b0355ed-cc17-4507-9b87-6c96e4c79cb4-e1794387371412.jpg",
-   "url": "https://trnews.it/2026/11/11/aradeo-in-fiamme-unauto-danni-anche-a-una-seconda-vettura-e-a-un-appartamento",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T08:56:17+00:00"
-  },
-  {
-   "id": "10d707042fdb",
-   "title": "Spaccata al supermercato a Salve, ladri via a mani vuote",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/23b1dd39-5c86-4a68-9c57-e70a9e3601c9-e1794387276872.jpg",
-   "url": "https://trnews.it/2026/11/11/spaccata-al-supermercato-a-salve-ladri-via-a-mani-vuote",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T08:54:41+00:00"
-  },
-  {
-   "id": "ff35870a8693",
-   "title": "Grande Successo per la Play Tennis Padel di Trepuzzi : promozione in serie C",
-   "summary": "TREPUZZI (Lecce) – La Paly tennis & padel Caludio Cosimo di Trepuzzi del maestro Mino Leone , alla sua prima partecipazione al campionato di serie D di Padel ottiene la promozione al prossimo campion…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/grande-successo-per-la-play-tennis-padel-di-trepuzzi-promozione-in-serie-c/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T08:22:00+00:00"
-  },
-  {
-   "id": "ca0679c3ce78",
-   "title": "Lecce, si riprende a lavorare: dopo la sosta la Lazio",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/DSC_9168-1024x768.jpg",
-   "url": "https://trnews.it/2026/11/11/lecce-si-riprende-a-lavorare-dopo-la-sosta-la-lazio",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T08:18:10+00:00"
-  },
-  {
-   "id": "a6fdcdbbca23",
-   "title": "Attacchi hacker, guerra ibrida e dove sbaglia Crosetto",
-   "summary": "Dai frigoriferi dei supermercati ai falsi allarmi sulla DIA: dietro la \"guerra ibrida\" evocata da Crosetto ci sono pannelli di controllo esposti su internet e vuoti normativi.",
-   "image": null,
-   "url": "https://www.valigiablu.it/hacker-cybersicurezza-guerra-ibrida-crosetto/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-11T08:10:55+00:00"
-  },
-  {
-   "id": "12176fa4b8a4",
-   "title": "Spiati dai governi con spyware israeliani: perché in Europa nessuno paga",
-   "summary": "Giornalisti, attivisti e politici sorvegliati con spyware invasivi. Dall’Italia alla Grecia, cinque storie raccontano come segreti di Stato e indagini bloccate impediscano alle vittime di ottenere gi…",
-   "image": null,
-   "url": "https://irpimedia.irpi.eu/europa-spyware-israeliani-per-spiare-attivisti-e-giornalisti/?utm_source=rss&utm_medium=rss&utm_campaign=europa-spyware-israeliani-per-spiare-attivisti-e-giornalisti",
-   "source": "IrpiMedia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-11T08:06:37+00:00"
-  },
-  {
-   "id": "415821b69910",
-   "title": "Ispezione Oncologico Bari, Pagliaro (FdI): “Sono sei anni che faccio ispezioni, l’ODG e Assostampa se ne sono accorti solo oggi per difendere il collega? Mai violata la privacy dei pazienti”",
-   "summary": "Il capogruppo di Fratelli d’Italia, Paolo Pagliaro, replica all’Ordine e al Sindacato dei Giornalisti. “Noi abbiamo indicato la luna e, invece, si è preferito guardare il dito. Noi avvertiamo un clim…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/ispezione-oncologico-bari-pagliaro-fdi-sono-sei-anni-che-faccio-ispezioni-lodg-e-assostampa-se-ne-sono-accorti-solo-oggi-per-difendere-il-collega-mai-violata-la-privacy-dei-pazienti/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-11T08:05:13+00:00"
-  },
-  {
-   "id": "8a82d00e400d",
-   "title": "Lecce, allarme centravanti: zero gol in undici giornate. A gennaio cercasi disperatamente attaccante",
-   "summary": "Undici giornate, zero gol delle punte. È il dato che più di ogni altro fotografa l’emergenza offensiva del Lecce. Geubbels, Štulić ed Esteban, i centravanti a disposizione di Eusebio Di Francesco, no…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/lecce-allarme-centravanti-zero-gol-in-undici-giornate-a-gennaio-cercasi-disperatamente-attaccante/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T08:02:26+00:00"
-  },
-  {
-   "id": "23ab31221439",
-   "title": "Ad Aradeo Mamma Sira promuove il convegno “L’accompagnamentodel minore: perché il disagio non diventi devianza”",
-   "summary": "ARADEO – Intercettare il disagio dei più giovani prima che si trasformi in marginalità, isolamento o devianza. È questo il cuore del convegno-dibattito “L’accompagnamento del minore: perché il disagi…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/locandina-1-212x300.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/11/ad-aradeo-mamma-sira-promuove-il-convegno-laccompagnamentodel-minore-perche-il-disagio-non-diventi-devianza/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T07:59:14+00:00"
-  },
-  {
-   "id": "fff6d2418403",
-   "title": "Filorosso (Rai 3) – Stragi del ’92, il procuratore De Luca: “La pista nera è ben possibile”. E sull’agenda rossa: “Settori deviati dello Stato si adoperarono per farla sparire”",
-   "summary": "“Questo non è un punto di arrivo, è un punto di partenza e ci sono tanti altri filoni aperti. Tra questi filoni c’è anche la pista nera. La pista nera è ben possibile”. Lo ha dichiarato il procurator…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/filorosso-rai-3-stragi-del-92-il-procuratore-de-luca-la-pista-nera-e-ben-possibile-e-sullagenda-rossa-settori-deviati-dello-stato-si-adoperarono-per-farla-sparire/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-11T07:56:37+00:00"
-  },
-  {
-   "id": "8d8cc9e4e09e",
-   "title": "Aree idonee per le rinnovabili, via libera del Consiglio regionale alla legge. Le regole per lo sviluppo energetico e tutele per agricoltura e territorio",
-   "summary": "La Puglia compie un passo importante nella definizione delle condizioni per l’insediamento di impianti da energie rinnovabili, dotandosi di una disciplina che individua le aree idonee di definizione…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/aree-idonee-per-le-rinnovabili-via-libera-del-consiglio-regionale-alla-legge-le-regole-per-lo-sviluppo-energetico-e-tutele-per-agricoltura-e-territorio/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-11T07:51:42+00:00"
-  },
-  {
-   "id": "cf2f91537c8f",
-   "title": "Vannacci a Filorosso (Rai 3): “Sui cyberattacchi non ho visto la pistola fumante”",
-   "summary": "“Il controspionaggio ci ha detto che sarebbero stati degli hacker russi, ma non è detto che gli hacker russi agiscano in nome del governo russo. La pistola fumante ancora non l’ho vista”. Lo ha dichi…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/Vannacci-01-300x186.jpg",
-   "url": "https://www.corrieresalentino.it/2026/11/vannacci-a-filorosso-rai-3-sui-cyberattacchi-non-ho-visto-la-pistola-fumante/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-11T07:48:14+00:00"
-  },
-  {
-   "id": "9712f88921a8",
-   "title": "E' San Martino: il Salento brinda alla tradizione",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/images-26-e1794325059344.jpg",
-   "url": "https://trnews.it/2026/11/11/e-san-martino-il-salento-brinda-alla-tradizione",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T06:35:47+00:00"
-  },
-  {
-   "id": "4fc6eaf6edd8",
-   "title": "Appalti Asl Bari, tre arresti per corruzione e subappalti illeciti",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/11112026_064518_FOTO-2-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/11/appalti-asl-bari-tre-arresti-per-corruzione-e-subappalti-illeciti",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-11-11T06:19:36+00:00"
-  },
-  {
-   "id": "3eb4fb746d73",
-   "title": "L’almanacco di oggi 11 novembre",
-   "summary": "Il Santo del giorno: S. Martino di Tours. Proverbio del giorno di Mesciu Ronzu: Te Santu Martinu, ogne mostu denta vinu. Significato: Di San Martino, ogni mosto diventa vino. – Sono nati in questo gi…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/53494/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-11T05:50:10+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-14T03:43:31.955407+00:00",
+   "last_ok": "2026-11-14T11:00:23.044687+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-14T03:43:31.955407+00:00",
+   "last_ok": "2026-11-14T11:00:23.044687+00:00",
    "error": null
   },
   {
@@ -2048,19 +1850,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-14T03:43:31.955407+00:00",
+   "last_ok": "2026-11-14T11:00:23.044687+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-14T03:43:31.955407+00:00",
+   "last_ok": "2026-11-14T11:00:23.044687+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-14T03:43:31.955407+00:00",
+   "last_ok": "2026-11-14T11:00:23.044687+00:00",
    "error": null
   }
  ]
