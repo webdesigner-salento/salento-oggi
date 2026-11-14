@@ -1,6 +1,72 @@
 {
- "updated_at": "2026-11-14T17:13:31.343337+00:00",
+ "updated_at": "2026-11-14T21:36:25.790264+00:00",
  "items": [
+  {
+   "id": "2d3d08f43dc5",
+   "title": "San Donaci, nasce un nuovo club giallorosso \"dedicato\" a Liguori",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG-20261114-WA0153.jpg",
+   "url": "https://trnews.it/2026/11/14/san-donaci-nasce-un-nuovo-club-giallorosso-dedicato-a-liguori",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-11-14T21:21:59+00:00"
+  },
+  {
+   "id": "b8ac2437e806",
+   "title": "Violenza in casa, un 16enne colpisce il padre a martellate, l’uomo è in Rianimazione",
+   "summary": "Racale (Lecce) – Ancora violenza e un dramma familiare a Racale. Un giovane di 16 anni, nel corso della notte appena trascorsa, avrebbe colpito a martellate sulla testa il padre 53enne, nell’abitazio…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/violenza-in-casa-un-16enne-colpisce-il-padre-a-martellate-luomo-e-in-rianimazione/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T21:00:57+00:00"
+  },
+  {
+   "id": "bb0cd520ba76",
+   "title": "In auto con un carico di droga, in casa di uno spuntano due pistole: arrestati tre giovanissimi",
+   "summary": "LECCE/MONTERONI – Bloccati mentre sfrecciavano per strada nascondevano in auto un carico di droga e, dopo una perquisizione, saltano fuori un paio di pistole. Nei guai, nel pomeriggio di venerdì, dal…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/in-auto-con-un-carico-di-droga-in-casa-di-uno-spuntano-due-pistole-arrestati-tre-giovanissimi/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T21:00:23+00:00"
+  },
+  {
+   "id": "7fb0327d54cf",
+   "title": "Casarano, Zauri: \"Vittoria importante per il morale e per la classifica\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG-20261114-WA0082-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/14/casarano-zauri-vittoria-importante-per-il-morale",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T20:48:03+00:00"
+  },
+  {
+   "id": "4a62af8391eb",
+   "title": "Serie C: il Bari vince 3-2 il derby con il Foggia",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Serie_C_sky_wifi_2025-2026-701x1024.png",
+   "url": "https://trnews.it/2026/11/14/serie-c-il-bari-strapazza-4-1-il-foggia",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-11-14T18:22:52+00:00"
+  },
+  {
+   "id": "696698ab0b82",
+   "title": "Ingegnere investito e ucciso sulla provinciale, conducente auto era al cellulare e non allertò i soccorsi",
+   "summary": "UGENTO (Lecce) – Si trovava al cellulare (sul social network Instagram) e procedeva a una velocità prossima ai 100 km/h (su una strada in cui il limite è di 70 km/h) quando travolse il ciclista Danie…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/ingegnere-investito-e-ucciso-sulla-provinciale-conducente-auto-era-al-cellulare-e-non-allerto-i-soccorsi/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T17:51:34+00:00"
+  },
   {
    "id": "88be34e565b2",
    "title": "Un progetto a Gallipoli per far rinascere la pineta di Rivabella",
@@ -134,6 +200,17 @@
    "published_at": "2026-11-14T13:17:48+00:00"
   },
   {
+   "id": "a953a8f0d9c4",
+   "title": "Serie C: il programma della 14esima giornata. Alle 14:30 Casarano-Picerno",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Serie_C_sky_wifi_2025-2026-701x1024.png",
+   "url": "https://trnews.it/2026/11/14/serie-c-il-programma-della-14esima-giornata-alle-1430-casarano-picerno",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T12:58:06+00:00"
+  },
+  {
    "id": "6ba49d382fc1",
    "title": "Pass digitali per tutelare i disabili contro le occupazioni abusive degli stalli",
    "summary": "",
@@ -165,17 +242,6 @@
    "category": "Sport",
    "zone": "Brindisi",
    "published_at": "2026-11-14T11:59:49+00:00"
-  },
-  {
-   "id": "a953a8f0d9c4",
-   "title": "Serie C: il programma della 14esima giornata. Alle 14:30 Casarano-Picerno",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Serie_C_sky_wifi_2025-2026-701x1024.png",
-   "url": "https://trnews.it/2026/11/14/serie-c-il-programma-della-14esima-giornata-alle-1430-casarano-picerno",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-14T11:58:06+00:00"
   },
   {
    "id": "2d40960d93eb",
@@ -310,17 +376,6 @@
    "published_at": "2026-11-14T07:35:32+00:00"
   },
   {
-   "id": "b8ac2437e806",
-   "title": "Violenza in casa, un 16enne colpisce il padre a martellate, l’uomo è in Rianimazione",
-   "summary": "Racale (Lecce) – Ancora violenza e un dramma familiare a Racale. Un giovane di 16 anni, nel corso della notte appena trascorsa, avrebbe colpito a martellate sulla testa il padre 53enne, nell’abitazio…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/violenza-in-casa-un-16enne-colpisce-il-padre-a-martellate-luomo-e-in-rianimazione/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-14T07:33:57+00:00"
-  },
-  {
    "id": "7e0aada654a3",
    "title": "L’almanacco di oggi 14 novembre",
    "summary": "Il Santo del giorno: San Giocondo. Il proverbio di Mesciu Ronzu: Quandu è francu ungime tuttu! Significato: Quando è gratis (l’olio) ungimi tutto. – Sono nati in questo giorno 1755 Maria Antonietta 1…",
@@ -362,7 +417,7 @@
    "source": "Corriere Salentino",
    "category": "Cronaca",
    "zone": "Lecce",
-   "published_at": "2026-11-13T19:41:27+00:00"
+   "published_at": "2026-11-13T22:59:27+00:00"
   },
   {
    "id": "6fe479fa4cee",
@@ -373,7 +428,7 @@
    "source": "Corriere Salentino",
    "category": "Cronaca",
    "zone": "Salento",
-   "published_at": "2026-11-13T19:40:12+00:00"
+   "published_at": "2026-11-13T22:59:12+00:00"
   },
   {
    "id": "24ec9ae25fbd",
@@ -1639,173 +1694,19 @@
    "category": "Sport",
    "zone": "Brindisi",
    "published_at": "2026-11-11T21:47:46+00:00"
-  },
-  {
-   "id": "cef9ca8971c8",
-   "title": "Terribile scontro tra due auto sulla Provinciale, due morti e tre feriti in codice rosso",
-   "summary": "Taviano (Lecce) – Due persone morte e tre feriti. Queste le conseguenze, purtroppo, del gravissimo incidente stradale verificatosi nel pomeriggio di oggi, intorno alle ore 17, lungo la Strada Provinc…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/mortale-mancaversa-487x420.jpg",
-   "url": "https://www.corrieresalentino.it/2026/11/terribile-scontro-tra-due-auto-sulla-provinciale-due-morti-e-tre-feriti-in-codice-rosso/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T20:59:54+00:00"
-  },
-  {
-   "id": "47560002e510",
-   "title": "Coppa Italia Eccellenza: Taranto- Acquaviva finisce 2-1. Rossoblu' in semifinale",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/TARANTO-CALCIO-2026-26-PAGINA-FACEBOOK-1024x682.jpeg",
-   "url": "https://trnews.it/2026/11/11/coppa-italia-eccellenza-taranto-acquaviva-finisce-2-1-rossoblu-in-semifinale",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-11-11T20:05:10+00:00"
-  },
-  {
-   "id": "9e14c75d554e",
-   "title": "Scontro tra due auto: perdono la vita marito e moglie. Feriti due sposini",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-11-203609-1024x718.png",
-   "url": "https://trnews.it/2026/11/11/scontro-tra-due-auto-perdono-la-vita-marito-e-moglie-feriti-due-sposini",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T19:36:43+00:00"
-  },
-  {
-   "id": "8ebd7998a25e",
-   "title": "Porto turistico di San Cataldo, l’iter avanza con l’incarico diretto a Foresta. Dall’idea ai 25 milioni, la replica velata a Lcp",
-   "summary": "LECCE – Il porto di San Cataldo avanza e il Comune affida un nuovo passaggio del percorso all’architetto che gli ha dato forma. Alfredo Foresta, autore dell’idea del porto a isola entrata nel program…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/porto-turistico-di-san-cataldo-liter-avanza-con-lincarico-diretto-a-foresta-dallidea-ai-25-milioni-la-replica-velata-a-lcp/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T19:19:45+00:00"
-  },
-  {
-   "id": "86f0caecf71e",
-   "title": "Inchiesta antidroga e antimafia: si sgonfiano le accuse nel processo. Ex commercialista torna in libertà",
-   "summary": "LECCE – Si sgonfiano le accuse per i 17 imputati finiti sotto processo con rito ordinario (la stragrande maggioranza dei soggetti coinvolti è stata processata in abbreviato), nell’ambito della doppia…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/inchiesta-antidroga-e-antimafia-si-sgonfiano-le-accuse-nel-processo-ex-commercialista-torna-in-liberta/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T19:15:47+00:00"
-  },
-  {
-   "id": "9a7d3c3dd133",
-   "title": "Inchiesta usura ai danni di un meccanico: i cinque indagati rispondono alle domande",
-   "summary": "LECCE – Al via gli interrogatori dei cinque presunti cravattari coinvolti nell’inchiesta u un giro di usura ai danni di un meccanico. E tutti e cinque gli indagati hanno deciso di parlare. Nello spec…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/inchiesta-usura-ai-danni-di-un-meccanico-i-cinque-indagati-rispondono-alle-domande/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T19:14:14+00:00"
-  },
-  {
-   "id": "b236e4481971",
-   "title": "Droga e armi, il giudice convalida l’arresto di Manni: per lui domiciliari e braccialetto elettronico",
-   "summary": "MELISSANO (Lecce) – Posto agli arresti domiciliari con l’applicazione del braccialetto elettronico. Questa la misura decisa dal giudice per le indagini preliminari del Tribunale di Lecce Francesco Va…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/droga-e-armi-il-giudice-convalida-larresto-di-manni-per-lui-domiciliari-e-braccialetto-elettronico/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T19:13:11+00:00"
-  },
-  {
-   "id": "9433d7ea0409",
-   "title": "Si presenta in casa dei genitori con lividi e il naso gonfio, arrestato il compagno per maltrattamenti",
-   "summary": "ALESSANO (Lecce) – Si sarebbe presentata in casa dei genitori con un livido al polpaccio e ancora sanguinante con una tumefazione alla testa e il naso gonfio dopo l’ennesimo episodio di violenza nei…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/si-presenta-in-casa-dei-genitori-con-lividi-e-il-naso-gonfio-arrestato-il-compagno-per-maltrattamenti/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T19:09:28+00:00"
-  },
-  {
-   "id": "4c86e4a4d616",
-   "title": "Accusato di falsa testimonianza, noto imprenditore viene assolto al termine del processo",
-   "summary": "GALATONE (Lecce) – Un noto imprenditore di Galatone era stato rinviato a giudizio dalla Procura della Repubblica di Lecce per il reato di falsa testimonianza, Secondo l’accusa, in udienza, quale test…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/accusato-di-falsa-testimonianza-noto-imprenditore-viene-assolto-al-termine-del-processo/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T19:07:22+00:00"
-  },
-  {
-   "id": "5ed2394d1cae",
-   "title": "Oncologico, la replica a Ordine Giornalisti e Assostampa Puglia: “Nessuna violazione della privacy”",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-36-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/11/oncologico-la-replica-a-ordine-giornalisti-e-assostampa-puglia-nessuna-violazione-della-privacy",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-11T17:58:27+00:00"
-  },
-  {
-   "id": "5c055fc49add",
-   "title": "Galatina, viola il divieto di avvicinamento e perseguita i familiari: chiuse le indagini",
-   "summary": "",
-   "image": null,
-   "url": "https://trnews.it/2026/11/11/galatina-viola-il-divieto-di-avvicinamento-e-perseguita-i-familiari-chiuse-le-indagini",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T17:56:49+00:00"
-  },
-  {
-   "id": "213dfe9e3b34",
-   "title": "\"Percorsi di legalità\", all'Apollo la giornata degli studenti con la Polizia di Stato",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/polizia-635x1024.jpeg",
-   "url": "https://trnews.it/2026/11/11/percorsi-di-legalita-allapollo-la-giornata-degli-studenti-con-la-polizia-di-stato",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T17:38:56+00:00"
-  },
-  {
-   "id": "3d9e6c69e904",
-   "title": "L'adrenalina sale sul ring, ecco \"La notte dei gladiatori\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/gladiatori-1024x566.jpeg",
-   "url": "https://trnews.it/2026/11/11/ladrenalina-sale-sul-ring-ecco-la-notte-dei-gladiatori",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T17:31:23+00:00"
-  },
-  {
-   "id": "f2c83f70cfac",
-   "title": "Lecce, dalla musica alla solidarietà, donato uno scalda biberon alla terapia intensiva neonatale del Fazzi",
-   "summary": "Lecce, dalla musica alla solidarietà: donato uno scaldabiberon alla Terapia Intensiva Neonatale del Vito Fazzi Un gesto concreto nato dalla collaborazione tra le associazioni Angeli di Quartiere e Fi…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/lecce-dalla-musica-alla-solidarieta-donato-uno-scalda-biberon-alla-terapia-intensiva-neonatale-del-fazzi/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T17:20:54+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-14T17:13:31.343337+00:00",
+   "last_ok": "2026-11-14T21:36:25.790264+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-14T17:13:31.343337+00:00",
+   "last_ok": "2026-11-14T21:36:25.790264+00:00",
    "error": null
   },
   {
@@ -1817,19 +1718,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-14T17:13:31.343337+00:00",
+   "last_ok": "2026-11-14T21:36:25.790264+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-14T17:13:31.343337+00:00",
+   "last_ok": "2026-11-14T21:36:25.790264+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-14T17:13:31.343337+00:00",
+   "last_ok": "2026-11-14T21:36:25.790264+00:00",
    "error": null
   }
  ]
