@@ -1,6 +1,193 @@
 {
- "updated_at": "2026-11-14T11:00:23.044687+00:00",
+ "updated_at": "2026-11-14T17:13:31.343337+00:00",
  "items": [
+  {
+   "id": "88be34e565b2",
+   "title": "Un progetto a Gallipoli per far rinascere la pineta di Rivabella",
+   "summary": "Gallipoli – Dalle ceneri alla cura: tra Rivabella e Padula Bianca rinasce la pineta grazie a una mobilitazione pedagogica nata da due genitori Dopo il devastante rogo estivo, la raccolta fondi “Un ca…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/un-progetto-a-gallipoli-per-far-rinascere-la-pineta-di-rivabella/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T17:00:11+00:00"
+  },
+  {
+   "id": "6b682eab9440",
+   "title": "Giornata Mondiale delle Vittime della Strada, manifestazione a Nardò",
+   "summary": "GIORNATA MONDIALE DELLE VITTIME DELLA STRADA | NARDÒ, 15 NOVEMBRE 2026 Quel messaggio che non arriverà mai. La memoria delle vittime della strada è un dovere dei vivi di Vincenzo Candido Renna Ci son…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/giornata-mondiale-delle-vittime-della-strada-manifestazione-a-nardo/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T16:40:11+00:00"
+  },
+  {
+   "id": "570c793af4d1",
+   "title": "Il tennis salentino vola in Australia: Pellegrino, Brancaccio e Papamichail convocati per la United Cup",
+   "summary": "Il tricolore sul petto, una nuova sfida internazionale all’orizzonte e la possibilità di misurarsi ancora una volta con l’élite del tennis mondiale. C’è anche una forte impronta salentina nelle convo…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/il-tennis-salentino-vola-in-australia-pellegrino-brancaccio-e-papamichail-convocati-per-la-united-cup/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-11-14T16:17:57+00:00"
+  },
+  {
+   "id": "44413d468a45",
+   "title": "Sipario sulla 27ª edizione del Festival del Cinema Europeo: a “Shame and Money” di Visar Morina l’Ulivo d’Oro",
+   "summary": "Nove giorni di proiezioni tutte sold out, incontri gremiti e ospiti internazionali hanno segnato la chiusura della 27ª edizione del Festival del Cinema Europeo di Lecce, diretto da Alberto La Monica.…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/sipario-sulla-27a-edizione-del-festival-del-cinema-europeo-a-shame-and-money-di-visar-morina-lulivo-doro/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T16:14:04+00:00"
+  },
+  {
+   "id": "37c47a3ec744",
+   "title": "Serie C, il Casarano batte il Picerno e torna alla vittoria",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/20261114_142925-768x1024.jpg",
+   "url": "https://trnews.it/2026/11/14/serie-c-il-casarano-batte-il-picerno-e-torna-alla-vittoria",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T16:02:24+00:00"
+  },
+  {
+   "id": "737c938a2a01",
+   "title": "Autovelox di Lequile, sulla Lecce-Gallipoli, pronto ad essere acceso: le ragioni degli automobilisti in prefettura",
+   "summary": "LEQUILE – Cartelli poco visibili in prossimità della curva, timore di frenate improvvise e possibili conseguenze per chi percorre ogni giorno la Lecce-Gallipoli per lavoro. Sono queste le preoccupazi…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/autovelox-di-lequile-sulla-lecce-gallipoli-pronto-ad-essere-acceso-le-ragioni-degli-automobilisti-in-prefettura/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T15:16:20+00:00"
+  },
+  {
+   "id": "ab59b7992291",
+   "title": "Quattro ori ai Giochi Nazionali Special Olympics: Bitonto premia i suoi campioni",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/4-ori-Special-Olympics-atleti-spettro-autistico-Bitonto-1024x768.jpeg",
+   "url": "https://trnews.it/2026/11/14/quattro-ori-ai-giochi-nazionali-special-olympics-bitonto-premia-i-suoi-campioni",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-11-14T14:36:41+00:00"
+  },
+  {
+   "id": "d49605851e10",
+   "title": "Salento e turismo: un territorio che attrae sempre più i futuri sposi",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/05/matrimonio-in-spiaggia.jpg",
+   "url": "https://trnews.it/2026/11/14/salento-e-turismo-un-territorio-che-attrae-sempre-piu-i-futuri-sposi",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T14:02:10+00:00"
+  },
+  {
+   "id": "95e4320bb96e",
+   "title": "Galatina svela i suoi tesori nascosti con “Porta Speciosa”, viaggio sensoriale tra chiese e cappelle private",
+   "summary": "Un’apertura straordinaria per varcare la soglia di luoghi solitamente inaccessibili e lasciarsi sorprendere dagli inganni dell’arte. Domenica 22 novembre, in coincidenza con la ricorrenza di Santa Ce…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/galatina-svela-i-suoi-tesori-nascosti-con-porta-speciosa-viaggio-sensoriale-tra-chiese-e-cappelle-private/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T13:44:27+00:00"
+  },
+  {
+   "id": "6a3371780e3b",
+   "title": "Falcone e Verdone, da “Viaggi di nozze” alla maglia del Lecce: l'incontro al Festival del Cinema Europeo",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-45-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/14/falcone-e-verdone-da-viaggi-di-nozze-alla-maglia-del-lecce-lincontro-al-festival-del-cinema-europeo",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T13:41:04+00:00"
+  },
+  {
+   "id": "3dcd3b9c2be2",
+   "title": "FCE 2026: il gran finale con Carlo Verdone",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/VERDONE-2-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/14/fce-2026-il-gran-finale-con-carlo-verdone",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T13:37:35+00:00"
+  },
+  {
+   "id": "95959af70b09",
+   "title": "Furto in casa di Lassana Coulibaly, bottino da 60mila euro",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/12/L.-Coulibaly-centocampista-US-Lecce--1024x698.jpeg",
+   "url": "https://trnews.it/2026/11/14/furto-in-casa-di-lassana-coulibaly-bottino-da-60mila-euro",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T13:17:48+00:00"
+  },
+  {
+   "id": "6ba49d382fc1",
+   "title": "Pass digitali per tutelare i disabili contro le occupazioni abusive degli stalli",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/disabili.jpg",
+   "url": "https://trnews.it/2026/11/14/pass-digitali-per-tutelare-i-disabili-contro-le-occupazioni-abusive-degli-stalli",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T12:47:24+00:00"
+  },
+  {
+   "id": "c7a07652f14a",
+   "title": "Lecce, ladri in casa di Coulibaly: via orologi per 60mila euro",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/ac44ca00-4b87-4faa-99bf-bfb77960f020-1024x576.png",
+   "url": "https://trnews.it/2026/11/14/lecce-ladri-in-casa-di-coulibaly-via-orologi-per-60mila-euro",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T12:19:12+00:00"
+  },
+  {
+   "id": "ed9947f5b487",
+   "title": "Basket A2, Brindisi ospita Cento",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-13-201244.png",
+   "url": "https://trnews.it/2026/11/14/521465",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-11-14T11:59:49+00:00"
+  },
+  {
+   "id": "a953a8f0d9c4",
+   "title": "Serie C: il programma della 14esima giornata. Alle 14:30 Casarano-Picerno",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Serie_C_sky_wifi_2025-2026-701x1024.png",
+   "url": "https://trnews.it/2026/11/14/serie-c-il-programma-della-14esima-giornata-alle-1430-casarano-picerno",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T11:58:06+00:00"
+  },
+  {
+   "id": "2d40960d93eb",
+   "title": "Viola il divieto di avvicinamento all’ex compagna, 38enne finisce in carcere",
+   "summary": "Tricase e Martano (Lecce) – Continua senza sosta l’impegno dei Carabinieri del Comando Provinciale di Lecce nel contrasto alla violenza di genere e nel controllo del rigoroso rispetto delle disposizi…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/viola-il-divieto-di-avvicinamento-allex-compagna-38enne-finisce-in-carcere/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T10:53:45+00:00"
+  },
   {
    "id": "1fcb01311911",
    "title": "Lecce, dopo \"Viaggi di Nozze\" Falcone rincontra Verdone. C'era pure Sticchi",
@@ -68,6 +255,17 @@
    "published_at": "2026-11-14T08:30:40+00:00"
   },
   {
+   "id": "63d8131b5e71",
+   "title": "Taranto a Galatina per cercare di ritrovare la strada",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/taranto-calcio-scaled-e1785841226512-1024x878.jpg",
+   "url": "https://trnews.it/2026/11/14/taranto-a-galatina-per-cercare-di-ritrovare-la-strada",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-11-14T08:28:41+00:00"
+  },
+  {
    "id": "334dded1cc54",
    "title": "Poche reti: Di Francesco prova a sbloccare l'attacco",
    "summary": "",
@@ -90,26 +288,15 @@
    "published_at": "2026-11-14T08:25:30+00:00"
   },
   {
-   "id": "b8ac2437e806",
-   "title": "Violenza in casa, un 16enne colpisce il padre a martellate, l’uomo è in Rianimazione",
-   "summary": "Racale (Lecce) – Ancora violenza e un dramma familiare a Racale. Un giovane di 16 anni, nel corso della notte appena trascorsa, avrebbe colpito a martellate sulla testa il padre 53enne, nell’abitazio…",
+   "id": "f8be9bb909df",
+   "title": "Dopo oltre due anni di processo con il braccialetto elettronico, 52enne assolto dall’accusa di stalking",
+   "summary": "SALENTO – È accaduto a A.M. nato in Serbia il 9 agosto 1984 ma residente a Lecce che, secondo l’accusa, tra il 2021 e il 2024 avrebbe reiteratamente posto in essere una sequenza persecutoria nei conf…",
    "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/violenza-in-casa-un-16enne-colpisce-il-padre-a-martellate-luomo-e-in-rianimazione/",
+   "url": "https://www.corrieresalentino.it/2026/11/dopo-oltre-due-anni-di-processo-con-il-braccialetto-elettronico-52enne-assolto-dallaccusa-di-stalking/",
    "source": "Corriere Salentino",
    "category": "Cronaca",
    "zone": "Lecce",
-   "published_at": "2026-11-14T07:33:57+00:00"
-  },
-  {
-   "id": "63d8131b5e71",
-   "title": "Taranto a Galatina per cercare di ritrovare la strada",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/taranto-calcio-scaled-e1785841226512-1024x878.jpg",
-   "url": "https://trnews.it/2026/11/14/taranto-a-galatina-per-cercare-di-ritrovare-la-strada",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-11-14T07:28:41+00:00"
+   "published_at": "2026-11-14T08:00:56+00:00"
   },
   {
    "id": "dcb627c4a0b8",
@@ -120,7 +307,18 @@
    "source": "TeleRama News",
    "category": "Sport",
    "zone": "Salento",
-   "published_at": "2026-11-14T06:35:32+00:00"
+   "published_at": "2026-11-14T07:35:32+00:00"
+  },
+  {
+   "id": "b8ac2437e806",
+   "title": "Violenza in casa, un 16enne colpisce il padre a martellate, l’uomo è in Rianimazione",
+   "summary": "Racale (Lecce) – Ancora violenza e un dramma familiare a Racale. Un giovane di 16 anni, nel corso della notte appena trascorsa, avrebbe colpito a martellate sulla testa il padre 53enne, nell’abitazio…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/violenza-in-casa-un-16enne-colpisce-il-padre-a-martellate-luomo-e-in-rianimazione/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T07:33:57+00:00"
   },
   {
    "id": "7e0aada654a3",
@@ -1595,250 +1793,19 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-11-11T17:20:54+00:00"
-  },
-  {
-   "id": "ebd35ab2275d",
-   "title": "Strage di Nassiriya, dopo 23 anni giustizia per i fratelli del soldato Carrisi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Nassiriya-11-9d8caf61.jpeg",
-   "url": "https://trnews.it/2026/11/11/strage-di-nassiriya-dopo-23-anni-giustizia-per-i-fratelli-del-soldato-carrisi",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T16:56:20+00:00"
-  },
-  {
-   "id": "2aa6d60f0d83",
-   "title": "Lecce, giro di usura: i cinque arrestati davanti al gip",
-   "summary": "",
-   "image": null,
-   "url": "https://trnews.it/2026/11/11/lecce-giro-di-usura-i-cinque-arrestati-davanti-al-gip",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T16:44:26+00:00"
-  },
-  {
-   "id": "944eae982b02",
-   "title": "Mafia, la Regione Puglia parte civile nei processi penali",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2024/10/presidenza-regione-puglia-ok.jpg",
-   "url": "https://trnews.it/2026/11/11/mafia-la-regione-puglia-parte-civile-nei-processi-penali",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-11T16:40:00+00:00"
-  },
-  {
-   "id": "6e141b81352c",
-   "title": "Palazzo dei Celestini: ecco le nuove commissioni consiliari",
-   "summary": "Insediate oggi, a Palazzo Celestini, le due nuove Commissioni consiliari composte dai consiglieri provinciali eletti nell’ultima consultazione elettorale. Nelle sedute, convocate e presiedute dal pre…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/palazzo-dei-celestini-ecco-le-nuove-commissioni-consiliari/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-11T14:56:32+00:00"
-  },
-  {
-   "id": "a37a6d850dd7",
-   "title": "Social housing, la Puglia porta a Urbanpromo il modello del Galateo di Lecce. Leuzzi: “La casa è un’infrastruttura sociale”",
-   "summary": "La Puglia porta a Urbanpromo, a Firenze, un’esperienza innovativa di housing sociale che integra diritto alla casa, rigenerazione urbana e inclusione. È il progetto dell’ex Galateo di Lecce, presenta…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/social-housing-la-puglia-porta-a-urbanpromo-il-modello-del-galateo-di-lecce-leuzzi-la-casa-e-uninfrastruttura-sociale/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T14:52:18+00:00"
-  },
-  {
-   "id": "453a12d60dec",
-   "title": "Evade i domiciliari per rubare: finisce in carcere",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-35-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/11/evade-i-domiciliari-per-rubare-finisce-in-carcere",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Brindisi",
-   "published_at": "2026-11-11T14:39:51+00:00"
-  },
-  {
-   "id": "806592c89861",
-   "title": "“Quale genere di Università”? Il 13 novembre a UniSalento un seminario interattivo sul divario di genere nella ricerca",
-   "summary": "LECCE – Le donne sono la maggioranza tra le studentesse e gli studenti e tra chi muove i primi passi nella ricerca, ma la loro presenza si assottiglia a ogni gradino della carriera accademica. Da qui…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/quale-genere-di-universita-il-13-novembre-a-unisalento-un-seminario-interattivo-sul-divario-di-genere-nella-ricerca/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T14:23:38+00:00"
-  },
-  {
-   "id": "7644dee84874",
-   "title": "Ulivo d'oro alla carriera a Luigi Lo Cascio al FCE 2026",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/COPERTINA-LO-CASCIO-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/11/ulivo-doro-alla-carriera-a-luigi-lo-cascio-al-fce-2026",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T14:11:34+00:00"
-  },
-  {
-   "id": "44bf95973c7a",
-   "title": "La XXVII edizione del Festival del Cinema Europeo: il programma di giovedì 12 novembre e consegna dell’Ulivo d’Oro alla Carriera",
-   "summary": "LECCE – La XXVII edizione del Festival del Cinema Europeo, diretta da Alberto La Monica e in programma a Lecce fino a sabato 14 novembre al Multisala Massimo, prosegue giovedì 12 novembre con uno deg…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/la-xxvii-edizione-del-festival-del-cinema-europeo-il-programma-di-giovedi-12-novembre-e-consegna-dellulivo-doro-alla-carriera/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T14:05:45+00:00"
-  },
-  {
-   "id": "cba980949bdd",
-   "title": "Rottura improvvisa e imprevedibile di un tronco idrico a Castrì di Lecce",
-   "summary": "CASTRI DI LECCE (Lecce) – A causa di una rottura improvvisa di un tronco idrico a servizio dell’abitato di Castrì di Lecce (LE) i tecnici di Acquedotto Pugliese stanno eseguendo un delicato intervent…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/rottura-improvvisa-e-imprevedibile-di-un-tronco-idrico-a-castri-di-lecce-2/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T14:01:04+00:00"
-  },
-  {
-   "id": "b5af3b24020c",
-   "title": "Assalto notturno al supermercato: usano una Fiat Panda come ariete ma le casse sono vuote",
-   "summary": "SALVE (Lecce) – Non si ferma la scia di colpi a spinta nel basso Salento. Nella notte il mirino della criminalità è finito sul supermercato “Simeg” di piazza Dante, a Salve, teatro di un blitz orches…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/spaccata-salve-3-236x420.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/11/assalto-notturno-al-supermercato-usano-una-fiat-panda-come-ariete-ma-le-casse-sono-vuote/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T13:57:18+00:00"
-  },
-  {
-   "id": "9b32d4905bf3",
-   "title": "\"Ho lasciato un potente ordigno esplosivo\": scuole evacuate e controlli dei carabinieri",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG_4813-1024x562.jpeg",
-   "url": "https://trnews.it/2026/11/11/ho-lasciato-un-potente-ordigno-esplosivo-scuole-evacuate-e-controlli-dei-carabinieri",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T13:42:21+00:00"
-  },
-  {
-   "id": "8ba9472a8757",
-   "title": "Perseguita la moglie: due anni in appello",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-34-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/11/perseguita-la-moglie-due-anni-in-appello",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Brindisi",
-   "published_at": "2026-11-11T13:36:19+00:00"
-  },
-  {
-   "id": "2558b53ffe2b",
-   "title": "“Chi paga per la sorveglianza di Stato?”. Le strategie di Palantir per eludere il fisco",
-   "summary": "Palantir contabilizza negli Stati Uniti buona parte dei ricavi generati in Europa e in Asia per poter beneficiare della tassazione più favorevole. Così favorevole che l’azienda non versa un dollaro a…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/Screenshot-2026-11-11-alle-14.29.17.png",
-   "url": "https://altreconomia.it/chi-paga-per-la-sorveglianza-di-stato-le-strategie-di-palantir-per-eludere-il-fisco/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-11T13:34:37+00:00"
-  },
-  {
-   "id": "e5810750de2e",
-   "title": "Controlli serrati della Guardia di Finanza contro il lavoro nero nel Brindisino",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-33-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/11/controlli-serrati-della-guardia-di-finanza-contro-il-lavoro-nero-nel-brindisino",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Brindisi",
-   "published_at": "2026-11-11T13:29:57+00:00"
-  },
-  {
-   "id": "58af82b25c03",
-   "title": "Anche a Lecce la Giornata per il Ricordo per i caduti militari e civili",
-   "summary": "12 Novembre, il giorno della memoria: Lecce ricorda i Caduti di Nassiriya e tutti coloro che hanno sacrificato la vita per la pace Il 12 novembre è una data che richiama alla memoria una delle pagine…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/anche-a-lecce-la-giornata-per-il-ricordo-per-i-caduti-militari-e-civili/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T13:26:18+00:00"
-  },
-  {
-   "id": "34fa7bf63315",
-   "title": "Aree idonee, la Puglia approva la legge: paletti alle rinnovabili sui terreni agricoli",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/02/CONSIGLIO-REGIONALE-.jpg",
-   "url": "https://trnews.it/2026/11/11/aree-idonee-la-puglia-approva-la-legge-paletti-alle-rinnovabili-sui-terreni-agricoli",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-11T13:22:58+00:00"
-  },
-  {
-   "id": "0e1802a1b68b",
-   "title": "Paziente oncologico, l'odissea delle prenotazioni: \"Nessuno risponde\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/visite-sanita-e1794396884547.jpg",
-   "url": "https://trnews.it/2026/11/11/paziente-oncologico-lodissea-delle-prenotazioni-nessuno-risponde",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T12:34:58+00:00"
-  },
-  {
-   "id": "2bd89bf26d92",
-   "title": "Pranzo a sbafo e fuga in Porsche: smascherati a cena a Gallipoli",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/lv3tee1eg8df1-scaled-e1794397051517-1024x572.jpeg",
-   "url": "https://trnews.it/2026/11/11/pranzo-a-sbafo-e-fuga-in-porsche-smascherati-a-cena-a-gallipoli",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T11:37:38+00:00"
-  },
-  {
-   "id": "7fb377766db9",
-   "title": "Google indagata per i data center in Finlandia: foreste rase al suolo e rischio danno ambientale",
-   "summary": "Alberi abbattuti e allarme acque acide: la polizia finlandese apre un’inchiesta penale sui nuovi data center di Google a Muhos in Finlandia.",
-   "image": null,
-   "url": "https://www.valigiablu.it/google-indagata-data-center-finlandia/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-11T11:27:46+00:00"
-  },
-  {
-   "id": "417178f83d40",
-   "title": "Basket A2, Brindisi a Livorno sfida la capolista ancora imbattuta",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-13-201244.png",
-   "url": "https://trnews.it/2026/11/11/basket-a2-brindisi-a-livorno-sfida-la-capolista-ancora-imbattuta",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-11-11T11:11:24+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-14T11:00:23.044687+00:00",
+   "last_ok": "2026-11-14T17:13:31.343337+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-14T11:00:23.044687+00:00",
+   "last_ok": "2026-11-14T17:13:31.343337+00:00",
    "error": null
   },
   {
@@ -1850,19 +1817,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-14T11:00:23.044687+00:00",
+   "last_ok": "2026-11-14T17:13:31.343337+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-14T11:00:23.044687+00:00",
+   "last_ok": "2026-11-14T17:13:31.343337+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-14T11:00:23.044687+00:00",
+   "last_ok": "2026-11-14T17:13:31.343337+00:00",
    "error": null
   }
  ]
