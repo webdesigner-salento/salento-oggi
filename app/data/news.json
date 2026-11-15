@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T21:36:25.790264+00:00",
+ "updated_at": "2026-11-15T01:23:08.826230+00:00",
  "items": [
   {
    "id": "2d3d08f43dc5",
@@ -1650,63 +1650,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-12T05:14:09+00:00"
-  },
-  {
-   "id": "b6ee6addae4a",
-   "title": "Agrogepaciok, gran finale con l’Executive Chef Domenico Schingaro",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Domingo-Schingaro-1024x768.jpg",
-   "url": "https://trnews.it/2026/11/11/agrogepaciok-gran-finale-con-lexecutive-chef-domenico-schingaro",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Salento",
-   "published_at": "2026-11-11T23:32:32+00:00"
-  },
-  {
-   "id": "30488a8d3e46",
-   "title": "Allarme bomba in decine di scuole in Italia, evacuate varie scuole nel Salento",
-   "summary": "LECCE – “Siamo venuti per annientarvi. Metteremo in atto un genocidio contro gli italiani”, si legge nella mail firmata Mikhail Antropov, leader del Vilayat di Misoginistan. Mi sono preparato a lungo…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/allarme-bomba-in-decine-di-scuole-in-italia-evacuato-il-banzi-di-lecce/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T22:59:11+00:00"
-  },
-  {
-   "id": "4c84162cf39e",
-   "title": "Maxifrode da 1,3 milioni tra false fatture e finto trading: blitz della Guardia di Finanza, 17 indagati",
-   "summary": "SALENTO – Un milione e trecentomila euro di beni messi sotto sequestro tra denaro, quote societarie, auto e immobili sparsi in sette province italiane (Lecce, Bari, Brindisi, Caserta, Foggia, Napoli…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/maxifrode-da-13-milioni-tra-false-fatture-e-finto-trading-blitz-della-guardia-di-finanza-17-indagati/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-11T22:58:53+00:00"
-  },
-  {
-   "id": "38445046e89b",
-   "title": "Basket A2: colpo del Brindisi contro Livorno",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/09/819098230_1105782935130108_3594196168318145226_n-1024x819.jpg",
-   "url": "https://trnews.it/2026/11/11/basket-a2-colpo-del-brindisi-contro-livorno",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-11-11T21:47:46+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-14T21:36:25.790264+00:00",
+   "last_ok": "2026-11-15T01:23:08.826230+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-14T21:36:25.790264+00:00",
+   "last_ok": "2026-11-15T01:23:08.826230+00:00",
    "error": null
   },
   {
@@ -1718,19 +1674,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-14T21:36:25.790264+00:00",
+   "last_ok": "2026-11-15T01:23:08.826230+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-14T21:36:25.790264+00:00",
+   "last_ok": "2026-11-15T01:23:08.826230+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-14T21:36:25.790264+00:00",
+   "last_ok": "2026-11-15T01:23:08.826230+00:00",
    "error": null
   }
  ]
