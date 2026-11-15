@@ -1,6 +1,325 @@
 {
- "updated_at": "2026-11-15T07:57:42.937956+00:00",
+ "updated_at": "2026-11-15T15:12:42.252117+00:00",
  "items": [
+  {
+   "id": "0e2b03ce6cbb",
+   "title": "Falcone e Borsellino, l’eredità del coraggio e della legalità incontra Cuore Amico",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/FALCONE-E-BORSELLINO.jpg",
+   "url": "https://trnews.it/2026/11/15/falcone-e-borsellino-leredita-del-coraggio-e-della-legalita-incontra-cuore-amico",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T14:17:10+00:00"
+  },
+  {
+   "id": "94915be9337f",
+   "title": "Imprese, innovazione e credito: a Gallipoli il confronto sul futuro dell’economia pugliese",
+   "summary": "GALLIPOLI – Trasformare le risorse in sviluppo, creare lavoro qualificato e rafforzare le imprese per offrire ai giovani la possibilità di costruire il proprio futuro in Puglia. Sono le sfide al cent…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/9329ccdd-f34c-4c23-bd94-825ef176db3e-300x225.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/imprese-innovazione-e-credito-a-gallipoli-il-confronto-sul-futuro-delleconomia-pugliese/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T13:56:22+00:00"
+  },
+  {
+   "id": "297e23fbdb1c",
+   "title": "“Quattro anni di governo Meloni”: a Copertino l'incontro nel segno della stabilità",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/incontro-copertino-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/15/quattro-anni-di-governo-meloni-a-copertino-lincontro-nel-segno-della-stabilita",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T13:41:17+00:00"
+  },
+  {
+   "id": "be3dd24f836f",
+   "title": "Droga in auto e due pistole nascoste in garage: tre giovani ai domiciliari",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/04/guardia-finanza.jpg",
+   "url": "https://trnews.it/2026/11/15/droga-in-auto-e-due-pistole-nascoste-in-garage-tre-giovani-ai-domiciliari",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T13:08:38+00:00"
+  },
+  {
+   "id": "b4e815e83230",
+   "title": "Litoranea, il rombo delle moto si scalda: al via raccolta firme",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/6ca5737d-5902-4841-8b90-c1b06bb77f81-1024x577.jpg",
+   "url": "https://trnews.it/2026/11/15/litoranea-il-rombo-delle-moto-si-scalda-al-via-raccolta-firme",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T13:07:47+00:00"
+  },
+  {
+   "id": "6e52ac5db11b",
+   "title": "Nuovo Piano sosta, depositato il ricorso al Tar contro le strisce blu",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/04/palazzo-carafa-300x200-1.jpg",
+   "url": "https://trnews.it/2026/11/15/nuovo-piano-sosta-depositato-il-ricorso-al-tar-contro-le-strisce-blu",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T13:07:19+00:00"
+  },
+  {
+   "id": "ae44729f3bcb",
+   "title": "Il benessere sessuale senza barriere, ecco \"Piacere per tutti day\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/PIACERE-PER-TUTTI-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/15/il-benessere-sessuale-senza-barriere-ecco-piacere-per-tutti-day",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T13:04:31+00:00"
+  },
+  {
+   "id": "5a5f51ff330c",
+   "title": "Casarano, Filograna: \"Non fermiamoci\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/06/Antonio-Filograna-Sergio.jpg",
+   "url": "https://trnews.it/2026/11/15/casarano-filograna-non-fermiamoci",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T12:38:27+00:00"
+  },
+  {
+   "id": "8308ba3df397",
+   "title": "Importante intervento per la zona di Piazza Partigiani, il Vicesindaco Roberto Giordano Anguilla: “374 mila euro per il rifacimento di vie fondamentali”",
+   "summary": "Lecce – Lo stanziamento economico e’ massiccio, 374 mila euro per via Papadotero, Piazzetta Quasimodo e via Luigi Tasselli. Un’area a Lecce ad alta densità abitativa e l’intervento di concentrera’ su…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/importante-intervento-per-la-zona-di-piazza-partigiani-il-vicesindaco-roberto-giordano-anguilla-374-mila-euro-per-il-rifacimento-di-vie-fondamentali/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T12:23:01+00:00"
+  },
+  {
+   "id": "76cde1748746",
+   "title": "La “città del vino” conquista tutti con musica ed eccellenze enogastronomiche",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/squinzano-citta-del-vino.jpg",
+   "url": "https://trnews.it/2026/11/15/la-citta-del-vino-conquista-tutti-con-musica-ed-eccellenze-enogastronomiche",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T12:17:17+00:00"
+  },
+  {
+   "id": "1d896ea15555",
+   "title": "Furto in chiesa a Corsano: identificato l'autore",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-15-at-13.10.33-e1794744878382.jpeg",
+   "url": "https://trnews.it/2026/11/15/furto-in-chiesa-a-corsano-identificato-lautore",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T12:14:43+00:00"
+  },
+  {
+   "id": "0232bcb089de",
+   "title": "Vino novello, musica e sapori: la riscoperta della tradizione di San Martino",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/san-martino-nociglia.jpg",
+   "url": "https://trnews.it/2026/11/15/vino-novello-musica-e-sapori-la-riscoperta-della-tradizione-di-san-martino",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T12:07:43+00:00"
+  },
+  {
+   "id": "057d9df47093",
+   "title": "Festival del Cinema Europeo: tutti i vincitori della XXVII edizione",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/ULIVO-DORO-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/15/festival-del-cinema-europeo-tutti-i-vincitori-della-xxvii-edizione",
+   "source": "TeleRama News",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T12:00:07+00:00"
+  },
+  {
+   "id": "ac6507cdf51f",
+   "title": "SS 274, montato il nuovo ponte a Presicce",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/ponte.jpg",
+   "url": "https://trnews.it/2026/11/15/ss-274-montato-il-nuovo-ponte-a-presicce",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T11:30:08+00:00"
+  },
+  {
+   "id": "42fadcbe6528",
+   "title": "Sgm, il caso dei “biglietti gratuiti a pioggia”. D’Autilia: “Convenzione e scambio di servizi”. Siculella: “Si dopano i dati sul trasporto e si crea clientelismo”",
+   "summary": "LECCE – Per Sgm è uno “scambio virtuoso di servizi”, utile a garantire agli autisti l’accesso ai bagni e a promuovere gli autobus tra i clienti delle attività commerciali. Per Alberto Siculella, pres…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/sgm-il-caso-dei-biglietti-gratuiti-a-pioggia-dautilia-convenzione-e-scambio-di-servizi-siculella-si-dopano-i-dati-sul-trasporto-e-si-crea-cli/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T11:23:43+00:00"
+  },
+  {
+   "id": "4c84a2d29609",
+   "title": "Basket serie C: Francavilla ospite di Monteroni",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/9adf3921-266e-4605-8278-6f6b7e242fa3-819x1024.jpg",
+   "url": "https://trnews.it/2026/11/15/serie-c-francavilla-ospite-di-monteroni",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-11-15T10:42:48+00:00"
+  },
+  {
+   "id": "94ef135581e0",
+   "title": "Lecce, a Sticchi il “Premio Modello Virtuoso del Calcio Italiano”",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/06/Saverio-Sticchi-Damiani-presidente-US-Lecce.jpg",
+   "url": "https://trnews.it/2026/11/15/lecce-a-sticchi-il-premio-modello-virtuoso-del-calcio-italiano",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T10:39:53+00:00"
+  },
+  {
+   "id": "cc697ad89acf",
+   "title": "La battaglia di Angelica contro il cancro: “Non smettete di starmi accanto”",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Angelica-Pasculli-908x1024.jpeg",
+   "url": "https://trnews.it/2026/11/15/la-battaglia-di-angelica-contro-il-cancro-non-smettete-di-starmi-accanto",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-15T10:37:31+00:00"
+  },
+  {
+   "id": "4a071a24abae",
+   "title": "Lecce, domani scatta l'operazione Lazio",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Still0412_00010-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/15/lecce-domani-scatta-loperazione-lazio",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T10:24:39+00:00"
+  },
+  {
+   "id": "d59603d71532",
+   "title": "Festival Organistico del Salento, oggi a Lecce il concerto conclusivo della masterclass di composizione organistica",
+   "summary": "LECCE – Domenica 15 novembre, alle ore 19.00, nella Chiesa dello Spirito Santo, il concerto conclusivo della masterclass di composizione organistica tenuta dai maestri Biagio Putignano e Cosimo Colaz…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/festival-organistico-del-salento-oggi-a-lecce-il-concerto-conclusivo-della-masterclass-di-composizione-organistica/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T10:15:24+00:00"
+  },
+  {
+   "id": "0b556597d390",
+   "title": "L’aglio senza anima e il polpo che si scioglie: elogio della lentezza a fuoco spento",
+   "summary": "L’aglio senza anima e il polpo che si scioglie: elogio della lentezza a fuoco spento di Vincenzo Candido Renna Esiste un momento, nella cucina di Giorgio Falconieri, in cui l’olio non deve superare i…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/laglio-senza-anima-e-il-polpo-che-si-scioglie-elogio-della-lentezza-a-fuoco-spento/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Salento",
+   "published_at": "2026-11-15T09:38:27+00:00"
+  },
+  {
+   "id": "24b9f2028162",
+   "title": "Il velo islamico e l’ennesima battaglia identitaria sul corpo delle donne",
+   "summary": "Dall’Austria alla Francia, fino a Italia e Spagna: vietare il velo a scuola e nello spazio pubblico libera davvero le donne o le relega ai margini, escluse dal dibattito pubblico?",
+   "image": null,
+   "url": "https://www.valigiablu.it/divieto-velo-islamico-europa-diritti-donne/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-15T09:14:09+00:00"
+  },
+  {
+   "id": "01dc2193b698",
+   "title": "Dalla classe a Matera: il “Turismo delle radici” in un’intervista",
+   "summary": "Il turismo delle origini è uno dei fenomeni più interessanti del settore: un viaggiatore mosso da un legame emotivo e culturale, che cerca i piccoli borghi e le aree interne invece delle mete di mass…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/IMG_8313-300x225.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/dalla-classe-a-matera-il-turismo-delle-radici-in-unintervista/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Salento",
+   "published_at": "2026-11-15T09:09:22+00:00"
+  },
+  {
+   "id": "9aa5a2787783",
+   "title": "Lequile, ultimati due nuovi asili nido: più spazi e servizi per le famiglie",
+   "summary": "LEQUILE – Due nuovi asili nido per ampliare i servizi dedicati alla prima infanzia e dare una risposta alle esigenze delle famiglie. Il Comune di Lequile ha ultimato i lavori delle strutture di via C…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/lequile-ultimati-due-nuovi-asili-nido-piu-spazi-e-servizi-per-le-famiglie/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T08:55:42+00:00"
+  },
+  {
+   "id": "8563b9f1f8b8",
+   "title": "Don Tonino Bello: la sua eredità non si proclama, si pratica",
+   "summary": "È partito da Alessano, dalla sua terra salentina, per percorrere le strade del sacerdozio e dell’episcopato. Vescovo di Molfetta, uomo di frontiera, profeta della pace e presidente di Pax Christi, do…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/don-tonino-bello-la-sua-eredita-non-si-proclama-si-pratica/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T08:53:48+00:00"
+  },
+  {
+   "id": "9e6ad74a7710",
+   "title": "In ricordo di Vito Fazzi",
+   "summary": "Nel febbraio del 1903 il Dr. Vito Fazzi, candidato proposto dall’Associazione radicale, fu proclamato deputato nel Collegio di Lecce. Nella Emeroteca Salentina, al primo piano della Biblioteca Provin…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/1ea0bd5d-765a-4cd3-bb20-60f508b17ccd-225x300.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/in-ricordo-di-vito-fazzi/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T08:49:44+00:00"
+  },
+  {
+   "id": "32b65fc8079e",
+   "title": "Tre giovani su quattro desiderano figli: l’indagine della Fondazione Foresta sfata un luogo comune sulla denatalità",
+   "summary": "LECCE – I giovani desiderano ancora diventare genitori. Tra i 1.399 studenti delle scuole superiori che hanno partecipato nell’anno scolastico 2025/26 al Progetto Scuole della Fondazione Foresta ETS,…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/de70c5a2-6842-4ec9-8dd2-321410eaf9ca-300x152.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/tre-giovani-su-quattro-desiderano-figli-lindagine-della-fondazione-foresta-sfata-un-luogo-comune-sulla-denatalita/",
+   "source": "Corriere Salentino",
+   "category": "Salute",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T08:22:58+00:00"
+  },
+  {
+   "id": "ac1e7c2f32ce",
+   "title": "Le Creperie: decenni di storia e visione artigianale nel cuore di Lecce",
+   "summary": "Piazza Mazzini è da decenni il punto di convergenza del commercio e del passeggio leccese. In questo contesto urbano dinamico, Le Creperie rappresenta uno dei casi più longevi ed emblematici di conti…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/09/creperie-lecce-9-747x420.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/le-creperie-decenni-di-storia-e-visione-artigianale-nel-cuore-di-lecce/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T08:04:29+00:00"
+  },
+  {
+   "id": "188e708e024b",
+   "title": "Figli del Salento: il generale Oronzo Massa",
+   "summary": "Girando per la villa comunale di Lecce, fra i vari busti di personaggi illustri autoctoni presenti ad intervalli più o meno regolari nei vialetti alberati, si nota anche quello di Oronzio (sic)Massa,…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/figli-del-salento-oronzo-massa/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T08:00:26+00:00"
+  },
   {
    "id": "a114f8b94d43",
    "title": "Fauna del Salento. La cicala: incomparabile chitarrista dell’estate",
@@ -35,6 +354,28 @@
    "published_at": "2026-11-15T07:42:27+00:00"
   },
   {
+   "id": "3d21266d1210",
+   "title": "Alla scoperta del Salento: la Grotta dei Cervi",
+   "summary": "PORTO BADISCO – Era il 1 febbraio 1970 quando, durante un’escursione all’interno del Parco Naturale Regionale di Porto Badisco, cinque membri del Gruppo Speleologico Salentino “P. de Laurentiis” di M…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2022/10/reperti-grotta-dei-cervi-1-747x420.jpg",
+   "url": "https://www.corrieresalentino.it/2026/11/alla-scoperta-del-salento-la-grotta-dei-cervi/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Salento",
+   "published_at": "2026-11-15T07:37:49+00:00"
+  },
+  {
+   "id": "421f003e4fac",
+   "title": "Alla scoperta del Salento: la storia di Piazza Sant’Oronzo",
+   "summary": "Già nei precedenti articoli ci siamo soffermati ad illustrare alcuni monumenti tipici di una delle piazze più belle della nostra città: Piazza Sant’Oronzo; abbiamo ripercorso la storia dell’anfiteatr…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2019/01/lecce-piazza-sant-oronzo-1-400x300.jpg",
+   "url": "https://www.corrieresalentino.it/2026/11/alla-scoperta-del-salento-la-storia-di-piazza-santoronzo/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Salento",
+   "published_at": "2026-11-15T07:25:33+00:00"
+  },
+  {
    "id": "4e2a72a2189a",
    "title": "L’almanacco di oggi 15 novembre",
    "summary": "Il Santo del giorno: Sant’Alberto Magno. Il proverbio di Mesciu Ronzu: Quandu lu musciu nun cete li surgi ballanu. Significato: Quando il gatto non c’è i topi ballano. – Sono nati in questo giorno 19…",
@@ -65,7 +406,18 @@
    "source": "TeleRama News",
    "category": "Sport",
    "zone": "Brindisi",
-   "published_at": "2026-11-14T21:21:59+00:00"
+   "published_at": "2026-11-14T22:21:59+00:00"
+  },
+  {
+   "id": "7fb0327d54cf",
+   "title": "Casarano, Zauri: \"Vittoria importante per il morale e per la classifica\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG-20261114-WA0082-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/14/casarano-zauri-vittoria-importante-per-il-morale",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T21:48:03+00:00"
   },
   {
    "id": "b8ac2437e806",
@@ -90,17 +442,6 @@
    "published_at": "2026-11-14T21:00:23+00:00"
   },
   {
-   "id": "7fb0327d54cf",
-   "title": "Casarano, Zauri: \"Vittoria importante per il morale e per la classifica\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG-20261114-WA0082-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/14/casarano-zauri-vittoria-importante-per-il-morale",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-14T20:48:03+00:00"
-  },
-  {
    "id": "4a62af8391eb",
    "title": "Serie C: il Bari vince 3-2 il derby con il Foggia",
    "summary": "",
@@ -109,7 +450,7 @@
    "source": "TeleRama News",
    "category": "Sport",
    "zone": "Salento",
-   "published_at": "2026-11-14T18:22:52+00:00"
+   "published_at": "2026-11-14T19:22:52+00:00"
   },
   {
    "id": "696698ab0b82",
@@ -121,6 +462,17 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-11-14T17:51:34+00:00"
+  },
+  {
+   "id": "37c47a3ec744",
+   "title": "Serie C, il Casarano batte il Picerno e torna alla vittoria",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/20261114_142925-768x1024.jpg",
+   "url": "https://trnews.it/2026/11/14/serie-c-il-casarano-batte-il-picerno-e-torna-alla-vittoria",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-14T17:02:24+00:00"
   },
   {
    "id": "88be34e565b2",
@@ -165,17 +517,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-11-14T16:14:04+00:00"
-  },
-  {
-   "id": "37c47a3ec744",
-   "title": "Serie C, il Casarano batte il Picerno e torna alla vittoria",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/20261114_142925-768x1024.jpg",
-   "url": "https://trnews.it/2026/11/14/serie-c-il-casarano-batte-il-picerno-e-torna-alla-vittoria",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-14T16:02:24+00:00"
   },
   {
    "id": "737c938a2a01",
@@ -1265,382 +1606,19 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-11-12T15:19:32+00:00"
-  },
-  {
-   "id": "66e89fa12b3b",
-   "title": "Lecce da Oscar: a Jeremy Irons l'Ulivo d'Oro alla carriera",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/JEREMY-IRONS-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/12/lecce-da-oscar-a-jeremy-irons-lulivo-doro-alla-carriera",
-   "source": "TeleRama News",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T14:56:14+00:00"
-  },
-  {
-   "id": "c832bb6d5bf5",
-   "title": "Dal «modello Lecce» allo «storico accordo» siglato oggi a Roma su rappresentanza e Buon Lavoro",
-   "summary": "«Sul rispetto delle regole e dei diritti ci avevamo visto giusto e nel Salento siamo partiti un anno fa, quindi con largo anticipo rispetto a quanto fatto oggi a Roma». Così i rappresentanti del PES…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/dal-modello-lecce-allo-storico-accordo-siglato-oggi-a-roma-su-rappresentanza-e-buon-lavoro/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T14:53:59+00:00"
-  },
-  {
-   "id": "228eccbe9643",
-   "title": "Giornata dei Caduti nelle missioni internazionali, tra ricordo e appelli di pace",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-39-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/12/giornata-dei-caduti-nelle-missioni-internazionali-tra-ricordo-e-appelli-di-pace",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T14:39:08+00:00"
-  },
-  {
-   "id": "f5d8d2787075",
-   "title": "Case popolari Borgo Piave, a fine novembre la consegna del cantiere ultimato",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-38-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/12/case-popolari-borgo-piave-a-fine-novembre-la-consegna-del-cantiere-ultimato",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T14:27:56+00:00"
-  },
-  {
-   "id": "90fbccb90efe",
-   "title": "La XXVII edizione del Festival del Cinema Europeo, il programma di venerdì 13 novembre",
-   "summary": "LECCE – Venerdì 13 novembre, la settima giornata della XXVII edizione del Festival del Cinema Europeo, diretto da Alberto La Monica, si apre con un appuntamento speciale che vedrà protagonista Carlo…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/la-xxvii-edizione-del-festival-del-cinema-europeo-il-programma-di-venerdi-13-novembre/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T14:10:42+00:00"
-  },
-  {
-   "id": "12e5f3bb7214",
-   "title": "Ripetuti maltrattamenti all’anziana madre per ottenere denaro, arrestato un 40enne",
-   "summary": "Gallipoli (Lecce) – Finisce in carcere con l’accusa di maltrattamenti ed estorsione ai danni dell’anziana madre. Martedì scorso, la Polizia di Stato ha dato esecuzione a un’ordinanza di applicazione…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/ripetuti-maltrattamenti-allanziana-madre-per-ottenere-denaro-arrestato-un-40enne/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T14:07:46+00:00"
-  },
-  {
-   "id": "c76d0a6b9e36",
-   "title": "Leverano, respinto ricorso: via libera alla sala del commiato \"Il Giardino del Silenzio\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-13.27.33-1024x576.jpeg",
-   "url": "https://trnews.it/2026/11/12/leverano-respinto-ricorso-via-libera-alla-sala-del-commiato-il-giardino-del-silenzio",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T13:53:44+00:00"
-  },
-  {
-   "id": "7e4fb513e848",
-   "title": "“Entra in ospedale per esami e muore dopo quattro mesi”: aperta indagine sul decesso di un 56enne",
-   "summary": "SQUINZANO/LECCE – Entra con le proprie gambe in ospedale per un controllo senza più uscirne. Quattro mesi di calvario in ospedale, un’escalation di infezioni, interventi chirurgici a catena e, infine…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/entra-in-ospedale-per-esami-e-muore-dopo-quattro-mesi-aperta-indagine-sul-decesso-di-un-57enne/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T13:49:32+00:00"
-  },
-  {
-   "id": "0ff307ca021e",
-   "title": "Michela Rizzo, da Lecce ai Mondiali nella Repubblica Popolare Cinese",
-   "summary": "Dal 10 al 14 novembre la Nazionale di karate si raccoglie a Ostia. Poi vola in Cina, dal 20 al 22, per la Karate World Cup. Tra le azzurre c’è una ragazza di ventitré anni che a cinque varca la sogli…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/michela-rizzo-da-lecce-ai-mondiali-nella-repubblica-popolare-cinese/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T13:25:46+00:00"
-  },
-  {
-   "id": "8fc9241b91a8",
-   "title": "Arrivati a Brindisi dalla Cina i primi moduli Bess",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-37-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/12/arrivati-a-brindisi-dalla-cina-i-primi-moduli-bess",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Brindisi",
-   "published_at": "2026-11-12T13:09:18+00:00"
-  },
-  {
-   "id": "fa698247caf0",
-   "title": "“È entrato in ospedale per un controllo, è uscito in una bara”: la battaglia della famiglia per la verità",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/tribunale-toga-1024x555.png",
-   "url": "https://trnews.it/2026/11/12/e-entrato-in-ospedale-per-un-controllo-e-uscito-in-una-bara-la-battaglia-della-famiglia-per-la-verita",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T13:00:41+00:00"
-  },
-  {
-   "id": "eb729fdbbd18",
-   "title": "In Puglia 23.885 ettari adatti all’avocado: dopo la Xylella, la nuova scommessa dell’agricoltura",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-13.34.12-1024x576.jpeg",
-   "url": "https://trnews.it/2026/11/12/in-puglia-23-885-ettari-adatti-allavocado-dopo-la-xylella-la-nuova-scommessa-dellagricoltura",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T12:34:46+00:00"
-  },
-  {
-   "id": "fc6a0ec1a7ec",
-   "title": "“Giornate FAI per le scuole”, visite esclusive per gli studenti a cura degli Apprendisti Ciceroni del FAI",
-   "summary": "PUGLIA – Da lunedì 23 a sabato 28 novembre 2026 il FAI – Fondo per l’Ambiente Italiano ETSapre al mondo della Scuola oltre 250 luoghi in tutta Italia. Nel corso delle “Giornate FAI per le scuole”, ar…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/giornate-fai-per-le-scuole-visite-esclusive-per-gli-studenti-a-cura-degli-apprendisti-ciceroni-del-fai/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Salento",
-   "published_at": "2026-11-12T12:20:22+00:00"
-  },
-  {
-   "id": "f20c530459ad",
-   "title": "Cantieri aperti, successo per la tappa leccese",
-   "summary": "“Cantieri Aperti 2026” – successo per la tappa di Lecce. Il presidente ANCE Lecce Greco – Grazie a tutti i partecipanti. Ai giovani diciamo: l’edilizia oggi è innovazione, formazione e sicurezza – Le…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/cantieri-aperti-successo-per-la-tappa-leccese/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T12:01:49+00:00"
-  },
-  {
-   "id": "3955ee67e4cc",
-   "title": "La stagione del silenzio verde. L’aratro traccia il solco, l’albero lo riempie",
-   "summary": "Che cosa succede nei nostri boschi d’inverno? Solo da pochi decenni possiamo capirlo. Il paesaggio intorno a noi, infatti, è profondamente mutato. Quando sono nato io (nel 1961) praticamente non c’er…",
-   "image": "https://altreconomia.it/app/uploads/2026/11/10.-La-stagione-del-silenzio-04-scaled.jpg",
-   "url": "https://altreconomia.it/la-stagione-del-silenzio-verde-laratro-traccia-il-solco-lalbero-lo-riempie/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-12T11:53:56+00:00"
-  },
-  {
-   "id": "234ebcc5aa0a",
-   "title": "Collaudatore morto sulla pista collaudi: archiviata posizione per dieci posizioni, chiesto processo per quattro",
-   "summary": "NARDO‘ (Lecce) – Nuovi sviluppi nell’inchiesta sulla morte di Mattia Ottaviano, il collaudatore di 36 anni originario di Tuglie, deceduto il 21 febbraio 2024 in un incidente all’interno della pista N…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/collaudatore-morto-sulla-pista-collaudi-archiviata-posizione-per-dieci-posizioni-chiesto-processo-per-quattro/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T11:35:18+00:00"
-  },
-  {
-   "id": "ca01b42e6900",
-   "title": "Lo controllano ai domiciliari, nel piazzale di casa spuntano un’auto rubata e targhe clonate: in carcere 58enne",
-   "summary": "RACALE (Lecce) – Un’auto rubata con targhe clonate, diversi veicoli e componenti meccanici. La scoperta è stata fatta dai carabinieri durante un controllo a un 58enne di Racale sottoposto agli arrest…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/lo-controllano-ai-domiciliari-nel-piazzale-di-casa-spuntano-unauto-rubata-e-targhe-clonate-in-carcere-58enne/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T11:32:17+00:00"
-  },
-  {
-   "id": "b3de3eeb1004",
-   "title": "A Creta c’è un attivismo che resiste alla criminalizzazione di massa degli “scafisti”",
-   "summary": "Mentre racconta la storia di Thalassa of solidarity, Eleftheria Iatraki fa scorrere lo sguardo lungo le pareti della stanza. Gli scaffali sono gremiti di libri, macchine da cucire, giocattoli e molti…",
-   "image": "https://altreconomia.it/app/uploads/2026/10/ROM00390-scaled.jpg",
-   "url": "https://altreconomia.it/a-creta-ce-un-attivismo-che-resiste-alla-criminalizzazione-di-massa-degli-scafisti/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-12T11:29:11+00:00"
-  },
-  {
-   "id": "d7c7128ef5de",
-   "title": "Torre Guaceto al lavoro per scongiurare l’estinzione dell’anguilla europea",
-   "summary": "Studiarne il comportamento per capire come proteggerla. Il Consorzio di Gestione di Torre Guaceto sta conducendo uno studio sull’anguilla europea, specie classificata come in “pericolo critico”, ossi…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/torre-guaceto-al-lavoro-per-scongiurare-lestinzione-dellanguilla-europea/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Brindisi",
-   "published_at": "2026-11-12T11:12:36+00:00"
-  },
-  {
-   "id": "5fcb29c8d78d",
-   "title": "Sabato 14 novembre lo spettacolo “Affogo” di Dino Lopardo per la stagione Per un teatro umano",
-   "summary": "NOVOLI (Lecce) – Sogna di diventare un campione di nuoto, ma ha il terrore dell’acqua. È la contraddizione che accompagna Nicholas, protagonista di “Affogo”, spettacolo di Gommalacca Teatro in scena…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/sabato-14-novembre-lo-spettacolo-affogo-di-dino-lopardo-per-la-stagione-per-un-teatro-umano/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T11:07:34+00:00"
-  },
-  {
-   "id": "a812673a4aea",
-   "title": "Ludopatia, nel Leccese triplicati gli utenti assistiti: 213 nel 2025",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Ludopatia-e1794481515689.jpg",
-   "url": "https://trnews.it/2026/11/12/ludopatia-nel-leccese-triplicati-gli-utenti-assistiti-213-nel-2025",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T11:05:22+00:00"
-  },
-  {
-   "id": "28ba95104aab",
-   "title": "Relitto della Ss Samuel j. Tilden: nuova campagna di rilievo nelle acque di Bari",
-   "summary": "BARI – Si è svolta alla fine del mese di ottobre una nuova campagna di rilievo sul relitto della SS Samuel J. Tilden, la nave mercantile statunitense affondata nel porto di Bari durante il bombardame…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/relitto-della-ss-samuel-j-tilden-nuova-campagna-di-rilievo-nelle-acque-di-bari/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Salento",
-   "published_at": "2026-11-12T11:00:01+00:00"
-  },
-  {
-   "id": "9ca245ad9a19",
-   "title": "A Veglie la gentilezza mette radici, i piccoli messaggeri di bellezza pronti a diffondere semi di rispetto",
-   "summary": "VEGLIE (Lecce) – Domani, 13 novembre, Veglie celebrerà la Giornata Nazionale della Gentilezza, un appuntamento che, per il secondo anno consecutivo, coinvolge la comunità in un’iniziativa all’insegna…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/a-veglie-la-gentilezza-mette-radici-i-piccoli-messaggeri-di-bellezza-pronti-a-diffondere-semi-di-rispetto/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T10:55:49+00:00"
-  },
-  {
-   "id": "54d6f7e2915d",
-   "title": "Serie C gir. C: 14esima giornata intensa",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/tifosi-Casarano-a-Picerno-1024x1024.jpg",
-   "url": "https://trnews.it/2026/11/12/serie-c-gir-c-14esima-giornata-intensa",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T10:50:52+00:00"
-  },
-  {
-   "id": "344eb1a96673",
-   "title": "Taranto avanti in Coppa Italia ma tra i fischi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Still0412_00000-2-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/12/taranto-avanti-in-coppa-italia-ma-tra-i-fischi",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-11-12T10:25:19+00:00"
-  },
-  {
-   "id": "4951d5318c1e",
-   "title": "Basi russe in Libia e rotte verso il Sahel: la morsa di Mosca nel Mediterraneo",
-   "summary": "Armi russe a Tobruk, basi nel deserto e droni low cost: l'avanzata dell'Africa Corps tra Libia, Sahel e Sudan minaccia la sicurezza del Mediterraneo.",
-   "image": null,
-   "url": "https://www.valigiablu.it/basi-russe-libia-africa-corps-mediterraneo/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-12T10:05:36+00:00"
-  },
-  {
-   "id": "7f0c25b16b02",
-   "title": "“Intelligenza Artificiale o Uomo?”, Ciricugno porta il dibattito a Galatina e San Cesario: due incontri alle 18.30",
-   "summary": "GALATINA/SAN CESARIO DI LECCE – Due appuntamenti nel Salento per interrogarsi sul rapporto tra esseri umani e macchine, sulle promesse della transizione digitale e sui rischi per l’autonomia del pens…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/intelligenza-artificiale-o-uomo-ciricugno-porta-il-dibattito-a-galatina-e-san-cesario-due-incontri-alle-18-30/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T10:04:01+00:00"
-  },
-  {
-   "id": "c5ce5aad81d1",
-   "title": "Operaio morto in cantiere. Chiesto processo per datore di lavoro: “Ha travolto lavoratore con il cassone”",
-   "summary": "GALATINA (Lecce) – Rischia il processo G.C., 49 anni, di Galatina, titolare della Cooperativa, con l’accusa di omicidio colposo per la morte sul lavoro dell’operaio Maurizio Misciali, il 23 ottobre 2…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/operaio-morto-in-cantiere-chiesto-processo-per-datore-di-lavoro-ha-travolto-lavoratore-con-il-cassone/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T10:03:44+00:00"
-  },
-  {
-   "id": "cf67a123f99c",
-   "title": "Il Lecce segna di più ma mancano i gol dei centrali offensivi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Still0412_00000-1-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/12/il-lecce-segna-di-piu-ma-mancano-i-gol-dei-centrali-offensivi",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T09:48:29+00:00"
-  },
-  {
-   "id": "adfed9badc94",
-   "title": "Coach Brienza: \" Partita bellissima, grande vittoria\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Still0412_00001-2-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/12/521234",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-11-12T09:37:59+00:00"
-  },
-  {
-   "id": "b14023f407a9",
-   "title": "Dioniso, il vino, il Salento",
-   "summary": "Nella settimana della ricorrenza di San Martino, la Cupertinum – in collaborazione con il Museo Castromediano di Lecce – propone un importantissimo incontro dedicato alla cultura del vino. Le storie…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/dioniso-il-vino-il-salento/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T08:02:27+00:00"
-  },
-  {
-   "id": "72b44f5d79fd",
-   "title": "Lecce commemora le Vittime della Strada: incontro di riflessione alla parrocchia San Massimiliano Kolbe",
-   "summary": "LECCE – In occasione della Giornata Mondiale in memoria delle Vittime della Strada, la comunità della parrocchia di San Massimiliano Kolbe a Lecce organizza un momento di ritrovo e riflessione sul te…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/lecce-commemora-le-vittime-della-strada-incontro-di-riflessione-alla-parrocchia-san-massimiliano-kolbe/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T08:00:36+00:00"
-  },
-  {
-   "id": "3d57bfbff0ee",
-   "title": "Cantiere abbandonato, un residente a Rotundo: “Lodevole l’interessamento, ma senza allarmismi”",
-   "summary": "LECCE – Mettere in sicurezza lo stabile abbandonato e affrontare il degrado, chiarendo però la natura dei problemi segnalati ed evitando allarmismi. È il contributo al confronto di un residente di vi…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/cantiere-abbandonato-un-residente-a-rotundo-lodevole-linteressamento-ma-senza-allarmismi/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T07:58:13+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-15T07:57:42.937956+00:00",
+   "last_ok": "2026-11-15T15:12:42.252117+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-15T07:57:42.937956+00:00",
+   "last_ok": "2026-11-15T15:12:42.252117+00:00",
    "error": null
   },
   {
@@ -1652,19 +1630,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-15T07:57:42.937956+00:00",
+   "last_ok": "2026-11-15T15:12:42.252117+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-15T07:57:42.937956+00:00",
+   "last_ok": "2026-11-15T15:12:42.252117+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-15T07:57:42.937956+00:00",
+   "last_ok": "2026-11-15T15:12:42.252117+00:00",
    "error": null
   }
  ]
