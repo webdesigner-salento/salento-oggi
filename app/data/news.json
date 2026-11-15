@@ -1,6 +1,138 @@
 {
- "updated_at": "2026-11-15T15:12:42.252117+00:00",
+ "updated_at": "2026-11-15T20:26:51.055520+00:00",
  "items": [
+  {
+   "id": "2e3dfee27dee",
+   "title": "Valtur Brindisi, vittoria di carattere: Cento si arrende soltanto nel finale (83-79)",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/valtur-15-novembre-1-1024x614.jpeg",
+   "url": "https://trnews.it/2026/11/15/valtur-brindisi-vittoria-di-carattere-cento-si-arrende-soltanto-nel-finale-83-79",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-11-15T19:56:27+00:00"
+  },
+  {
+   "id": "658014eef057",
+   "title": "Nuoto, Edoardo Karol Rizzo cala la doppietta d’oro: dominio nei 50 e 100 dorso alla Everybody Swim",
+   "summary": "Due gare, due vittorie e un solo protagonista. Edoardo Karol Rizzo si prende la scena alla prima fase del circuito regionale di nuoto ACSI 2026 “Everybody Swim”, firmando una prestigiosa doppietta d’…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/nuoto-edoardo-karol-rizzo-cala-la-doppietta-doro-dominio-nei-50-e-100-dorso-alla-everybody-swim/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-11-15T19:28:39+00:00"
+  },
+  {
+   "id": "fdbb1c28ac8f",
+   "title": "Corsa su strada a Calimera: Nfamara Njie e Agnese De Luca dominano la settima Mezza Maratona della Grecìa Salentina",
+   "summary": "Oltre 600 podisti provenienti da gran parte d’Italia hanno invaso le strade di Calimera per la settima edizione della Mezza Maratona della Grecìa Salentina e della Pizzica, trasformando la cittadina…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/494f55c3-d90a-4125-a51e-5373a3f8fd63-300x226.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/corsa-su-strada-a-calimera-nfamara-njie-e-agnese-de-luca-dominano-la-settima-mezza-maratona-della-grecia-salentina/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T18:36:36+00:00"
+  },
+  {
+   "id": "3d9567d68525",
+   "title": "Volley A2, Melendugno lotta, ma perde 3-2 in trasferta con Messina",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/volley-melendugno-1.jpg",
+   "url": "https://trnews.it/2026/11/15/volley-a2-melendugno-lotta-ma-perde-3-2-in-trasferta-con-messina",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T18:29:15+00:00"
+  },
+  {
+   "id": "8adda562c497",
+   "title": "Scontro tra Mercedes e moto sulla provinciale, due 46enni in codice rosso",
+   "summary": "NARDÒ (Lecce) – Scontro tra un’auto e una moto e due persone finiscono in ospedale in codice rosso. È pesante il bilancio dell’incidente avvenuto nel primo pomeriggio, intorno alle 14.30, lungo la st…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/scontro-tra-mercedes-e-moto-sulla-provinciale-due-46enni-in-codice-rosso/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T17:46:29+00:00"
+  },
+  {
+   "id": "44a1c2da0efa",
+   "title": "Eccellenza, il Taranto di Cioffi soffre, ma vince a Galatina",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-15-184258.png",
+   "url": "https://trnews.it/2026/11/15/eccellenza-il-taranto-di-cioffi-soffre-ma-vince-a-galatina",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-11-15T17:27:54+00:00"
+  },
+  {
+   "id": "4b45061bd8c9",
+   "title": "SERIE D – GIRONE H, 12ª giornata: risultati e classifica",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-d-1024x538.jpg",
+   "url": "https://trnews.it/2026/11/15/serie-d-girone-h-12a-giornata-risultati-e-classifica",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-11-15T17:20:31+00:00"
+  },
+  {
+   "id": "77e3df0eabfb",
+   "title": "Comune di Bari, il centrodestra serra i ranghi",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/riunione-centrodestra-comune-di-Bari-1024x845.jpg",
+   "url": "https://trnews.it/2026/11/15/comune-di-bari-il-centrodestra-serra-i-ranghi",
+   "source": "TeleRama News",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-11-15T17:12:01+00:00"
+  },
+  {
+   "id": "c44b1bcf7fa5",
+   "title": "BARI. GIUSTA CAUSA: ANCORA SOSTEGNO IN BILICO ALLA MAGGIORANZA",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-46-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/15/https-youtu-be-wrsnoxhqqrw",
+   "source": "TeleRama News",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-11-15T16:54:22+00:00"
+  },
+  {
+   "id": "c2a29db5517a",
+   "title": "Nuoto, Edoardo Karol Rizzo conquista due ori nella fase regionale Everybody Swim",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Edo-Rizzo-nuoto-1-1-1024x815.jpeg",
+   "url": "https://trnews.it/2026/11/15/nuoto-edoardo-karol-rizzo-conquista-due-ori-nella-fase-regionale-everybody-swim",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T16:48:37+00:00"
+  },
+  {
+   "id": "c01939ef0d5e",
+   "title": "Rubò due pissidi con le ostie consacrate dal tabernacolo: denunciato un 54enne",
+   "summary": "CORSANO (Lecce) – Forzò il tabernacolo e rubò le pissidi contenenti le ostie consacrate. Un furto che aveva scosso la comunità di Corsano e sul quale, dopo settimane di indagini, è arrivata una svolt…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/rubo-due-pissidi-con-le-ostie-consacrate-dal-tabernacolo-denunciato-un-54enne/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T15:56:00+00:00"
+  },
+  {
+   "id": "1d5963dc5e83",
+   "title": "ECCELLENZA 13ª giornata: risultati e classifica. Roboante vittoria dello Squinzano",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/Eccellenza-750x500-1.jpg",
+   "url": "https://trnews.it/2026/11/15/eccellenza-13a-giornata-risultati-e-classifica-roboante-vittoria-dello-squinzano",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T15:36:21+00:00"
+  },
   {
    "id": "0e2b03ce6cbb",
    "title": "Falcone e Borsellino, l’eredità del coraggio e della legalità incontra Cuore Amico",
@@ -10,7 +142,7 @@
    "source": "TeleRama News",
    "category": "Eventi",
    "zone": "Lecce",
-   "published_at": "2026-11-15T14:17:10+00:00"
+   "published_at": "2026-11-15T15:17:10+00:00"
   },
   {
    "id": "94915be9337f",
@@ -30,7 +162,7 @@
    "image": "https://wp.trnews.it/wp-content/uploads/2026/11/incontro-copertino-1024x576.jpg",
    "url": "https://trnews.it/2026/11/15/quattro-anni-di-governo-meloni-a-copertino-lincontro-nel-segno-della-stabilita",
    "source": "TeleRama News",
-   "category": "Cronaca",
+   "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-11-15T13:41:17+00:00"
   },
@@ -82,7 +214,7 @@
    "id": "5a5f51ff330c",
    "title": "Casarano, Filograna: \"Non fermiamoci\"",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/06/Antonio-Filograna-Sergio.jpg",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/02/Antonio-Filograna-presidente-Casarano.png",
    "url": "https://trnews.it/2026/11/15/casarano-filograna-non-fermiamoci",
    "source": "TeleRama News",
    "category": "Sport",
@@ -140,7 +272,7 @@
    "image": "https://wp.trnews.it/wp-content/uploads/2026/11/ULIVO-DORO-1024x576.jpg",
    "url": "https://trnews.it/2026/11/15/festival-del-cinema-europeo-tutti-i-vincitori-della-xxvii-edizione",
    "source": "TeleRama News",
-   "category": "Cultura",
+   "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-11-15T12:00:07+00:00"
   },
@@ -1397,228 +1529,19 @@
    "category": "Eventi",
    "zone": "Salento",
    "published_at": "2026-11-12T20:55:53+00:00"
-  },
-  {
-   "id": "472b0a360d30",
-   "title": "Taranto, è ufficiale l'addio a Corvino",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-12-212226.png",
-   "url": "https://trnews.it/2026/11/12/taranto-e-ufficiale-laddio-a-corvino",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-11-12T20:07:17+00:00"
-  },
-  {
-   "id": "2baadb9ae047",
-   "title": "Tomba profanata per rubare: indagati madre, figlio e compro oro. Due indagati per colpi di pistola studio odeontotecnico",
-   "summary": "TAVIANO (Lecce) – Si introdussero nel cimitero di Taviano nella notte tra il 12 e il 13 aprile scorsi per profanare la tomba di un’insegnante morta il 5 gennaio 2014, a 87 anni. Dopo aver scavato e d…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/tomba-profanata-per-rubare-indagati-madre-figlio-e-compro-oro-due-indagati-per-colpi-di-pistola-studio-odeontotecnico/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T20:06:36+00:00"
-  },
-  {
-   "id": "7fd2ad285486",
-   "title": "Una stanza di un b&b nel centro di Lecce base logistica per lo spaccio: arrestati un ragazzo e una ragazza",
-   "summary": "LECCE – La stanza di un B&b nel centro di Lecce come base logistica per un’intensa attività di spaccio. I movimenti dei presunti pusher, però, non sono passati inosservati e dopo una perquisizione so…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/una-stanza-di-un-bb-nel-centro-di-lecce-base-logistica-per-lo-spaccio-arrestati-un-ragazzo-e-una-ragazza/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T20:03:20+00:00"
-  },
-  {
-   "id": "38c57d4144cc",
-   "title": "Strage Nassiriya, ventitré anni dopo, tribunale disponde risarcimento per fratelli del militare salentino",
-   "summary": "TREPUZZI (Lecce) – Nel giorno in cui ricade l’anniversaio dalla strage di Nassiriyah – correva il 12 novembre 2003 – il fratello e la sorella del caporal maggiore Alessandro Carrisi, originario di Tr…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/strage-nassyriah-ventitre-anni-dopo-tribunale-disponde-risarcimento-per-fratelli-del-soldato-salentino/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T20:01:57+00:00"
-  },
-  {
-   "id": "9b9899ba6bbb",
-   "title": "Travolti da un’auto, mentre viaggiavano in monopattino, due feriti, uno dei quali più grave",
-   "summary": "Diso-Spongano (Lecce) – Travolti da un’auto, mentre viaggiavano in monopattino. Due i feriti, uno dei quali più grave, trasportato in ospedale in codice rosso. L’incidente stradale si è verificato in…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/travolti-da-unauto-mentre-viaggiavano-in-monopattino-due-feriti-uno-dei-quali-piu-grave/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T19:58:29+00:00"
-  },
-  {
-   "id": "8a2ff1f49556",
-   "title": "Tentò di far esplodere casa con figlio, nuora e nipoti dentro, 81enne a processo con l’accusa di strage",
-   "summary": "VEGLIE (Lecce) – A 81 anni finisce sotto processo con l’accusa di strage. L’anziano, originario di Veglie, sottoposto alla misura di sicurezza della libertà vigilata in una Rsa avrebbe tentato di ucc…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/tento-di-far-esplodere-casa-con-figlio-nuora-e-nipoti-dentro-81enne-a-processo-con-laccusa-di-strage/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T18:59:55+00:00"
-  },
-  {
-   "id": "ba07ea418fb4",
-   "title": "Sette mesi in carcere per presunte violenze sessuali sulla fidanzata ma era innocente: assolto, torna libero",
-   "summary": "OTRANTO (Lecce) – Venne arrestato il 10 aprile 2026 su denuncia della persona offesa, con la quale in passato aveva avuto una relazione sentimentale e che temporaneamente era ospite a casa di lui a O…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/sette-mesi-in-carcere-per-presunte-violenze-sessuali-sulla-fidanzata-ma-era-innocente-assolto-torna-libero/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T18:49:54+00:00"
-  },
-  {
-   "id": "da8ac692a21d",
-   "title": "Si sarebbero sostituiti all’anziana zia per intascare assegni Agenzia delle Entrate: condannati due nipoti",
-   "summary": "COPERTINO (Lecce) – Si sarebbero sostituiti illecitamente alla zia per appropriarsi di rimborsi dell’Agenzia delle Entrate per oltre 8mila euro, spettanti alla parente. I nipoti della donna, fratelli…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/si-sarebbero-sostituiti-allanziana-zia-per-intascare-assegni-agenzia-delle-entrate-condannati-due-nipoti/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T18:47:36+00:00"
-  },
-  {
-   "id": "3afbc8627a12",
-   "title": "Sanità, siglato l'accordo: in 1200 tra infermieri e oss saranno stabilizzati",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/SINDACATI-FP-REGIONE-1024x577.jpg",
-   "url": "https://trnews.it/2026/11/12/sanita-siglato-laccordo-in-1200-tra-infermieri-e-oss-saranno-stabilizzati",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-12T17:16:22+00:00"
-  },
-  {
-   "id": "a66235a9215f",
-   "title": "Asset, in commissione confermate le criticità: stop alle convenzioni",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/II-Commissione-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/12/asset-in-commissione-confermate-le-criticita-stop-alle-convenzioni",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-12T17:03:27+00:00"
-  },
-  {
-   "id": "57f23dc1d618",
-   "title": "Mercato bisettimanale, apertura straordinaria in tre domeniche",
-   "summary": "LECCE – Il mercato bisettimanale di Lecce recupera le giornate perse e apre – straordinariamente – in tre domeniche. Gli operatori ambulanti allestiranno le bancarelle domenica prossima, 15 novembre,…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/mercato-bisettimanale-apertura-straordinaria-in-tre-domeniche/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T16:25:14+00:00"
-  },
-  {
-   "id": "e320df0d6a5a",
-   "title": "Castello Carlo V di Lecce: venerdì 13 novembre Cristiana Verardo per Binario Sud e sabato 14 San Martino al Castello",
-   "summary": "LECCE – Sarà Cristiana Verardo la protagonista del secondo appuntamento in programma al Castello Carlo V di Lecce venerdì 13 novembre, alle 19, con la rassegna “Binario Sud”, curata da Art&Lab Lu Mbr…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/castello-carlo-v-di-lecce-venerdi-13-novembre-cristiana-verardo-per-binario-sud-e-sabato-14-san-martino-al-castello/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T16:22:52+00:00"
-  },
-  {
-   "id": "93a189634441",
-   "title": "Oncologico Bari, il caso diventa nazionale: FdI chiede chiarimenti al ministero e le dimissioni di Spaccavento",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-41-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/12/oncologico-bari-il-caso-diventa-nazionale-fdi-chiede-chiarimenti-al-ministero-e-le-dimissioni-di-spaccavento",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-12T16:17:32+00:00"
-  },
-  {
-   "id": "f62e78ab1566",
-   "title": "Telerama, da domani \"Terre del Salento\" diventa \"Terre del Sud\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-40-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/12/telerama-da-domani-terre-del-salento-diventa-terre-del-sud",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T16:12:34+00:00"
-  },
-  {
-   "id": "953ea111ba1c",
-   "title": "Allarmi bombe nelle scuole, dopo l’evacuazione comincia il lavoro più importante: restituire ai ragazzi la fiducia nella scuola come luogo sicuro",
-   "summary": "“Le minacce arrivate ieri e oggi via email in migliaia di istituti, anche pugliesi, si sono rivelate prive di fondamento, ma questo non significa che siano state prive di effetti. Per un bambino o un…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/allarmi-bombe-nelle-scuole-dopo-levacuazione-comincia-il-lavoro-piu-importante-restituire-ai-ragazzi-la-fiducia-nella-scuola-come-luogo-sicuro/",
-   "source": "Corriere Salentino",
-   "category": "Salute",
-   "zone": "Salento",
-   "published_at": "2026-11-12T15:44:52+00:00"
-  },
-  {
-   "id": "a5de7d030b31",
-   "title": "A Lecce Qi Mobility per costruire una strada più sicura",
-   "summary": "Dietro ogni numero c’è una vita: a Lecce le Giornate QI MOBILITY per costruire insieme una strada più sicura Il 16 novembre, nell’Aula Magna del Liceo Banzi Bazoli, studenti, istituzioni, esperti e u…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/a-lecce-qi-mobility-per-costruire-una-strada-piu-sicura/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T15:43:15+00:00"
-  },
-  {
-   "id": "659560695c11",
-   "title": "“Dopo di Noi”, finanziata con oltre 3,7 milioni la Linea B dell’avviso pubblico per persone con disabilità grave prive di sostegno familiare",
-   "summary": "Promuovere l’autonomia e migliorare la qualità della vita delle persone con disabilità grave prive del necessario sostegno familiare, o esposte al rischio di perderlo, attraverso percorsi individuali…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/dopo-di-noi-finanziata-con-oltre-37-milioni-la-linea-b-dellavviso-pubblico-per-persone-con-disabilita-grave-prive-di-sostegno-familiare/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-12T15:35:39+00:00"
-  },
-  {
-   "id": "2998f535fd4f",
-   "title": "Politiche migratorie, si è chiuso oggi a Lecce il percorso partecipativo MiCS: 700 partecipanti e 250 organizzazioni coinvolti nelle sei tappe in Puglia",
-   "summary": "Con l’ultimo laboratorio provinciale che si è tenuto oggi al Convitto Palmieri di Lecce, si è concluso il percorso partecipativo MiCS – Migrazione Condivisa e Sostenibile, promosso dalla Regione Pugl…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/politiche-migratorie-si-e-chiuso-oggi-a-lecce-il-percorso-partecipativo-mics-700-partecipanti-e-250-organizzazioni-coinvolti-nelle-sei-tappe-in-puglia/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T15:26:42+00:00"
-  },
-  {
-   "id": "6a5e4fb295e7",
-   "title": "Agenda Partecipata: Il futuro di Carmiano e Magliano ha bisogno di una nuova pagina",
-   "summary": "“L’articolo pubblicato da Vivicittà sul futuro scenario politico di Carmiano e Magliano offre l’occasione per una riflessione che, come Presidente di Agenda Partecipata, ritengo doverosa.” Lo scrive…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/agenda-partecipata-il-futuro-di-carmiano-e-magliano-ha-bisogno-di-una-nuova-pagina/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-12T15:19:32+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-15T15:12:42.252117+00:00",
+   "last_ok": "2026-11-15T20:26:51.055520+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-15T15:12:42.252117+00:00",
+   "last_ok": "2026-11-15T20:26:51.055520+00:00",
    "error": null
   },
   {
@@ -1630,19 +1553,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-15T15:12:42.252117+00:00",
+   "last_ok": "2026-11-15T20:26:51.055520+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-15T15:12:42.252117+00:00",
+   "last_ok": "2026-11-15T20:26:51.055520+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-15T15:12:42.252117+00:00",
+   "last_ok": "2026-11-15T20:26:51.055520+00:00",
    "error": null
   }
  ]
