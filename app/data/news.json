@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-15T20:26:51.055520+00:00",
+ "updated_at": "2026-11-16T00:05:36.180228+00:00",
  "items": [
+  {
+   "id": "62a6e7bdeb3b",
+   "title": "SERIE C – GIRONE C, 14ª giornata: risultati e classifica. Vincono Bari, Barletta e Casarano",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/pallone_serie_c-1024x642.avif",
+   "url": "https://trnews.it/2026/11/15/serie-c-girone-c-14a-giornata-risultati-e-classifica-vincono-bari-barletta-e-casarano",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T21:08:13+00:00"
+  },
   {
    "id": "2e3dfee27dee",
    "title": "Valtur Brindisi, vittoria di carattere: Cento si arrende soltanto nel finale (83-79)",
@@ -10,7 +21,18 @@
    "source": "TeleRama News",
    "category": "Sport",
    "zone": "Brindisi",
-   "published_at": "2026-11-15T19:56:27+00:00"
+   "published_at": "2026-11-15T20:56:27+00:00"
+  },
+  {
+   "id": "3d9567d68525",
+   "title": "Volley A2, Melendugno lotta, ma perde 3-2 in trasferta con Messina",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/volley-melendugno-1.jpg",
+   "url": "https://trnews.it/2026/11/15/volley-a2-melendugno-lotta-ma-perde-3-2-in-trasferta-con-messina",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T19:29:15+00:00"
   },
   {
    "id": "658014eef057",
@@ -35,15 +57,48 @@
    "published_at": "2026-11-15T18:36:36+00:00"
   },
   {
-   "id": "3d9567d68525",
-   "title": "Volley A2, Melendugno lotta, ma perde 3-2 in trasferta con Messina",
+   "id": "44a1c2da0efa",
+   "title": "Eccellenza, il Taranto di Cioffi soffre, ma vince a Galatina",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/volley-melendugno-1.jpg",
-   "url": "https://trnews.it/2026/11/15/volley-a2-melendugno-lotta-ma-perde-3-2-in-trasferta-con-messina",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-15-184258.png",
+   "url": "https://trnews.it/2026/11/15/eccellenza-il-taranto-di-cioffi-soffre-ma-vince-a-galatina",
    "source": "TeleRama News",
    "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-15T18:29:15+00:00"
+   "zone": "Taranto",
+   "published_at": "2026-11-15T18:27:54+00:00"
+  },
+  {
+   "id": "4b45061bd8c9",
+   "title": "SERIE D – GIRONE H, 12ª giornata: risultati e classifica",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-d-1024x538.jpg",
+   "url": "https://trnews.it/2026/11/15/serie-d-girone-h-12a-giornata-risultati-e-classifica",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-11-15T18:20:31+00:00"
+  },
+  {
+   "id": "77e3df0eabfb",
+   "title": "Comune di Bari, il centrodestra serra i ranghi",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/riunione-centrodestra-comune-di-Bari-1024x845.jpg",
+   "url": "https://trnews.it/2026/11/15/comune-di-bari-il-centrodestra-serra-i-ranghi",
+   "source": "TeleRama News",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-11-15T18:12:01+00:00"
+  },
+  {
+   "id": "c44b1bcf7fa5",
+   "title": "BARI. GIUSTA CAUSA: ANCORA SOSTEGNO IN BILICO ALLA MAGGIORANZA",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-46-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/15/https-youtu-be-wrsnoxhqqrw",
+   "source": "TeleRama News",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-11-15T17:54:22+00:00"
   },
   {
    "id": "8adda562c497",
@@ -57,50 +112,6 @@
    "published_at": "2026-11-15T17:46:29+00:00"
   },
   {
-   "id": "44a1c2da0efa",
-   "title": "Eccellenza, il Taranto di Cioffi soffre, ma vince a Galatina",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-15-184258.png",
-   "url": "https://trnews.it/2026/11/15/eccellenza-il-taranto-di-cioffi-soffre-ma-vince-a-galatina",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-11-15T17:27:54+00:00"
-  },
-  {
-   "id": "4b45061bd8c9",
-   "title": "SERIE D – GIRONE H, 12ª giornata: risultati e classifica",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-d-1024x538.jpg",
-   "url": "https://trnews.it/2026/11/15/serie-d-girone-h-12a-giornata-risultati-e-classifica",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-11-15T17:20:31+00:00"
-  },
-  {
-   "id": "77e3df0eabfb",
-   "title": "Comune di Bari, il centrodestra serra i ranghi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/riunione-centrodestra-comune-di-Bari-1024x845.jpg",
-   "url": "https://trnews.it/2026/11/15/comune-di-bari-il-centrodestra-serra-i-ranghi",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-15T17:12:01+00:00"
-  },
-  {
-   "id": "c44b1bcf7fa5",
-   "title": "BARI. GIUSTA CAUSA: ANCORA SOSTEGNO IN BILICO ALLA MAGGIORANZA",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-46-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/15/https-youtu-be-wrsnoxhqqrw",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-15T16:54:22+00:00"
-  },
-  {
    "id": "c2a29db5517a",
    "title": "Nuoto, Edoardo Karol Rizzo conquista due ori nella fase regionale Everybody Swim",
    "summary": "",
@@ -110,6 +121,17 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-11-15T16:48:37+00:00"
+  },
+  {
+   "id": "1d5963dc5e83",
+   "title": "ECCELLENZA 13ª giornata: risultati e classifica. Roboante vittoria dello Squinzano",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/Eccellenza-750x500-1.jpg",
+   "url": "https://trnews.it/2026/11/15/eccellenza-13a-giornata-risultati-e-classifica-roboante-vittoria-dello-squinzano",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T16:36:21+00:00"
   },
   {
    "id": "c01939ef0d5e",
@@ -123,17 +145,6 @@
    "published_at": "2026-11-15T15:56:00+00:00"
   },
   {
-   "id": "1d5963dc5e83",
-   "title": "ECCELLENZA 13ª giornata: risultati e classifica. Roboante vittoria dello Squinzano",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/Eccellenza-750x500-1.jpg",
-   "url": "https://trnews.it/2026/11/15/eccellenza-13a-giornata-risultati-e-classifica-roboante-vittoria-dello-squinzano",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-15T15:36:21+00:00"
-  },
-  {
    "id": "0e2b03ce6cbb",
    "title": "Falcone e Borsellino, l’eredità del coraggio e della legalità incontra Cuore Amico",
    "summary": "",
@@ -143,6 +154,50 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-11-15T15:17:10+00:00"
+  },
+  {
+   "id": "297e23fbdb1c",
+   "title": "“Quattro anni di governo Meloni”: a Copertino l'incontro nel segno della stabilità",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/incontro-copertino-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/15/quattro-anni-di-governo-meloni-a-copertino-lincontro-nel-segno-della-stabilita",
+   "source": "TeleRama News",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T14:41:17+00:00"
+  },
+  {
+   "id": "be3dd24f836f",
+   "title": "Droga in auto e due pistole nascoste in garage: tre giovani ai domiciliari",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/04/guardia-finanza.jpg",
+   "url": "https://trnews.it/2026/11/15/droga-in-auto-e-due-pistole-nascoste-in-garage-tre-giovani-ai-domiciliari",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T14:08:38+00:00"
+  },
+  {
+   "id": "b4e815e83230",
+   "title": "Litoranea, il rombo delle moto si scalda: al via raccolta firme",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/6ca5737d-5902-4841-8b90-c1b06bb77f81-1024x577.jpg",
+   "url": "https://trnews.it/2026/11/15/litoranea-il-rombo-delle-moto-si-scalda-al-via-raccolta-firme",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T14:07:47+00:00"
+  },
+  {
+   "id": "6e52ac5db11b",
+   "title": "Nuovo Piano sosta, depositato il ricorso al Tar contro le strisce blu",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/04/palazzo-carafa-300x200-1.jpg",
+   "url": "https://trnews.it/2026/11/15/nuovo-piano-sosta-depositato-il-ricorso-al-tar-contro-le-strisce-blu",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-15T14:07:19+00:00"
   },
   {
    "id": "94915be9337f",
@@ -156,48 +211,15 @@
    "published_at": "2026-11-15T13:56:22+00:00"
   },
   {
-   "id": "297e23fbdb1c",
-   "title": "“Quattro anni di governo Meloni”: a Copertino l'incontro nel segno della stabilità",
+   "id": "1d896ea15555",
+   "title": "Furto in chiesa a Corsano: identificato l'autore",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/incontro-copertino-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/15/quattro-anni-di-governo-meloni-a-copertino-lincontro-nel-segno-della-stabilita",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-15T13:41:17+00:00"
-  },
-  {
-   "id": "be3dd24f836f",
-   "title": "Droga in auto e due pistole nascoste in garage: tre giovani ai domiciliari",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/04/guardia-finanza.jpg",
-   "url": "https://trnews.it/2026/11/15/droga-in-auto-e-due-pistole-nascoste-in-garage-tre-giovani-ai-domiciliari",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-15-at-13.10.33-e1794744878382.jpeg",
+   "url": "https://trnews.it/2026/11/15/furto-in-chiesa-a-corsano-identificato-lautore",
    "source": "TeleRama News",
    "category": "Cronaca",
    "zone": "Lecce",
-   "published_at": "2026-11-15T13:08:38+00:00"
-  },
-  {
-   "id": "b4e815e83230",
-   "title": "Litoranea, il rombo delle moto si scalda: al via raccolta firme",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/6ca5737d-5902-4841-8b90-c1b06bb77f81-1024x577.jpg",
-   "url": "https://trnews.it/2026/11/15/litoranea-il-rombo-delle-moto-si-scalda-al-via-raccolta-firme",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-15T13:07:47+00:00"
-  },
-  {
-   "id": "6e52ac5db11b",
-   "title": "Nuovo Piano sosta, depositato il ricorso al Tar contro le strisce blu",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/04/palazzo-carafa-300x200-1.jpg",
-   "url": "https://trnews.it/2026/11/15/nuovo-piano-sosta-depositato-il-ricorso-al-tar-contro-le-strisce-blu",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-15T13:07:19+00:00"
+   "published_at": "2026-11-15T13:14:43+00:00"
   },
   {
    "id": "ae44729f3bcb",
@@ -244,17 +266,6 @@
    "published_at": "2026-11-15T12:17:17+00:00"
   },
   {
-   "id": "1d896ea15555",
-   "title": "Furto in chiesa a Corsano: identificato l'autore",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-15-at-13.10.33-e1794744878382.jpeg",
-   "url": "https://trnews.it/2026/11/15/furto-in-chiesa-a-corsano-identificato-lautore",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-15T12:14:43+00:00"
-  },
-  {
    "id": "0232bcb089de",
    "title": "Vino novello, musica e sapori: la riscoperta della tradizione di San Martino",
    "summary": "",
@@ -272,7 +283,7 @@
    "image": "https://wp.trnews.it/wp-content/uploads/2026/11/ULIVO-DORO-1024x576.jpg",
    "url": "https://trnews.it/2026/11/15/festival-del-cinema-europeo-tutti-i-vincitori-della-xxvii-edizione",
    "source": "TeleRama News",
-   "category": "Eventi",
+   "category": "Cultura",
    "zone": "Lecce",
    "published_at": "2026-11-15T12:00:07+00:00"
   },
@@ -1518,30 +1529,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-13T05:00:48+00:00"
-  },
-  {
-   "id": "32f64557948a",
-   "title": "Nuove sonorità pop-elettroniche per Veetti: fuori a mezzanotte “Goodnight”",
-   "summary": "Una corsa nella notte senza una meta precisa, tra adrenalina, desiderio ed eccessi. Esce venerdì 13 novembre su tutte le piattaforme digitali “Goodnight”, il nuovo singolo di Veetti, nome d’arte del…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/nuove-sonorita-pop-elettroniche-per-veetti-fuori-a-mezzanotte-goodnight/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Salento",
-   "published_at": "2026-11-12T20:55:53+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-15T20:26:51.055520+00:00",
+   "last_ok": "2026-11-16T00:05:36.180228+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-15T20:26:51.055520+00:00",
+   "last_ok": "2026-11-16T00:05:36.180228+00:00",
    "error": null
   },
   {
@@ -1553,19 +1553,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-15T20:26:51.055520+00:00",
+   "last_ok": "2026-11-16T00:05:36.180228+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-15T20:26:51.055520+00:00",
+   "last_ok": "2026-11-16T00:05:36.180228+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-15T20:26:51.055520+00:00",
+   "last_ok": "2026-11-16T00:05:36.180228+00:00",
    "error": null
   }
  ]
