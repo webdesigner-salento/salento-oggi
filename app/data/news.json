@@ -1,6 +1,83 @@
 {
- "updated_at": "2026-11-18T00:13:53.422726+00:00",
+ "updated_at": "2026-11-18T07:44:46.916862+00:00",
  "items": [
+  {
+   "id": "60e99bad87df",
+   "title": "Salario giusto, Federaziende: il contratto leader non è uno scudo costituzionale. La retribuzione deve essere sempre proporzionata e dignitosa",
+   "summary": "La posizione di Federaziende sulla nuova disciplina del salario giusto, sulla contrattazione collettiva e sulle recenti pronunce dei Tribunali di Bari e Roma. Federaziende ritiene necessario interven…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/salario-giusto-federaziende-il-contratto-leader-non-e-uno-scudo-costituzionale-la-retribuzione-deve-essere-sempre-proporzionata-e-dignitosa/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-18T07:38:19+00:00"
+  },
+  {
+   "id": "00390a12c7f1",
+   "title": "Polizia di Stato, oggi la giornata di legalità con 500 studenti e la presentazione del calendario 2027",
+   "summary": "Cagliari – Questa mattina, circa 500 studenti degli istituti scolastici della città e della provincia di Cagliari parteciperanno ad una giornata di legalità, promossa dalla Polizia di Stato e organiz…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/polizia-di-stato-oggi-la-giornata-di-legalita-con-500-studenti-e-la-presentazione-del-calendario-2027/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-11-18T07:31:44+00:00"
+  },
+  {
+   "id": "41d6a9081778",
+   "title": "L’almanacco di oggi 18 novembre",
+   "summary": "Il Santo del giorno: Sant’Oddone. Il proverbio di Mesciu Ronzu: Quannu lu sciroccu rite è chiù fessa ci lu crite. Significato: Quando lo scirocco ride e più fesso chi lo crede. – Sono nati in questo…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/lalmanacco-di-oggi-18-novembre/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-18T06:00:33+00:00"
+  },
+  {
+   "id": "679747edfe0e",
+   "title": "Nuoto, Benedetta Pilato ai Mondiali in Cina",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/06/Pilato.jpg",
+   "url": "https://trnews.it/2026/11/18/nuoto-benedetta-pilato-ai-mondiali-in-cina",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-11-18T05:59:00+00:00"
+  },
+  {
+   "id": "700742b41a82",
+   "title": "Serie C, trappola Inter per il Potenza",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-17-190050.png",
+   "url": "https://trnews.it/2026/11/18/serie-c-trappola-inter-per-il-potenza",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-11-18T05:42:05+00:00"
+  },
+  {
+   "id": "179e65145800",
+   "title": "Ricetta del giorno: Focaccia barese",
+   "summary": "Ingredienti: 300 gr di farina tipo “0” 250 gr di semola rimacinata 1 patata lessa grande 1 bicchiere di olio evo 400 ml di acqua tiepida 1 cubetto di lievito di birra 6 pomodori rossi maturi olive sa…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/ricetta-del-giorno-focaccia-barese/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-18T04:48:49+00:00"
+  },
+  {
+   "id": "03a77f237678",
+   "title": "Deutsche Bank armata. Anche Leonardo tra i suoi clienti",
+   "summary": "Il leak Inside Deutsche Bank svela la vicinanza all’industria bellica, e come la banca abbia finanziato forniture di armamenti anche a Paesi ad «alto rischio» o in conflitto, violando le sue stesse p…",
+   "image": "https://www.irpimedia.eu/wp-content/uploads/2026/11/inside-deutsche-bank-panorama-cover-640x400.webp",
+   "url": "https://www.irpimedia.eu/deutsche-bank-armata-anche-leonardo-tra-i-clienti/",
+   "source": "IrpiMedia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-18T04:00:00+00:00"
+  },
   {
    "id": "f5cf63867ac8",
    "title": "Antonio Di Pietro a Filorosso (Rai 3): “Sarebbe bello avere un Csm dove non ci sono solo le correnti”",
@@ -11,6 +88,17 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-17T23:34:41+00:00"
+  },
+  {
+   "id": "54b5760c028d",
+   "title": "Migliaia di persone sono state deportate dagli Stati Uniti in Paesi diversi da quelli di origine",
+   "summary": "Dopo la pesante sconfitta alle elezioni di metà mandato, il presidente degli Stati Uniti Donald Trump in un' intervista rilasciata il 9 novembre alla CBS ha dichiarato che la sua politica di deportaz…",
+   "image": "https://altreconomia.it/app/uploads/2026/11/55350543696_418ef55b25_o.jpg",
+   "url": "https://altreconomia.it/migliaia-di-persone-sono-state-deportate-dagli-stati-uniti-in-paesi-diversi-da-quelli-di-origine/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-17T23:01:19+00:00"
   },
   {
    "id": "3680028d82d8",
@@ -1881,96 +1969,19 @@
    "category": "Cultura",
    "zone": "Lecce",
    "published_at": "2026-11-15T08:00:26+00:00"
-  },
-  {
-   "id": "a114f8b94d43",
-   "title": "Fauna del Salento. La cicala: incomparabile chitarrista dell’estate",
-   "summary": "Un insetto tozzo, dagli occhi prominenti e separati e quattro ali trasparenti e membranose ripiegate a tetto sul dorso. Nonostante le dimensioni ridotte (3-5 cm), possiede una struttura anatomica uni…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/fauna-del-salento-la-cicala-incomparabile-chitarrista-dellestate/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-15T07:42:35+00:00"
-  },
-  {
-   "id": "ea481c96fba6",
-   "title": "Eccellenze gastronomiche salentine: Fave e cicorie",
-   "summary": "Le fave e cicorie rappresentano uno degli emblemi gastronomici distintivi del Salento, trovano la loro esegesi nella tradizione rurale locale e forse proprio per questo incarnano i principi della die…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/eccellenze-gastronomiche-salentine-fave-e-cicorie/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-15T07:42:29+00:00"
-  },
-  {
-   "id": "933b4027feab",
-   "title": "Kyiv Independent, una storia di giornalismo e resistenza",
-   "summary": "Il Kyiv Independent festeggia il suo quinto anniversario lanciando la più grande campagna di adesione della sua storia, con l’obiettivo di accogliere 5.000 nuovi membri in tutto il mondo per rafforza…",
-   "image": null,
-   "url": "https://www.valigiablu.it/kyiv-independent-campagna-giornalismo-resistenza/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-15T07:42:27+00:00"
-  },
-  {
-   "id": "3d21266d1210",
-   "title": "Alla scoperta del Salento: la Grotta dei Cervi",
-   "summary": "PORTO BADISCO – Era il 1 febbraio 1970 quando, durante un’escursione all’interno del Parco Naturale Regionale di Porto Badisco, cinque membri del Gruppo Speleologico Salentino “P. de Laurentiis” di M…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2022/10/reperti-grotta-dei-cervi-1-747x420.jpg",
-   "url": "https://www.corrieresalentino.it/2026/11/alla-scoperta-del-salento-la-grotta-dei-cervi/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Salento",
-   "published_at": "2026-11-15T07:37:49+00:00"
-  },
-  {
-   "id": "421f003e4fac",
-   "title": "Alla scoperta del Salento: la storia di Piazza Sant’Oronzo",
-   "summary": "Già nei precedenti articoli ci siamo soffermati ad illustrare alcuni monumenti tipici di una delle piazze più belle della nostra città: Piazza Sant’Oronzo; abbiamo ripercorso la storia dell’anfiteatr…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2019/01/lecce-piazza-sant-oronzo-1-400x300.jpg",
-   "url": "https://www.corrieresalentino.it/2026/11/alla-scoperta-del-salento-la-storia-di-piazza-santoronzo/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Salento",
-   "published_at": "2026-11-15T07:25:33+00:00"
-  },
-  {
-   "id": "4e2a72a2189a",
-   "title": "L’almanacco di oggi 15 novembre",
-   "summary": "Il Santo del giorno: Sant’Alberto Magno. Il proverbio di Mesciu Ronzu: Quandu lu musciu nun cete li surgi ballanu. Significato: Quando il gatto non c’è i topi ballano. – Sono nati in questo giorno 19…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/lalmanacco-di-oggi-15-novembre/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-15T06:40:58+00:00"
-  },
-  {
-   "id": "9155411430e8",
-   "title": "La ricetta del giorno: carne di manzo al sugo",
-   "summary": "Ingredienti 600 gr di manzo tagliato a pezzetti olio extravergine di oliva sale 1 spicchio di aglio 2 foglie di alloro 1 lt di passata di pomodoro 1 carota tritata 1 costa di sedano tritato 1 bicchie…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/la-ricetta-del-giorno-carne-di-manzo-al-sugo/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-15T05:22:45+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-18T00:13:53.422726+00:00",
+   "last_ok": "2026-11-18T07:44:46.916862+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-18T00:13:53.422726+00:00",
+   "last_ok": "2026-11-18T07:44:46.916862+00:00",
    "error": null
   },
   {
@@ -1982,19 +1993,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-18T00:13:53.422726+00:00",
+   "last_ok": "2026-11-18T07:44:46.916862+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-18T00:13:53.422726+00:00",
+   "last_ok": "2026-11-18T07:44:46.916862+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-18T00:13:53.422726+00:00",
+   "last_ok": "2026-11-18T07:44:46.916862+00:00",
    "error": null
   }
  ]
