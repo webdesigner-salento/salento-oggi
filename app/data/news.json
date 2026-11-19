@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-11-18T23:11:20.433967+00:00",
+ "updated_at": "2026-11-19T04:17:03.097115+00:00",
  "items": [
+  {
+   "id": "c3ad261adef6",
+   "title": "Gaza: come Deutsche Bank ha sostenuto i produttori delle armi usate da Israele",
+   "summary": "Dai cannoni prodotti da Leonardo alle trasmissioni per carri armati Renk: documenti interni rivelano il sostegno finanziario di Deutsche Bank alle aziende produttrici di armi utilizzate dall'esercito…",
+   "image": "https://www.irpimedia.eu/wp-content/uploads/2026/11/inside-deutsche-bank-banca-armata-cover-640x400.webp",
+   "url": "https://www.irpimedia.eu/gaza-come-deutsche-bank-ha-sostenuto-produttori-armi-usate-da-israele/",
+   "source": "IrpiMedia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-19T04:00:00+00:00"
+  },
+  {
+   "id": "45242b676973",
+   "title": "Parabita, al via le linee di indirizzo per il Piano Urbanistico Generale",
+   "summary": "Parabita – La Giunta comunale con deliberazione n° 264 del 13/10/2026 ha adottato l’Atto di indirizzo del Piano Urbanistico generale comunale – PUG Il processo di formazione del Piano Urbanistico Gen…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/parabita-al-via-le-linee-di-indirizzo-per-il-piano-urbanistico-generale/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-19T01:07:34+00:00"
+  },
   {
    "id": "e62187e8b1fa",
    "title": "Emergenza abitativa, FDI: con la manovra prosegue lavoro a sostegno di famiglie e giovani",
@@ -2074,13 +2096,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-18T23:11:20.433967+00:00",
+   "last_ok": "2026-11-19T04:17:03.097115+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-18T23:11:20.433967+00:00",
+   "last_ok": "2026-11-19T04:17:03.097115+00:00",
    "error": null
   },
   {
@@ -2092,19 +2114,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-18T23:11:20.433967+00:00",
+   "last_ok": "2026-11-19T04:17:03.097115+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-18T23:11:20.433967+00:00",
+   "last_ok": "2026-11-19T04:17:03.097115+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-18T23:11:20.433967+00:00",
+   "last_ok": "2026-11-19T04:17:03.097115+00:00",
    "error": null
   }
  ]
