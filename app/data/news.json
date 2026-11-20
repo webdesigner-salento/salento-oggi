@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T21:53:07.609166+00:00",
+ "updated_at": "2026-11-20T02:42:49.078757+00:00",
  "items": [
   {
    "id": "9d332471f1d9",
@@ -25,7 +25,7 @@
   },
   {
    "id": "2227f60f18ed",
-   "title": "Lecce, le strisce blu disegnano triangoli sull’asfalto e fanno il giro dei social",
+   "title": "Lecce, le strisce blu disegnano triangoli sull’asfalto e fanno il giro dei social. La spiegazione: realizzati stalli per moto",
    "summary": "Una linea blu taglia l’asfalto di traverso. Altre scendono in diagonale dal marciapiede e si incontrano in più punti, formando triangoli e angoli stretti. Sullo sfondo si vedono gli alberi, una panch…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/11/lecce-le-strisce-blu-disegnano-triangoli-sullasfalto-e-fanno-il-giro-dei-social/",
@@ -178,6 +178,17 @@
    "published_at": "2026-11-19T16:04:48+00:00"
   },
   {
+   "id": "43eb17659564",
+   "title": "POVERTÀ, IN PUGLIA È IN DIFFICOLTÀ OLTRE UNA PERSONA SU TRE",
+   "summary": "",
+   "image": "https://i.ytimg.com/vi/F_iEdm8llVs/hqdefault.jpg",
+   "url": "https://trnews.it/2026/11/19/poverta-in-puglia-e-in-difficolta-oltre-una-persona-su-tre",
+   "source": "TeleRama News",
+   "category": "Economia",
+   "zone": "Salento",
+   "published_at": "2026-11-19T15:56:12+00:00"
+  },
+  {
    "id": "1ad47bf78d0d",
    "title": "Oncologico di Bari, diffida contro la Social Media Policy: \"Limita la libertà di espressione dei medici\"",
    "summary": "",
@@ -231,17 +242,6 @@
    "category": "Politica",
    "zone": "Salento",
    "published_at": "2026-11-19T14:58:21+00:00"
-  },
-  {
-   "id": "43eb17659564",
-   "title": "POVERTÀ, IN PUGLIA È IN DIFFICOLTÀ OLTRE UNA PERSONA SU TRE",
-   "summary": "",
-   "image": "https://i.ytimg.com/vi/F_iEdm8llVs/hqdefault.jpg",
-   "url": "https://trnews.it/2026/11/19/poverta-in-puglia-e-in-difficolta-oltre-una-persona-su-tre",
-   "source": "TeleRama News",
-   "category": "Economia",
-   "zone": "Salento",
-   "published_at": "2026-11-19T14:56:12+00:00"
   },
   {
    "id": "206e2494500e",
@@ -2156,63 +2156,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-17T05:11:13+00:00"
-  },
-  {
-   "id": "89131431f4f2",
-   "title": "Storia e rilancio di Astrea, la collana che ha portato in Italia le grandi scrittrici del mondo",
-   "summary": "Nel 1986 Roberta Mazzanti, reduce dalla prima International Feminist Book Fair di Londra, convinse Giunti, una grande casa editrice generalista, a scommettere su scrittrici del mal detto \"Sud del mon…",
-   "image": "https://altreconomia.it/app/uploads/2026/11/matias-north-v8DSLoY80Xk-unsplash-scaled.jpg",
-   "url": "https://altreconomia.it/storia-e-rilancio-di-astrea-la-collana-che-ha-portato-in-italia-le-grandi-scrittrici-del-mondo/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-16T23:05:37+00:00"
-  },
-  {
-   "id": "19898ca9da25",
-   "title": "Quasi un promemoria su Gianni De Gennaro. Molto più “squalo” che “superpoliziotto”",
-   "summary": "Lo chiamano lo \"squalo\" e la ragione è più che intuitiva. Gianni De Gennaro è un uomo d’azione, un capo carismatico tutto d’un pezzo, deciso e vigoroso -qualcuno dice anche spietato- come uno squalo,…",
-   "image": "https://altreconomia.it/app/uploads/2026/11/IPA64472831.jpg",
-   "url": "https://altreconomia.it/quasi-un-promemoria-su-gianni-de-gennaro-molto-piu-squalo-che-superpoliziotto/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-16T23:01:16+00:00"
-  },
-  {
-   "id": "3cd94671d68a",
-   "title": "Lecce, contro le strisce blu nelle periferie insorgono anche gli abitanti della zona Pranzo: nuova petizione",
-   "summary": "LECCE- Altre 150 firme si aggiungono alla valanga di proteste contro il piano di ampliamento dei parcheggi a pagamento deciso dall’amministrazione comunale. Questa volta a muoversi è stato un comitat…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/lecce-contro-le-strisce-blu-nelle-periferie-insorgono-anche-gli-abitanti-della-zona-pranzo-nuova-petizione/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-16T22:48:27+00:00"
-  },
-  {
-   "id": "03ff565c7b9d",
-   "title": "Genitori e figlia morti. Indagati neosposi. Lei: “Guidavo io”. Falso, copriva marito positivo a droga e alcol",
-   "summary": "Taviano (Lecce) – Si aggrava il bilancio delle vittime dell’incidente stradale in cui hanno perso la vita, la sera dell’11 novembre scorso, i coniugi Giorgio Dimo e Celtrude Manzo, rispettivamente di…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/dopo-i-genitori-a-distanza-di-giorni-muore-anche-la-figlia-coinvolta-nel-terribile-incidente/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-16T22:00:20+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-19T21:53:07.609166+00:00",
+   "last_ok": "2026-11-20T02:42:49.078757+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-19T21:53:07.609166+00:00",
+   "last_ok": "2026-11-20T02:42:49.078757+00:00",
    "error": null
   },
   {
@@ -2224,19 +2180,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-19T21:53:07.609166+00:00",
+   "last_ok": "2026-11-20T02:42:49.078757+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-19T21:53:07.609166+00:00",
+   "last_ok": "2026-11-20T02:42:49.078757+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-19T21:53:07.609166+00:00",
+   "last_ok": "2026-11-20T02:42:49.078757+00:00",
    "error": null
   }
  ]
