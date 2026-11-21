@@ -1,6 +1,72 @@
 {
- "updated_at": "2026-11-21T00:23:47.350265+00:00",
+ "updated_at": "2026-11-21T07:28:15.726456+00:00",
  "items": [
+  {
+   "id": "0654f7ccdaf4",
+   "title": "“La cataratta vista da loro”, pubblicato il libro del medico oculista Antonio Provenzano",
+   "summary": "LECCE – È stato appena pubblicato il libro del dottor Antonio Provenzano, medico oculista e Responsabile dell’unità operativa di Oftalmologia di Città di Lecce Hospital, che ha eseguito oltre 20000 i…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/DOTTORE-PROVENZANO-263x300.jpg",
+   "url": "https://www.corrieresalentino.it/2026/11/la-cataratta-vista-da-loro-pubblicato-il-libro-del-medico-oculista-antonio-provenzano/",
+   "source": "Corriere Salentino",
+   "category": "Salute",
+   "zone": "Lecce",
+   "published_at": "2026-11-21T07:22:43+00:00"
+  },
+  {
+   "id": "17a093b4867c",
+   "title": "Valtur Brindisi a Pistoia in cerca di continuità",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/valtur-brindisi-allenamento-a-mesage-20-novembre-2026-820x1024.jpeg",
+   "url": "https://trnews.it/2026/11/21/valtur-brindisi-a-pistoia-in-cerca-di-continuita",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-11-21T06:22:19+00:00"
+  },
+  {
+   "id": "960379234f72",
+   "title": "L’almanacco di oggi 21 novembre",
+   "summary": "Il Santo del giorno: San Mauro. Il proverbio di Mesciu Ronzu: Quantu chiù forte chiove, chiù prima scampa. Significato: Quanto più forte piove prima finisce. – Sono nati in questo giorno 1694 Voltair…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/lalmanacco-di-oggi-21-novembre/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-21T06:20:59+00:00"
+  },
+  {
+   "id": "f22c12d73efc",
+   "title": "Ricetta del giorno: Crema al limone vegana",
+   "summary": "Ingredienti per 2 persone: 1 cucchiaio di farina 150 gr di zucchero 100 gr di acqua succo di mezzo limone buccia di 1 limone Procedimento: In un pentolino far sciogliere lo zucchero con metà dell’acq…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/ricetta-del-giorno-crema-al-limone-vegana/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-21T05:31:34+00:00"
+  },
+  {
+   "id": "52feba443600",
+   "title": "Serie A, si riparte: Lazio-Lecce in diretta su TeleRama con Lecce Channel in Campo",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG_20261118_151734-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/21/serie-a-si-riparte-lazio-lecce-in-diretta-su-telerama-con-lecce-channel-in-campo",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-21T05:00:04+00:00"
+  },
+  {
+   "id": "8388fea4cdb4",
+   "title": "Dagli algoritmi alle persone. Fuori dalla “loro” Rete per fare rete",
+   "summary": "Quando, come Valigia Blu, abbiamo deciso di lasciare prima X e poi Meta, l'obiettivo era proprio questo: smettere di farci dettare la linea dagli algoritmi e ricostruire le nostre comunità, online e…",
+   "image": null,
+   "url": "https://www.valigiablu.it/algoritmi-persone-rete-crowdfunding-valigia-blu/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-21T04:19:00+00:00"
+  },
   {
    "id": "a61ef1175eca",
    "title": "Lazio-Lecce, i salentini cercano l'impresa contro la capolista. Le probabili formazioni",
@@ -167,6 +233,17 @@
    "published_at": "2026-11-20T18:33:43+00:00"
   },
   {
+   "id": "d61693893b2b",
+   "title": "Virtus Francavilla, ecco Corvino per l'attacco",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/460172f529abbbc5b5b7fcd0433d0556-78794-oooz0000-1024x575.webp",
+   "url": "https://trnews.it/2026/11/20/virtus-francavilla-ecco-corvino-per-lattacco",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-11-20T18:21:18+00:00"
+  },
+  {
    "id": "58c811146ebd",
    "title": "Galatina Wine Experience, dai “cunti” del centro storico alla degustazione in cantina",
    "summary": "Sabato 28 novembre la Galatina Wine Experience porta i visitatori tra i vicoli del centro storico, alla scoperta dei luoghi in cui la devozione popolare si intrecciava con la vita di vicinato. Il rit…",
@@ -220,17 +297,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-11-20T17:23:09+00:00"
-  },
-  {
-   "id": "d61693893b2b",
-   "title": "Virtus Francavilla, ecco Corvino per l'attacco",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/460172f529abbbc5b5b7fcd0433d0556-78794-oooz0000-1024x575.webp",
-   "url": "https://trnews.it/2026/11/20/virtus-francavilla-ecco-corvino-per-lattacco",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-11-20T17:21:18+00:00"
   },
   {
    "id": "f9d1b7f5009a",
@@ -2211,74 +2277,19 @@
    "category": "Cronaca",
    "zone": "Salento",
    "published_at": "2026-11-18T07:31:44+00:00"
-  },
-  {
-   "id": "41d6a9081778",
-   "title": "L’almanacco di oggi 18 novembre",
-   "summary": "Il Santo del giorno: Sant’Oddone. Il proverbio di Mesciu Ronzu: Quannu lu sciroccu rite è chiù fessa ci lu crite. Significato: Quando lo scirocco ride e più fesso chi lo crede. – Sono nati in questo…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/lalmanacco-di-oggi-18-novembre/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-18T06:00:33+00:00"
-  },
-  {
-   "id": "679747edfe0e",
-   "title": "Nuoto, Benedetta Pilato ai Mondiali in Cina",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/06/Pilato.jpg",
-   "url": "https://trnews.it/2026/11/18/nuoto-benedetta-pilato-ai-mondiali-in-cina",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-11-18T05:59:00+00:00"
-  },
-  {
-   "id": "700742b41a82",
-   "title": "Serie C, trappola Inter per il Potenza",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-17-190050.png",
-   "url": "https://trnews.it/2026/11/18/serie-c-trappola-inter-per-il-potenza",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-11-18T05:42:05+00:00"
-  },
-  {
-   "id": "179e65145800",
-   "title": "Ricetta del giorno: Focaccia barese",
-   "summary": "Ingredienti: 300 gr di farina tipo “0” 250 gr di semola rimacinata 1 patata lessa grande 1 bicchiere di olio evo 400 ml di acqua tiepida 1 cubetto di lievito di birra 6 pomodori rossi maturi olive sa…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/ricetta-del-giorno-focaccia-barese/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-18T04:48:49+00:00"
-  },
-  {
-   "id": "03a77f237678",
-   "title": "Deutsche Bank armata. Anche Leonardo tra i suoi clienti",
-   "summary": "Il leak Inside Deutsche Bank svela la vicinanza all’industria bellica, e come la banca abbia finanziato forniture di armamenti anche a Paesi ad «alto rischio» o in conflitto, violando le sue stesse p…",
-   "image": "https://www.irpimedia.eu/wp-content/uploads/2026/11/inside-deutsche-bank-panorama-cover-640x400.webp",
-   "url": "https://www.irpimedia.eu/deutsche-bank-armata-anche-leonardo-tra-i-clienti/",
-   "source": "IrpiMedia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-18T04:00:00+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-21T00:23:47.350265+00:00",
+   "last_ok": "2026-11-21T07:28:15.726456+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-21T00:23:47.350265+00:00",
+   "last_ok": "2026-11-21T07:28:15.726456+00:00",
    "error": null
   },
   {
@@ -2290,19 +2301,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-21T00:23:47.350265+00:00",
+   "last_ok": "2026-11-21T07:28:15.726456+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-21T00:23:47.350265+00:00",
+   "last_ok": "2026-11-21T07:28:15.726456+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-21T00:23:47.350265+00:00",
+   "last_ok": "2026-11-21T07:28:15.726456+00:00",
    "error": null
   }
  ]
