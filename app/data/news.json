@@ -1,6 +1,61 @@
 {
- "updated_at": "2026-11-22T16:29:05.720581+00:00",
+ "updated_at": "2026-11-22T21:55:36.124577+00:00",
  "items": [
+  {
+   "id": "dc6f191648d2",
+   "title": "Basket A2: Valtur Brindisi battuta a Pistoia",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-22-215309.png",
+   "url": "https://trnews.it/2026/11/22/basket-a2-valtur-brindisi-battuta-a-pistoia",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-11-22T20:39:42+00:00"
+  },
+  {
+   "id": "e589999a5c76",
+   "title": "Volley A2 femminile, la Narconon torna alla vittoria: battuta 3-0 Volley Cremonese",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-22-195903.png",
+   "url": "https://trnews.it/2026/11/22/volley-a2-femminile-la-narconon-torna-alla-vittoria-battuta-3-0-volley-cremonese",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-11-22T18:45:51+00:00"
+  },
+  {
+   "id": "061005db4857",
+   "title": "Eccellenza: seconda vittoria consecutiva per il Taranto",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-22-192847.png",
+   "url": "https://trnews.it/2026/11/22/eccellenza-seconda-vittoria-consecutiva-per-il-taranto",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-11-22T18:12:45+00:00"
+  },
+  {
+   "id": "70f9c7e298e9",
+   "title": "Lecce, via Sturzo: lavori appena eseguiti e già si apre una voragine sull’asfalto. Lo Sportello dei Diritti: «Chi controlla la qualità degli interventi sulle nostre strade?»",
+   "summary": "Strade che vengono aperte, richiuse, asfaltate e che, dopo pochissimo tempo, tornano a presentare cedimenti, avvallamenti e pericolose buche. È quanto si sta verificando a Lecce, in via Luigi Sturzo,…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/lecce-via-sturzo-lavori-appena-eseguiti-e-gia-si-apre-una-voragine-sullasfalto-lo-sportello-dei-diritti-chi-controlla-la-qualita-degli-interventi-sulle-nostre-strade/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-22T17:10:40+00:00"
+  },
+  {
+   "id": "c068e514d844",
+   "title": "Serie C: Catania e Bari non si fanno male. Foggia ko. Pari tra Altamura e Casarano",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-22-193032.png",
+   "url": "https://trnews.it/2026/11/22/serie-c-catania-e-bari-non-si-fanno-male-foggia-ko-pari-tra-altamura-e-casarano",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-22T17:06:39+00:00"
+  },
   {
    "id": "f9df73bddcba",
    "title": "Il ricordo di Elia vola in cielo",
@@ -65,7 +120,18 @@
    "source": "TeleRama News",
    "category": "Sport",
    "zone": "Lecce",
-   "published_at": "2026-11-22T12:23:52+00:00"
+   "published_at": "2026-11-22T13:23:52+00:00"
+  },
+  {
+   "id": "4668c80f2f30",
+   "title": "Lecce, martedì la ripresa",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/Di-Francesco-Fiorentina-1024x755.jpg",
+   "url": "https://trnews.it/2026/11/22/lecce-martedi-la-ripresa-9",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-22T12:52:10+00:00"
   },
   {
    "id": "f36fa0c08b3b",
@@ -88,17 +154,6 @@
    "category": "Sport",
    "zone": "Salento",
    "published_at": "2026-11-22T12:06:29+00:00"
-  },
-  {
-   "id": "4668c80f2f30",
-   "title": "Lecce, martedì la ripresa",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/Di-Francesco-Fiorentina-1024x755.jpg",
-   "url": "https://trnews.it/2026/11/22/lecce-martedi-la-ripresa-9",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-22T11:52:10+00:00"
   },
   {
    "id": "7c10a8774da7",
@@ -1903,195 +1958,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-20T04:00:00+00:00"
-  },
-  {
-   "id": "9d332471f1d9",
-   "title": "Dai primi raduni alla battaglia per l’area camper di Lecce, il VIC verso i vent’anni",
-   "summary": "LECCE – Erano giovani genitori, viaggiavano con i figli piccoli e portavano in camper anche cani e gatti. Si ritrovavano a Sospiro, in provincia di Cremona, dove nel settembre del 2007 Gianluca Dell’…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/4b72bb92-fa8f-4af1-94b5-6a4a6319986b-300x232.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/11/dai-primi-raduni-alla-battaglia-per-larea-camper-di-lecce-il-vic-verso-i-ventanni/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T21:13:51+00:00"
-  },
-  {
-   "id": "fee6554d9861",
-   "title": "Decreto scuola, libri digitali: via libera del Senato, FI contro",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG_5904-1024x541.jpeg",
-   "url": "https://trnews.it/2026/11/19/decreto-scuola-libri-digitali-via-libera-del-senato-fi-contro",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-19T21:06:28+00:00"
-  },
-  {
-   "id": "2227f60f18ed",
-   "title": "Lecce, le strisce blu disegnano triangoli sull’asfalto e fanno il giro dei social. La spiegazione: realizzati stalli per moto",
-   "summary": "Una linea blu taglia l’asfalto di traverso. Altre scendono in diagonale dal marciapiede e si incontrano in più punti, formando triangoli e angoli stretti. Sullo sfondo si vedono gli alberi, una panch…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/lecce-le-strisce-blu-disegnano-triangoli-sullasfalto-e-fanno-il-giro-dei-social/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T20:21:35+00:00"
-  },
-  {
-   "id": "2a5eb71cc1a7",
-   "title": "Nuova avventura per Antonio Del Vescovo, direttore sportivo ed in campo col Martano",
-   "summary": "Lecce – Dopo il bel traguardo della qualifica di Direttore Sportivo, Antonio Del Vescovo continua la sua avventura anche col calcio giocato. Questa volta la scommessa è militare nel Martano, squadra…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/nuova-avventura-per-antonio-del-vescovo-direttore-sportivo-ed-in-campo-col-martano/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T19:38:12+00:00"
-  },
-  {
-   "id": "7a1f430e2622",
-   "title": "Cosa rivelano i leak della Deutsche Bank su Trump, Epstein e la Russia",
-   "summary": "Nove milioni di documenti svelano gli affari opachi di Deutsche Bank: dai prestiti a Trump e i fondi di Epstein agli oligarchi russi fino alle armi di Leonardo.",
-   "image": null,
-   "url": "https://www.valigiablu.it/inchiesta-inside-deutsche-bank-trump-epstein/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-19T18:41:00+00:00"
-  },
-  {
-   "id": "75f7964dd88b",
-   "title": "Dalla filosofia alla creatività: Lucia Mariano porta il pensiero dentro i mandala",
-   "summary": "Dalla riflessione sulla bellezza al confronto tra i grandi filosofi della modernità, fino all’analisi dei modelli sociali contemporanei. La giornalista e saggista firma “I fondamenti del pensiero”, u…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/dalla-filosofia-alla-creativita-lucia-mariano-porta-il-pensiero-dentro-i-mandala/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Salento",
-   "published_at": "2026-11-19T18:39:37+00:00"
-  },
-  {
-   "id": "b22403f09573",
-   "title": "Sottrasse il figlio minore alla madre nel Salento, 48enne condannato a 4 anni e 2 mesi",
-   "summary": "Lecce-Pordenone – Dopo la fine di una relazione, avrebbe sottratto il figlio minore alla madre e sarebbe fuggito con lui in Egitto. Per questo, nella serata di ieri, un 48enne egiziano, residente nel…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/sottrasse-il-figlio-minore-alla-madre-nel-salento-48enne-condannato-a-4-anni-e-2-mesi/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T18:30:57+00:00"
-  },
-  {
-   "id": "4cc0ed029a07",
-   "title": "Strisce blu a Lecce, De Matteis all’attacco. Il 27 novembre il centrosinistra chiama il centrodestra al voto in Consiglio",
-   "summary": "LECCE – Il 27 novembre il centrosinistra porterà in Consiglio comunale a Lecce la mozione per fermare l’estensione delle strisce blu nelle periferie. L’obiettivo è chiamare i consiglieri di centrodes…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/strisce-blu-a-lecce-de-matteis-allattacco-il-27-novembre-il-centrosinistra-chiama-il-centrodestra-al-voto-in-consiglio/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T18:29:13+00:00"
-  },
-  {
-   "id": "3d59b808e9ff",
-   "title": "Auto in fiamme nel foggiano, militare eroe salva il conducente",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/7ac9456a-b9e8-4564-b2ad-cd9fb795f0a8.jpg",
-   "url": "https://trnews.it/2026/11/19/auto-in-fiamme-nel-foggiano-militare-eroe-salva-il-conducente",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-11-19T18:05:21+00:00"
-  },
-  {
-   "id": "f4896939d640",
-   "title": "Lecce, cantiere abbandonato tra via Sozzo e viale Rossini: ordinanza per la messa in sicurezza dopo l’interrogazione di Rotundo",
-   "summary": "LECCE – Lavori da avviare subito, aperture e accessi al piano terra da chiudere e tre giorni dal ricevimento dell’ordinanza per trasmettere al Comune gli esiti degli interventi. Sono le prescrizioni…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/lecce-cantiere-abbandonato-tra-via-sozzo-e-viale-rossini-ordinanza-per-la-messa-in-sicurezza-dopo-linterrogazione-di-rotundo/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T17:59:13+00:00"
-  },
-  {
-   "id": "a672182f7cad",
-   "title": "Agricoltura, Gatta (FDI): \"Agricoltori non possono attendere la primavera del 2027, servono risposte urgenti\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/194e594b-7282-4f39-b393-c0c78fb05cd5-1024x661.jpg",
-   "url": "https://trnews.it/2026/11/19/agricoltura-gatta-fdi-agricoltori-non-possono-attendere-la-primavera-del-2027-servono-risposte-urgenti",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-19T17:42:41+00:00"
-  },
-  {
-   "id": "11eb2c655923",
-   "title": "Bari, Consiglio regionale: operai al lavoro senza dispositivi di protezione",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG_20261119_183744-768x1024.jpg",
-   "url": "https://trnews.it/2026/11/19/bari-consiglio-regionale-operai-al-lavoro-senza-dispositivi-di-protezione",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-11-19T17:41:10+00:00"
-  },
-  {
-   "id": "f26a65c590d9",
-   "title": "Lecce, contratto prolungato a Penev",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Penev-Trinchera-1024x768.jpg",
-   "url": "https://trnews.it/2026/11/19/lecce-contratto-prolungato-a-penev",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T17:33:11+00:00"
-  },
-  {
-   "id": "74272273f11e",
-   "title": "Qualità della vita a Foggia, la Sindaca Episcopo a Italia Oggi: \"Dati vecchi e non fedeli alla realtà\"",
-   "summary": "",
-   "image": "https://i.ytimg.com/vi/gy931eawa5k/hqdefault.jpg",
-   "url": "https://trnews.it/2026/11/19/qualita-della-vita-a-foggia-la-sindaca-episcopo-a-italia-oggi-dati-vecchi-e-non-fedeli-alla-realta",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-11-19T17:19:43+00:00"
-  },
-  {
-   "id": "f9df18292634",
-   "title": "A 84 anni denunciato dalla moglie finita in ospedale dopo aggressione. Prosciolto: “Ha la demenza senile”",
-   "summary": "NARDO‘ (Lecce) – A 84 anni rischiava il processo perché, con cadenza quotidiana, avrebbe maltrattato la moglie spedendola in ospedale. E, da marzo, era stato anche allontanato da casa e sottoposto al…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/a-84-anni-denunciato-dalla-moglie-finita-in-ospedale-dopo-aggressione-prosciolto-ha-la-demenza-senile/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T17:08:53+00:00"
-  },
-  {
-   "id": "1ad47bf78d0d",
-   "title": "Oncologico di Bari, diffida contro la Social Media Policy: \"Limita la libertà di espressione dei medici\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Oncologico-di-Bari--1024x576.jpeg",
-   "url": "https://trnews.it/2026/11/19/oncologico-di-bari-diffida-contro-la-social-media-policy-limita-la-liberta-di-espressione-dei-medici",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-19T16:54:37+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-22T16:29:05.720581+00:00",
+   "last_ok": "2026-11-22T21:55:36.124577+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-22T16:29:05.720581+00:00",
+   "last_ok": "2026-11-22T21:55:36.124577+00:00",
    "error": null
   },
   {
@@ -2103,19 +1982,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-22T16:29:05.720581+00:00",
+   "last_ok": "2026-11-22T21:55:36.124577+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-22T16:29:05.720581+00:00",
+   "last_ok": "2026-11-22T21:55:36.124577+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-22T16:29:05.720581+00:00",
+   "last_ok": "2026-11-22T21:55:36.124577+00:00",
    "error": null
   }
  ]
