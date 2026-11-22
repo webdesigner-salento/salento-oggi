@@ -1,6 +1,259 @@
 {
- "updated_at": "2026-11-22T08:22:07.253018+00:00",
+ "updated_at": "2026-11-22T16:29:05.720581+00:00",
  "items": [
+  {
+   "id": "f9df73bddcba",
+   "title": "Il ricordo di Elia vola in cielo",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/ricordo-elia.jpg",
+   "url": "https://trnews.it/2026/11/22/il-ricordo-di-elia-vola-in-cielo",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-22T14:55:51+00:00"
+  },
+  {
+   "id": "5bc9971e5f1a",
+   "title": "Strisce blu, vertice domenicale: ok alla seconda auto dei residenti gratis, ma per i nuovi stalli. Lcp attacca: “È caos”",
+   "summary": "LECCE – Seconda auto gratuita per i residenti dei quartieri in cui arrivano le strisce blu e agevolazioni per i commercianti, pendolari e fasce più fragili. Il centrodestra leccese ha trovato un’inte…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/strisce-blu-vertice-domenicale-ok-alla-seconda-auto-dei-residenti-gratis-ma-per-i-nuovi-stalli-lcp-attacca-e-caos/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-11-22T14:51:19+00:00"
+  },
+  {
+   "id": "f3eb8c621f70",
+   "title": "A Carmiano la Festa dell'Immacolata tra devozione, ritualità e condivisione",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/carminao-immacolata.jpg",
+   "url": "https://trnews.it/2026/11/22/a-carmiano-la-festa-dellimmacolata-tra-devozione-ritualita-e-condivisione",
+   "source": "TeleRama News",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-11-22T14:44:15+00:00"
+  },
+  {
+   "id": "642543d12051",
+   "title": "Piano sosta, vertice a Palazzo Carafa: pronti i correttivi",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/05/strisce_blu_sosta-2-2-e1746293015663.jpg",
+   "url": "https://trnews.it/2026/11/22/piano-sosta-vertice-a-palazzo-carafa-pronti-i-correttivi",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-22T13:32:29+00:00"
+  },
+  {
+   "id": "e5bcf9f9e9f2",
+   "title": "Manduria: addio alla piccola Sofia, lottava contro un sarcoma",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/sofia-6-anni-manduria.jpg",
+   "url": "https://trnews.it/2026/11/22/manduria-addio-alla-piccola-sofia-lottava-contro-un-sarcoma",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Taranto",
+   "published_at": "2026-11-22T13:29:43+00:00"
+  },
+  {
+   "id": "e5fcdb06bc2c",
+   "title": "Volley A2, il Melendugno ospita la Cremonese",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/FB_IMG_1795336627800-819x1024.jpg",
+   "url": "https://trnews.it/2026/11/22/volley-a2-il-melendugno-ospita-la-cremonese",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-22T12:23:52+00:00"
+  },
+  {
+   "id": "f36fa0c08b3b",
+   "title": "Basket A2, Brindisi alla prova Pistoia",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Screenshot-2026-10-13-201244.png",
+   "url": "https://trnews.it/2026/11/22/basket-a2-brindisi-alla-prova-pistoia",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-11-22T12:15:57+00:00"
+  },
+  {
+   "id": "95c00fcbe319",
+   "title": "Serie C, il Potenza superato dall'Inter U.23. Oggi tutte le altre gare",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-c-1024x576.png",
+   "url": "https://trnews.it/2026/11/22/serie-c-il-potenza-superato-dallinter-u-23-oggi-tutte-le-altre-gare",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-11-22T12:06:29+00:00"
+  },
+  {
+   "id": "4668c80f2f30",
+   "title": "Lecce, martedì la ripresa",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/Di-Francesco-Fiorentina-1024x755.jpg",
+   "url": "https://trnews.it/2026/11/22/lecce-martedi-la-ripresa-9",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-22T11:52:10+00:00"
+  },
+  {
+   "id": "7c10a8774da7",
+   "title": "Volley A3 maschile, Galatone perde a Campobasso",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot_20261122_124210_WhatsApp-1024x569.jpg",
+   "url": "https://trnews.it/2026/11/22/volley-a3-maschile-galatone-perde-a-campobasso",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-22T11:44:53+00:00"
+  },
+  {
+   "id": "946d6eee28f0",
+   "title": "Litoranea, i motociclisti non si fermano: nuova protesta contro il divieto",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/VID-20261122-WA0028.jpg",
+   "url": "https://trnews.it/2026/11/22/litoranea-i-motociclisti-non-si-fermano-nuova-protesta-contro-il-divieto",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-22T11:33:47+00:00"
+  },
+  {
+   "id": "8df820538ca4",
+   "title": "Incidente stradale nella BAT: morto 17enne, gravissimo il conducente 18enne",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Michele-17enne-morto-incideente-stradale-Spinazzola.webp",
+   "url": "https://trnews.it/2026/11/22/incidente-stradale-nella-bat-morto-17enne-gravissimo-il-conducente-18enne",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-11-22T10:47:08+00:00"
+  },
+  {
+   "id": "b130e9e33ad6",
+   "title": "Salento, devasta casa dopo il rifiuto di dargli denaro: arrestato figlio violento",
+   "summary": "NOVOLI (Lecce) – Avrebbe preteso denaro dai genitori e, davanti al loro rifiuto, avrebbe devastato l’abitazione, distruggendo mobili e suppellettili. Per questo un uomo di 52 anni è stato arrestato d…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/salento-devasta-casa-dopo-il-rifiuto-di-dargli-denaro-arrestato-figlio-violento/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-22T10:42:51+00:00"
+  },
+  {
+   "id": "a4386d32a753",
+   "title": "Il Natale che sa aspettare",
+   "summary": "Il Natale che sa aspettare A Leverano, il 12 dicembre, lo chef Giorgio Falconieri riporta in tavola i sapori perduti della festa Di Vincenzo Candido Renna C’è un profumo che in Salento annuncia il Na…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/il-natale-che-sa-aspettare/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-22T09:56:48+00:00"
+  },
+  {
+   "id": "67d484c83661",
+   "title": "Omicidio 2003 Maria Rita Valerio, domani l’interrogatorio dell’ex fidanzato",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maria-rita-valerio.jpeg",
+   "url": "https://trnews.it/2026/11/22/omicidio-2003-maria-rita-valerio-domani-linterrogatorio-dellex-fidanzato",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-11-22T09:55:05+00:00"
+  },
+  {
+   "id": "b36b429126dc",
+   "title": "Il rispetto non chiede permesso",
+   "summary": "Il rispetto non chiede il permesso di Vincenzo Candido Renna C’è un momento, nella storia di ogni società che si crede evoluta, in cui qualcuno sale su un palco e dice ad alta voce ciò che tutti sape…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/il-rispetto-non-chiede-permesso/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Salento",
+   "published_at": "2026-11-22T09:53:29+00:00"
+  },
+  {
+   "id": "ef0436ee2d2d",
+   "title": "Alla scoperta del Salento: La cartapesta leccese, la magia di un’arte che si perde nel tempo",
+   "summary": "di Claudia Forcignanò Chi ha avuto il privilegio di nascere e crescere tra le vie di Lecce, oltre ai colori e alle voci, nel suo prezioso bagaglio di esperienze, può vantare il profumo delle botteghe…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2019/12/Francesco-De-Vita1-280x300.jpg",
+   "url": "https://www.corrieresalentino.it/2026/11/alla-scoperta-del-salento-la-cartapesta-leccese-la-magia-di-unarte-che-si-perde-nel-tempo/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-22T08:35:18+00:00"
+  },
+  {
+   "id": "0802ffdc6172",
+   "title": "Alla scoperta del Salento: Leuca e le sue meraviglie",
+   "summary": "Proseguendo nel nostro percorso turistico alla scoperta delle grotte del Salento, l’attenzione si ferma su uno dei luoghi più caratteristici della Puglia, divenuto negli ultimi tempi meta di celebrit…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2020/07/leuca.jpg",
+   "url": "https://www.corrieresalentino.it/2026/11/alla-scoperta-del-salento-leuca-e-le-sue-meraviglie/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-22T08:34:30+00:00"
+  },
+  {
+   "id": "80ac0d1057f1",
+   "title": "Figli del Salento: Renata Fonte, l’ emblema dell’impegno civile, della legalità e della tutela ambientale",
+   "summary": "Quando nel 1951 Renata Fonte venne al mondo, certo nessuno avrebbe immaginato che il suo nome sarebbe diventato il simbolo di tutte le donne disposte ad esporsi in prima persona e senza timore in nom…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/figli-del-salento-renata-fonte/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Salento",
+   "published_at": "2026-11-22T08:30:44+00:00"
+  },
+  {
+   "id": "a94c83514f25",
+   "title": "Il francescanesimo nel Mezzogiorno d’Italia: due giornate di studi a Lecce tra arte, storia e memoria",
+   "summary": "Il 23 e 24 novembre 2026 il Dipartimento di Beni Culturali dell’Università del Salento promuove a Lecce due giornate di studio dedicate al francescanesimo nel Mezzogiorno d’Italia, dal Medioevo all’e…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/il-francescanesimo-nel-mezzogiorno-ditalia-due-giornate-di-studi-a-lecce-tra-arte-storia-e-memoria/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-22T08:29:46+00:00"
+  },
+  {
+   "id": "6497558e321b",
+   "title": "L’altro lato, intervista a Lucia Saracino: quando la memoria restituisce storie e persone",
+   "summary": "Esistono storie che chiedono di essere ascoltate in silenzio, perché custodiscono l’essenza più autentica di ciò che siamo. Lucia Saracino, già apprezzata dal pubblico per la forza evocativa di Viagg…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/libro-200x300.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/laltro-lato-intervista-a-lucia-saracino-quando-la-memoria-restituisce-storie-e-persone/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Salento",
+   "published_at": "2026-11-22T08:29:14+00:00"
+  },
+  {
+   "id": "e1431c28c3c2",
+   "title": "“A mia figlia Ines”: le struggenti parole di Pietro Marti",
+   "summary": "“Avrei voluto offrire alla tua santa memoria opera degna di qualche plauso, ma ho atteso invano che il tempo attenuasse lo smarrimento del mio spirito e riconducesse la luce sulle piccole vie del mio…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/a-mia-figlia-ines-le-struggenti-parole-di-pietro-marti/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Salento",
+   "published_at": "2026-11-22T08:28:19+00:00"
+  },
+  {
+   "id": "0a061abee16f",
+   "title": "La sentenza sul genocidio in Myanmar potrà pesare anche su Gaza",
+   "summary": "Storica sentenza dell’Aja sul genocidio dei Rohingya in Myanmar: cosa dice sull’intento genocidario e perché crea un precedente per Israele e Germania.",
+   "image": "https://www.valigiablu.it/wp-content/uploads/2026/11/Schermata-2026-11-22-alle-09.03.44-1024x704.png",
+   "url": "https://www.valigiablu.it/sentenza-cig-myanmar-genocidio-rohingya-gaza/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-22T08:25:02+00:00"
+  },
   {
    "id": "731ce442a76d",
    "title": "Branci, il mondo a tavola dal brunch all’afternoon tea",
@@ -26,7 +279,7 @@
   {
    "id": "4c4010db31b7",
    "title": "Domenica 22 novembre Gianluca Longo con Mario Esposito in “NaveSilente” al MU.DI.NA. di Nardò per la II edizione di “Spiritus Mundi”",
-   "summary": "NARDO’ (Lecce) – Continuano gli appuntamenti di “Spiritus Mundi”, la rassegna di musica, teatro e conferenze, giunta alla seconda edizione, a cura del Mu.Di.Na., il Museo Diocesano di Nardò, con la d…",
+   "summary": "NARDO‘ (Lecce) – Continuano gli appuntamenti di “Spiritus Mundi”, la rassegna di musica, teatro e conferenze, giunta alla seconda edizione, a cura del Mu.Di.Na., il Museo Diocesano di Nardò, con la d…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/11/domenica-22-novembre-gianluca-longo-con-mario-esposito-in-navesilente-al-mu-di-na-di-nardo-per-la-ii-edizione-di-spiritus-mundi/",
    "source": "Corriere Salentino",
@@ -59,7 +312,7 @@
   {
    "id": "5fbde24e0c81",
    "title": "Domenica 22 novembre la rassegna per famiglie Piccoli Sguardi sul palco del Teatro Comunale di Nardò",
-   "summary": "NARDO’ (Lecce) – Domenica 22 novembre torna la rassegna per famiglie Piccoli Sguardi sul palco del Teatro Comunale di Nardò. Arriva Cielo di Koreja e Babilonia teatri, spettacolo di Valeria Raimondi…",
+   "summary": "NARDO‘ (Lecce) – Domenica 22 novembre torna la rassegna per famiglie Piccoli Sguardi sul palco del Teatro Comunale di Nardò. Arriva Cielo di Koreja e Babilonia teatri, spettacolo di Valeria Raimondi…",
    "image": null,
    "url": "https://www.corrieresalentino.it/2026/11/domenica-22-novembre-la-rassegna-per-famiglie-piccoli-sguardi-sul-palco-del-teatro-comunale-di-nardo/",
    "source": "Corriere Salentino",
@@ -156,6 +409,17 @@
    "published_at": "2026-11-21T22:41:33+00:00"
   },
   {
+   "id": "b464092438c9",
+   "title": "Parco di Belloluogo, a breve il bando per l'assegnazione di bar e punto ristoro",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2024/04/parco-belloluogo-capoccia-2-1-576x1024.jpeg",
+   "url": "https://trnews.it/2026/11/21/parco-di-belloluogo-a-breve-il-bando-per-lassegnazione-di-bar-e-punto-ristoro",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-21T19:43:57+00:00"
+  },
+  {
    "id": "7840224a18d7",
    "title": "Contro la violenza sulle donne: a Lecce un momento di riflessione nella parrocchia di San Massimiliano Kolbe",
    "summary": "LECE – Un’occasione per unire memoria, testimonianza civile ed educazione al rispetto in occasione della Giornata internazionale per l’eliminazione della violenza contro le donne. Mercoledì 25 novemb…",
@@ -178,15 +442,15 @@
    "published_at": "2026-11-21T18:55:18+00:00"
   },
   {
-   "id": "b464092438c9",
-   "title": "Parco di Belloluogo, a breve il bando per l'assegnazione di bar e punto ristoro",
+   "id": "0b0a032b6d55",
+   "title": "Traffico di droga, 22 imputati chiedono il rito abbreviato",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2024/04/parco-belloluogo-capoccia-2-1-576x1024.jpeg",
-   "url": "https://trnews.it/2026/11/21/parco-di-belloluogo-a-breve-il-bando-per-lassegnazione-di-bar-e-punto-ristoro",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/05/TRIBUNALE-LECCE--1024x576.jpg",
+   "url": "https://trnews.it/2026/11/21/traffico-di-droga-22-imputati-chiedono-il-rito-abbreviato",
    "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-21T18:43:57+00:00"
+   "category": "Cronaca",
+   "zone": "Brindisi",
+   "published_at": "2026-11-21T18:40:18+00:00"
   },
   {
    "id": "7e62f5b738a5",
@@ -222,15 +486,15 @@
    "published_at": "2026-11-21T17:44:49+00:00"
   },
   {
-   "id": "0b0a032b6d55",
-   "title": "Traffico di droga, 22 imputati chiedono il rito abbreviato",
+   "id": "f646e48ee1c2",
+   "title": "Eccellenza, la capolista Squinzano passa in rimonta a Maglie",
    "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/05/TRIBUNALE-LECCE--1024x576.jpg",
-   "url": "https://trnews.it/2026/11/21/traffico-di-droga-22-imputati-chiedono-il-rito-abbreviato",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot_20261121-234120_Facebook-1024x580.jpg",
+   "url": "https://trnews.it/2026/11/21/eccellenza-la-capolista-squinzano-passa-in-rimonta-a-maglie",
    "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Brindisi",
-   "published_at": "2026-11-21T17:40:18+00:00"
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-21T17:42:43+00:00"
   },
   {
    "id": "a4beb89a155b",
@@ -242,6 +506,17 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-21T17:23:09+00:00"
+  },
+  {
+   "id": "a54b99d038e1",
+   "title": "Lazio senza freni: Noslin trascina i biancocelesti. Lecce battuto 3-0",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/LAZIO-LECCE-1024x590.jpg",
+   "url": "https://trnews.it/2026/11/21/lazio-senza-freni-noslin-trascina-i-biancocelesti-lecce-battuto-3-0",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-21T17:11:34+00:00"
   },
   {
    "id": "75338c9b9c0e",
@@ -266,17 +541,6 @@
    "published_at": "2026-11-21T16:57:04+00:00"
   },
   {
-   "id": "f646e48ee1c2",
-   "title": "Eccellenza, la capolista Squinzano passa in rimonta a Maglie",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot_20261121-234120_Facebook-1024x580.jpg",
-   "url": "https://trnews.it/2026/11/21/eccellenza-la-capolista-squinzano-passa-in-rimonta-a-maglie",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-21T16:42:43+00:00"
-  },
-  {
    "id": "40b3bf589d33",
    "title": "Le pagelle dei giallorossi in Lazio – Lecce: Fatah vivace, Veiga troppo leggero, Geubbels così non va",
    "summary": "Falcone 6, un pò incerto ma incolpevole sui gol Siebert 5, partita di sacrificio ma il suo errore sul primo gol di Noslin penalizza la squadra Tiago Gabriel 6, si avvicina al gol rendendosi pericolos…",
@@ -286,17 +550,6 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-11-21T16:23:33+00:00"
-  },
-  {
-   "id": "a54b99d038e1",
-   "title": "Lazio senza freni: Noslin trascina i biancocelesti. Lecce battuto 3-0",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/LAZIO-LECCE-1024x590.jpg",
-   "url": "https://trnews.it/2026/11/21/lazio-senza-freni-noslin-trascina-i-biancocelesti-lecce-battuto-3-0",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-21T16:11:34+00:00"
   },
   {
    "id": "d896b3051d14",
@@ -1826,503 +2079,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-19T16:54:37+00:00"
-  },
-  {
-   "id": "1293e429dbda",
-   "title": "Gianluca Longo con Mario Esposito in “Nave Silente” al MU.DI.NA. di Nardò: domenica 22 novembre per la II edizione di “Spiritus Mundi”",
-   "summary": "NARDO‘ (Lecce) – Continuano gli appuntamenti di “Spiritus Mundi”, la rassegna di musica, teatro e conferenze, giunta alla seconda edizione, a cura del Mu.Di.Na., il Museo Diocesano di Nardò, con la d…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/gianluca-longo-con-mario-esposito-in-nave-silente-al-mu-di-na-di-nardo-domenica-22-novembre-per-la-ii-edizione-di-spiritus-mundi/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T16:04:48+00:00"
-  },
-  {
-   "id": "43eb17659564",
-   "title": "POVERTÀ, IN PUGLIA È IN DIFFICOLTÀ OLTRE UNA PERSONA SU TRE",
-   "summary": "",
-   "image": "https://i.ytimg.com/vi/F_iEdm8llVs/hqdefault.jpg",
-   "url": "https://trnews.it/2026/11/19/poverta-in-puglia-e-in-difficolta-oltre-una-persona-su-tre",
-   "source": "TeleRama News",
-   "category": "Economia",
-   "zone": "Salento",
-   "published_at": "2026-11-19T15:56:12+00:00"
-  },
-  {
-   "id": "b8c4a1ce56f9",
-   "title": "Scuola, Marti: «Risposte concrete per inclusione, stabilità dei docenti e valorizzazione del personale»",
-   "summary": "«Una scuola più inclusiva, organici più stabili e un riconoscimento concreto al lavoro del personale scolastico. È questa la direzione degli interventi che abbiamo introdotto nel provvedimento, con m…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/scuola-marti-risposte-concrete-per-inclusione-stabilita-dei-docenti-e-valorizzazione-del-personale/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-19T15:19:47+00:00"
-  },
-  {
-   "id": "cef8f44e15fe",
-   "title": "” Crescere Insieme”, in Fiera del Levante la giornata di confronto sul Reddito di Dignità e sul futuro delle politiche sociali regionali",
-   "summary": "Un’occasione di confronto sul futuro delle politiche sociali e sulle strategie per rendere più efficace il sistema regionale di protezione. Nella mattinata di oggi, giovedì 19 novembre, alla Fiera de…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/crescere-insieme-in-fiera-del-levante-la-giornata-di-confronto-sul-reddito-di-dignita-e-sul-futuro-delle-politiche-sociali-regionali/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-19T15:18:14+00:00"
-  },
-  {
-   "id": "12297ba70c34",
-   "title": "Tumore al pancreas, Spaccavento (Prossima): “Pronta una mozione per garantire il daraxonrasib a tutti i pazienti”",
-   "summary": "“Nella Giornata mondiale del tumore al pancreas, ho appena concluso la stesura di una mozione che presenterò nei prossimi giorni in Consiglio regionale per impegnare il presidente della Regione Pugli…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/tumore-al-pancreas-spaccavento-prossima-pronta-una-mozione-per-garantire-il-daraxonrasib-a-tutti-i-pazienti/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-19T15:12:41+00:00"
-  },
-  {
-   "id": "a673356283e0",
-   "title": "STALLO-GATE: LUNEDI’ IL FACCIA A FACCIA TRA LAFORGIA E LECCESE",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-74-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/19/stallo-gate-lunedi-il-faccia-a-faccia-tra-laforgia-e-leccese",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-19T14:58:21+00:00"
-  },
-  {
-   "id": "206e2494500e",
-   "title": "Taranto, ufficiale l'arrivo di Goh",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/l6260932808_tml2180419401473_144365081813_1795098669275321-1024x576.webp",
-   "url": "https://trnews.it/2026/11/19/taranto-ufficiale-larrivo-di-goh",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-11-19T14:51:49+00:00"
-  },
-  {
-   "id": "eb5aefebcd4a",
-   "title": "Emergency, sbarcati otto migranti",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-73-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/19/emergency-sbarcati-otto-migranti",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Brindisi",
-   "published_at": "2026-11-19T14:48:06+00:00"
-  },
-  {
-   "id": "537fa0db40a0",
-   "title": "Omicidio Vero, dopo dodici anni due arresti",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-72-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/19/omicidio-vero-dopo-dodici-anni-due-arresti",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Brindisi",
-   "published_at": "2026-11-19T14:38:19+00:00"
-  },
-  {
-   "id": "ae451a0e350f",
-   "title": "Presunta truffa con i bonus facciate per oltre 220.000 euro: imprenditore condannato a 7 anni e mezzo",
-   "summary": "SANNICOLA (Lecce) – Un imprenditore condannato a 7 anni di reclusione per una presunta truffa con il bonus facciate quantificata in 220mila euro. È la sentenza emessa dai giudici in composizione coll…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/presunta-truffa-con-i-bonus-facciate-per-oltre-220-000-euro-imprenditore-condannato-a-7-anni-e-mezzo/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T14:22:45+00:00"
-  },
-  {
-   "id": "3309d64c8408",
-   "title": "Oncologico Bari, FDI: \"Basta bavagli\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-54-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/19/oncologico-bari-fdi-basta-bavagli",
-   "source": "TeleRama News",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-19T13:59:24+00:00"
-  },
-  {
-   "id": "9756f1c4d088",
-   "title": "Il mezzo del cuore: un anno di solidarietà",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-19-145449-1024x577.jpg",
-   "url": "https://trnews.it/2026/11/19/il-mezzo-del-cuore-un-anno-di-solidarieta",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T13:55:19+00:00"
-  },
-  {
-   "id": "614d38ef5f9b",
-   "title": "Abusi edilizi, Zen Beach: dopo 6 anni, arrivano le assoluzioni",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/lido-zen.jpg",
-   "url": "https://trnews.it/2026/11/19/abusi-edilizi-zen-beach-dopo-6-anni-arrivano-le-assoluzioni",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T13:51:10+00:00"
-  },
-  {
-   "id": "50a8b3068c6a",
-   "title": "Serie D, Virtus Francavilla fuori dalla Coppa: ecco Albertini",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2025/09/serie-d-1024x538.jpg",
-   "url": "https://trnews.it/2026/11/19/serie-d-virtus-francavilla-fuori-dalla-coppa-ecco-albertini",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-11-19T13:23:12+00:00"
-  },
-  {
-   "id": "c5c075b9c6dc",
-   "title": "Piano sosta, la maggioranza valuta le modifiche. E il Consiglio slitta al 30",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/strisce-blu.jpg",
-   "url": "https://trnews.it/2026/11/19/piano-sosta-la-maggioranza-valuta-le-modifiche-e-il-consiglio-slitta-al-30",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T13:18:04+00:00"
-  },
-  {
-   "id": "35500932ae04",
-   "title": "Specchia, branco di lupi a ridosso delle abitazioni: è allarme",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/LUPI-SPECCHIA.jpg",
-   "url": "https://trnews.it/2026/11/19/specchia-branco-di-lupi-a-ridosso-delle-abitazioni-e-allarme",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T12:47:55+00:00"
-  },
-  {
-   "id": "3bd0f0ac91db",
-   "title": "Specchia, branco di lupo a ridosso delle abitazioni: è allarme",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/LUPI-SPECCHIA.jpg",
-   "url": "https://trnews.it/2026/11/19/specchia-branco-di-lupo-a-ridosso-delle-abitazioni-e-allarme",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T12:47:55+00:00"
-  },
-  {
-   "id": "fa96d1f3f739",
-   "title": "Bari: concessioni balneari e demaniali, partita ancora aperta tra operatori e Comune",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/TAR-Bari.webp",
-   "url": "https://trnews.it/2026/11/19/bari-concessioni-balneari-e-demaniali-partita-ancora-aperta-tra-operatori-e-comune",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-19T12:40:10+00:00"
-  },
-  {
-   "id": "ab3c7b2848b9",
-   "title": "Le bringantesse nel Meridione, convegno a cura dei Lions Host di Lecce al Fondo “Verri”",
-   "summary": "Lecce – Importante convegno sul ruolo delle “brigantesse” nel Meridione d’Italia nel periodo storico dell’Unita’ d’Italia. Quello delle brigantesse nel periodo post unitario è stato un fenomeno antic…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/le-bringantesse-nel-meridione-convegno-a-cura-dei-lions-host-di-lecce-al-fondo-verri/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T12:37:52+00:00"
-  },
-  {
-   "id": "8b7336bfbef7",
-   "title": "Barock Adventure. Il pionieristico Concerto da Bach ai Procol Harum",
-   "summary": "Lecce. “Ancora il Barocco è vivo e presente” è il messaggio che il Concerto “BAROCK ADVENTURE. Da J.S. Bach ai Procol Harum”, tra Musica, Arte, Letteratura, ha inteso proporre ad un attento pubblico,…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/9-I-LIBRI-236x420.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/11/barock-adventure-il-pionieristico-concerto-da-bach-ai-procol-harum/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T12:33:52+00:00"
-  },
-  {
-   "id": "1d2c86175f3e",
-   "title": "La musica che cura la malinconia: a Martina Franca e Lecce il recital con un racconto inedito di Mario Desiati",
-   "summary": "MELPIGNANO (Lecce) – Un viaggio nel cuore della Puglia, alla scoperta degli antichi riti del tarantismo e del potere attribuito alla musica e alla danza di liberare dalla sofferenza e dalla malinconi…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/la-musica-che-cura-la-malinconia-a-martina-franca-e-lecce-il-recital-con-un-racconto-inedito-di-mario-desiati/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Taranto",
-   "published_at": "2026-11-19T12:32:29+00:00"
-  },
-  {
-   "id": "294a8554ddb1",
-   "title": "È nel Cilento la Pasticceria dell’Anno per il Gambero Rosso: premiato Pietro Macellaro a Piaggine",
-   "summary": "La Pasticceria Agricola Cilentana Pietro Macellaro di Piaggine (SA) è la Pasticceria dell’Anno per il Gambero Rosso. È uno dei riconoscimenti della guida Le migliori Pasticcerie d’Italia 2027, che ne…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/e-nel-cilento-la-pasticceria-dellanno-per-il-gambero-rosso-premiato-pietro-macellaro-a-piaggine/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-19T12:29:21+00:00"
-  },
-  {
-   "id": "1fc38ba01eba",
-   "title": "Sabato 21 novembre ad Arnesano “Après un rêve” con Maria Serena Salvemini al violino e Pietro Laera al pianoforte, per la Stagione Concertistica Opera Prima",
-   "summary": "ARNESANO (Lecce) – La IX Stagione concertistica Opera Prima, diretta da Ludovica Rana, prosegue ad Arnesano (LE) con Après un rêve, un concerto che ripercorre le molte anime del violino romantico, tr…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/sabato-21-novembre-ad-arnesano-apres-un-reve-con-maria-serena-salvemini-al-violino-e-pietro-laera-al-pianoforte-per-la-stagione-concertistica-opera-prima/",
-   "source": "Corriere Salentino",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T12:29:17+00:00"
-  },
-  {
-   "id": "ccdeb131f5ae",
-   "title": "Lecce, il pasto solidale dei Lions per 170 persone alla Casa della Carità",
-   "summary": "LECCE – Lasagne al forno da gustare insieme nelle sale della Casa della Carità o da portare via nei pacchi preparati dai soci. Domenica 15 novembre il Lions Club Lecce-Nociglia “Giacinto Urso” ha cuc…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/271477ae-7b9f-4a63-9924-38b9582624e6-300x169.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/11/lecce-il-pasto-solidale-dei-lions-per-170-persone-alla-casa-della-carita/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T12:28:22+00:00"
-  },
-  {
-   "id": "1fa2dbc5fd8f",
-   "title": "­­­La cucina italiana patrimonio UNESCO, eccellenza da celebrare ma va combattuto il falso Made in Italy che vale 120miliardi",
-   "summary": "PUGLIA – La prima Settimana della Cucina Italiana nel Mondo dopo il riconoscimento UNESCO del 10 dicembre 2025 rappresenta un’occasione importante per valorizzare l’agricoltura pugliese, le produzion…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/la-cucina-italiana-patrimonio-unesco-eccellenza-da-celebrare-ma-va-combattuto-il-falso-made-in-italy-che-vale-120miliardi/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-19T12:26:25+00:00"
-  },
-  {
-   "id": "e80c36c875ca",
-   "title": "Regolarità urbanistica-edilizia, convegno sul tema a Lecce",
-   "summary": "Lecce – Venerdì 20 novembre 2026, Ore 16.00 – 19.30 Sala Bernini – Grand Hotel Tiziano e dei Congressi, Lecce Gli Ordini e i Collegi professionali, il Consiglio Notarile e la Soprintendenza a confron…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/regolarita-urbanistica-edilizia-convegno-sul-tema-a-lecce/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T12:22:27+00:00"
-  },
-  {
-   "id": "8515022ba71d",
-   "title": "Dal 20 novembre al 30 dicembre la rassegna “Strumenti di pace. Suoni e storie dal Mediterraneo” nel Salento",
-   "summary": "SALENTO – Che cosa si perde quando la guerra distrugge uno strumento musicale o quando a qualcuno viene impedito di cantare, suonare o esibirsi? Da questa domanda nasce il progetto “Strumenti di pace…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/dal-20-novembre-al-30-dicembre-la-rassegna-strumenti-di-pace-suoni-e-storie-dal-mediterraneo-nel-salento/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Salento",
-   "published_at": "2026-11-19T12:22:26+00:00"
-  },
-  {
-   "id": "b69ae25fc617",
-   "title": "In casa oltre 4 chili di droga e munizioni: arrestato 42enne",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/CC-TAVIANO--1024x470.png",
-   "url": "https://trnews.it/2026/11/19/in-casa-oltre-4-chili-di-droga-e-munizioni-arrestato-42enne",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T11:57:40+00:00"
-  },
-  {
-   "id": "8a0244f450a6",
-   "title": "Lecce, Longhi al Via del Mare: \"Stadio top, molto bello\"",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot_20261119_122739_Gallery-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/19/lecce-longhi-al-via-del-mare-stadio-top-molto-bello",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T11:30:26+00:00"
-  },
-  {
-   "id": "cc1564303436",
-   "title": "Pedinamenti e video hard di una soubrette televisiva inviati al padre: condannato l’ex della donna",
-   "summary": "LECCE – Avrebbe pedinato, molestato e persino minacciato una soubrette salentina di diffondere video e foto che la ritraevano in pose senza veli. E dopo l’arresto, con tanto di controllo con il bracc…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/leccepedinamenti-e-video-hard-di-una-soubrette-televisiva-inviati-al-padre-condannato-lex-della-donna/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T11:16:50+00:00"
-  },
-  {
-   "id": "1947fef9f48d",
-   "title": "Alliste, sequestro da 500mila euro a un 30enne dopo l’arresto",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/gdf-gallipoli-1024x554.jpeg",
-   "url": "https://trnews.it/2026/11/19/alliste-sequestro-da-500mila-euro-a-un-30enne-dopo-larresto",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T11:05:46+00:00"
-  },
-  {
-   "id": "1bf935af9375",
-   "title": "Mercato bisettimanale di Lecce, nuove regole per i posteggi. Bando atteso entro il 2027",
-   "summary": "LECCE – Il bando è atteso entro il 2027 e le novità saranno tante: il Comune assegnerà concessioni per le postazioni del mercato bisettimanale della durata di dieci anni. A fare il punto è stata la c…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/mercato-bisettimanale-di-lecce-nuove-regole-per-i-posteggi-bando-atteso-entro-il-2027/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T11:01:34+00:00"
-  },
-  {
-   "id": "27d2f4a66a60",
-   "title": "Autonomia femminile e reti di comunità: lunedì a Villa Baldassarri il primo incontro di “Puglia Donna Partecipa”",
-   "summary": "VILLA BALDASSARRI (Lecce) – Analizzare gli ostacoli e le opportunità legati all’occupazione femminile nel Salento per trasformare le esperienze individuali in una rete stabile di collaborazione. È qu…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/autonomia-femminile-e-reti-di-comunita-lunedi-a-villa-baldassarri-il-primo-incontro-di-puglia-donna-partecipa/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T10:53:24+00:00"
-  },
-  {
-   "id": "a1efd4cd4916",
-   "title": "Il meteo di domani 20 novembre 2026",
-   "summary": "uglia Condizioni di tempo asciutto su tutta la regione nel corso della giornata con nuvolosità alternata ad ampie schiarite sia al mattino che al pomeriggio. Nessuna variazione in serata e nottata co…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/il-meteo-di-domani-20-novembre-2026/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-19T10:48:23+00:00"
-  },
-  {
-   "id": "453d7f03aa1d",
-   "title": "Cinque secoli di musica a Gallipoli: al Teatro Garibaldi la presentazione del volume di Enrico Tricarico",
-   "summary": "La XIII edizione del Festival Terra tra Due Mari chiude i battenti celebrando Santa Cecilia, patrona della musica, con un approfondimento dedicato alla storia sonora della Città Bella. Domenica 22 no…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-19-at-10.59.53-240x300.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/11/cinque-secoli-di-musica-a-gallipoli-al-teatro-garibaldi-la-presentazione-del-volume-di-enrico-tricarico/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T10:37:52+00:00"
-  },
-  {
-   "id": "38e73cf8bb72",
-   "title": "Controlli di frontiera nel porto di Gallipoli: arrestato un 44enne a bordo di una nave da crociera, deve scontare oltre tre anni",
-   "summary": "Un ordinario controllo di frontiera nel porto di Gallipoli ha messo fine alla latitanza di un cittadino straniero di 44 anni, destinatario di un ordine di carcerazione emesso dall’Ufficio Esecuzioni…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/controlli-di-frontiera-nel-porto-di-gallipoli-arrestato-un-44enne-a-bordo-di-una-nave-da-crociera-deve-scontare-oltre-tre-anni/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T10:31:47+00:00"
-  },
-  {
-   "id": "bd6d3e595ee3",
-   "title": "Basket C, Monopoli ospita Monteroni: match importante per la classifica",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG-20261119-WA00341-768x1024.jpg",
-   "url": "https://trnews.it/2026/11/19/basket-c-monopoli-ospita-monteroni-match-importante-per-la-classifica",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-11-19T10:11:33+00:00"
-  },
-  {
-   "id": "2fa531d176bc",
-   "title": "Quasi cinque anni di guerra in Ucraina: il prezzo pagato dai civili e l’indignazione selettiva",
-   "summary": "A quasi cinque anni dall'inizio dell'invasione su larga scala, gli attacchi russi contro scuole, ospedali e infrastrutture civili passano spesso sotto silenzio, mentre ogni crisi interna a Kyiv monop…",
-   "image": null,
-   "url": "https://www.valigiablu.it/guerra-ucraina-vittime-civili-empatia-selettiva/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-19T10:08:10+00:00"
-  },
-  {
-   "id": "5864a0c7b367",
-   "title": "Incendio nella notte: distrutta un’auto, danneggiata anche la facciata di una casa",
-   "summary": "CUTROFIANO (Lecce) – Intervento d’urgenza dei Vigili del Fuoco del Distaccamento di Maglie questa notte a Cutrofiano, dove un rogo ha distrutto un’autovettura in sosta danneggiando anche un edificio…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/incendio-nella-notte-distrutta-unauto-danneggiata-anche-la-facciata-di-una-casa/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T09:27:58+00:00"
-  },
-  {
-   "id": "436e40bce1b7",
-   "title": "Prevenzione della ludopatia fin dalle elementari: l’ASL Lecce presenta “FreeLudo”",
-   "summary": "Contrastare il gioco d’azzardo patologico partendo dai banchi delle scuole primarie, lavorando su autostima, rispetto delle regole e rifiuto della logica della “vincita facile”. È questo il cuore di…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/FreeLudo_ASL-Lecce_Locandina_HQ-212x300.jpg",
-   "url": "https://www.corrieresalentino.it/2026/11/prevenzione-della-ludopatia-fin-dalle-elementari-lasl-lecce-presenta-freeludo/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T09:17:14+00:00"
-  },
-  {
-   "id": "103d15370f30",
-   "title": "Tentato furto in villa a Monteroni: ladri messi in fuga dalla vigilanza",
-   "summary": "MONTERONI (Lecce) – Sei minuti sono bastati per mandare a monte un furto in abitazione a Monteroni di Lecce. L’episodio si è verificato nel tardo pomeriggio di ieri, mercoledì 18 novembre, in via Med…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/tentato-furto-in-villa-a-monteroni-ladri-messi-in-fuga-dalla-vigilanza/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T09:12:40+00:00"
-  },
-  {
-   "id": "419cfedb5215",
-   "title": "A Gallipoli il 25 novembre tra libri, arte e sapori per dire no alla violenza sulle donne",
-   "summary": "GALLIPOLI (Lecce) – In occasione della Giornata internazionale per l’eliminazione della violenza contro le donne, mercoledì 25 novembre 2026 alle ore 18:00, La Casa degli Artisti di Gallipoli (in via…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/a-gallipoli-il-25-novembre-tra-libri-arte-e-sapori-per-dire-no-alla-violenza-sulle-donne/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T09:09:41+00:00"
-  },
-  {
-   "id": "3be0dc23dccc",
-   "title": "Cocaina e lusso nel Salento: sequestrati 500mila euro e una casa ad un 30enne",
-   "summary": "SALENTO – Un immobile a Racale e disponibilità finanziarie fino a circa 500mila euro sono finiti sotto sequestro preventivo nell’ambito di un’operazione della Guardia di Finanza del Comando Provincia…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/maxi-sequestro-antidroga-nel-salento-sigilli-a-una-casa-e-a-conti-correnti-per-500mila-euro/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T08:54:29+00:00"
-  },
-  {
-   "id": "c506ffc239e8",
-   "title": "Centenario di Miles Davis al Teatro Apollo di Lecce: la Camerata Musicale Salentina presenta “Round About Miles”",
-   "summary": "Un tributo tra parole e musica per celebrare i cento anni dalla nascita di una delle figure più rivoluzionarie della storia del jazz. Venerdì 20 novembre, alle ore 20:45, il sipario del Teatro Apollo…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/centenario-di-miles-davis-al-teatro-apollo-di-lecce-la-camerata-musicale-salentina-presenta-round-about-miles/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T08:42:56+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-22T08:22:07.253018+00:00",
+   "last_ok": "2026-11-22T16:29:05.720581+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-22T08:22:07.253018+00:00",
+   "last_ok": "2026-11-22T16:29:05.720581+00:00",
    "error": null
   },
   {
@@ -2334,19 +2103,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-22T08:22:07.253018+00:00",
+   "last_ok": "2026-11-22T16:29:05.720581+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-22T08:22:07.253018+00:00",
+   "last_ok": "2026-11-22T16:29:05.720581+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-22T08:22:07.253018+00:00",
+   "last_ok": "2026-11-22T16:29:05.720581+00:00",
    "error": null
   }
  ]
