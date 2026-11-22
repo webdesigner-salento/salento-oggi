@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-11-21T21:15:25.531080+00:00",
+ "updated_at": "2026-11-22T01:26:45.671978+00:00",
  "items": [
+  {
+   "id": "cb1beebc10bf",
+   "title": "Massimo Giletti a “L’Elefante” (Rai 3): «De Gennaro è rimasto ai vertici di tutti i sistemi di potere. Una figura così conserva molti segreti»",
+   "summary": "«In Italia si può dire che c’è un altro livello di potere, trasversale ai governi. Gianni De Gennaro è stato una figura che è rimasta ai vertici dei sistemi di sicurezza e dei centri decisionali del…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/massimo-giletti-a-lelefante-rai-3-de-gennaro-e-rimasto-ai-vertici-di-tutti-i-sistemi-di-potere-una-figura-cosi-conserva-molti-segreti/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-11-21T22:45:30+00:00"
+  },
+  {
+   "id": "c69f17b776a9",
+   "title": "Antonio Di Pietro A “l’Elefante” (Rai 3): «Oggi dobbiamo avere rispetto per la procura di Caltanissetta e per la famiglia di De Gennaro»",
+   "summary": "«Oggi dobbiamo innanzitutto avere rispetto per la Procura di Caltanissetta. Dobbiamo avere rispetto per chi sta indagando e per la famiglia di Gianni De Gennaro». Lo ha affermato l’ex magistrato ed e…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/antonio-di-pietro-a-lelefante-rai-3-oggi-dobbiamo-avere-rispetto-per-la-procura-di-caltanissetta-e-per-la-famiglia-di-de-gennaro/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-11-21T22:41:33+00:00"
+  },
   {
    "id": "7840224a18d7",
    "title": "Contro la violenza sulle donne: a Lecce un momento di riflessione nella parrocchia di San Massimiliano Kolbe",
@@ -110,6 +132,17 @@
    "category": "Sport",
    "zone": "Lecce",
    "published_at": "2026-11-21T16:57:04+00:00"
+  },
+  {
+   "id": "f646e48ee1c2",
+   "title": "Eccellenza, la capolista Squinzano passa in rimonta a Maglie",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot_20261121-234120_Facebook-1024x580.jpg",
+   "url": "https://trnews.it/2026/11/21/eccellenza-la-capolista-squinzano-passa-in-rimonta-a-maglie",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-21T16:42:43+00:00"
   },
   {
    "id": "40b3bf589d33",
@@ -2211,30 +2244,19 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-19T04:00:00+00:00"
-  },
-  {
-   "id": "45242b676973",
-   "title": "Parabita, al via le linee di indirizzo per il Piano Urbanistico Generale",
-   "summary": "Parabita – La Giunta comunale con deliberazione n° 264 del 13/10/2026 ha adottato l’Atto di indirizzo del Piano Urbanistico generale comunale – PUG Il processo di formazione del Piano Urbanistico Gen…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/parabita-al-via-le-linee-di-indirizzo-per-il-piano-urbanistico-generale/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-19T01:07:34+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-21T21:15:25.531080+00:00",
+   "last_ok": "2026-11-22T01:26:45.671978+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-21T21:15:25.531080+00:00",
+   "last_ok": "2026-11-22T01:26:45.671978+00:00",
    "error": null
   },
   {
@@ -2246,19 +2268,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-21T21:15:25.531080+00:00",
+   "last_ok": "2026-11-22T01:26:45.671978+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-21T21:15:25.531080+00:00",
+   "last_ok": "2026-11-22T01:26:45.671978+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-21T21:15:25.531080+00:00",
+   "last_ok": "2026-11-22T01:26:45.671978+00:00",
    "error": null
   }
  ]
