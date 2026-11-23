@@ -1,6 +1,28 @@
 {
- "updated_at": "2026-11-22T21:55:36.124577+00:00",
+ "updated_at": "2026-11-23T02:03:43.501732+00:00",
  "items": [
+  {
+   "id": "195002971472",
+   "title": "Neviano, aula polifunzionale senza certificato antincendio da oltre due anni. Napoli chiede chiarimenti urgenti",
+   "summary": "NEVIANO – Diciassette interventi urgenti sui presidi di sicurezza e un certificato antincendio che manca da oltre due anni. È il quadro che, secondo l’Ufficio di presidenza del Consiglio comunale di…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/neviano-aula-polifunzionale-senza-certificato-antincendio-da-oltre-due-anni-napoli-chiede-chiarimenti-urgenti/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Lecce",
+   "published_at": "2026-11-22T23:13:40+00:00"
+  },
+  {
+   "id": "7741aed1c236",
+   "title": "Tre nuove radici per il futuro del territorio: a Caprarica di Lecce l’ulivo torna protagonista con il Lions Club “Salento Porta Grika”",
+   "summary": "CAPRARICA DI LECCE – Il verde della speranza torna a illuminare uno degli ingressi del paese. Nella mattinata di domenica 22 novembre, la rotatoria di Via Castrì ha fatto da cornice a una cerimonia s…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/8890fc34-baf5-485d-84d5-220e5fdbd6dd-300x300.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/tre-nuove-radici-per-il-futuro-del-territorio-a-caprarica-di-lecce-lulivo-torna-protagonista-con-il-lions-club-salento-porta-grika/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-22T23:06:18+00:00"
+  },
   {
    "id": "dc6f191648d2",
    "title": "Basket A2: Valtur Brindisi battuta a Pistoia",
@@ -319,6 +341,17 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-11-22T08:21:48+00:00"
+  },
+  {
+   "id": "e0faa79479bb",
+   "title": "Violenza economica: dall’invisibilità alla consapevolezza, il ruolo del diritto e dell’educazione finanziaria",
+   "summary": "A Lecce, il 23 novembre, un pomeriggio di confronto e formazione nella Giornata internazionale per l’eliminazione della violenza contro le donne, con le voci del diritto, dell’economia, della finanza…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/violenza-economica-dallinvisibilita-alla-consapevolezza-il-ruolo-del-diritto-e-delleducazione-finanziaria/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-22T08:20:20+00:00"
   },
   {
    "id": "6da0ec76dec4",
@@ -1964,13 +1997,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-22T21:55:36.124577+00:00",
+   "last_ok": "2026-11-23T02:03:43.501732+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-22T21:55:36.124577+00:00",
+   "last_ok": "2026-11-23T02:03:43.501732+00:00",
    "error": null
   },
   {
@@ -1982,19 +2015,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-22T21:55:36.124577+00:00",
+   "last_ok": "2026-11-23T02:03:43.501732+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-22T21:55:36.124577+00:00",
+   "last_ok": "2026-11-23T02:03:43.501732+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-22T21:55:36.124577+00:00",
+   "last_ok": "2026-11-23T02:03:43.501732+00:00",
    "error": null
   }
  ]
