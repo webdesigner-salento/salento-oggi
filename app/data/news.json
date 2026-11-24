@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-11-23T22:19:13.057321+00:00",
+ "updated_at": "2026-11-24T06:10:34.693295+00:00",
  "items": [
+  {
+   "id": "b868752fee7a",
+   "title": "La battaglia di cittadini e comitati contro la caccia sui Colli di Bergamo",
+   "summary": "Tra settembre e ottobre i cittadini che abitano nei dintorni del Parco dei Colli di Bergamo sono stati ripetutamente svegliati all'alba dagli spari incessanti dei cacciatori. Una situazione che si ri…",
+   "image": "https://altreconomia.it/app/uploads/2026/11/20230319-birondina_hard-064-1.jpg",
+   "url": "https://altreconomia.it/la-battaglia-di-cittadini-e-comitati-contro-la-caccia-sui-colli-di-bergamo/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-23T23:50:26+00:00"
+  },
+  {
+   "id": "0f9600f9eb95",
+   "title": "Basket C/F: Monteroni travolge Ceglie: vetta confermata",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG-20261123-WA0138-768x1024.jpg",
+   "url": "https://trnews.it/2026/11/24/basket-c-f-monteroni-travolge-ceglie-vetta-confermata",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-11-23T23:46:30+00:00"
+  },
+  {
+   "id": "5aec042aa0f5",
+   "title": "L’ultimo rimbalzo. Perché il reintegro di Huang a capo di Nvidia rischia di rivelarsi un palliativo",
+   "summary": "La parabola fulminea di Jensen Huang ai vertici di Nvidia, consumatasi nell'arco di appena undici giorni tra l'11 e il 23 novembre di quest'anno, rappresenta molto più di una cronaca scandalistica o…",
+   "image": "https://altreconomia.it/app/uploads/2026/11/IPA90567642-scaled.jpg",
+   "url": "https://altreconomia.it/lultimo-rimbalzo-perche-il-reintegro-di-huang-a-capo-di-nvidia-rischia-di-rivelarsi-un-palliativo/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-23T23:32:18+00:00"
+  },
   {
    "id": "c32a73e9d835",
    "title": "Colpi di pistola mentre era in sella a una bici elettrica, 44enne in gravi condizioni",
@@ -398,6 +431,17 @@
    "published_at": "2026-11-23T14:36:05+00:00"
   },
   {
+   "id": "d3801832bb99",
+   "title": "Truffa in videochiamata, rubati oro e gioielli nel Brindisino",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-83-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/23/truffa-in-videochiamata-rubati-oro-e-gioielli-nel-brindisino",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Brindisi",
+   "published_at": "2026-11-23T14:31:45+00:00"
+  },
+  {
    "id": "9554c1b4fe0f",
    "title": "Ribaltamento stazione, collaudo il 7 dicembre. Poi gestione e apertura",
    "summary": "",
@@ -462,17 +506,6 @@
    "category": "Cronaca",
    "zone": "Taranto",
    "published_at": "2026-11-23T13:54:34+00:00"
-  },
-  {
-   "id": "d3801832bb99",
-   "title": "Truffa in videochiamata, rubati oro e gioielli nel Brindisino",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-83-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/23/truffa-in-videochiamata-rubati-oro-e-gioielli-nel-brindisino",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Brindisi",
-   "published_at": "2026-11-23T13:31:45+00:00"
   },
   {
    "id": "52d516480deb",
@@ -1826,63 +1859,19 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-21T06:20:59+00:00"
-  },
-  {
-   "id": "f22c12d73efc",
-   "title": "Ricetta del giorno: Crema al limone vegana",
-   "summary": "Ingredienti per 2 persone: 1 cucchiaio di farina 150 gr di zucchero 100 gr di acqua succo di mezzo limone buccia di 1 limone Procedimento: In un pentolino far sciogliere lo zucchero con metà dell’acq…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/ricetta-del-giorno-crema-al-limone-vegana/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-21T05:31:34+00:00"
-  },
-  {
-   "id": "52feba443600",
-   "title": "Serie A, si riparte: Lazio-Lecce in diretta su TeleRama con Lecce Channel in Campo",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG_20261118_151734-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/21/serie-a-si-riparte-lazio-lecce-in-diretta-su-telerama-con-lecce-channel-in-campo",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-21T05:00:04+00:00"
-  },
-  {
-   "id": "8388fea4cdb4",
-   "title": "Dagli algoritmi alle persone. Fuori dalla “loro” Rete per fare rete",
-   "summary": "Quando, come Valigia Blu, abbiamo deciso di lasciare prima X e poi Meta, l'obiettivo era proprio questo: smettere di farci dettare la linea dagli algoritmi e ricostruire le nostre comunità, online e…",
-   "image": null,
-   "url": "https://www.valigiablu.it/algoritmi-persone-rete-crowdfunding-valigia-blu/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-21T04:19:00+00:00"
-  },
-  {
-   "id": "a61ef1175eca",
-   "title": "Lazio-Lecce, i salentini cercano l'impresa contro la capolista. Le probabili formazioni",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Lazio-Lecce-le-probabili-trenews-1024x580.jpg",
-   "url": "https://trnews.it/2026/11/21/lazio-lecce-i-salentini-cercano-limpresa-contro-la-capolista-le-probabili-formazioni",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-20T23:07:47+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-23T22:19:13.057321+00:00",
+   "last_ok": "2026-11-24T06:10:34.693295+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-23T22:19:13.057321+00:00",
+   "last_ok": "2026-11-24T06:10:34.693295+00:00",
    "error": null
   },
   {
@@ -1894,19 +1883,19 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-23T22:19:13.057321+00:00",
+   "last_ok": "2026-11-24T06:10:34.693295+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-23T22:19:13.057321+00:00",
+   "last_ok": "2026-11-24T06:10:34.693295+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-23T22:19:13.057321+00:00",
+   "last_ok": "2026-11-24T06:10:34.693295+00:00",
    "error": null
   }
  ]
