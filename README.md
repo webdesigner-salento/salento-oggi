@@ -64,14 +64,3 @@ python3 -m http.server -d app 8000                      # apri http://localhost:
 
 Il collector usa solo la libreria standard di Python: non c'è nulla da installare.
 
-## Pubblicazione
-
-1. Crea un repository su GitHub (gratuito) e carica questo progetto sul ramo `main`.
-2. In **Settings → Pages**, imposta **Source: GitHub Actions**.
-3. In **Actions**, lancia a mano il workflow «Raccogli notizie e pubblica» (`workflow_dispatch`).
-4. Alla fine l'app è su `https://<utente>.github.io/<repository>/`. Con un dominio proprio, imposta la variabile del repository `SITE_URL` (Settings → Variables) con l'indirizzo completo, senza `/` finale: serve per le anteprime dei link su WhatsApp.
-5. Controlla che `sources_status` indichi `ok: true` per ogni fonte. Il primo scaricamento reale avviene qui, non in locale.
-
-## Da verificare su un telefono vero
-
-Installazione sulla schermata Home (iPhone e Android), tema scuro, apertura in modalità aereo, condivisione di una notizia e del riepilogo «Il Salento in 5 notizie» su WhatsApp.
