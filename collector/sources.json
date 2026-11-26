@@ -10,6 +10,26 @@
     "enabled": true
   },
   {
+    "name": "LecceNews24",
+    "feed": "https://www.leccenews24.it/feed/",
+    "enabled": true
+  },
+  {
+    "name": "LeccePrima",
+    "feed": "https://www.lecceprima.it/rss",
+    "enabled": true
+  },
+  {
+    "name": "LecceSette",
+    "feed": "https://www.leccesette.it/feed/",
+    "enabled": true
+  },
+  {
+    "name": "BrindisiReport",
+    "feed": "https://www.brindisireport.it/rss",
+    "enabled": true
+  },
+  {
     "name": "Il Post",
     "feed": "https://www.ilpost.it/feed/",
     "enabled": true,
@@ -33,15 +53,27 @@
     "enabled": true,
     "scope": "national"
   },
-   {
-    "name": "tgcom24",
-    "feed": "https://www.tgcom24.mediaset.it/",
+  {
+    "name": "Openpolis",
+    "feed": "https://www.openpolis.it/feed/",
     "enabled": true,
     "scope": "national"
   },
-   {
-    "name": "fattoquotidiano",
-    "feed": "https://www.ilfattoquotidiano.it/",
+  {
+    "name": "Internazionale",
+    "feed": "https://www.internazionale.it/sitemaps/rss.xml",
+    "enabled": true,
+    "scope": "national"
+  },
+  {
+    "name": "TGCOM24",
+    "feed": "https://www.tgcom24.mediaset.it/rss/homepage.xml",
+    "enabled": true,
+    "scope": "national"
+  },
+  {
+    "name": "Il Fatto Quotidiano",
+    "feed": "https://www.ilfattoquotidiano.it/feed/",
     "enabled": true,
     "scope": "national"
   }
