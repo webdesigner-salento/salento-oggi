@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T11:11:20.090840+00:00",
+ "updated_at": "2026-11-26T11:15:54.591865+00:00",
  "items": [
   {
    "id": "a8df6a0b04e5",
@@ -2140,13 +2140,13 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-26T11:11:20.090840+00:00",
+   "last_ok": "2026-11-26T11:15:54.591865+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-26T11:11:20.090840+00:00",
+   "last_ok": "2026-11-26T11:15:54.591865+00:00",
    "error": null
   },
   {
@@ -2158,20 +2158,32 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-26T11:11:20.090840+00:00",
+   "last_ok": "2026-11-26T11:15:54.591865+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-26T11:11:20.090840+00:00",
+   "last_ok": "2026-11-26T11:15:54.591865+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-26T11:11:20.090840+00:00",
+   "last_ok": "2026-11-26T11:15:54.591865+00:00",
    "error": null
+  },
+  {
+   "source": "tgcom24",
+   "ok": false,
+   "last_ok": null,
+   "error": "ValueError: feed vuoto o non valido"
+  },
+  {
+   "source": "fattoquotidiano",
+   "ok": false,
+   "last_ok": null,
+   "error": "ValueError: feed vuoto o non valido"
   }
  ]
 }
