@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T11:35:30.476537+00:00",
+ "updated_at": "2026-11-26T11:40:10.530665+00:00",
  "items": [
   {
    "id": "f17f23de02b9",
@@ -10,7 +10,18 @@
    "source": "TGCOM24",
    "category": "Altro",
    "zone": "Italia",
-   "published_at": "2026-11-26T11:32:21+00:00"
+   "published_at": "2026-11-26T11:36:43+00:00"
+  },
+  {
+   "id": "76ad558adb4c",
+   "title": "Femminicidio e suicidio, lo psichiatra Mendolicchio: \"La separazione è un momento particolarmente pericoloso nelle relazioni violente\"",
+   "summary": "Dalla volontà di possesso al controllo coercitivo, dal rischio di emulazione ai segnali d'allarme: parla lo psichiatra e psicoterapeuta",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/105904450-eb64e259-a89e-4356-8fd6-bded06b6d170.jpg",
+   "url": "https://www.tgcom24.mediaset.it/cronaca/femminicidio-suicidio-psicologia-emulazione-mendolicchio_119441712-202602k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-26T11:33:44+00:00"
   },
   {
    "id": "61193d6aafc6",
@@ -110,17 +121,6 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-26T11:25:33+00:00"
-  },
-  {
-   "id": "76ad558adb4c",
-   "title": "Femminicidio e suicidio, lo psichiatra Mendolicchio: \"La separazione è un momento particolarmente pericoloso nelle relazioni violente\"",
-   "summary": "Dalla volontà di possesso al controllo coercitivo, dal rischio di emulazione ai segnali d'allarme: parla lo psichiatra e psicoterapeuta",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/105904450-8fd3ecce-d09f-445e-8d39-9a3564f0f577.jpg",
-   "url": "https://www.tgcom24.mediaset.it/cronaca/femminicidio-suicidio-psicologia-emulazione-mendolicchio_119441712-202602k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T11:25:04+00:00"
   },
   {
    "id": "8321fc426c7c",
@@ -586,8 +586,8 @@
   },
   {
    "id": "a69818acd76b",
-   "title": "Femminicidio nel Pistoiese, uccide la compagna di 24 anni e poi si lancia dal viadotto. È lo stesso da cui fu gettata Lorena Isceri",
-   "summary": "L’ennesima vittima di femminicidio, il giorno dopo la Giornata internazionale per l’eliminazione della violenza contro le donne. Una ragazza di 24 anni è stata uccisa dal compagno in un appartamento…",
+   "title": "Femminicidio Pistoia, uccide la ex compagna 23enne, poi si dà fuoco e si lancia dal viadotto. È lo stesso da cui fu gettata Lorena Isceri",
+   "summary": "L’ennesima vittima di femminicidio, il giorno dopo la Giornata internazionale per l’eliminazione della violenza contro le donne. Una ragazza di 23 anni è stata uccisa dall’ex compagno in un appartame…",
    "image": null,
    "url": "https://www.ilfattoquotidiano.it/2026/11/26/femminicidio-ponte-buggianese-pistoia-notizie/8584361/",
    "source": "Il Fatto Quotidiano",
@@ -4318,37 +4318,37 @@
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-26T11:35:30.476537+00:00",
+   "last_ok": "2026-11-26T11:40:10.530665+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-26T11:35:30.476537+00:00",
+   "last_ok": "2026-11-26T11:40:10.530665+00:00",
    "error": null
   },
   {
    "source": "LecceNews24",
    "ok": true,
-   "last_ok": "2026-11-26T11:35:30.476537+00:00",
+   "last_ok": "2026-11-26T11:40:10.530665+00:00",
    "error": null
   },
   {
    "source": "LeccePrima",
    "ok": true,
-   "last_ok": "2026-11-26T11:35:30.476537+00:00",
+   "last_ok": "2026-11-26T11:40:10.530665+00:00",
    "error": null
   },
   {
    "source": "LecceSette",
    "ok": true,
-   "last_ok": "2026-11-26T11:35:30.476537+00:00",
+   "last_ok": "2026-11-26T11:40:10.530665+00:00",
    "error": null
   },
   {
    "source": "BrindisiReport",
    "ok": true,
-   "last_ok": "2026-11-26T11:35:30.476537+00:00",
+   "last_ok": "2026-11-26T11:40:10.530665+00:00",
    "error": null
   },
   {
@@ -4360,43 +4360,43 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-26T11:35:30.476537+00:00",
+   "last_ok": "2026-11-26T11:40:10.530665+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-26T11:35:30.476537+00:00",
+   "last_ok": "2026-11-26T11:40:10.530665+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-26T11:35:30.476537+00:00",
+   "last_ok": "2026-11-26T11:40:10.530665+00:00",
    "error": null
   },
   {
    "source": "Openpolis",
    "ok": true,
-   "last_ok": "2026-11-26T11:35:30.476537+00:00",
+   "last_ok": "2026-11-26T11:40:10.530665+00:00",
    "error": null
   },
   {
    "source": "Internazionale",
    "ok": true,
-   "last_ok": "2026-11-26T11:35:30.476537+00:00",
+   "last_ok": "2026-11-26T11:40:10.530665+00:00",
    "error": null
   },
   {
    "source": "TGCOM24",
    "ok": true,
-   "last_ok": "2026-11-26T11:35:30.476537+00:00",
+   "last_ok": "2026-11-26T11:40:10.530665+00:00",
    "error": null
   },
   {
    "source": "Il Fatto Quotidiano",
    "ok": true,
-   "last_ok": "2026-11-26T11:35:30.476537+00:00",
+   "last_ok": "2026-11-26T11:40:10.530665+00:00",
    "error": null
   }
  ]
