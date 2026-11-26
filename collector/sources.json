@@ -32,5 +32,17 @@
     "feed": "https://www.altreconomia.it/feed/",
     "enabled": true,
     "scope": "national"
+  },
+   {
+    "name": "tgcom24",
+    "feed": "https://www.tgcom24.mediaset.it/",
+    "enabled": true,
+    "scope": "national"
+  },
+   {
+    "name": "fattoquotidiano",
+    "feed": "https://www.ilfattoquotidiano.it/",
+    "enabled": true,
+    "scope": "national"
   }
 ]
