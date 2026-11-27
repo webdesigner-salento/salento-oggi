@@ -1,6 +1,1403 @@
 {
- "updated_at": "2026-11-27T03:19:41.031821+00:00",
+ "updated_at": "2026-11-27T12:50:00.331612+00:00",
  "items": [
+  {
+   "id": "f1b1a4f2a495",
+   "title": "Il ritiro di Marquez racconta la sua ossessione: battere Valentino Rossi. Ma ora chi lo sostituirà?",
+   "summary": "Alla fine di The Truman Show, Jim Carrey arriva in fondo al mondo artificiale, creato per lui, per lo show televisivo che lo ha tenuto prigioniero per trent’anni, trova una porta nel cielo dipinto, s…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/marc-marquez-ritiro-motogp-valencia-ossessione-battere-valentino-rossi/8585560/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T12:44:11+00:00"
+  },
+  {
+   "id": "0bcf3bc71dcd",
+   "title": "“Stupro e rapina pianificati”, arrestati tre minori per le violenze su una 30enne",
+   "summary": "“Una violenza brutale, senza alcuna remora, con disprezzo della dignità della vittima”. È la definizione degli inquirenti per lo stupro di una donna brasiliana di 30 anni, avvenuto a Parma il 4 novem…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/stupro-parma-minorenni-arrestati-notizie/8585547/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T12:41:11+00:00"
+  },
+  {
+   "id": "3868996b0fc9",
+   "title": "Deposito clandestino di esplosivi in un garage: arrestati padre e figlio",
+   "summary": "SAN DONATO (Lecce) – Una polveriera all’interno di un garage. È quanto scoperto dai carabinieri a San Donato di Lecce, dove sono stati sequestrati oltre 600 chili di materiale pirotecnico, con una ma…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/deposito-clandestino-di-esplosivi-in-un-garage-arrestati-padre-e-figlio/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T12:29:21+00:00"
+  },
+  {
+   "id": "d1039e2302e3",
+   "title": "Cortina, la prima nevicata porta anche la prima sciata della stagione",
+   "summary": "",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/115700064-a4c13f0a-6c59-4614-b56d-c0ffcd0ad910.jpg",
+   "url": "https://www.tgcom24.mediaset.it/2026/video/cortina-la-prima-nevicata-porta-anche-la-prima-sciata-della-stagione_119482722-02k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T12:25:00+00:00"
+  },
+  {
+   "id": "cbcc6eeccecb",
+   "title": "A Napoli 14 operai GLS licenziati per ‘assenza ingiustificata’: erano in sciopero",
+   "summary": "La telecamera muove rapida l’obiettivo verso un angolo e mostra un lavoratore che viene sbattuto al muro da un uomo, un poliziotto in borghese. Accorre una piccola folla, altri lavoratori. Si sentono…",
+   "image": "https://cdn.jwplayer.com/v2/media/87m3r82E/poster.jpg?width=720",
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/licenziamenti-gls-napoli-sciopero-cobas-granato-opinione/8585370/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Economia",
+   "zone": "Italia",
+   "published_at": "2026-11-27T12:24:59+00:00"
+  },
+  {
+   "id": "7c21faf49a13",
+   "title": "Zelensky e l'attacco a Bengasi: \"Non agiamo mai senza coordinarci con i nostri partner\" | Tajani: \"Zelensky non ha detto la verità, non c'è stato alcun coordinamento\"",
+   "summary": "\"Nessuno era stato informato, nessuno sapeva alcunché di quello che stavano facendo gli ucraini in Libia\" ha detto il ministro degli Esteri",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/102552397-2cffd706-d458-413f-a5ec-96513807028d.jpg",
+   "url": "https://www.tgcom24.mediaset.it/mondo/guerra-russia-ucraina-ultime-notizie-27-novembre_119472715-202602k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T12:24:44+00:00"
+  },
+  {
+   "id": "5435fe07adb8",
+   "title": "Il Costa Rica respinge Francesca Albanese: \"Su di lei allerta internazionale\" | Nazioni unite: \"Il governo ci ripensi con urgenza\"",
+   "summary": "La replica della giurista che da tempo accusa Israele di genocidio e altri crimini di guerra: \"Conosci il vero volto di una autorità quando dai fastidio\"",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/091538326-f67db16b-99d3-4b71-abb5-9a0eeead1dbe.jpg",
+   "url": "https://www.tgcom24.mediaset.it/mondo/costa-rica-respinge-francesca-albanese_119477137-202602k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T12:22:41+00:00"
+  },
+  {
+   "id": "c6c7f832550f",
+   "title": "Sequestrati oltre 600 chili di fuochi d’artificio nel Salento: arrestati padre e figlio",
+   "summary": "I Carabinieri hanno arrestato due persone nel Salento per detenzione illegale di materiale esplodente, sequestrando oltre 600 chili di fuochi d’artificio.La perquisizione in un garageNella serata...",
+   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_302628754645_1795781799702766.jpg",
+   "url": "https://www.leccesette.it/news/314127584774/sequestrati-oltre-600-chili-di-fuochi-d-artificio-nel-salento",
+   "source": "LecceSette",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-11-27T13:20:31+01:00"
+  },
+  {
+   "id": "f47f4eacc770",
+   "title": "Elezioni in Spagna, il confronto tra i quattro candidati a primo ministro",
+   "summary": "Una sfida a quattro. Un duello televisivo per provare a spostare gli equilibri e conquistare gli indecisi in vista delle elezioni anticipate di domenica. Ieri sera per due ore è andato in scena l’ult…",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/115420176-2ca9bfbe-68e7-4a74-9572-261f639c6c7d.jpg",
+   "url": "https://www.tgcom24.mediaset.it/2026/video/elezioni-in-spagna-il-confronto-tra-i-quattro-candidati-a-primo-ministro_119482562-02k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T12:20:00+00:00"
+  },
+  {
+   "id": "13ae4e6af6f0",
+   "title": "Marquez-Rossi, la rivalità che ha segnato la MotoGp. Dagli scontri in pista alla pace mai arrivata, Agostini: “Andiamo a cena noi tre”",
+   "summary": "Argentina, Assen, Phillip Island e Sepang nel 2015. Ancora Argentina e Misano nel 2018, poi un nuovo incontro in Argentina nel 2019. Sono solo alcune delle gare e degli episodi che hanno segnato il r…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/rivalita-rossi-marquez-motogp-ritiro-notizie/8585541/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T12:17:23+00:00"
+  },
+  {
+   "id": "ab8c1d1dd935",
+   "title": "Attacco con droni in Kuwait, l'Iran nega ogni responsabilità",
+   "summary": "",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/115255031-95a58f65-017b-41c3-87be-937eb6ba6aa0.jpg",
+   "url": "https://www.tgcom24.mediaset.it/2026/video/attacco-con-droni-in-kuwait-l-iran-nega-ogni-responsabilita_119482556-02k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T12:13:00+00:00"
+  },
+  {
+   "id": "7bde88358c12",
+   "title": "Rinnovabili e caro bollette: “L’accumulo può (quasi) dimezzare il costo dell’energia rispetto a quella prodotta dal gas”",
+   "summary": "In Italia, l’energia solare ed eolica accumulata nelle batterie potrebbe costare, in media, fino a quasi la metà in meno dell’elettricità prodotta con il gas. Perché il costo medio di un megawattora…",
+   "image": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/11/27/rinnovabili-accumulo-ember-1-a--630x635.png",
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/batterie-rinnovabili-accumulo-energia-notizie/8585452/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Economia",
+   "zone": "Italia",
+   "published_at": "2026-11-27T12:11:18+00:00"
+  },
+  {
+   "id": "dc9b3aed1366",
+   "title": "Controlli nel Salento: due arresti per droga, sequestrate due auto e segnalati sette giovani",
+   "summary": "I Carabinieri del Comando Provinciale di Lecce hanno svolto un servizio straordinario di controllo del territorio, portando all'arresto di due salentini in quanto ritenuti presunti responsabili di...",
+   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_508787184853_1795780926170820.jpg",
+   "url": "https://www.leccesette.it/news/211048369670/controlli-nel-salento-due-arresti-per-droga-a-morciano",
+   "source": "LecceSette",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T13:11:00+01:00"
+  },
+  {
+   "id": "44f76a2fd238",
+   "title": "Shock nel centro di Lecce, avvocato 46enne trovato senza vita sul tetto dei garage: sarebbe precipitato dal sesto piano",
+   "summary": "LECCE – È stata una residente a dare l’allarme dopo aver notato, affacciandosi dal balcone di casa, il corpo di un uomo sul tetto dei garage del condominio. Il macabro ritrovamento è avvenuto questa…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/incidente-caduta-piazza-mazzini-2-747x420.jpg",
+   "url": "https://www.corrieresalentino.it/2026/11/shock-nel-centro-di-lecce-46enne-trovato-senza-vita-sul-tetto-dei-garage-sarebbe-precipitato-dal-sesto-piano/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T12:10:21+00:00"
+  },
+  {
+   "id": "401505205d90",
+   "title": "Droga e contanti durante i controlli nel basso Salento: una coppia finisce ai domiciliari",
+   "summary": "SALENTO – Trentuno dosi di cocaina nascoste nel giubbotto di una donna, due persone arrestate, altre due denunciate per il possesso di coltelli e cinque giovani segnalati per uso di stupefacenti. È i…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/IMG_6308-224x300.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/droga-e-contanti-durante-i-controlli-nel-basso-salento-una-coppia-finisce-per-ai-domiciliari/",
+   "source": "Corriere Salentino",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-11-27T12:07:48+00:00"
+  },
+  {
+   "id": "52429e4bd037",
+   "title": "Una \"bomba\" nel cuore del Salento: sequestri 600chili di botti illegali",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG-20261126-WA0045.jpg",
+   "url": "https://trnews.it/2026/11/27/una-bomba-nel-cuore-del-salento-sequestri-600chili-di-botti-illegali",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T12:06:27+00:00"
+  },
+  {
+   "id": "e85d64148b65",
+   "title": "La Camera approva il decreto scuola: 142 i sì, 112 i no",
+   "summary": "Gli astenuti sono stati 4. Sul provvedimento il governo aveva posto la fiducia",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/110102127-ad326294-8626-413f-b2b8-86feb18458f8.png",
+   "url": "https://www.tgcom24.mediaset.it/politica/camera-approvazione-decreto-scuola_119441711-202602k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T12:05:21+00:00"
+  },
+  {
+   "id": "ed252c4bcd70",
+   "title": "Sport, natura e territorio: domenica il \"Cross Città di Erchie\" accende la Masseria Lo Sole",
+   "summary": "L'evento, organizzato da Appiatletica Asd nella suggestiva cornice della Masseria Lo Sole, sarà valido come Campionato Provinciale di Corsa Campestre Master e Settore Giovanile",
+   "image": "https://citynews-brindisireport.stgy.ovh/~media/original-hi/64317916893205/asd-appiatletica.jpeg",
+   "url": "https://www.brindisireport.it/sport/erchie-diventa-capitale-del-podismo-provinciale-domenica-29-novembre-debutta-il-cross-citta-di-erchie.html",
+   "source": "BrindisiReport",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-11-27T13:04:00+01:00"
+  },
+  {
+   "id": "1a5cd09e9fac",
+   "title": "Decreto scuola, con 142 voti a favore diventa legge",
+   "summary": "",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/114509721-a6b4f542-ccc8-4801-b8bf-c114c381f11a.jpg",
+   "url": "https://www.tgcom24.mediaset.it/2026/video/decreto-scuola-con-142-voti-a-favore-diventa-legge_119482194-02k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T12:04:00+00:00"
+  },
+  {
+   "id": "635431984c30",
+   "title": "Testimonianze e impronte: prosegue l'indagine sul suicidio di De Gennaro",
+   "summary": "Gianni De Gennaro ha già compiuto la sua scelta quando, su un blocco di appunti, scrive il suo testamento morale. \"Fra qualche minuto non ci sarò più e quindi capite bene che un 'condannato a morte'…",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/115909121-33de5e4f-b21f-4d7b-b1ad-bad008c07fda.png",
+   "url": "https://www.tgcom24.mediaset.it/2026/video/testimonianze-e-impronte-prosegue-l-indagine-sul-suicidio-di-de-gennaro_119482019-02k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T12:03:00+00:00"
+  },
+  {
+   "id": "622988842c3c",
+   "title": "La Georgia dopo due anni di mobilitazione e di proteste per l’Europa e contro il governo filorusso",
+   "summary": "Dal 28 novembre 2024 Tbilisi e altre città in Georgia manifestano ogni giorno contro lo stop all’integrazione europea deciso da Sogno Georgiano. Tra multe, tentativi di messa al bando dei partiti e r…",
+   "image": "https://www.valigiablu.it/wp-content/uploads/2026/11/manifesto-elettorale-georgia-1024x768.jpeg",
+   "url": "https://www.valigiablu.it/georgia-due-anni-proteste-sogno-georgiano-russia/",
+   "source": "Valigia Blu",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T12:01:21+00:00"
+  },
+  {
+   "id": "ae835d657890",
+   "title": "Torino, in fuga con l'auto rubata speronano i carabinieri: \"Stavano imitando Gta 6\"",
+   "summary": "Il \"conducente improvvisato\" è stato fermato dal capo equipaggio dei militari dell'Arma, riaffidati alle famiglie gli altri due minorenni che erano con lui",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/085930034-c3c129a9-e216-4fbc-9ff8-aa34b0aed8ce.jpg",
+   "url": "https://www.tgcom24.mediaset.it/cronaca/torino-minorenne-auto-rubata-sperona-carabinieri-gta-6_119473140-202602k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T12:00:10+00:00"
+  },
+  {
+   "id": "15b676b487ca",
+   "title": "Torino, tre minorenni rubano un'auto e speronano una gazzella dei Carabinieri: arrestato il conducente",
+   "summary": "",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/114259594-79a5df56-8841-4d8e-a61d-5ec4d286543e.jpg",
+   "url": "https://www.tgcom24.mediaset.it/2026/video/torino-tre-minorenni-rubano-un-auto-e-speronano-una-gazzella-dei-carabinieri-arrestato-il-conducente_119482021-02k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:59:39+00:00"
+  },
+  {
+   "id": "3199ba89ad4c",
+   "title": "GTA 6 tra violenza, sesso e droga. Così gli esperti: “Vedere in televisione autorità che non riconoscono la parità di genere credo faccia un danno maggiore di un videogioco. Il modo in cui GTA affronta la sessualità è lo specchio della realtà in cui viviamo”",
+   "summary": "“Credo che vedere in televisione o sui social persone importanti o autorità che non riconoscono la parità di genere, che si esprimono con termini e modalità aggressive o che addirittura compiono comp…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/gta-6-tra-violenza-sesso-e-droga-cosi-gli-esperti-vedere-in-televisione-autorita-che-non-riconoscono-la-parita-di-genere-credo-faccia-un-danno-maggiore-di-un-videogioco/8585470/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:59:23+00:00"
+  },
+  {
+   "id": "ad41f0f7d0b8",
+   "title": "\"Pagateci gli stipendi\", operai salgono su una gru per protesta a Roma",
+   "summary": "Nella mattinata di venerdì alcuni operai di un'impresa edile si sono arrampicati su una gru sita in un cantiere edile nella zona di Roma 70. Secondo quanto emerso finora, all'origine della protesta c…",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/115526222-1bb91f60-f2f7-480e-96d5-04b1cbc83470.png",
+   "url": "https://www.tgcom24.mediaset.it/2026/video/-pagateci-gli-stipendi-operai-salgono-su-una-gru-per-protesta-a-roma_119482560-02k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:54:00+00:00"
+  },
+  {
+   "id": "bd9d58728c87",
+   "title": "Contro-documentario su Naza patrocinato dalla Regione Lombardia, è polemica. Pd e M5s: “Nega il genocidio a Gaza, un orrore”",
+   "summary": "Si chiama Naza: The real story, è prodotto da tre israeliani ed è il contro-documentario della pellicola di diretta da Yuval Abraham e Rachel Szor, presentata a Venezia, sugli orrori perpetrati dall’…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/docufilm-gaza-regione-lombardia-polemica-naza-notizie/8585482/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Politica",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:53:17+00:00"
+  },
+  {
+   "id": "2d804c40eed5",
+   "title": "Femminicidio Pistoia, sottovalutati i segnali di una relazione tossica tra Ionela e Nardini",
+   "summary": "La controllava in modo ossessivo, quando lei usciva con le amiche faceva la ronda davanti al locale dove si trovava, arrivava a sentire l'odore degli abiti per escludere la presenza di uomini. Segnal…",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/115257199-6c9f103f-9ace-411f-bb99-64c8ad767108.png",
+   "url": "https://www.tgcom24.mediaset.it/2026/video/femminicidio-pistoia-sottovalutati-i-segnali-di-una-relazione-tossica-tra-ionela-e-nardini_119482014-02k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:53:00+00:00"
+  },
+  {
+   "id": "6fdeee314257",
+   "title": "Banda del buco in azione: rubati pacchi da un'agenzia di spedizione",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/06/carabinieri.jpg",
+   "url": "https://trnews.it/2026/11/27/banda-del-buco-in-azione-rubati-pacchi-da-unagenzia-di-spedizione",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T11:49:23+00:00"
+  },
+  {
+   "id": "a1966ca527b2",
+   "title": "The Last Day, Rachel Rose mette in scena il lato più oscuro e contraddittorio della maternità",
+   "summary": "Essere madri può anche diventare un problema insormontabile. Lo sguardo senza sconti sul tema è quello di Rachel Rose, regista e sceneggiatrice di The Last Day, film in Concorso al 44esimo Torino Fil…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/the-last-day-rachel-rose-torino-film-festival-notizie/8585496/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:48:10+00:00"
+  },
+  {
+   "id": "c3f811807ca5",
+   "title": "“Ho sofferto molto, non sapevo che avrei avuto un’altra operazione e che avrei avuto ancora più dolore. Lì ho iniziato ad avere paura”: così Marquez",
+   "summary": "“Sarà una conferenza molto difficile questa. Sono arrivato alla mia maniera e me ne vado alla mia maniera. Sarà sicuramente uno shock non gareggiare più, avrò bisogno di tempo per capire come sarà la…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/ritiro-marquez-motogp-valencia-conferenza-stampa-ho-iniziato-avere-paura-sofferto-molto/8585455/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:45:56+00:00"
+  },
+  {
+   "id": "798c4c2a1527",
+   "title": "Auto si ribalta sulla provinciale, poi subito dopo secondo scontro tra due vetture",
+   "summary": "Una donna di Porto Cesareo è finita fuori strada ed è trasportata al “Vito Fazzi” di Lecce, mentre altri due hanno riportato ferite lievi nello scontro successivo e sono stati portati a Copertino",
+   "image": "https://citynews-lecceprima.stgy.ovh/~media/original-hi/59396687401115/whatsapp-image-2026-11-27-at-07-01-54.jpeg",
+   "url": "https://www.lecceprima.it/cronaca/incidente-stradale/incidente-copertino-galatina-auto-ribaltata.html",
+   "source": "LeccePrima",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T12:45:17+01:00"
+  },
+  {
+   "id": "a8b772bf9e76",
+   "title": "Treviso, speronata da un'auto pirata partorisce d'urgenza: morta la neonata",
+   "summary": "È morta all'ospedale di Treviso la bambina nata il 14 novembre scorso con un parto d'urgenza a causa delle ferite riportate dalla madre, una donna di 22 anni, che si trovava a bordo di un'automobile…",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/115157690-a98f2aca-4e21-4ea7-9fc9-405adce94661.png",
+   "url": "https://www.tgcom24.mediaset.it/2026/video/treviso-speronata-da-un-auto-pirata-partorisce-d-urgenza-morta-la-neonata_119482017-02k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:45:00+00:00"
+  },
+  {
+   "id": "85ba8fd622f3",
+   "title": "Fine novembre in sala: tra giochi mortali, commedie e documentari",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/RUBRICA-27-11-2026-1024x670.jpg",
+   "url": "https://trnews.it/2026/11/27/fine-novembre-in-sala-tra-giochi-mortali-commedie-e-documentari",
+   "source": "TeleRama News",
+   "category": "Cultura",
+   "zone": "Brindisi",
+   "published_at": "2026-11-27T11:41:25+00:00"
+  },
+  {
+   "id": "b9217867912f",
+   "title": "Caso Orlandi, Massimo Giletti dopo le rivelazioni di ‘Chi l’ha visto?’: “Claudio Martufi è lo stesso uomo che mi diede un pugno in via del Corso, secondo me è una pista sbagliata”",
+   "summary": "“Mi ricordo molto bene di Claudio Martufi, ex agente del Sisde, Servizi Segreti Civili, di qualche tempo fa. L’avevo inseguito lungo via del Corso per fare una serie di domande sulla scomparsa di Ema…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/caso-orlandi-massimo-giletti-dopo-le-rivelazioni-di-chi-lha-visto-claudio-martufi-e-lo-stesso-uomo-che-mi-diede-un-pugno-in-via-del-corso-secondo-me-e-una-pista-sbagliata/8585425/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:39:49+00:00"
+  },
+  {
+   "id": "155cd24213ab",
+   "title": "Responsabilità genitoriale ed educativa in Prefettura a Lecce, ascolto e dialogo con i giovani",
+   "summary": "Incontro in Prefettura a Lecce su responsabilità genitoriale ed educativa: istituzioni, psicologia, giustizia minorile e Terzo settore dialogano con studenti e famiglie.",
+   "image": null,
+   "url": "https://www.leccenews24.it/attualita/responsabilita-genitoriale-educativa-prefettura-lecce-adolescenza.htm",
+   "source": "LecceNews24",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T11:38:09+00:00"
+  },
+  {
+   "id": "216712d310a7",
+   "title": "“Pierluigi Diaco faceva la pipì in un secchio e mi mandavano a pulire”, “Disse a un ragazzino di 18 anni ‘dai dillo che sei gay, devi prenderne atto'”: Selvaggia Lucarelli pubblica nuove testimonianze sulla sua newsletter",
+   "summary": "Pierluigi Diaco è ancora una volta al centro delle polemiche. Dopo la discussa intervista con Alberto Ravagnani, ex prete ora in gara a “Ballando con le Stelle“, era arrivata la notizia di una puntat…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/pierluigi-diaco-faceva-la-pipi-in-un-secchio-e-mi-mandavano-a-pulire-disse-a-un-ragazzino-di-18-anni-dai-dillo-che-sei-gay-devi-prenderne-atto-selvaggia-lucarelli-pubblica-nuove-testimonianze/8585450/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:36:50+00:00"
+  },
+  {
+   "id": "e32fc00fd445",
+   "title": "Pensioni, Meloni: \"Nessun taglio, da gennaio 2027 aumentano tutte\"",
+   "summary": "\"Forse vale la pena mettere in fila i fatti per rispondere all'accusa, secondo cui il governo taglierebbe le pensioni. Con questo governo nessuna pensione è stata tagliata, anzi ogni anno sono state…",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/113005354-57f37fa3-fca9-4fd2-9c97-a3c37349d8af.jpg",
+   "url": "https://www.tgcom24.mediaset.it/2026/video/pensioni-meloni-nessun-taglio-da-gennaio-2027-aumentano-tutte-_119481370-02k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:33:00+00:00"
+  },
+  {
+   "id": "c105c89739b4",
+   "title": "Autovelox, telelaser e postazioni fisse: il calendario del mese di dicembre 2026",
+   "summary": "PROVINCIA DI LECCE - Pubblicato il calendario dei controlli stradali previsti a dicembre con autovelox, telelaser e postazioni fisse sulle strade provinciali.POSTAZIONI MOBILI DI CONTROLLO DELLA...",
+   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_26945541333_1781882978912191.jpg",
+   "url": "https://www.leccesette.it/news/485926276614/lecce-calendario-dicembre-2026-autovelox-e-telelaser",
+   "source": "LecceSette",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T12:30:00+01:00"
+  },
+  {
+   "id": "2c18e31e572f",
+   "title": "Ciclista investito, presidio sulla strada della tragedia: “Prefettura convochi il Consiglio immigrazione”",
+   "summary": "Sabato 28 novembre la mobilitazione promossa da Flai Cgil Brindisi, Comunità Africana e cooperativa Ripro nel punto in cui ha perso la vita il 21enne Junaed Md. Al centro dell'iniziativa sicurezza st…",
+   "image": "https://citynews-brindisireport.stgy.ovh/~media/original-hi/48488186990720/il-posto-dove-e-avvenuto-l-investimento.jpg",
+   "url": "https://www.brindisireport.it/attualita/carovigno-ciclista-investito-presidio-flai-cgil-prefettura-convochi-consiglio-immigrazione.html",
+   "source": "BrindisiReport",
+   "category": "Altro",
+   "zone": "Brindisi",
+   "published_at": "2026-11-27T12:28:00+01:00"
+  },
+  {
+   "id": "fd163c907344",
+   "title": "Natale 2026 all’Abbazia di Santa Maria di Cerrate: un viaggio tra arte, tradizioni, sapori e creatività",
+   "summary": "LECCE – Le festività natalizie sono il momento ideale per assaporare il piacere di stare insieme, riscoprire antiche tradizioni e condividere con le persone care esperienze speciali, come quelle che…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/natale-2026-allabbazia-di-santa-maria-di-cerrate-un-viaggio-tra-arte-tradizioni-sapori-e-creativita/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T11:27:09+00:00"
+  },
+  {
+   "id": "d4ca8ffb846f",
+   "title": "Lirica, torna il Concorso Aliverta: la porta d’accesso per i giovani che sognano di debuttare nel mondo dell’opera",
+   "summary": "La lirica apre di nuovo le sue porte alle giovani generazioni. Torna il concorso internazionale Giancarlo Aliverta, appuntamento ormai imprescindibile nel panorama musicale europeo per la scoperta e…",
+   "image": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/11/27/Concorso-Aliverta-240x300.jpeg",
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/concorso-aliverta-finale-casa-verdi-notizie/8585431/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Eventi",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:22:31+00:00"
+  },
+  {
+   "id": "48cbc09839a2",
+   "title": "Francesca Albanese bloccata dal Costa Rica: così il Paese centroamericano si inginocchia agli Usa e alla coalizione militare Shield of Americas",
+   "summary": "“È il Costa Rica un Paese sovrano? Oppure no?”. La domanda posta da Francesca Albanese – il cui ingresso in Costa Rica è stato bloccato in fase di controllo passaporti per presunti “vincoli con atti…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/francesca-albanese-costa-rica-shield-americas-notizie/8585447/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:22:08+00:00"
+  },
+  {
+   "id": "1876b00a3f83",
+   "title": "Dalla frattura dell’omero a Jerez alla doppia operazione del 2026: il calvario, la rinascita e il decimo Mondiale di Marc Márquez",
+   "summary": "Dieci Mondiali. Quattro operazioni allo stesso braccio. Una doppia operazione nel 2026. E, alla fine, ancora il titolo. La carriera di Marc Márquez si può raccontare anche così: attraverso il contras…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/marquez-infortuni-carriera-ritiro-interventi-operazioni/8585404/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:18:47+00:00"
+  },
+  {
+   "id": "c6c7749cfb85",
+   "title": "Il Black Friday 2026 in Italia: il giro d'affari",
+   "summary": "",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/111404594-8dfb38c1-2149-4ce3-8c41-c34bc26f3640.jpg",
+   "url": "https://www.tgcom24.mediaset.it/economia/infografica/il-black-friday-2026-in-italia-il-giro-d-affari_119481156-202602k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:14:37+00:00"
+  },
+  {
+   "id": "319e3768b30b",
+   "title": "Iss: da gennaio in Italia 388 casi di Dengue, 22 in provincia di Lecce",
+   "summary": "Dal 1 gennaio al 24 novembre 2026, in Italia risultano 388 casi confermati di Dengue, di cui 76 sono avvenuti a seguito di contagi locali, mentre tutti gli altri sono associati a viaggi all’estero, p…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/iss-da-gennaio-in-italia-388-casi-di-dengue-22-in-provincia-di-lecce/",
+   "source": "Corriere Salentino",
+   "category": "Salute",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T11:14:13+00:00"
+  },
+  {
+   "id": "e319f08c9a4d",
+   "title": "Dove sono morti i due italiani in Kuwait",
+   "summary": "",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/111310802-5799b8f4-5518-46b6-81e4-d248f2e51212.jpg",
+   "url": "https://www.tgcom24.mediaset.it/mondo/infografica/dove-sono-morti-i-due-italiani-in-kuwait_119480940-202602k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:13:13+00:00"
+  },
+  {
+   "id": "3c427dce41cd",
+   "title": "Alessandro Leogrande, nove anni dopo",
+   "summary": "Rileggendo le storie che ha raccontato da giornalista e scrittore si scopre che quasi tutte – l’Ilva, il caporalato, i migranti, la sinistra – sono ferme dove le aveva lasciate Leggi",
+   "image": "https://media.internazionale.it/images/2026/11/27/364964-hd.jpg",
+   "url": "https://www.internazionale.it/notizie/christian-raimo/2026/11/27/alessandro-leogrande-nove-anni-dopo",
+   "source": "Internazionale",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T12:11:58+01:00"
+  },
+  {
+   "id": "7acea9356df7",
+   "title": "De Gennaro, iniziata a Firenze l’autopsia: disposti anche esami tossicologici. Sabato la camera ardente alla Scuola di polizia",
+   "summary": "È iniziata alle 8 del mattino l’autopsia sul corpo di Gianni De Gennaro. L’esame dovrebbe contribuire a chiarire le circostanze della morte, soprattutto l’orario del decesso. Come più volte sottoline…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/de-gennaro-autopsia-esami-tossicologici-camera-ardente-scuola-polizia-notizie/8585410/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Cronaca",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:11:34+00:00"
+  },
+  {
+   "id": "03472627241d",
+   "title": "Commercio estero, Istat: \"A ottobre export extra Ue27 -1,8%\"",
+   "summary": "La diminuzione su base mensile dell'export si deve alle minori vendite di beni intermedi (-4,2%), beni di consumo durevoli (-3,1%), beni strumentali (-2,5%) e beni di consumo non durevoli (-2,3%)",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/110740470-9834ee9a-8308-4b69-a7c9-2335bea8258d.jpg",
+   "url": "https://www.tgcom24.mediaset.it/economia/commercio-estero-istat-ue-unione-europea_119480927-202602k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:11:21+00:00"
+  },
+  {
+   "id": "908f7da3ac61",
+   "title": "Disabilità, la Puglia investe altri 4,5 milioni per progetti di vita indipendente",
+   "summary": "La possibilità di scegliere come vivere, costruire il proprio futuro e partecipare pienamente alla società non è un privilegio, ma un diritto. Ed è su questo principio che l’assessorato al Welfare de…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/disabilita-la-puglia-investe-altri-45-milioni-per-progetti-di-vita-indipendente/",
+   "source": "Corriere Salentino",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-11-27T11:11:20+00:00"
+  },
+  {
+   "id": "2b02471626c1",
+   "title": "“Ho cinquantadue cugini. Mio padre e mia madre avevano famiglie numerose: cinque e sei figli. Loro due poi ne hanno avuti sei”: Claudio Parisi Presicce racconta la sua famiglia e il crescente interesse dei giovani per l’archeologia",
+   "summary": "Claudio Parisi Presicce, archeologo e sovrintendente capitolino ai Beni Culturali, è il curatore della mostra dedicata ai ritratti del Fayum, ospitata al Museo dell’Ara Pacis di Roma. In un’intervist…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/ho-cinquantadue-cugini-mio-padre-e-mia-madre-avevano-famiglie-numerose-cinque-e-sei-figli-loro-due-poi-ne-hanno-avuti-sei-claudio-parisi-presicce-racconta-la-sua-famiglia/8585403/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:09:50+00:00"
+  },
+  {
+   "id": "dff9abc36179",
+   "title": "Presepe di Sabbia di Scorrano 2026, omaggio a Gaudí e tre ‘regine’ contemporanee",
+   "summary": "Scopri l'VIII edizione del Presepe di Sabbia di Scorrano (Sand Nativity 2026): date, orari, biglietti e il tema dedicato ad Antoni Gaudí e a tre donne straordinarie.",
+   "image": null,
+   "url": "https://www.leccenews24.it/turismo/night-day/presepe-di-sabbia-scorrano-2026-programma-orari.htm",
+   "source": "LecceNews24",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T11:07:25+00:00"
+  },
+  {
+   "id": "5136e3bbf286",
+   "title": "“Prendere omega-3, magnesio o vitamina D senza averne realmente bisogno? Se assunti a dosaggi eccessivi, aumentano rischio di ictus e fibrillazione”: l’allarme nel nuovo studio",
+   "summary": "Gli integratori alimentari sono sempre più spesso considerati una sorta di assicurazione sulla salute: omega-3 per proteggere il cuore, vitamine per prevenire le malattie, minerali per mantenere l’or…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/prendere-omega-3-magnesio-o-vitamina-d-senza-averne-realmente-bisogno-se-assunti-a-dosaggi-eccessivi-aumentano-rischio-di-ictus-e-fibrillazione-lallarme-nel-nuovo-studio/8581390/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Salute",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:02:40+00:00"
+  },
+  {
+   "id": "eeb3fc48d57f",
+   "title": "Lions, una giornata di sensibilizzazione e prevenzione del diabete: screening gratuito",
+   "summary": "L'iniziativa si svolgerà a partire dalle ore 11 in piazza Marconi, dove sarà allestito uno stand messo a disposizione dalla Protezione Civile",
+   "image": "https://citynews-brindisireport.stgy.ovh/~media/original-hi/12140586239287/piazza-marconi-a-san-michele-salentino.jpg",
+   "url": "https://www.brindisireport.it/attualita/lions-giornata-sensibilizzazione-prevenzione-diabete-screening-gratuito-san-michele-salentino.html",
+   "source": "BrindisiReport",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-27T12:02:00+01:00"
+  },
+  {
+   "id": "fb2598d4bc8f",
+   "title": "Elezioni in Spagna, Feijoo (Popolari) dice ad Ada Colau “stai zitta”. La polemica sui social e la chiamata delle donne al voto",
+   "summary": "Lo scontro è rimbalzato sui social, accendendo la polemica sul tono paternalista utilizzato da Alberto Nunez Feijoo, leader del Partito popolare, nei confronti di Ada Colau, candidata del Frente Ampl…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/elezioni-spagna-feijoo-popolari-dice-ad-ada-colau-stai-zitta-polemica-social/8585380/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T11:01:53+00:00"
+  },
+  {
+   "id": "4d7c88a21d6a",
+   "title": "Sabato 5 dicembre Viaggio nel tempo al Museo Ferroviario con attori in abiti d’epoca",
+   "summary": "LECCE – Sabato 5 dicembre Improvvisart e A.I.S.A.F. – Associazione Ionico Salentina Amici delle Ferrovie invitano il pubblico al Museo Ferroviario di Puglia per “Viaggio nel tempo”, una visita teatra…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/sabato-5-dicembre-viaggio-nel-tempo-al-museo-ferroviario-con-attori-in-abiti-depoca/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T10:54:03+00:00"
+  },
+  {
+   "id": "964c4d9efa6f",
+   "title": "Kimi Antonelli e Lewis Hamilton, dall’idolo d’infanzia al rivale in pista: “Per me è un onore condividere questo momento con lui”. Esce il libro sulle vite parallele dei due campioni",
+   "summary": "Kimi Antonelli, il talento bolognese che ha riportato un pilota italiano alla vittoria in Formula 1, è al centro di Antonelli & Hamilton. Le vite parallele di Lewis e Kimi di Edmond Dantès, insider F…",
+   "image": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/11/27/Cop_Antonelli_nuova_scelta-1.jpg",
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/kimi-antonelli-e-lewis-hamilton-dallidolo-dinfanzia-al-rivale-in-pista-per-me-e-un-onore-condividere-questo-momento-con-lui-esce-il-libro-sulle-vite-parallele-dei-due-campioni/8585412/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T10:53:47+00:00"
+  },
+  {
+   "id": "ab4cad43aece",
+   "title": "Ho la sensazione che Musumeci abbia le idee confuse su Costituzione e antifascismo",
+   "summary": "di Carlo Sorgi Per Nello Musumeci, ministro della Protezione civile, la Carta costituzionale non può considerarsi antifascista. Intervenendo il 25 novembre nel salone Garibaldi del Senato, ha afferma…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/musumeci-costituzione-antifascista-contraddizioni-opinione/8585284/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Politica",
+   "zone": "Italia",
+   "published_at": "2026-11-27T10:51:58+00:00"
+  },
+  {
+   "id": "dde52f479814",
+   "title": "Eccellenza, Taranto-Acquaviva rinviata al 16 dicembre",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/04/Eccellenza-750x500-1.jpg",
+   "url": "https://trnews.it/2026/11/27/eccellenza-taranto-acquaviva-rinviata-al-16-dicembre",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Taranto",
+   "published_at": "2026-11-27T10:51:57+00:00"
+  },
+  {
+   "id": "4408ab5ed2e4",
+   "title": "L’Istituto “Salvemini” di Alessano premiato a JOB&Orienta 2026 con meccatronica e luminarie",
+   "summary": "L'Istituto Salvemini di Alessano conquista una menzione speciale a JOB&Orienta 2026 con un progetto su luminarie salentine, CAD e meccatronica.",
+   "image": null,
+   "url": "https://www.leccenews24.it/attualita/premio-storie-di-alternanza-e-competenze-salvemini-alessano-job-orienta-2026.htm",
+   "source": "LecceNews24",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T10:50:23+00:00"
+  },
+  {
+   "id": "2d0a4b4c4178",
+   "title": "Sabato 28 novembre e domenica 29 novembre “Tutti a tavola con Io Posso” in 4 regioni italiane",
+   "summary": "PUGLIA – Tutto pronto per la dodicesima edizione di TUTTI A TAVOLA CON IO POSSO, l’evento conviviale annuale di raccolta fondi a favore del progetto solidale nazionale nato nel 2015 da un’idea di Gae…",
+   "image": "https://www.youtube.com/embed/KargraJGp0A",
+   "url": "https://www.corrieresalentino.it/2026/11/sabato-28-novembre-e-domenica-29-novembre-tutti-a-tavola-con-io-posso-in-4-regioni-italiane/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-27T10:47:45+00:00"
+  },
+  {
+   "id": "181b0b323779",
+   "title": "Presepe di Sabbia di Scorrano, l’ottava edizione omaggia Gaudí con tre “regine”",
+   "summary": "Inaugurazione il 4 dicembre, aperto al pubblico dal 6 dicembre al 6 gennaio 2027 in due sedi storiche del centro cittadino. Dedica speciale a Renata Fonte, Samantha Cristoforetti e Giuseppa Veris",
+   "image": "https://citynews-lecceprima.stgy.ovh/~media/original-hi/53642791990925/2-sand_nativity_2026.jpg",
+   "url": "https://www.lecceprima.it/attualita/presepe-sabbia-scorrano.html",
+   "source": "LeccePrima",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T11:46:42+01:00"
+  },
+  {
+   "id": "c4db17e78f42",
+   "title": "“Non passavano autobus, in qualche modo dovevamo tornare a casa”: tre 15enni si mettono alla guida di un’auto in car sharing e si lanciano in un’inseguimento di ore con i carabinieri, fermati dopo aver speronato la gazzella",
+   "summary": "Una Fiat 500 di un servizio di car sharing lanciata a tutta velocità tra i semafori rossi di Torino, un inseguimento durato ore con polizia e carabinieri alle calcagna e, alla fine, una gazzella sper…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/non-passavano-autobus-in-qualche-modo-dovevamo-tornare-a-casa-tre-15enni-si-mettono-alla-guida-di-unauto-in-car-sharing-e-si-lanciano-in-uninseguimento-di-ore-con-i-carabinieri-fermati-dopo/8585337/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T10:45:24+00:00"
+  },
+  {
+   "id": "e99c775431f4",
+   "title": "Sacra Luce: a Lecce le antiche icone russe della Collezione Orler",
+   "summary": "LECCE – Dal 28 novembre 2026 al 10 gennaio 2027, la Chiesa di Sant’Irene dei Teatini a Lecce ospita Sacra Luce, mostra dedicata alle antiche icone russe della Collezione Orler. Un’occasione per avvic…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/sacra-luce-a-lecce-le-antiche-icone-russe-della-collezione-orler/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T10:44:19+00:00"
+  },
+  {
+   "id": "fe28af237881",
+   "title": "Rally, Mortosport Scorrano protagonista in Croazia",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot_20261127_113508_WhatsApp-1024x579.jpg",
+   "url": "https://trnews.it/2026/11/27/rally-mortosport-scorrano-protagonista-in-croazia",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T10:36:03+00:00"
+  },
+  {
+   "id": "ff867bcb70f2",
+   "title": "Nuovo allarme Listeria nelle cucine del \"Perrino\": chiusi tre locali dopo i controlli Asl",
+   "summary": "Tamponi positivi su tre campioni su quaranta. Nessuna interruzione per il servizio mensa destinato a pazienti e dipendenti, mentre si attendono gli esiti delle nuove verifiche. L'episodio richiama il…",
+   "image": "https://citynews-brindisireport.stgy.ovh/~media/original-hi/67308311573546/esterno-ospedale-perrino.jpg",
+   "url": "https://www.brindisireport.it/cronaca/brindisi-nuovo-allarme-listeria-cucine-perrino-chiusi-tre-locali-controlli-asl.html",
+   "source": "BrindisiReport",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-11-27T11:34:00+01:00"
+  },
+  {
+   "id": "641b3b424112",
+   "title": "A Report l’inchiesta Fratelli di Bangladesh sulle t-shirt prodotte in Asia, l’imbarazzo del ministro del made in Italy Urso: “Non mi occupo di cose del partito”",
+   "summary": "“Prima gli italiani”, recita la maglietta ufficiale di Fratelli d’Italia. Per sapere chi l’ha cucita, però, bisogna fare un viaggio di diverse migliaia di chilometri, fino alla periferia di Dacca, in…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/report-inchiesta-fratelli-di-bangladesh-t-shirt-fratelli-italia-prodotte-urso-video/8585364/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Politica",
+   "zone": "Italia",
+   "published_at": "2026-11-27T10:33:14+00:00"
+  },
+  {
+   "id": "c62e637b8070",
+   "title": "“Ho cantato in Israele, sono tornato in Italia e sono diventato un imbecille”, “Non trova un po’ grave cantare a Tel Aviv con quello che sta succedendo a Gaza e in Cisgiordania?”: scontro Al Bano – Berlinguer",
+   "summary": "“La pace tra Russia e Ucraina è vicina? Non lo dico io. Mi hanno detto che la pace è imminente, stanno preparando il concerto della pace sulla Piazza Rossa”, ha spiegato Al Bano a “È sempre CartaBian…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/ho-cantato-in-israele-sono-tornato-in-italia-e-sono-diventato-un-imbecille-non-trova-un-pi-grave-cantare-a-tel-aviv-con-quello-che-sta-succedendo-a-gaza-e-in-cisgiordania-scontro-al-bano-berlinguer/8585372/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T10:31:59+00:00"
+  },
+  {
+   "id": "e9a0d6369694",
+   "title": "Trieste, uomo ucciso dal figlio a coltellate: indaga la polizia",
+   "summary": "Il delitto si è consumato in un'abitazione sita in via Flavia",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/060537771-9b397dd2-2223-47bb-bd3a-56eb7271676a.jpg",
+   "url": "https://www.tgcom24.mediaset.it/cronaca/trieste-figlio-uccide-padre_119472952-202602k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T10:29:55+00:00"
+  },
+  {
+   "id": "12b64ef86d73",
+   "title": "Carofiglio, Appendino, Cuperlo e Sechi ospiti di Sommi ad Accordi&Disaccordi sabato 28 novembre. Con Travaglio e Scanzi",
+   "summary": "Ultimo appuntamento dell’anno per il talk di confronto e approfondimento di Nove “Accordi & Disaccordi”, condotto da Luca Sommi. Sabato 28 novembre alle 21:30 sono ospiti la parlamentare del Moviment…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/carofiglio-appendino-cuperlo-e-sechi-ospiti-di-sommi-ad-accordidisaccordi-sabato-28-novembre-con-travaglio-e-scanzi/8584404/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T10:24:07+00:00"
+  },
+  {
+   "id": "07d87b889bde",
+   "title": "Truffa WhatsApp, come fanno gli hacker a entrare nelle chat degli amici",
+   "summary": "La trasmissione di Italia 1 mostra come i malintenzionati inviano messaggi da numeri noti",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/101905657-b2eacfac-8e2a-4b9a-b994-e64ce5feb7e7.jpg",
+   "url": "https://www.tgcom24.mediaset.it/cronaca/truffa-whatsapp-chat-parenti-e-amici_119479572-202602k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T10:19:21+00:00"
+  },
+  {
+   "id": "12e3f30d93a0",
+   "title": "Cisgiordania, coloni abbattono una casa palestinese con un bulldozer",
+   "summary": "''E' un grave atto criminale. Nell'area vi sono decine di estremisti che violano la legge e che si rendono ripetutamente protagonisti di atti violenti e criminali. Azioni di questo genere danneggiano…",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/101154277-6f57e991-1c50-4a65-af77-9c01498c405e.jpg",
+   "url": "https://www.tgcom24.mediaset.it/2026/video/cisgiordania-coloni-abbattono-una-casa-palestinese-con-un-bulldozer-_119479577-02k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T10:17:00+00:00"
+  },
+  {
+   "id": "bd41c190c1c9",
+   "title": "Crans-Montana, il monologo di Leonardo Bove: \"I primi giorni in ospedale i più duri, sogno di tornare a giocare a calcio\"",
+   "summary": "A \"Le Iene\" parla uno dei sopravvissuti al rogo di Capodanno: \"Sono rimasto ricoverato per 198 giorni\"",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/101400582-235291d5-05db-44cb-ac54-baa8df9f8202.png",
+   "url": "https://www.tgcom24.mediaset.it/televisione/crans-montana-le-iene-leonardo-bove_119478277-202602k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T10:14:39+00:00"
+  },
+  {
+   "id": "1b90ae26b9f0",
+   "title": "“Mio marito dice che sono dolce e ironica, ma non mostrerò mai quel lato di me in tv, neanche a Ballando con le Stelle. Un programma di cronaca nera? Se la Rai me lo affidasse, sarebbe un successo”: così Roberta Bruzzone",
+   "summary": "Roberta Bruzzone è tornata su Rai 2 con “Dentro la truffa“, il programma realizzato in collaborazione con la Polizia di Stato che racconta storie vere di raggiri e inganni. In un’intervista a Vanity…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/mio-marito-dice-che-sono-dolce-e-ironica-ma-non-mostrero-mai-quel-lato-di-me-in-tv-neanche-a-ballando-con-le-stelle-condurre-un-programma-di-cronaca-sarebbe-un-successo-cosi-roberta-bruzzone/8585333/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T10:12:19+00:00"
+  },
+  {
+   "id": "f74ceebd35b9",
+   "title": "Una nuova settimana di Puglia Culture: debutta “Figli” con Edoardo Pesce e Silvia D’Amico",
+   "summary": "FRANCAVILLA FONTANA - Sarà il Cinema Teatro Italia di Francavilla Fontana ad aprire, lunedì 30 no…",
+   "image": "https://citynews-brindisireport.stgy.ovh/~media/original-hi/12228656095071/foto-dei-protagonisti-dello-spettacolo-figli.jpg",
+   "url": "https://www.brindisireport.it/eventi/teatro/francavilla-fontana-puglia-culture-tetro-figli-edoardo-pesce-silvia-d-amico.html",
+   "source": "BrindisiReport",
+   "category": "Altro",
+   "zone": "Brindisi",
+   "published_at": "2026-11-27T11:12:00+01:00"
+  },
+  {
+   "id": "199cb27bc8bd",
+   "title": "Usa, donna inseguita dai tacchini prima del Ringraziamento",
+   "summary": "",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/100549056-4076639c-9c54-4455-8c2c-59435ceabf43.jpg",
+   "url": "https://www.tgcom24.mediaset.it/2026/video/usa-donna-inseguita-dai-tacchini-prima-del-ringraziamento_119479569-02k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T10:11:00+00:00"
+  },
+  {
+   "id": "8f1ebd95d852",
+   "title": "Tragedia a Lecce, avvocato 46enne trovato senza vita in centro: sarebbe caduto dal 6° piano",
+   "summary": "LECCE – Tragedia nella mattinata odierna nel centro di Lecce, dove un uomo di 46 anni, un noto avvocato leccese, è stato ritrovato senza vita sul tetto dei garage di un condominio tra piazza...",
+   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_460464608469_175008729790649.jpg",
+   "url": "https://www.leccesette.it/news/142328892934/lecce-46enne-morto-su-tetti-garage-in-piazza-mazzini",
+   "source": "LecceSette",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T11:10:00+01:00"
+  },
+  {
+   "id": "3b7ec3c138a2",
+   "title": "San Severo, violenze e minacce contro le compagne: arrestati due uomini",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/foto-san-severo_page-0001.jpg",
+   "url": "https://trnews.it/2026/11/27/san-severo-violenze-e-minacce-contro-le-compagne-arrestati-due-uomini",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-11-27T10:07:49+00:00"
+  },
+  {
+   "id": "20f82b1f0bda",
+   "title": "Lorena Isceri, il padre: \"Speravo fosse l'ultima vittima, ma è successo ancora\"",
+   "summary": "A tre mesi dall'uccisione della figlia, Franco Isceri commenta l'omicidio di Ionela Miruna Garneata e lancia un nuovo appello alle istituzioni: \"Bisogna fermare i potenziali assassini prima che sia t…",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/071930434-ca73d038-64b5-46e4-b1bb-2dabf8f7b095.png",
+   "url": "https://www.tgcom24.mediaset.it/cronaca/lorena-isceri-franco-isceri-femminicidio_119474080-202602k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T10:05:17+00:00"
+  },
+  {
+   "id": "3cfdb9142456",
+   "title": "L'armonia tra luci di Natale e natura nel giardino botanico di Kew Wakehurst",
+   "summary": "",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/095446162-05cb350a-7df9-449c-9fd9-b2a3616dc3b5.jpg",
+   "url": "https://www.tgcom24.mediaset.it/2026/video/l-armonia-tra-luci-di-natale-e-natura-nel-giardino-botanico-di-kew-wakehurst_119479138-02k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T10:05:00+00:00"
+  },
+  {
+   "id": "04a23498bcfd",
+   "title": "Eurospin e la politica dei prezzi “imposti” alla rete di punti vendita in franchising",
+   "summary": "Eurospin, uno dei principali operatori della Grande distribuzione organizzata (Gdo) e leader nel segmento di mercato dei discount , avrebbe adottato una politica sleale di prezzi di fatto imposti all…",
+   "image": "https://altreconomia.it/app/uploads/2026/11/getty-images-DytuhppFImQ-unsplash-scaled.jpg",
+   "url": "https://altreconomia.it/eurospin-e-la-politica-dei-prezzi-imposti-alla-rete-di-punti-vendita-in-franchising/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T09:57:38+00:00"
+  },
+  {
+   "id": "14c1b9b455d1",
+   "title": "Meteo del weekend (28 e 29 novembre) nel Salento: previsioni, temperature e cosa aspettarsi",
+   "summary": "NAZIONALE AL NORD Al mattino locali banchi di nebbia o foschia lungo la val Padana, sereno altrove. Al pomeriggio ancora ampie schiarite su tutti i settori. In serata e in nottata non sono previsti c…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/meteo-del-weekend-28-e-29-novembre-nel-salento-previsioni-temperature-e-cosa-aspettarsi/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T09:54:27+00:00"
+  },
+  {
+   "id": "e808eb668b42",
+   "title": "Delle “celle container” non c’è traccia. Altro che “soluzione rapida” per le carceri sovraffollate",
+   "summary": "I moduli prefabbricati che dovevano servire per un “rapido approvvigionamento di nuovi posti letto” nelle carceri italiane non saranno pronti prima di maggio 2027: almeno due anni dopo l’annuncio del…",
+   "image": "https://altreconomia.it/app/uploads/2026/11/Crossbox_CG_Architectes.jpg",
+   "url": "https://altreconomia.it/delle-celle-container-non-ce-traccia-altro-che-soluzione-rapida-per-le-carceri-sovraffollate/",
+   "source": "Altreconomia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T09:44:58+00:00"
+  },
+  {
+   "id": "6ca969a4563a",
+   "title": "A Leverano ritorna “Un Natale per tutti”: oltre un mese di musica, teatro, cinema e solidarietà",
+   "summary": "LEVERANO (Lecce) – Ritorna a Leverano “Un Natale per tutti”, la rassegna con cui l’Amministrazione Comunale, guidata dal sindaco Marcello Rolli, rinnova il suo appuntamento con le festività natalizie…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/a-leverano-ritorna-un-natale-per-tutti-oltre-un-mese-di-musica-teatro-cinema-e-solidarieta/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T09:43:19+00:00"
+  },
+  {
+   "id": "4ab710361495",
+   "title": "\"Senza distinzione di sesso\": musica e narrazione dedicato agli 80 anni della Costituzione",
+   "summary": "Una serata tra note armoniche e memoria capace di coniugare spettacolo, musica e narrazione e dal vivo, trasformando la sala consiliare di San Pietro Vernotico in un luogo di riflessione, emozione e…",
+   "image": "https://citynews-brindisireport.stgy.ovh/~media/original-hi/21805555588093/municipio-san-pietro1-2.jpeg",
+   "url": "https://www.brindisireport.it/eventi/senza-distinzione-sesso-evento-musica-narrazione-dedicato-80-anni-costituzione-italiana-san-pietro-vernotico.html",
+   "source": "BrindisiReport",
+   "category": "Eventi",
+   "zone": "Brindisi",
+   "published_at": "2026-11-27T10:43:00+01:00"
+  },
+  {
+   "id": "52d34be85c6f",
+   "title": "“Una lumaca nel pasto per la residenza Pastor Bonus”, la denuncia di UDU Lecce",
+   "summary": "“Una lumaca nella cena destinata agli studenti della residenza universitaria Pastor Bonus”. A denunciare l’episodio è l’Unione degli Universitari di Lecce, secondo cui il ritrovamento è avvenuto nell…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/una-lumaca-nel-pasto-per-la-residenza-pastor-bonus-la-denuncia-di-udu-lecce/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T09:40:51+00:00"
+  },
+  {
+   "id": "80f63e445b5d",
+   "title": "Autovelox e Telelaser: ecco dove sono nel mese di dicembre 2026",
+   "summary": "LECCE – Sono disponibili i calendari dei controlli sulle strade provinciali che saranno effettuati dalla Polizia provinciale, tramite autovelox, telelaser e postazioni fisse, nel mese di dicembre. CA…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/autovelox-e-telelaser-ecco-dove-sono-nel-mese-di-dicembre-2026/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T09:39:03+00:00"
+  },
+  {
+   "id": "cde9f3c32af9",
+   "title": "Serie C: la sedicesima giornata tra derby pugliesi e campani",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/08/pallone_serie_c-1024x642.avif",
+   "url": "https://trnews.it/2026/11/27/serie-c-la-sedicesima-giornata-tra-derby-pugliesi-e-campani",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-11-27T09:38:10+00:00"
+  },
+  {
+   "id": "170d8f50c091",
+   "title": "Garlasco, Angela Taccia sui video di Andrea Sempio: \"Oggi non condivide più quei pensieri\"",
+   "summary": "A \"Dritto e Rovescio\" l'avvocato: \"Credo che la Procura tenterà di giustificare il possibile movente sessuale con questo materiale\"",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/091457061-86ecc90c-dab2-4cce-a693-f40e974a7653.png",
+   "url": "https://www.tgcom24.mediaset.it/cronaca/garlasco-andrea-sempio-avvocato-video_119477381-202602k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T09:29:32+00:00"
+  },
+  {
+   "id": "507b9d05d15e",
+   "title": "Da Scorrano alla Croazia: la Scuderia Motorsport Scorrano protagonista al 16° Rally Show Santa Domenica",
+   "summary": "SCORRANO (Lecce) – Una trasferta all’insegna dello sport, dell’amicizia internazionale e della promozione del territorio. Lo scorso fine settimana, dal 20 al 22 novembre, i colori della A.S.D. Scuder…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/da-scorrano-alla-croazia-la-scuderia-motorsport-scorrano-protagonista-al-16-rally-show-santa-domenica/",
+   "source": "Corriere Salentino",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T09:27:55+00:00"
+  },
+  {
+   "id": "0bf05caad5ca",
+   "title": "Jesolo, scolaro rischia di soffocare mentre mangia un mandarino: salvato da un'addetta della mensa",
+   "summary": "Al bambino, di 10 anni, era rimasto in gola un filamento lungo e spesso. La donna lo ha colpito alla schiena",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/092602540-c725167a-748a-4fe4-8b40-e6203faec8c0.jpg",
+   "url": "https://www.tgcom24.mediaset.it/cronaca/jesolo-bambino-soffoca-mandarino_119477328-202602k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T09:26:00+00:00"
+  },
+  {
+   "id": "7b2482a0c738",
+   "title": "A teatro per imparare a volare e sconfiggere i mostri: a Spongano un weekend di fiabe, emozioni e fantasia",
+   "summary": "SPONGANO (Lecce) – Le storie possono insegnare a guardare il mondo con occhi diversi, a riconoscere le proprie paure e, soprattutto, a scoprire il valore dell’altro. È da questa convinzione che prend…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/a-teatro-per-imparare-a-volare-e-sconfiggere-i-mostri-a-spongano-un-weekend-di-fiabe-emozioni-e-fantasia/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T09:24:12+00:00"
+  },
+  {
+   "id": "3d929d18d8a1",
+   "title": "Lumaca in un pasto della residenza universitaria: la denuncia di Udu",
+   "summary": "“Ancora una volta corpi estranei nei pasti della mensa”. A denunciare l’accaduto è l’Unione degli Universitari di Lecce. Nella serata di ieri, giovedì 26 novembre, all’interno di un pasto...",
+   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_96470324437_1795770769817521.jpg",
+   "url": "https://www.leccesette.it/news/73609416198/udu-lecce-lumaca-nel-pasto-della-residenza-pastor-bonus",
+   "source": "LecceSette",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T10:18:25+01:00"
+  },
+  {
+   "id": "59b6e12ec1d9",
+   "title": "Accompagnata con umanità verso una diagnosi rara: \"La Neurologia del Perrino è un'eccellenza\"",
+   "summary": "La lettera di ringraziamento di una paziente all'equipe dell'ospedale \"Perrino\", elogiando la competenza e la professionalità del personale medico e infermieristico durante un lungo e complesso perco…",
+   "image": "https://citynews-brindisireport.stgy.ovh/~media/original-hi/63624948737738/neurologia-2-2.jpg",
+   "url": "https://www.brindisireport.it/attualita/brindisi-ringraziamenti-paziente-diagnosi-rara-neurologia-perrino.html",
+   "source": "BrindisiReport",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-27T10:16:00+01:00"
+  },
+  {
+   "id": "a311ca75dbaa",
+   "title": "Tragedia in centro, avvocato precipita dal sesto piano mentre tenta di rientrare in casa",
+   "summary": "L’uomo, di 46 anni, probabilmente rimasto chiuso fuori senza chiavi, avrebbe cercato di accedere all’appartamento passando da un cornicione. Il corpo è stato ritrovato sul tetto dei garage tra piazza…",
+   "image": "https://citynews-lecceprima.stgy.ovh/~media/original-hi/31305995370006/whatsapp-image-2026-11-27-at-10-17-59.jpeg",
+   "url": "https://www.lecceprima.it/cronaca/morto-lecce-avvocato-de-palma-caduta-piazza-mazzini.html",
+   "source": "LeccePrima",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-11-27T10:04:17+01:00"
+  },
+  {
+   "id": "6edeb9ba27d8",
+   "title": "A Gallipoli il 3 dicembre la cerimonia di consegna delle Borse di Studio “Roberto Cataldi”",
+   "summary": "GALLIPOLI (Lecce) – Torna a Gallipoli un appuntamento ormai consolidato che punta a valorizzare e incentivare l’impegno dei giovani nello studio: gli Istituti Comprensivi Polo 2 e Sofia Stevens, con…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/a-gallipoli-il-3-dicembre-la-cerimonia-di-consegna-delle-borse-di-studio-roberto-cataldi/",
+   "source": "Corriere Salentino",
+   "category": "Cultura",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T09:01:06+00:00"
+  },
+  {
+   "id": "0380f39ebdda",
+   "title": "“Banda del buco” nell’agenzia di spedizioni: ladri in fuga coi pacchi in consegna",
+   "summary": "I malviventi hanno preso di mira l’attività nella zona industriale di Melpignano, nella notte fra giovedì e venerdì. Sono scappati con le scatole contenenti indumenti e oggetti e sono ricercati dai c…",
+   "image": "https://citynews-lecceprima.stgy.ovh/~media/original-hi/33813706636575/dsc_1145-3.jpg",
+   "url": "https://www.lecceprima.it/cronaca/banda-buco-azienda-melpignano-27-novembre-2026.html",
+   "source": "LeccePrima",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T09:53:13+01:00"
+  },
+  {
+   "id": "732fb8f68824",
+   "title": "Rilancio delle scuole, sicurezza viaria e tutela ambientale: la sfida della Provincia di Brindisi",
+   "summary": "Presentato il programma 2026-2030: articolato in quindici punti, punta a trasformare l'ente di Area Vasta nella “Casa dei venti Comuni”, senza differenze o gerarchie tra il capoluogo e l'entroterra",
+   "image": "https://citynews-brindisireport.stgy.ovh/~media/original-hi/26689161682758/sede-provincia-brindisi.jpeg",
+   "url": "https://www.brindisireport.it/attualita/provincia-presentato-programma-2026-2030-casa-venti-comuni-sicurezza-stradale-scuole-transizione-ecologica-brindisi.html",
+   "source": "BrindisiReport",
+   "category": "Altro",
+   "zone": "Brindisi",
+   "published_at": "2026-11-27T09:50:00+01:00"
+  },
+  {
+   "id": "5d5f3b3d8ed1",
+   "title": "Farmaci generici, Puglia si costituisce contro il ricorso di dieci aziende farmaceutiche",
+   "summary": "La Giunta regionale pugliese ha deciso di costituirsi davanti al Tar di Bari nel ricorso presentato da Italfarmaco e altre nove aziende farmaceutiche contro il provvedimento con cui la Regione Puglia…",
+   "image": "https://slyvi-hosting.s3.amazonaws.com/teampages/668590913281/archivio/Regione.jpg",
+   "url": "https://www.leccesette.it/news/348487323142/farmaci-generici-puglia-si-costituisce-contro-il-ricorso-aziende-farmaceutiche",
+   "source": "LecceSette",
+   "category": "Salute",
+   "zone": "Salento",
+   "published_at": "2026-11-27T09:49:11+01:00"
+  },
+  {
+   "id": "e79d2083769f",
+   "title": "“Passioni danzanti: da Vienna a Granada” domenica 29 novembre alle 18 il pianista Giuseppe Albanese al Teatro Apollo di Lecce",
+   "summary": "LECCE – Dalle sale da ballo della Vienna ottocentesca alle atmosfere della Spagna, attraverso alcune delle pagine più brillanti e virtuosistiche del repertorio pianistico: “Passioni danzanti: da Vien…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/passioni-danzanti-da-vienna-a-granada-domenica-29-novembre-alle-18-il-pianista-giuseppe-albanese-al-teatro-apollo-di-lecce/",
+   "source": "Corriere Salentino",
+   "category": "Eventi",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T08:44:59+00:00"
+  },
+  {
+   "id": "34271566f981",
+   "title": "Assolto un idraulico dall’accusa di abbandono di rifiuti: era deposito temporaneo",
+   "summary": "Il Tribunale di Lecce esclude il reato ambientale per i condizionatori dismessi sul terreno del padre di un 48enne di Tricase, ritenendo integrata la gestione preliminare e non provata la condotta il…",
+   "image": "https://citynews-lecceprima.stgy.ovh/~media/original-hi/8210869828210/tricasea.jpg",
+   "url": "https://www.lecceprima.it/cronaca/assolto-idraulico-tricase-rifiuti-raee.html",
+   "source": "LeccePrima",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T09:23:55+01:00"
+  },
+  {
+   "id": "c3e49ebd7409",
+   "title": "Foggia Film Festival, menzione speciale al cortometraggio del \"Pertini\"",
+   "summary": "La classe V C conquista la giuria con \"Di Doni e Altri Versi\", un’opera che unisce arte bianca e letteratura. Il dirigente Castellano: \"I nostri ragazzi hanno saputo unire le mani e il cuore\"",
+   "image": "https://citynews-brindisireport.stgy.ovh/~media/original-hi/2422843991406/menzione-speciale-al-cortometraggio-del-pertini-al-foggia-film-festival.jpg",
+   "url": "https://www.brindisireport.it/scuola/foggia-film-festival-menzione-speciale-cortometraggio-pertini-brindisi.html",
+   "source": "BrindisiReport",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-27T09:21:00+01:00"
+  },
+  {
+   "id": "1849e2603251",
+   "title": "Lecce, scavalca dal balcone e precipita: morto avvocato 46enne",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/IMG_20261127_091314-1024x644.jpg",
+   "url": "https://trnews.it/2026/11/27/lecce-scavalca-dal-balcone-e-precipita-morto-avvocato-46enne",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T08:15:49+00:00"
+  },
+  {
+   "id": "057d8171b28e",
+   "title": "Maxi sequestro di botti illegali: quintali di esplosivi in un garage, in manette padre e figlio",
+   "summary": "I carabinieri hanno scoperto un deposito clandestino a San Donato di Lecce contenente un ingente quantitativo di materiale pirotecnico illegale. L'operazione rientra nei controlli straordinari per co…",
+   "image": "https://citynews-lecceprima.stgy.ovh/~media/original-hi/54839108432946/whatsapp-image-2026-11-26-at-15-41-28.jpeg",
+   "url": "https://www.lecceprima.it/cronaca/arresti-materiale-esplosivo-san-donato-lecce-27-novembre-2026.html",
+   "source": "LeccePrima",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T09:07:50+01:00"
+  },
+  {
+   "id": "2476bd018f03",
+   "title": "A Lecce una sala per San Carlo Acutis",
+   "summary": "LECCE – Oggi pomeriggio, la mamma di san Carlo Acutis parteciperà alla conferenza della Scuola per genitori “La vita è adesso” nella sala di Masseria Tagliatelle che sarà intitolata al giovane santo.…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/a-lecce-una-sala-per-san-carlo-acutis/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T07:55:33+00:00"
+  },
+  {
+   "id": "8ea01a158ba6",
+   "title": "Gianni De Gennaro, ecco il testo integrale della lettera destinata \"a chi avrà l'onestà di renderla pubblica\"",
+   "summary": "Lo scritto dell'ex capo della Polizia è stato riportato integralmente dal Corriere Della Sera",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/073935774-5b8e0ce5-984c-4a08-a045-b28aa08d6549.jpg",
+   "url": "https://www.tgcom24.mediaset.it/cronaca/gianni-de-gennaro-lettera-integrale_119474666-202602k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T07:55:00+00:00"
+  },
+  {
+   "id": "cb064cc71019",
+   "title": "Erchie si accende per le festività: al via il concorso “Accendi il Natale – vetrine e case in festa”",
+   "summary": "Per garantire un colpo d'occhio suggestivo e uniforme su tutto il territorio comunale, ai partecipanti è richiesto di mantenere accese le proprie installazioni luminose ogni sera nella fascia oraria…",
+   "image": "https://citynews-brindisireport.stgy.ovh/~media/original-hi/5077054954747/natale-2025-erchie-avif.jpeg",
+   "url": "https://www.brindisireport.it/attualita/erchie-accende-festivita-concorso-natalizio-accendi-natale-vetrine-case-festa.html",
+   "source": "BrindisiReport",
+   "category": "Altro",
+   "zone": "Brindisi",
+   "published_at": "2026-11-27T08:53:00+01:00"
+  },
+  {
+   "id": "ef9a337b25c7",
+   "title": "Ruffano è un InCanto per Natale: un mese di soprese, eventi e attrazioni",
+   "summary": "RUFFANO (Lecce) – A due anni dall’ultima edizione firmata dalle AmministrazioniCavallo, torna l’atteso appuntamento con InCanto di Natale, la rassegna con cui Ruffano e Torrepaduli celebrano le festi…",
+   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/Natale-a-Ruffano-300x225.jpeg",
+   "url": "https://www.corrieresalentino.it/2026/11/ruffano-e-un-incanto-per-natale-un-mese-di-soprese-eventi-e-attrazioni/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T07:51:12+00:00"
+  },
+  {
+   "id": "2c1203d8a9e5",
+   "title": "Ugento, allarme rifiuti. Il Comune: \"Ancora inciviltà sui cestini pubblici\"",
+   "summary": "Il Comune di Ugento torna a denunciare l’utilizzo improprio dei cestini gettacarte stradali, nei quali vengono abbandonati sacchetti di rifiuti domestici, con conseguenti problemi di decoro, igiene...",
+   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_182369670357_1795766597428891.jpg",
+   "url": "https://www.leccesette.it/news/417206799878/ugento-allarme-rifiuti-fuori-dai-cestini-gettacarte",
+   "source": "LecceSette",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T08:50:00+01:00"
+  },
+  {
+   "id": "6bec9e63e116",
+   "title": "A Lecco il presepe della discordia",
+   "summary": "A sollevare il caso è stata Wilna De’ Flumeri, consigliera comunale di minoranza. Durante la discussione sul piano per il diritto allo studio ha chiesto conto dell’invito che, a suo dire, mette le sc…",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/073623146-cb92c534-df70-456f-bf61-dee8d3731f38.jpg",
+   "url": "https://www.tgcom24.mediaset.it/2026/video/a-lecco-il-presepe-della-discordia_119474331-02k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T07:49:00+00:00"
+  },
+  {
+   "id": "f46b5f4a9d06",
+   "title": "Studio Sentinella: i commercialisti di Lecce contro la violenza economica sulle donne",
+   "summary": "In occasione della Giornata mondiale contro la violenza sulle donne del 25 novembre, la sede dell’Ordine dei Dottori Commercialisti e degli Esperti Contabili di Lecce è stata illuminata di rosso: un’…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/studio-sentinella-i-commercialisti-di-lecce-contro-la-violenza-economica-sulle-donne/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T07:41:48+00:00"
+  },
+  {
+   "id": "1b254068ccdd",
+   "title": "Da Bagnolo del Salento allo spazio profondo: lo scatto della Nebulosa Cuore",
+   "summary": "Lo scatto di un nostro lettore, realizzato mercoledì scorso dai cieli del Salento",
+   "image": "https://citynews-lecceprima.stgy.ovh/~media/original-hi/47441043126643/img_20261124_220754.jpg",
+   "url": "https://www.lecceprima.it/speciale/foto-giorno/foto-del-giorno-nebulosa-bagnolo-salento-27-novembre-2026.html",
+   "source": "LeccePrima",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T08:32:53+01:00"
+  },
+  {
+   "id": "fb15fb0e4165",
+   "title": "Foggia, scoperta dai finanzieri una maxi frode fiscale, previdenziale e violazioni al \"Decreto Flussi\"",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/888559030_1765546878909619_8797909681217799401_n-1024x683.jpg",
+   "url": "https://trnews.it/2026/11/27/foggia-scoperta-dai-finanzieri-una-maxi-frode-fiscale-previdenziale-e-violazioni-al-decreto-flussi",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-11-27T07:31:45+00:00"
+  },
+  {
+   "id": "7281835b8bc1",
+   "title": "Tragedia nel cuore di Lecce, tenta di entrare in casa dalla veranda e precipita dal sesto piano. Perde la vita 46enne",
+   "summary": "LECCE – Mattinata di shock e sgomento nel centro del capoluogo salentino, dove il corpo senza vita di un uomo, Vito De Palma avvocato 46enne, è stato rinvenuto sul tetto dei garage di un condominio s…",
+   "image": null,
+   "url": "https://www.leccenews24.it/cronaca/morte-misteriosa-lecce-27-novembre-2026-piazza-mazzini.htm",
+   "source": "LecceNews24",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T07:29:39+00:00"
+  },
+  {
+   "id": "2eac61712015",
+   "title": "Foggia, furti all'interno di presidi ospedalieri e aggressione a un medico di base: tre arresti",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/080aaa64-a97f-4655-be62-cb964ad4bf3e.jpg",
+   "url": "https://trnews.it/2026/11/27/foggia-furti-allinterno-di-presidi-ospedalieri-e-aggressione-a-un-medico-di-base-tre-arresti",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Salento",
+   "published_at": "2026-11-27T07:21:22+00:00"
+  },
+  {
+   "id": "89455380b70a",
+   "title": "Servizio pulimento e sanificazione: \"Il Business Plan non è un semplice adempimento amministrativo\"",
+   "summary": "Riceviamo e pubblichiamo le precisazioni di Cristiano D’Errico, amministratore unico di Sanitaservice Asl Br Srl in riferimento all'articolo pubblicato su questo giornale riguardante l'appalto per le…",
+   "image": "https://citynews-brindisireport.stgy.ovh/~media/original-hi/19093774512916/cristiano-derrico-2.jpg",
+   "url": "https://www.brindisireport.it/attualita/servizio-pulimento-sanificazione-strutture-sanitarie-precisazioni-sanitaservice-business-plan-brindisi.html",
+   "source": "BrindisiReport",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-27T08:21:00+01:00"
+  },
+  {
+   "id": "ae8c23e1bdfc",
+   "title": "Verso la Fòcara 2027: siglato il Protocollo d’Intesa tra Comune di Novoli e Fondazione Fòcara",
+   "summary": "NOVOLI (Lecce) – Prosegue a ritmi serrati il percorso organizzativo e istituzionale in vista della Fòcara 2027, la celebre manifestazione legata ai festeggiamenti in onore di Sant’Antonio Abate. Il n…",
+   "image": null,
+   "url": "https://www.corrieresalentino.it/2026/11/verso-la-focara-2027-siglato-il-protocollo-dintesa-tra-comune-di-novoli-e-fondazione-focara-definita-la-governance-la-ripartizione-operativa-e-lincarico-per-la-direzione-creativa/",
+   "source": "Corriere Salentino",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T07:18:52+00:00"
+  },
+  {
+   "id": "1f6da0825d97",
+   "title": "Il telefonista di Emanuela Orlandi sarebbe un ex 007",
+   "summary": "Sarebbe di Claudio Martufi, ex agente del Sisde, la voce del anonima individuata dal Ris dei Carabinieri di Roma. Cautela dalla famiglia della scomparsa: \"Aspettiamo di averne conferme\"",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/070340297-489967a5-074a-4b1d-8a6e-08a9ef694634.jpg",
+   "url": "https://www.tgcom24.mediaset.it/cronaca/telefonista-emanuela-orlandi-ex-007_119473143-202602k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T07:09:51+00:00"
+  },
+  {
+   "id": "042d61693455",
+   "title": "Castro, prorogata la fase sperimentale della ZTL portuale",
+   "summary": "Il Comune di Castro, attraverso il proprio sito istituzionale, ha comunicato che con Ordinanza n. 96 del 26 novembre 2026, è stata disposta la proroga del periodo di pre-esercizio del sistema di...",
+   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_457247577301_1795765255962104.jpg",
+   "url": "https://www.leccesette.it/news/4889939462/castro-prorogata-la-fase-sperimentale-della-ztl-portuale",
+   "source": "LecceSette",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-27T08:00:00+01:00"
+  },
+  {
+   "id": "abebb437bdd6",
+   "title": "Le Officine Ipogee ospitano Andrea Martina e Francesco Muri: dialogo tra arte e letteratura",
+   "summary": "CELLINO SAN MARCO - Domenica 29 novembre alle ore 18 presso le Officine Ipogee, Mesagne Bene Comune…",
+   "image": "https://citynews-brindisireport.stgy.ovh/~media/original-hi/66479810083076/img_5100.jpeg",
+   "url": "https://www.brindisireport.it/eventi/cultura/officine-ipogee-ospitano-andrea-martina-francesco-muri-dialogo-tra-arte-letteratura-mesagne.html",
+   "source": "BrindisiReport",
+   "category": "Cultura",
+   "zone": "Brindisi",
+   "published_at": "2026-11-27T07:31:00+01:00"
+  },
+  {
+   "id": "496b39ab42cc",
+   "title": "Dare nuova vita agli spazi inutilizzati: Brindisi capofila nella sfida europea",
+   "summary": "A Tetovo, in Macedonia del Nord, il terzo incontro transnazionale del progetto \"Coplace\": il capoluogo adriatico ha portato l'esperienza delle Case di Quartiere",
+   "image": "https://citynews-brindisireport.stgy.ovh/~media/original-hi/18828718852512/anche-il-comune-di-brindisi-partecipa-agli-incontri-per-il-progetto-coplace-a-tetovo-in-macedonia-del-nord.jpeg",
+   "url": "https://www.brindisireport.it/politica/dare-nuova-vita-spazi-inutilizzati-brindisi-capofila-sfida-europea.html",
+   "source": "BrindisiReport",
+   "category": "Politica",
+   "zone": "Brindisi",
+   "published_at": "2026-11-27T07:00:00+01:00"
+  },
+  {
+   "id": "d08d520f8834",
+   "title": "Lecce, Di Francesco ripensa il centrocampo",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2024/10/Kaba-1024x698.jpg",
+   "url": "https://trnews.it/2026/11/27/lecce-di-francesco-ripensa-il-centrocampo",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-27T05:50:25+00:00"
+  },
+  {
+   "id": "6ba75ada8cad",
+   "title": "Brindisi, miglior serie senza subire gol. Ma non basta per il primato",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-26-200617.png",
+   "url": "https://trnews.it/2026/11/27/brindisi-miglior-serie-senza-subire-gol-ma-non-basta-per-il-primato",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Brindisi",
+   "published_at": "2026-11-27T05:47:00+00:00"
+  },
+  {
+   "id": "e7ee38a6a621",
+   "title": "Social network, l'Australia impone alle piattaforme di consentire il blocco degli algoritmi",
+   "summary": "La norma entrerà in vigore fra 12 mesi, per dar tempo alle piattaforme di adottare le disposizioni necessarie",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/053338595-252ed887-c6ce-403e-816f-fd9bf306e784.jpg",
+   "url": "https://www.tgcom24.mediaset.it/mondo/australia-social-network-blocco-algoritmi_119472717-202602k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T05:34:53+00:00"
+  },
+  {
+   "id": "60dfc0adecd9",
+   "title": "A Gaza anche l’ambiente è sotto attacco",
+   "summary": "Più del 99 per cento di Gaza è contaminato da residui tossici, che avvelenano l’acqua, il terreno e l’aria Leggi",
+   "image": "https://media.internazionale.it/images/2026/11/25/364726-hd.jpg",
+   "url": "https://www.internazionale.it/notizie/francesca-gnetti/2026/11/27/a-gaza-anche-l-ambiente-e-sotto-attacco",
+   "source": "Internazionale",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T05:49:01+01:00"
+  },
+  {
+   "id": "f0f8500bff83",
+   "title": "Festa del ringraziamento in famiglia",
+   "summary": "La mia futura suocera ha ascoltato per caso le porcherie che ci diciamo quando facciamo sesso. Ne è nato un equivoco che il mio fidanzato non ha voluto chiarire Leggi",
+   "image": "https://media.internazionale.it/images/2017/08/14/138847-hd.jpg",
+   "url": "https://www.internazionale.it/savagelove/dan-savage/2026/11/27/festa-del-ringraziamento-in-famiglia",
+   "source": "Internazionale",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T05:16:02+01:00"
+  },
+  {
+   "id": "84b3e8a45288",
+   "title": "Spyware: così una falsa app del Viminale prendeva di mira i richiedenti asilo",
+   "summary": "Sviluppata da un’azienda di Latina fornitrice delle forze dell’ordine, FirmaDigitale prometteva aggiornamenti sulle richieste di protezione internazionale. In realtà consentiva di intercettare conver…",
+   "image": "https://www.irpimedia.eu/wp-content/uploads/2026/11/spyware-falsa-app-del-viminale-prendeva-di-mira-richiedenti-asilo-firmadigitale-screenshot.webp",
+   "url": "https://www.irpimedia.eu/spyware-falsa-app-del-viminale-prendeva-di-mira-richiedenti-asilo/",
+   "source": "IrpiMedia",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T04:00:00+00:00"
+  },
   {
    "id": "6be9ff65cf62",
    "title": "Egitto, arrestato sospettato di aver causato l'incidente dell'autocisterna | Nel rogo morte 31 persone",
@@ -22,6 +1419,28 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-26T22:45:39+00:00"
+  },
+  {
+   "id": "e35d927f4de9",
+   "title": "Ex Ilva, Jindal rilancia a 7,5 miliardi",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-108-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/26/ex-ilva-jindal-rilancia-a-75-miliardi",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Taranto",
+   "published_at": "2026-11-26T21:38:10+00:00"
+  },
+  {
+   "id": "1ca56f4df7c8",
+   "title": "MArTA, l' abito denuncia 1522: l' arte diventa impegno",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-107-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/26/marta-l-abito-denuncia-1522-l-arte-diventa-impegno",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Taranto",
+   "published_at": "2026-11-26T21:35:12+00:00"
   },
   {
    "id": "34f2b855a3d0",
@@ -77,28 +1496,6 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-26T20:40:51+00:00"
-  },
-  {
-   "id": "e35d927f4de9",
-   "title": "Ex Ilva, Jindal rilancia a 7,5 miliardi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-108-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/26/ex-ilva-jindal-rilancia-a-75-miliardi",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Taranto",
-   "published_at": "2026-11-26T20:38:10+00:00"
-  },
-  {
-   "id": "1ca56f4df7c8",
-   "title": "MArTA, l' abito denuncia 1522: l' arte diventa impegno",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-107-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/26/marta-l-abito-denuncia-1522-l-arte-diventa-impegno",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Taranto",
-   "published_at": "2026-11-26T20:35:12+00:00"
   },
   {
    "id": "d7a6e37a2308",
@@ -203,7 +1600,7 @@
    "id": "1352a5bd93c7",
    "title": "Castello, il Comune conferma la gestione diretta per un altro anno. Revocato il vecchio bando",
    "summary": "Dopo la sospensione preliminare della procedura per l’affidamento per 15 anni la giunta comunale di Gallipoli ha scelto la strada della gestione \"in economia\" dell’attività del maniero. Riapertura gi…",
-   "image": "https://citynews-lecceprima.stgy.ovh/~media/original-hi/26897921824620/img_20260223_110351-2.jpg",
+   "image": "https://citynews-lecceprima.stgy.ovh/~media/original-hi/37399240361946/img_20260223_110351.jpg",
    "url": "https://www.lecceprima.it/attualita/castello-il-comune-conferma-la-gestione-diretta-per-un-altro-anno-revocato-il-vecchio-bando.html",
    "source": "LeccePrima",
    "category": "Altro",
@@ -376,6 +1773,17 @@
    "published_at": "2026-11-26T19:18:00+01:00"
   },
   {
+   "id": "57a3dca7acdf",
+   "title": "Femminicidio, uccide la compagna e si lancia dal viadotto dove morì Lorena Isceri",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/VIADOTTO.jpg",
+   "url": "https://trnews.it/2026/11/26/femminicidio-uccide-la-compagna-e-si-lancia-dal-viadotto-dove-mori-lorena-isceri",
+   "source": "TeleRama News",
+   "category": "Cronaca",
+   "zone": "Lecce",
+   "published_at": "2026-11-26T18:16:52+00:00"
+  },
+  {
    "id": "53a0e8469af9",
    "title": "FdI vuole un osservatorio per segnalare i libri scolastici “non conformi”. Sindacati e studenti: “È censura. A rischio la libertà di insegnamento”",
    "summary": "Con 142 sì e 112 no, l’Aula della Camera ha approvato il Decreto Scuola. Molte le misure contenute nel testo. Dal tetto del 30% degli stranieri per le classi prime, alle novità sui libri digitali, pa…",
@@ -407,6 +1815,17 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-26T18:15:48+00:00"
+  },
+  {
+   "id": "5b9254c5f437",
+   "title": "Coppa Italia Eccellenza: lo Squinzano in rimonta supera 3-1 il Taurisano. Canosa e Taranto non vanno oltre lo 0-0",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-26-182904.png",
+   "url": "https://trnews.it/2026/11/26/coppa-italia-eccellenza-lo-squinzano-in-rimonta-supera-3-1-il-taurisano-canosa-e-taranto-non-vanno-oltre-lo-0-0",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Lecce",
+   "published_at": "2026-11-26T18:13:26+00:00"
   },
   {
    "id": "1bf9396803b3",
@@ -530,17 +1949,6 @@
    "published_at": "2026-11-26T17:49:00+00:00"
   },
   {
-   "id": "d939067ac46d",
-   "title": "Treviso, speronata da un'auto pirata partorisce d'urgenza: morta la neonata",
-   "summary": "\"Questa vicenda non suscita solo dolore, ma anche rabbia e indignazione\", ha commentato il presidente del Veneto Alberto Stefani, esprimendo \"cordoglio\" alla famiglia",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/174131442-92585b13-1886-4e16-bda4-0be2b4705cf6.png",
-   "url": "https://www.tgcom24.mediaset.it/cronaca/treviso-speronata-auto-pirata-partorisce-morta-neonata_119455023-202602k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T17:47:31+00:00"
-  },
-  {
    "id": "f5b5a058e3cf",
    "title": "\"Palestina Cineforum\": la proiezione del documentario Premio Oscar \"No Other Land\"",
    "summary": "TORRE SANTA SUSANNA - Domani, venerdì 27 novembre 2026, alle 18:30, presso il Saloncino Cgil di To…",
@@ -555,7 +1963,7 @@
    "id": "f24fd1450452",
    "title": "Condoni edilizi, il Tar dà ragione al Comune: gli oneri si pagano con le tariffe attuali",
    "summary": "I giudici amministrativi hanno respinto il ricorso di un cittadino confermando la legittimità dell'operato del Comune di Porto Cesareo. La sentenza emessa ieri ha stabilito che, per una domanda di co…",
-   "image": "https://citynews-lecceprima.stgy.ovh/~media/original-hi/30301372081045/comune-porto-cesareo.jpeg",
+   "image": "https://citynews-lecceprima.stgy.ovh/~media/original-hi/18158039405463/porto-cesareo-3-2.jpeg",
    "url": "https://www.lecceprima.it/cronaca/tar-da-ragione-comune-condono-edilizio-26-novembre-2026.html",
    "source": "LeccePrima",
    "category": "Cronaca",
@@ -607,6 +2015,17 @@
    "published_at": "2026-11-26T17:25:43+00:00"
   },
   {
+   "id": "ed2ccbfb5178",
+   "title": "Giustizia, penalisti in sciopero contro la riforma",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-105-1024x576.jpg",
+   "url": "https://trnews.it/2026/11/26/giustizia-penalisti-in-sciopero-contro-la-riforma",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Lecce",
+   "published_at": "2026-11-26T17:24:41+00:00"
+  },
+  {
    "id": "7720b92addab",
    "title": "Francesco Cavazza, il pugile sinto con il gancio sinistro da KO: “Ho casa ma dormo in giardino nella roulotte, preferisco così. Lavoro in macelleria e mi alleno la sera, voglio combattere in America”",
    "summary": "L’ultimo match, il terzo da professionista, è durato pochissimo. Neanche il tempo di sedersi a bordo ring che Francesco Cavazza con un gancio sinistro aveva steso l’avversario. Al momento il record d…",
@@ -616,28 +2035,6 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-26T17:18:53+00:00"
-  },
-  {
-   "id": "57a3dca7acdf",
-   "title": "Femminicidio, uccide la compagna e si lancia dal viadotto dove morì Lorena Isceri",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/VIADOTTO.jpg",
-   "url": "https://trnews.it/2026/11/26/femminicidio-uccide-la-compagna-e-si-lancia-dal-viadotto-dove-mori-lorena-isceri",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-26T17:16:52+00:00"
-  },
-  {
-   "id": "5b9254c5f437",
-   "title": "Coppa Italia Eccellenza: lo Squinzano in rimonta supera 3-1 il Taurisano. Canosa e Taranto non vanno oltre lo 0-0",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/Screenshot-2026-11-26-182904.png",
-   "url": "https://trnews.it/2026/11/26/coppa-italia-eccellenza-lo-squinzano-in-rimonta-supera-3-1-il-taurisano-canosa-e-taranto-non-vanno-oltre-lo-0-0",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-26T17:13:26+00:00"
   },
   {
    "id": "80f1c384caf9",
@@ -682,6 +2079,17 @@
    "category": "Cronaca",
    "zone": "Italia",
    "published_at": "2026-11-26T17:05:04+00:00"
+  },
+  {
+   "id": "676d8ffab085",
+   "title": "Implantologia zigomatica ZAGA, Puglia al top grazie al professor Michele Di Cosola",
+   "summary": "",
+   "image": "https://i.ytimg.com/vi/ox265KyXF5o/hqdefault.jpg",
+   "url": "https://trnews.it/2026/11/26/implantologia-zigomatica-zaga-puglia-al-top-grazie-al-professor-michele-di-cosola",
+   "source": "TeleRama News",
+   "category": "Altro",
+   "zone": "Salento",
+   "published_at": "2026-11-26T17:01:07+00:00"
   },
   {
    "id": "c5a0b16d49e4",
@@ -750,17 +2158,6 @@
    "published_at": "2026-11-26T16:37:25+00:00"
   },
   {
-   "id": "cf0ddc49a4d5",
-   "title": "Ci sono serie tv che pretendono di spiegare pagine tragiche di storia, ma sembrano solo sciatte operazioni di marketing",
-   "summary": "di Ilaria Muggianu Scano Non troppo tempo fa tutte le comunità italiane rivendicavano il proprio santo, beato o venerabile. Oggi che Garlasco ha fatto del crime uno strumento d’evasione, piccole e gr…",
-   "image": null,
-   "url": "https://www.ilfattoquotidiano.it/2026/11/26/177-giorni-farouk-kassam-serie-sardegna-sciatta-marketing-commento/8584822/",
-   "source": "Il Fatto Quotidiano",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T16:35:32+00:00"
-  },
-  {
    "id": "07f1f413c7fa",
    "title": "Mobilità integrata tra Lecce e comuni dell’hinterland. Poli Bortone: «Rafforzeremo la Misura 50 del PUMS»",
    "summary": "La sindaca di Lecce, Adriana Poli Bortone, rilancia la necessità di un sistema di trasporto pubblico integrato tra il capoluogo e i Comuni dell’hinterland, condividendo le considerazioni proposte...",
@@ -783,17 +2180,6 @@
    "published_at": "2026-11-26T17:29:00+01:00"
   },
   {
-   "id": "e9866028ea70",
-   "title": "Orlandi-Gregori, la famiglia di Mirella chiede una perizia fonica",
-   "summary": "La sorella: \"Confrontare la voce dell'Americano con quella di John, assistente dell'avvocato Egidio\"",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/153637166-588dded8-6d68-45f2-b474-7f4fb80a6e94.jpg",
-   "url": "https://www.tgcom24.mediaset.it/cronaca/orlandi-gregori-perizia-fonica_119450376-202602k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T16:27:33+00:00"
-  },
-  {
    "id": "3077897275b0",
    "title": "Lecce, violenza economica: ordine commercialisti in prima linea",
    "summary": "",
@@ -803,116 +2189,6 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-11-26T16:26:00+00:00"
-  },
-  {
-   "id": "ed2ccbfb5178",
-   "title": "Giustizia, penalisti in sciopero contro la riforma",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-105-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/26/giustizia-penalisti-in-sciopero-contro-la-riforma",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-26T16:24:41+00:00"
-  },
-  {
-   "id": "21220b59d521",
-   "title": "Caccia, presidio contro la legge “sparatutto”. M5s, Avs e Pd in piazza: “La aboliremo una volta al governo. FI? Per ora solo parole”",
-   "summary": "Piazza Santi Apostoli a Roma si è riempita di cittadini, associazioni e rappresentanti politici scesi in piazza per chiedere il ritiro del ddl caccia, la legge ribattezzata “sparatutto” che arriverà…",
-   "image": null,
-   "url": "https://www.ilfattoquotidiano.it/2026/11/26/legge-caccia-presidio-opposizioni-notizie/8584831/",
-   "source": "Il Fatto Quotidiano",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T16:22:58+00:00"
-  },
-  {
-   "id": "ad95cb5a2590",
-   "title": "Artigiano in Fiera 2026, nove giorni con 2.700 artigiani a Rho",
-   "summary": "Dal 5 al 13 dicembre a Fieramilano Rho, tutti i giorni dalle 10 alle 22 con ingresso gratuito: otto padiglioni tra creazioni fatte a mano, prodotti certificati e cucine da tutto il mondo",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/25/141739412-768e5284-9ce3-43ca-8cdb-8247fe079592.jpg",
-   "url": "https://www.tgcom24.mediaset.it/economia/artigiano-in-fiera-2026/artigiano-in-fiera-2026-nove-giorni-con-2-700-artigiani-a-rho_119405144-202602k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T16:22:55+00:00"
-  },
-  {
-   "id": "2098f52b0cdf",
-   "title": "Artigiano in Fiera 2026: il pass gratuito e come arrivare a Rho",
-   "summary": "Dal 5 al 13 dicembre, tutti i giorni dalle 10 alle 22: come scaricare il pass d'ingresso, quali giorni scegliere e come raggiungere la fiera in metro, in treno o in auto",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/25/142152506-dc3024e0-cf15-4354-a3c9-6fb315e24c32.jpg",
-   "url": "https://www.tgcom24.mediaset.it/economia/artigiano-in-fiera-2026/artigiano-in-fiera-2026-il-pass-gratuito-e-come-arrivare-a-rho_119405631-202602k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T16:22:43+00:00"
-  },
-  {
-   "id": "c56ca13f4d1d",
-   "title": "Artigiano in Fiera Stand Awards, si premia chi sa raccontarsi",
-   "summary": "Sedici riconoscimenti per gli spazi espositivi, dal Grand Prix al Premio del Pubblico: i visitatori votano con il pass fino al 10 dicembre, la premiazione è venerdì 11 nel Padiglione 6",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/25/142626715-f3de7a3d-251f-4eca-9530-0bf53e636180.jpg",
-   "url": "https://www.tgcom24.mediaset.it/economia/artigiano-in-fiera-2026/artigiano-in-fiera-stand-awards-si-premia-chi-sa-raccontarsi_119405826-202602k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T16:22:33+00:00"
-  },
-  {
-   "id": "c89d9000a0fb",
-   "title": "Artigiano in Fiera 2026, la campagna di una designer classe 2004",
-   "summary": "Si chiama \"Mondo da scoprire\" l'immagine dell'edizione 2026, firmata da Aurora Ferrario e nata da un contest per gli studenti IED di Milano: un globo e un nastro per raccontare mestieri, culture e pa…",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/130308273-6467bbc6-712c-4ca7-8128-774f842d3944.jpg",
-   "url": "https://www.tgcom24.mediaset.it/economia/artigiano-in-fiera-2026/artigiano-in-fiera-2026-la-campagna-di-una-designer-classe-2004_119445308-202602k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T16:22:23+00:00"
-  },
-  {
-   "id": "1af58cd75e42",
-   "title": "“Mr. Oro: tutto ha un prezzo”, su DMAX le storie degli oggetti preziosi",
-   "summary": "Dalla moneta del battesimo al bracciale comprato con i primi risparmi, la docuserie “Mr. Oro: tutto ha un prezzo” cerca i protagonisti della terza stagione. Le selezioni sono aperte a Milano fino a f…",
-   "image": null,
-   "url": "https://www.ilfattoquotidiano.it/2026/11/26/mr-oro-tutto-ha-un-prezzo-su-dmax-le-storie-degli-oggetti-preziosi/8584858/",
-   "source": "Il Fatto Quotidiano",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T16:22:23+00:00"
-  },
-  {
-   "id": "92135b826c0a",
-   "title": "Artigiano in Fiera 2026, le 430 imprese con prodotti certificati",
-   "summary": "Denominazioni di origine, biologico, prodotti di montagna, cosmetici e tessuti certificati: chi sono e da dove arrivano le aziende che raccontano allo stand come nascono i loro prodotti",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/130841837-7cd715c0-fe86-4f55-b2a0-b9dede5d66b9.jpg",
-   "url": "https://www.tgcom24.mediaset.it/economia/artigiano-in-fiera-2026/artigiano-in-fiera-2026-le-430-imprese-con-prodotti-certificati_119445322-202602k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T16:22:13+00:00"
-  },
-  {
-   "id": "9947e27f7051",
-   "title": "Artigiano in Fiera 2026, i regali di Natale scelti con chi li fa",
-   "summary": "Otto padiglioni, circa 2.700 artigiani e venti regioni italiane: pezzi unici, specialità da mettere in tavola e 29 ristoranti, con la novità della cucina nepalese",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/131845008-953dab7d-8611-4a30-b622-0fb2bff768de.jpg",
-   "url": "https://www.tgcom24.mediaset.it/economia/artigiano-in-fiera-2026/artigiano-in-fiera-2026-i-regali-di-natale-scelti-con-chi-li-fa_119445845-202602k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T16:22:01+00:00"
-  },
-  {
-   "id": "63db7f74a939",
-   "title": "La palla vola oltre il confine del campo di cricket, l'incredibile presa del tifoso",
-   "summary": "In Pakistan, a Mingora, un tifoso di cricket ha realizzato una presa straordinaria: con una sola mano, dalla parte posteriore di una motocicletta in movimento, ha afferrato la palla che è volata oltr…",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/162209539-a99bc145-1e0e-4d24-8425-3c4fe8a6aac2.jpg",
-   "url": "https://www.tgcom24.mediaset.it/2026/video/la-palla-vola-oltre-il-confine-del-campo-di-cricket-l-incredibile-presa-del-tifoso_119451663-02k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T16:21:00+00:00"
   },
   {
    "id": "62f1a3cb4ca4",
@@ -926,28 +2202,6 @@
    "published_at": "2026-11-26T16:20:13+00:00"
   },
   {
-   "id": "f77940b1a2ab",
-   "title": "Francia, Gérard Depardieu rinviato a giudizio per violenze sessuali sull'attrice Charlotte Arnould",
-   "summary": "La Corte: \"Davanti al giudice solo per i fatti del 7 agosto 2018, non luogo a procedere per il 13\"",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/135441451-7e906d54-a37a-4b2e-9d58-aafe9f9d32ba.jpg",
-   "url": "https://www.tgcom24.mediaset.it/mondo/depardieu-rinviato-a-giudizio-arnould_119447616-202602k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T16:18:15+00:00"
-  },
-  {
-   "id": "1a27b62d6f25",
-   "title": "“Tra gli under 45 dimezzati i rapporti sessuali rispetto al 1990, un giovane su tre tra i 16 e 24 anni non ha mai fatto se**o”: il nuovo studio sui giovani nel Regno Unito",
-   "summary": "“La vita sessuale in Gran Bretagna sta cambiando”. Questo è quello arriva a dire Soazig Clifton, epidemiologa allo University College London, dopo aver condotto uno studio sulle abitudini sessuali de…",
-   "image": null,
-   "url": "https://www.ilfattoquotidiano.it/2026/11/26/tra-gli-under-45-dimezzati-i-rapporti-sessuali-rispetto-al-1990-un-giovane-su-tre-tra-i-16-e-24-anni-non-ha-mai-fatto-seo-il-nuovo-studio-sui-giovani-nel-regno-unito/8584722/",
-   "source": "Il Fatto Quotidiano",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T16:17:01+00:00"
-  },
-  {
    "id": "a8df6a0b04e5",
    "title": "Lecce, il Tar respinge la sospensiva sull’ex Foro Boario. Il parcheggio da 29 milioni può andare avanti",
    "summary": "LECCE – Il Tar di Lecce lascia proseguire l’iter per il nuovo hub intermodale dell’ex Foro Boario. Con l’ordinanza n. 682, pubblicata il 26 novembre, la prima sezione del Tribunale amministrativo ha…",
@@ -957,50 +2211,6 @@
    "category": "Altro",
    "zone": "Lecce",
    "published_at": "2026-11-26T16:12:18+00:00"
-  },
-  {
-   "id": "932340702888",
-   "title": "I film della settimana",
-   "summary": "Da You can see everything di Nathan Fielder e Lance Oppenheim a Radio Praga. Le onde della libertà di Jiří Mádl. Le recensioni della stampa straniera Leggi",
-   "image": "https://media.internazionale.it/images/2026/11/25/364819-hd.jpg",
-   "url": "https://www.internazionale.it/redirect/2026/11/26/you-can-see-everything-fielder-oppenheim-recensioni-film",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T17:04:24+01:00"
-  },
-  {
-   "id": "1425a6f1161e",
-   "title": "Femminicidio Pistoia, il padre di Isceri: “Lo stesso luogo in cui è stata uccisa Lorena. Vedo emulazione, ho i brividi”",
-   "summary": "“Vedo emulazione in questi femminicidi”. A dirlo è Franco Isceri, il padre di Lorena, uccisa lo scorso 3 settembre dall’ex compagno Federico Vella sul viadotto Lora dell’autostrada A1, a Barberino de…",
-   "image": null,
-   "url": "https://www.ilfattoquotidiano.it/2026/11/26/femminicidio-pistoia-ponte-buggianese-isceri-notizie/8584810/",
-   "source": "Il Fatto Quotidiano",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T16:03:33+00:00"
-  },
-  {
-   "id": "ada9b37b5fe6",
-   "title": "Gianni De Gennaro, il presidente Mattarella sarà presente ai funerali",
-   "summary": "Intanto è stata rinviata l'udienza davanti al tribunale del Riesame di Caltanissetta che dovrà decidere sulle misure cautelari chieste per i 4 coindagati dell'ex prefetto",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/155026982-b4e2a038-cd13-410c-bcd6-2b537909513a.jpg",
-   "url": "https://www.tgcom24.mediaset.it/cronaca/gianni-de-gennaro-funerali-mattarella_119451320-202602k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T16:02:54+00:00"
-  },
-  {
-   "id": "676d8ffab085",
-   "title": "Implantologia zigomatica ZAGA, Puglia al top grazie al professor Michele Di Cosola",
-   "summary": "",
-   "image": "https://i.ytimg.com/vi/ox265KyXF5o/hqdefault.jpg",
-   "url": "https://trnews.it/2026/11/26/implantologia-zigomatica-zaga-puglia-al-top-grazie-al-professor-michele-di-cosola",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-26T16:01:07+00:00"
   },
   {
    "id": "4ad8e74eed24",
@@ -1014,28 +2224,6 @@
    "published_at": "2026-11-26T17:01:00+01:00"
   },
   {
-   "id": "3540d069076e",
-   "title": "Satelliti europei e droni ripetitori: così l’Ucraina fa a meno di Musk",
-   "summary": "Dai satelliti europei ai \"modem volanti\" usati sul ponte di Kerch: così Kyiv riduce la dipendenza da Starlink e Starshield per guidare i suoi droni.",
-   "image": null,
-   "url": "https://www.valigiablu.it/ucraina-satelliti-europei-starlink-musk/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T16:00:00+00:00"
-  },
-  {
-   "id": "d8e3b8161951",
-   "title": "“Pertini veniva reclamizzato come fosse un gelato e tramite l’AI parlava con frasi non sue. Un vero e proprio falso”: battaglia legale per l’appartamento dell’ex presidente della Repubblica",
-   "summary": "Durante i sette anni al Quirinale, Sandro Pertini si era trasferito insieme a sua moglie Carla Voltolina in un appartamento affacciato sulla Fontana di Trevi, dove poi ha continuato a risiedere anche…",
-   "image": null,
-   "url": "https://www.ilfattoquotidiano.it/2026/11/26/pertini-veniva-reclamizzato-come-fosse-un-gelato-e-tramite-lai-parlava-con-frasi-non-sue-un-vero-e-proprio-falso-battaglia-legale-per-lappartamento-dellex-presidente-della-repubblica/8584531/",
-   "source": "Il Fatto Quotidiano",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T15:59:17+00:00"
-  },
-  {
    "id": "a6d3ba57933f",
    "title": "Ippica, concluso il campionato sociale 2026: premiate le eccellenze dell’equitazione",
    "summary": "Alla presenza di un folto numero di appassionati, le atlete hanno dato prova di brillanti capacità equestri regalando una competizione di alto profilo e grande spettacolo",
@@ -1045,17 +2233,6 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-26T16:59:00+01:00"
-  },
-  {
-   "id": "7a566159ba1f",
-   "title": "Il viadotto Lora, teatro di due tragedie",
-   "summary": "",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/154052324-ebef0590-9148-4812-bf4f-9bbbbc5674bf.jpg",
-   "url": "https://www.tgcom24.mediaset.it/cronaca/infografica/il-viadotto-lora-teatro-di-due-tragedie_119450752-202602k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T15:44:45+00:00"
   },
   {
    "id": "702522412a63",
@@ -1072,7 +2249,7 @@
    "id": "55da229e01d5",
    "title": "Campionati di Eccellenza e Promozione, divieto di trasferta per i tifosi di Novoli e Ruffano",
    "summary": "I provvedimenti di divieto di vendita dei biglietti per le tifoserie ospiti riguardano rispettivamente le gare di domenica prossima, 29 novembre, che si disputeranno sui campi di Ugento e Tricase",
-   "image": "https://citynews-lecceprima.stgy.ovh/~media/original-hi/41079918208038/prefettura-003-9-2.jpg",
+   "image": "https://citynews-lecceprima.stgy.ovh/~media/original-hi/67432154894707/prefettura-003-2.jpg",
    "url": "https://www.lecceprima.it/attualita/campionati-di-eccellenza-e-promozione-divieto-di-trasferta-per-i-tifosi-di-novoli-e-ruffano.html",
    "source": "LeccePrima",
    "category": "Altro",
@@ -1100,17 +2277,6 @@
    "category": "Cultura",
    "zone": "Taranto",
    "published_at": "2026-11-26T16:40:57+01:00"
-  },
-  {
-   "id": "24607d03f5d4",
-   "title": "L'albero di Natale fatto di origami incanta i newyorkesi",
-   "summary": "",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/153353735-3b05b1b7-614e-4e37-837f-c9f640c8732c.jpg",
-   "url": "https://www.tgcom24.mediaset.it/2026/video/l-albero-di-natale-fatto-di-origami-incanta-i-newyorkesi_119450209-02k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T15:34:00+00:00"
   },
   {
    "id": "1ae60a5d33b6",
@@ -1155,28 +2321,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-11-26T16:19:00+01:00"
-  },
-  {
-   "id": "c31b36c239c1",
-   "title": "Nave cisterna con 7mila tonnellate di gasolio a bordo naufraga a largo di Ibiza: si temono sversamenti",
-   "summary": "Da diverse ore a circa 25 miglia nautiche a nord-est di Ibiza, un mercantile carico di circa 7mila tonnellate di gasolio è capovolto con la ciglia a galla sulla superficie del mare dopo essere naufra…",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/143944944-137d5b64-0079-4c42-8519-18acd4ed4a30.jpg",
-   "url": "https://www.tgcom24.mediaset.it/2026/video/nave-cisterna-con-7mila-tonnellate-di-gasolio-a-bordo-naufraga-a-largo-di-ibiza-si-temono-sversamenti_119448580-02k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T15:09:18+00:00"
-  },
-  {
-   "id": "c4ee0e7260a5",
-   "title": "Bce, raggiunta l'intesa: de Cos presidente, in esecutivo Boone e Brunnermeier",
-   "summary": "Procedura scritta entro stasera, a cui parteciperanno i 21 membri dell'Eurozona. Le nomine, invece, avverranno nel vertice di dicembre",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/145446917-71a383fb-f317-4895-b82c-2c81cbe0066b.jpg",
-   "url": "https://www.tgcom24.mediaset.it/economia/bce-de-cos-presidente_119448335-202602k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T15:05:25+00:00"
   },
   {
    "id": "ed8e8e522800",
@@ -1542,28 +2686,6 @@
    "published_at": "2026-11-26T13:14:31+00:00"
   },
   {
-   "id": "da0f26b660ac",
-   "title": "In cammino con Patti Smith e i Soundwalk Collective",
-   "summary": "La cantante statunitense ha presentato in anteprima la sua mostra a Milano insieme al musicista Stephan Crasneanscki Leggi",
-   "image": "https://media.internazionale.it/images/2026/11/26/364894-hd.jpg",
-   "url": "https://www.internazionale.it/notizie/giovanni-ansaldo/2026/11/26/patti-smith-soundwalk-collective-milano",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T13:54:52+01:00"
-  },
-  {
-   "id": "cd420d191185",
-   "title": "Reportage da Khasab, il fronte silenzioso affacciato sullo Stretto di Hormuz",
-   "summary": "Rashid (nome di fantasia) è un barcaiolo originario del Bangladesh che lavora per un’agenzia turistica di escursioni giornaliere in mare. Dal suo dhow guarda le piccole barche veloci che dal mare ape…",
-   "image": "https://altreconomia.it/app/uploads/2026/11/4.navi_bloccate_mare-scaled.jpg",
-   "url": "https://altreconomia.it/reportage-da-khasab-il-fronte-silenzioso-affacciato-sullo-stretto-di-hormuz/",
-   "source": "Altreconomia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:53:52+00:00"
-  },
-  {
    "id": "8ee0f4c5fad7",
    "title": "Pagine Erranti: nuovo appuntamento con la raccolta \"Conversazioni Interrotte\"",
    "summary": "BRINDISI - Sabato 28 novembre alle ore 17:00 la Sala Conferenze della Casa di Quartiere Accademia d…",
@@ -1584,17 +2706,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-11-26T13:38:04+01:00"
-  },
-  {
-   "id": "73607b7d0b77",
-   "title": "Migranti, i respingimenti non sono più automaticamente illegali",
-   "summary": "Lo hanno stabilito tre sentenze della Corte europea dei diritti dell'uomo. La decisione si basa sul concetto di «strumentalizzazione della migrazione», affermatosi per volere politico di molti govern…",
-   "image": "https://www.irpimedia.eu/wp-content/uploads/2026/05/attacco-alla-cedu-cover-2-640x400.webp",
-   "url": "https://www.irpimedia.eu/migranti-i-respingimenti-non-sono-piu-automaticamente-illegali/",
-   "source": "IrpiMedia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:22:15+00:00"
   },
   {
    "id": "0e0f9b0bdc5a",
@@ -1628,17 +2739,6 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-11-26T13:05:00+01:00"
-  },
-  {
-   "id": "a242091ee3df",
-   "title": "La disinformazione sull’Ucraina e il metodo Barbero",
-   "summary": "Nel suo intervento al Campus Einaudi, Alessandro Barbero ha riproposto ricostruzioni false, fuorvianti o distorte sulla guerra Russia-Ucraina, usando categorie storiche per normalizzare l'invasione r…",
-   "image": null,
-   "url": "https://www.valigiablu.it/barbero-disinformazione-russia-ucraina-guerra/",
-   "source": "Valigia Blu",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:03:35+00:00"
   },
   {
    "id": "7021d6d33aa7",
@@ -1740,72 +2840,6 @@
    "published_at": "2026-11-26T12:42:00+01:00"
   },
   {
-   "id": "f17f23de02b9",
-   "title": "Bologna, incendio in un condominio: evacuati 50 residenti, 14 persone intossicate",
-   "summary": "",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/100247474-4ef42446-5857-4c67-9879-387e9346b77d.jpeg",
-   "url": "https://www.tgcom24.mediaset.it/cronaca/foto/bologna-incendio-in-un-condominio-evacuati-50-residenti-13-persone-intossicate_119440472-202602k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T11:36:43+00:00"
-  },
-  {
-   "id": "76ad558adb4c",
-   "title": "Femminicidio e suicidio, lo psichiatra Mendolicchio: \"La separazione è un momento particolarmente pericoloso nelle relazioni violente\"",
-   "summary": "Dalla volontà di possesso al controllo coercitivo, dal rischio di emulazione ai segnali d'allarme: parla lo psichiatra e psicoterapeuta",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/105904450-eb64e259-a89e-4356-8fd6-bded06b6d170.jpg",
-   "url": "https://www.tgcom24.mediaset.it/cronaca/femminicidio-suicidio-psicologia-emulazione-mendolicchio_119441712-202602k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T11:33:44+00:00"
-  },
-  {
-   "id": "61193d6aafc6",
-   "title": "Omicidio-suicidio Pistoia, l'auto in fiamme del presunto assassino sul viadotto dell'A1",
-   "summary": "I conducenti dei mezzi che stavano passando sul viadotto Lora dell'A1 hanno filmato l'auto di Andrea Nardini, il presunto femminicida di Ionela Miruna Garnaeta. La ragazza, 24 anni, è stata rinvenuta…",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/113043497-cb4e6cde-b846-42aa-9318-997dec2749fb.png",
-   "url": "https://www.tgcom24.mediaset.it/2026/video/omicidio-suicidio-pistoia-l-auto-in-fiamme-del-presunto-assassino-sul-viadotto-dell-a1-_119442386-02k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T11:31:41+00:00"
-  },
-  {
-   "id": "47c1fb86005a",
-   "title": "“Si sono arrampicati sui tubi di scarico, hanno forzato la finestra della cabina armadio di William e Kate e hanno rubato gioielli e un orologio”: arrestati due 30enni, è caccia al terzo complice",
-   "summary": "La polizia inglese ha fermato un 34enne e un 32enne di origine albanese, che sono accusati di essersi introdotti ad Anmer Hall, nella tenuta di Sandringham, la sera del 23 novembre scorso. In quel mo…",
-   "image": null,
-   "url": "https://www.ilfattoquotidiano.it/2026/11/26/si-sono-arrampicati-sui-tubi-di-scarico-hanno-forzato-la-finestra-della-cabina-armadio-di-william-e-kate-e-hanno-rubato-gioielli-e-un-orologio-arrestati-due-30enni-e-caccia-al-terzo-complice/8584432/",
-   "source": "Il Fatto Quotidiano",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T11:30:52+00:00"
-  },
-  {
-   "id": "cc1462540588",
-   "title": "Incendio in un palazzo di Bologna: ferite 14 persone, tre sono in gravi condizioni",
-   "summary": "Quattordici persone, di cui tre in gravi condizioni e alcuni bambini piccoli coinvolti. Sono gli intossicati in un grosso incendio che si è sviluppato nella notte a Bologna, in un condominio di via C…",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/113015075-3bc65c75-14de-4912-acaf-b83e8aef1c9b.jpg",
-   "url": "https://www.tgcom24.mediaset.it/2026/video/incendio-in-un-palazzo-di-bologna-ferite-14-persone-tre-sono-in-gravi-condizioni_119442388-02k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T11:30:00+00:00"
-  },
-  {
-   "id": "2311fc4e166b",
-   "title": "Perché l’Europa è allo sbando nelle trattative per l’Ucraina",
-   "summary": "di Stefano Briganti “C’è troppo odio” è l’affermazione di Trump riferendosi ad un accordo tra Ucraina e Russia. L’odio tra i contendenti che si confrontano sul campo di battaglia, dove i loro figli s…",
-   "image": null,
-   "url": "https://www.ilfattoquotidiano.it/2026/11/26/guerra-russia-ucraina-europa-trattative-garanzie-sicurezza-opinione/8583358/",
-   "source": "Il Fatto Quotidiano",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T11:29:20+00:00"
-  },
-  {
    "id": "c700ea9c62a4",
    "title": "Ex Foro Boario, il Tar dice no allo stop. L’iter del multipiano prosegue",
    "summary": "LECCE - I 29 milioni destinati al nuovo hub dell’ex Foro Boario pesano sulla prima decisione del Tar di Lecce. Il Comune può portare avanti la procedura per il parcheggio multipiano mentre...",
@@ -1815,28 +2849,6 @@
    "category": "Cronaca",
    "zone": "Lecce",
    "published_at": "2026-11-26T12:28:52+01:00"
-  },
-  {
-   "id": "fdc56732db24",
-   "title": "Luca Barbarossa: “Scrivere su Gaza per dovere? Riduttivo. Se uno canta solo del Rolex e della Ferrari a me non me ne frega niente. Dopo tante rivoluzioni tradite è ora di credere nei cambiamenti”",
-   "summary": "“Pepita e la rivoluzione” è il nuovo disco di inediti di Luca Barbarossa, in uscita il 27 novembre. È un album dal suono caldo e “umano”, registrato con tutti i musicisti nello stesso studio, nato da…",
-   "image": null,
-   "url": "https://www.ilfattoquotidiano.it/2026/11/26/luca-barbarossa-scrivere-su-gaza-per-dovere-riduttivo-se-uno-canta-solo-del-rolex-e-della-ferrari-a-me-non-me-ne-frega-niente/8584416/",
-   "source": "Il Fatto Quotidiano",
-   "category": "Eventi",
-   "zone": "Italia",
-   "published_at": "2026-11-26T11:27:59+00:00"
-  },
-  {
-   "id": "f7428f3188c6",
-   "title": "IrpiMedia si rinnova: un nuovo sito e una campagna di comunicazione firmati Stormi Studio",
-   "summary": "Il progetto per rafforzare la riconoscibilità del periodico, ampliare il pubblico e costruire nuove forme di partecipazione e sostegno al giornalismo indipendente The post IrpiMedia si rinnova: un nu…",
-   "image": "https://www.irpimedia.eu/wp-content/uploads/2026/11/IrpiMedia-DirittiLavoro-1x1-1-1024x1024.png",
-   "url": "https://www.irpimedia.eu/irpimedia-si-rinnova-nuovo-sito-campagna-di-comunicazione-con-stormi-studio/",
-   "source": "IrpiMedia",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T11:26:22+00:00"
   },
   {
    "id": "f33a2af27d89",
@@ -1850,17 +2862,6 @@
    "published_at": "2026-11-26T12:26:05+01:00"
   },
   {
-   "id": "eaf89ac104e6",
-   "title": "“Avere un padre anziano è un dono enorme. Eppure, a volte vorrei che non avesse 82 anni. La danza? A 13 anni ho subito un intervento alla colonna vertebrale, non ballo più da professionista”: parla Carys Douglas",
-   "summary": "Carys Douglas è la figlia di Michael Douglas e Catherine Zeta-Jones e la sua vita ha a che fare con il mondo dello spettacolo da prima ancora che nascesse. Sua madre, infatti, ritirò l’Oscar per “Chi…",
-   "image": null,
-   "url": "https://www.ilfattoquotidiano.it/2026/11/26/avere-un-padre-anziano-e-un-dono-enorme-eppure-a-volte-vorrei-che-non-avesse-82-anni-la-danza-a-13-anni-ho-subito-un-intervento-alla-colonna-vertebrale-parla-carys-douglas/8584280/",
-   "source": "Il Fatto Quotidiano",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T11:25:33+00:00"
-  },
-  {
    "id": "8321fc426c7c",
    "title": "Comunicare sé stessi attraverso l’arte scenica - laboratorio di orientamento",
    "summary": "PROGETTO ‘POGGIARDO LAVORO AL CENTRO’AZIONE A ORIENTATION LAB'COMUNICARE SÉ STESSI ATTRAVERSO…",
@@ -1870,28 +2871,6 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-11-26T12:22:40+01:00"
-  },
-  {
-   "id": "056b03d10f1c",
-   "title": "Esplosione in un impianto petrolifero a Bangkok: diversi feriti",
-   "summary": "Un'esplosione si è verificata in un importante impianto petrolifero di Bangkok. Al momento ci sarebbero nove feriti, alcuni dei quali in condizioni serie. La Bangchak Corp., proprietaria dell'impiant…",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/111704155-d2fd2cc6-3543-445e-ace5-b78a409a4b8b.jpg",
-   "url": "https://www.tgcom24.mediaset.it/2026/video/esplosione-impianto-petrolifero-bangkok-feriti_119442256-02k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T11:22:00+00:00"
-  },
-  {
-   "id": "d6635014f583",
-   "title": "De Gennaro, Travaglio a La7: “Colosimo vuole riscrivere la storia delle stragi con la fesseria su Mafia-Appalti. Una vergogna più grave di ‘Ruby nipote di Mubarak'”",
-   "summary": "“La presidente della commissione Antimafia, Chiara Colosimo, vuole andare dritta come un fuso sulla pista Mafia-Appalti per scrivere, a nome del Parlamento italiano, una cosa che farebbe vergogna alm…",
-   "image": null,
-   "url": "https://www.ilfattoquotidiano.it/2026/11/26/de-gennaro-travaglio-a-la7-colosimo-vuole-riscrivere-la-storia-delle-stragi-con-la-fesseria-su-mafia-appalti-una-vergogna-piu-grave-di-ruby-nipote-di-mubarak/8584133/",
-   "source": "Il Fatto Quotidiano",
-   "category": "Politica",
-   "zone": "Italia",
-   "published_at": "2026-11-26T11:21:44+00:00"
   },
   {
    "id": "2a096da87604",
@@ -1916,28 +2895,6 @@
    "published_at": "2026-11-26T12:19:01+01:00"
   },
   {
-   "id": "5f9457da8c31",
-   "title": "“Sono ancora in gran forma, il mio corpo risponde sempre in modo positivo. L’omicidio di Kennedy? Già da bambino capii che erte cose non tornavano affatto”: così John Travolta al Torino Film Festival",
-   "summary": "Dalle scarpe bianche di Sanremo ai guanti neri del 44esimo Torino Film Festival. Deve essere l’aria delle Alpi a suggerire a John Travolta questi testacoda cromatici. Così se al Festival della canzon…",
-   "image": null,
-   "url": "https://www.ilfattoquotidiano.it/2026/11/26/sono-ancora-in-gran-forma-il-mio-corpo-risponde-sempre-in-modo-positivo-lomicidio-di-kennedy-gia-da-bambino-capii-che-erte-cose-non-tornavano-affatto-cosi-john-travolta-al-tori/8584405/",
-   "source": "Il Fatto Quotidiano",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T11:17:44+00:00"
-  },
-  {
-   "id": "8f6a88967df6",
-   "title": "De Gennaro, Travaglio a La7: “Perché passò a Repubblica i verbali sui soldi di Berlusconi a Cosa nostra? L’Antimafia si occupi di questo invece di inseguire favolette”",
-   "summary": "“Questa è proprio la lettera rubata di Edgar Allan Poe che sta al centro della stanza e tutti fingono di non vederla, andando a cercare nei nascondigli strani. La lettera è lì in mezzo, nel posto più…",
-   "image": null,
-   "url": "https://www.ilfattoquotidiano.it/2026/11/26/de-gennaro-travaglio-a-la7-perche-passo-a-repubblica-i-verbali-sui-soldi-di-berlusconi-a-cosa-nostra-lantimafia-si-occupi-di-questo-invece-di-inseguire-favolette/8584109/",
-   "source": "Il Fatto Quotidiano",
-   "category": "Politica",
-   "zone": "Italia",
-   "published_at": "2026-11-26T11:17:25+00:00"
-  },
-  {
    "id": "10d8af427ef6",
    "title": "Voci e versi contro la violenza al Giorgi",
    "summary": "",
@@ -1960,17 +2917,6 @@
    "published_at": "2026-11-26T12:06:23+01:00"
   },
   {
-   "id": "fe0a1b7b1161",
-   "title": "Se si spengono i satelliti",
-   "summary": "Da quando è iniziata la guerra in Iran, le immagini satellitari a disposizione dei giornali sono sempre meno e di qualità peggiore Leggi",
-   "image": "https://media.internazionale.it/images/2026/11/25/364754-hd.jpg",
-   "url": "https://www.internazionale.it/notizie/donata-columbro/2026/11/26/se-si-spengono-i-satelliti-columbro",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:05:56+01:00"
-  },
-  {
    "id": "55602224d11e",
    "title": "Investimento mortale: si è costituto l'automobilista",
    "summary": "",
@@ -1980,17 +2926,6 @@
    "category": "Cronaca",
    "zone": "Brindisi",
    "published_at": "2026-11-26T11:03:41+00:00"
-  },
-  {
-   "id": "b77f2f6d981a",
-   "title": "“Alcune cose sono davvero difficili da dire”: Justin Timberlake a nudo su Britney Spears, Janet Jackson e l’arresto del 2024 nella nuova docuserie",
-   "summary": "Justin Timberlake non ci gira intorno: “Ci sono cose davvero difficili da raccontare”. Il cantante prova a farlo davanti alla telecamera: trent’anni di carriera, successi e cadute in Timberlake, docu…",
-   "image": null,
-   "url": "https://www.ilfattoquotidiano.it/2026/11/26/alcune-cose-sono-davvero-difficili-da-dire-justin-timberlake-a-nudo-su-britney-spears-janet-jackson-e-larresto-del-2024-nella-nuova-docuserie/8584325/",
-   "source": "Il Fatto Quotidiano",
-   "category": "Eventi",
-   "zone": "Italia",
-   "published_at": "2026-11-26T11:02:52+00:00"
   },
   {
    "id": "4e44ff20bc45",
@@ -2004,149 +2939,6 @@
    "published_at": "2026-11-26T11:02:22+00:00"
   },
   {
-   "id": "e85d64148b65",
-   "title": "La Camera approva il decreto scuola: 142 i sì, 112 i no",
-   "summary": "Gli astenuti sono stati 4. Sul provvedimento il governo aveva posto la fiducia",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/26/110102127-ad326294-8626-413f-b2b8-86feb18458f8.png",
-   "url": "https://www.tgcom24.mediaset.it/politica/camera-approvazione-decreto-scuola_119441711-202602k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T11:02:10+00:00"
-  },
-  {
-   "id": "444ba662b0fc",
-   "title": "Scorpione",
-   "summary": "Secoli fa, quando i navigatori europei esploravano... Leggi",
-   "image": "https://static.internazionale.it/assets/img/internazionale-icon.png",
-   "url": "https://www.internazionale.it/oroscopo/2026/11/26/scorpione-26-novembre-2-dicembre-2026",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:01:36+01:00"
-  },
-  {
-   "id": "3c7921d6d188",
-   "title": "Capricorno",
-   "summary": "Sono grato per la psicoterapia che ho fatto nel corso... Leggi",
-   "image": "https://static.internazionale.it/assets/img/internazionale-icon.png",
-   "url": "https://www.internazionale.it/oroscopo/2026/11/26/capricorno-26-novembre-2-dicembre-2026",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:01:36+01:00"
-  },
-  {
-   "id": "9e3ead0675d5",
-   "title": "Acquario",
-   "summary": "I salmoni migratori si orientano usando vari sistemi.... Leggi",
-   "image": "https://static.internazionale.it/assets/img/internazionale-icon.png",
-   "url": "https://www.internazionale.it/oroscopo/2026/11/26/acquario-26-novembre-2-dicembre-2026",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:01:36+01:00"
-  },
-  {
-   "id": "6a82b595cd45",
-   "title": "Ariete",
-   "summary": "Quando mi sintonizzo sul tuo prossimo futuro, immagino... Leggi",
-   "image": "https://static.internazionale.it/assets/img/internazionale-icon.png",
-   "url": "https://www.internazionale.it/oroscopo/2026/11/26/ariete-26-novembre-2-dicembre-2026",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:01:36+01:00"
-  },
-  {
-   "id": "cfef87a54cae",
-   "title": "Toro",
-   "summary": "Anche se siamo buoni e gentili, ciascuno di noi porta... Leggi",
-   "image": "https://static.internazionale.it/assets/img/internazionale-icon.png",
-   "url": "https://www.internazionale.it/oroscopo/2026/11/26/toro-26-novembre-2-dicembre-2026",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:01:36+01:00"
-  },
-  {
-   "id": "c0dd54840c36",
-   "title": "Gemelli",
-   "summary": "Secondo le statistiche, durante il tuo viaggio sul... Leggi",
-   "image": "https://static.internazionale.it/assets/img/internazionale-icon.png",
-   "url": "https://www.internazionale.it/oroscopo/2026/11/26/gemelli-26-novembre-2-dicembre-2026",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:01:36+01:00"
-  },
-  {
-   "id": "0af53eef3ef1",
-   "title": "Cancro",
-   "summary": "Secondo il mito, Psiche finisce nei guai con Afrodite... Leggi",
-   "image": "https://static.internazionale.it/assets/img/internazionale-icon.png",
-   "url": "https://www.internazionale.it/oroscopo/2026/11/26/cancro-26-novembre-2-dicembre-2026",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:01:36+01:00"
-  },
-  {
-   "id": "c687b2eae05d",
-   "title": "Leone",
-   "summary": "Sto preparando una guida di autoaiuto per un nuovo... Leggi",
-   "image": "https://static.internazionale.it/assets/img/internazionale-icon.png",
-   "url": "https://www.internazionale.it/oroscopo/2026/11/26/leone-26-novembre-2-dicembre-2026",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:01:36+01:00"
-  },
-  {
-   "id": "1fe97e3b1033",
-   "title": "Sagittario",
-   "summary": "Ogni anno la sterna artica migra fino all’Antartide... Leggi",
-   "image": "https://static.internazionale.it/assets/img/internazionale-icon.png",
-   "url": "https://www.internazionale.it/oroscopo/2026/11/26/sagittario-26-novembre-2-dicembre-2026",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:01:36+01:00"
-  },
-  {
-   "id": "4ea418db116c",
-   "title": "Pesci",
-   "summary": "Quali idee e sentimenti occupano costantemente la tua... Leggi",
-   "image": "https://static.internazionale.it/assets/img/internazionale-icon.png",
-   "url": "https://www.internazionale.it/oroscopo/2026/11/26/pesci-26-novembre-2-dicembre-2026",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:01:35+01:00"
-  },
-  {
-   "id": "af5ccff1ce95",
-   "title": "Vergine",
-   "summary": "L’incubazione è la tua metafora. Spero che ti prenderai... Leggi",
-   "image": "https://static.internazionale.it/assets/img/internazionale-icon.png",
-   "url": "https://www.internazionale.it/oroscopo/2026/11/26/vergine-26-novembre-2-dicembre-2026",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:01:35+01:00"
-  },
-  {
-   "id": "a78a0f26d96d",
-   "title": "Bilancia",
-   "summary": "Di tanto in tanto i musei riscoprono capolavori rimasti... Leggi",
-   "image": "https://static.internazionale.it/assets/img/internazionale-icon.png",
-   "url": "https://www.internazionale.it/oroscopo/2026/11/26/bilancia-26-novembre-2-dicembre-2026",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:01:35+01:00"
-  },
-  {
    "id": "e56d8e48459d",
    "title": "Bari: alla Polilibrary del Politecnico il primo bagno gender neutral",
    "summary": "",
@@ -2156,83 +2948,6 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-26T11:01:13+00:00"
-  },
-  {
-   "id": "7b03820d3aee",
-   "title": "Giornata violenta",
-   "summary": "Un attacco con droni carichi di esplosivo ha colpito un edificio a pochi metri da una caserma di polizia di Cúcuta, in Colombia, vicino al confine con il Venezuela Leggi",
-   "image": "https://media.internazionale.it/images/2026/11/25/364771-hd.jpg",
-   "url": "https://www.internazionale.it/magazine/2026/11/26/giornata-violenta",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:00:00+01:00"
-  },
-  {
-   "id": "d446d98fa769",
-   "title": "Il ritorno di Jensen Huang non chiude la crisi",
-   "summary": "Il fondatore della Nvidia è di nuovo al comando ma ritrova un’azienda più fragile. Tra indagini del congresso, tensioni interne e controlli sulle esportazioni sempre più severi Leggi",
-   "image": "https://media.internazionale.it/images/2026/11/26/364883-hd.jpg",
-   "url": "https://www.internazionale.it/magazine/2026/11/26/il-ritorno-di-jensen-huang-non-chiude-la-crisi",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:00:00+01:00"
-  },
-  {
-   "id": "a6d9e630e246",
-   "title": "Tentazione etnica",
-   "summary": "La premier danese Mette Frederiksen è al centro di accese polemiche dopo le dichiarazioni rilasciate nella puntata del 17 novembre del podcast Borderlig tabloid, in cui… Leggi",
-   "image": "https://static.internazionale.it/assets/img/internazionale-icon.png",
-   "url": "https://www.internazionale.it/magazine/2026/11/26/tentazione-etnica",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:00:00+01:00"
-  },
-  {
-   "id": "fba4ecd301e1",
-   "title": "Un voto decisivo",
-   "summary": "Le elezioni legislative del 29 novembre si annunciano estremamente incerte: come scrivono i quotidiani El País ed El Mundo la media dei sondaggi condotti fino al 23 novembre,… Leggi",
-   "image": "https://media.internazionale.it/images/2026/11/25/364763-hd.jpg",
-   "url": "https://www.internazionale.it/magazine/2026/11/26/un-voto-decisivo",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:00:00+01:00"
-  },
-  {
-   "id": "3c221457a192",
-   "title": "La guerra oltre i confini",
-   "summary": "Pochi giorni dopo il vertice di Shenzhen del 19 novembre, in cui Vladimir Putin, Xi Jinping e Donald Trump hanno ribadito le proprie posizioni senza fare passi avanti verso… Leggi",
-   "image": "https://media.internazionale.it/images/2026/11/25/364766-hd.jpg",
-   "url": "https://www.internazionale.it/magazine/2026/11/26/la-guerra-oltre-i-confini",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:00:00+01:00"
-  },
-  {
-   "id": "84d37ee2041c",
-   "title": "Equilibri autoritari",
-   "summary": "Da sinistra Vladimir Putin, Xi Jinping e Donald Trump durante il vertice del 19 novembre a Shenzhen. I presidenti di Russia, Cina e Stati Uniti si sono riuniti per la prima… Leggi",
-   "image": "https://media.internazionale.it/images/2026/11/25/364760-hd.jpg",
-   "url": "https://www.internazionale.it/magazine/2026/11/26/equilibri-autoritari",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:00:00+01:00"
-  },
-  {
-   "id": "34eb83f7811c",
-   "title": "Avere",
-   "summary": "In un’unica giornata la Nvidia ha visto aumentare la sua capitalizzazione di una cifra equivalente al prodotto interno lordo annuo di un paese come Taiwan, Polonia o Svizzera Leggi",
-   "image": "https://media.internazionale.it/images/2026/11/26/364933-hd.jpg",
-   "url": "https://www.internazionale.it/magazine/giovanni-de-mauro/2026/11/26/avere",
-   "source": "Internazionale",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-26T12:00:00+01:00"
   },
   {
    "id": "ad80f76f016f",
@@ -3685,758 +4400,43 @@
    "category": "Politica",
    "zone": "Lecce",
    "published_at": "2026-11-25T13:22:05+01:00"
-  },
-  {
-   "id": "6a321800e66d",
-   "title": "Violenza sulle donne, allarme in Capitanata: 765 casi sotto il Codice Rosso in un anno",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/7ca99c0b-8e00-445b-9d6f-11a532c66d4a.jpg",
-   "url": "https://trnews.it/2026/11/25/violenza-sulle-donne-allarme-in-capitanata-765-casi-sotto-il-codice-rosso-in-un-anno",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-11-25T12:22:02+00:00"
-  },
-  {
-   "id": "c2e79adf4418",
-   "title": "La madre di San Carlo Acutis nel Salento: due incontri a Lecce e Casarano",
-   "summary": "Antonia Salzano, madre di San Carlo Acutis, arriva in Salento per due incontri organizzati dalla pr…",
-   "image": "https://citynews-lecceprima.stgy.ovh/~media/original-hi/68781130249461/sancarlo-palazzettosport.jpeg",
-   "url": "https://www.lecceprima.it/eventi/antonia-salzano-lecce-casarano.html",
-   "source": "LeccePrima",
-   "category": "Eventi",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T13:21:26+01:00"
-  },
-  {
-   "id": "3207de8e6336",
-   "title": "25 NOVEMBRE, BARI IN CAMPO CONTRO LA VIOLENZA SULLE DONNE",
-   "summary": "",
-   "image": "https://i.ytimg.com/vi/rx6hcfelC_A/hqdefault.jpg",
-   "url": "https://trnews.it/2026/11/25/25-novembre-bari-in-campo-contro-la-violenza-sulle-donne",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-11-25T12:18:11+00:00"
-  },
-  {
-   "id": "afbc909a01fe",
-   "title": "Dal fortino della droga al tesoro murato, chiusa l’inchiesta: sono tredici gli indagati",
-   "summary": "Notificato l’avviso di conclusione delle indagini firmato dalla Dda di Lecce dopo il blitz di ottobre con undici arresti. Sotto accusa i vertici del gruppo, i canali di rifornimento e la rete dei pus…",
-   "image": "https://citynews-lecceprima.stgy.ovh/~media/original-hi/40368672179391/soldi-16.jpeg",
-   "url": "https://www.lecceprima.it/cronaca/cal-Caputo-chiusa-inchiesta-13-indagati-Melissano-25-novembre-2026.html",
-   "source": "LeccePrima",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T13:09:44+01:00"
-  },
-  {
-   "id": "93e34834b625",
-   "title": "Hub intermodale Ex Foro Boario, la sfida davanti al Tar",
-   "summary": "LECCE - Il comitato ha titolo per impugnare gli atti del nuovo hub intermodale? E che cosa accadrebbe ai 29 milioni di euro destinati all’opera se il contratto non venisse firmato entro la fine...",
-   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_85867123925_1775335411161105.jpg",
-   "url": "https://www.leccesette.it/news/284062813702/lecce-hub-intermodale-ex-foro-boario-sfida-davanti-al-tar",
-   "source": "LecceSette",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T13:06:00+01:00"
-  },
-  {
-   "id": "b8e0b7eea900",
-   "title": "Pietro Pizzuti è il primo ospite di InCorporea Salotto – Spazi di evoluzione",
-   "summary": "NARDO‘ (Lecce) – InCorporea Salotto – Spazi di evoluzione è il salotto invernale di InCorporea, una rassegna culturale interdisciplinare tra neuroscienze, psicologia, arti, corpo e pratiche antiche.…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/pietro-pizzuti-e-il-primo-ospite-di-incorporea-salotto-spazi-di-evoluzione/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T12:01:18+00:00"
-  },
-  {
-   "id": "5b1aefac4cc4",
-   "title": "Maxi parcheggio Ex Foro Boario, il Tar decide sulla sospensiva. Per il Comune fondi a rischio senza il contratto entro l’anno",
-   "summary": "LECCE – Il cantiere dell’ex Foro Boario non è ancora partito, ma per il Comune di Lecce fermare adesso l’iter del nuovo hub intermodale potrebbe mettere a rischio il finanziamento da 29 milioni di eu…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/maxi-parcheggio-ex-foro-boario-il-tar-decide-sulla-sospensiva-per-il-comune-fondi-a-rischio-senza-il-contratto-entro-lanno/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T11:52:51+00:00"
-  },
-  {
-   "id": "a16567610cd3",
-   "title": "Regione Puglia, approvata la variazione di bilancio da 26,4 milioni",
-   "summary": "PUGLIA - Il Consiglio regionale ha approvato, con 30 voti favorevoli e 16 contrari, una variazione di bilancio da 26.419.193,67 euro, l’ultima prima del Bilancio di Previsione 2027. Le risorse...",
-   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_265316226261_1779873861658285.jpg",
-   "url": "https://www.leccesette.it/news/266882944518/regione-puglia-variazione-di-bilancio-da-26-4-milioni",
-   "source": "LecceSette",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-11-25T12:50:00+01:00"
-  },
-  {
-   "id": "1d09b78c6879",
-   "title": "“Fimmine fimmine”: a Borgagne un incontro sulla parità di genere, sui diritti e sulle violenze nel mondo del lavoro",
-   "summary": "In occasione della Giornata internazionale per l’eliminazione della violenza contro le donne, la…",
-   "image": "https://citynews-lecceprima.stgy.ovh/~media/original-hi/66526869151666/fimmine-fimmine-_-a-borgagne-un-incontro-sulla-parita-di-genere-sui-diritti-e-sulle-violenze-nel-mondo-del-lavoro.jpg",
-   "url": "https://www.lecceprima.it/eventi/cultura/parita-genere-borgagne.html",
-   "source": "LeccePrima",
-   "category": "Cultura",
-   "zone": "Salento",
-   "published_at": "2026-11-25T12:48:49+01:00"
-  },
-  {
-   "id": "56633ac508a9",
-   "title": "Minacciò con una pistola un 22enne e suo padre? Patteggia la pena",
-   "summary": "Patteggia a 1 anno e 8 mesi il 71enne di Squinzano accusato di aver minacciato con una pistola padre e figlio a Casalabate dopo il furto di un’auto.",
-   "image": null,
-   "url": "https://www.leccenews24.it/cronaca/patteggiamento-71enne-squinzano-pistola-casalabate.htm",
-   "source": "LecceNews24",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T11:44:57+00:00"
-  },
-  {
-   "id": "4743688b47bc",
-   "title": "Colorata di rosso una panchina del parco pubblico “Luisa della Ratta”",
-   "summary": "Da La Spiga Aps un simbolo contro la violenza sulle donne a Villa Convento",
-   "image": "https://citynews-lecceprima.stgy.ovh/~media/original-hi/42523497019451/comunicato-stampa-17.jpg",
-   "url": "https://www.lecceprima.it/attualita/panchina-rossa-villa-convento.html",
-   "source": "LeccePrima",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-25T12:44:46+01:00"
-  },
-  {
-   "id": "099a7d21691c",
-   "title": "Serie C, per il Casarano il Catania, per il Bari il Savoia. Il Foggia esonera il diesse",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Serie_C_sky_wifi_2025-2026-701x1024.png",
-   "url": "https://trnews.it/2026/11/25/serie-c-per-il-casarano-il-catania-per-il-bari-il-savoia-il-foggia-esonera-il-diesse",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T11:31:09+00:00"
-  },
-  {
-   "id": "b99d80e8b5fc",
-   "title": "Lecce in difficoltà: 1 punto nelle ultime 5 gare. Lunedì la Dea al Via del Mare",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Still0412_00010-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/25/lecce-in-difficolta-1-punto-nelle-ultime-5-gare",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T11:04:30+00:00"
-  },
-  {
-   "id": "8e881d7b095b",
-   "title": "Galatina-Toma Maglie, vietata la vendita dei biglietti ai tifosi ospiti",
-   "summary": "In vista della partita del 29 novembre, la Prefettura di Lecce ha disposto il divieto di vendita dei biglietti per Galatina-Toma Maglie ai residenti di Maglie per motivi di sicurezza.",
-   "image": null,
-   "url": "https://www.leccenews24.it/cronaca/divieto-vendita-biglietti-galatina-toma-maglie-29-novembre.htm",
-   "source": "LecceNews24",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T10:50:30+00:00"
-  },
-  {
-   "id": "2f10c49fd8e0",
-   "title": "25 novembre, Aiello: «Una legge può aiutare a contrastare la violenza, togliere ogni alibi è compito della cultura»",
-   "summary": "In Italia quasi una donna su tre tra i 16 e i 75 anni (il 31,9%) ha subito almeno una volta nella vita una violenza fisica o sessuale. Per circa tre milioni di loro la prima violenza è arrivata...",
-   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_437450462421_1754037135629860.jpg",
-   "url": "https://www.leccesette.it/news/541760851462/unisalento-violenza-contro-le-donne-il-messaggio-di-aiello",
-   "source": "LecceSette",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-25T11:45:43+01:00"
-  },
-  {
-   "id": "176faa9b4a8d",
-   "title": "Tra Coppa e campionato, il Taranto cerca conferme",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/TARANTO-CALCIO-2026-26-PAGINA-FACEBOOK-1024x682.jpeg",
-   "url": "https://trnews.it/2026/11/25/tra-coppa-e-campionato-il-taranto-cerca-conferme",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Taranto",
-   "published_at": "2026-11-25T10:41:49+00:00"
-  },
-  {
-   "id": "27737a9a18d4",
-   "title": "OMICIDIO DI MARIA RITA VALERIO, INTERROGATO L’INDAGATO",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-96-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/25/omicidio-di-maria-rita-valerio-interrogato-lindagato",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-11-25T10:34:51+00:00"
-  },
-  {
-   "id": "3205c19c233d",
-   "title": "Domenica 29 novembre l’anteprima di 8 minuti e 46 secondi per la rassegna Altre latitudini di Principio Attivo Teatro alle Manifatture Knos",
-   "summary": "LECCE – Un fratello e una sorella, un dialogo mai avvenuto, il respiro che scandisce il tempo. Domenica 29 novembre (doppia replica alle 19:00 e 20:45 | ingresso 10 euro – ridotto 8 euro | info e pre…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/domenica-29-novembre-lanteprima-di-8-minuti-e-46-secondi-per-la-rassegna-altre-latitudini-di-principio-attivo-teatro-alle-manifatture-knos/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T10:33:07+00:00"
-  },
-  {
-   "id": "23f4a79a15fc",
-   "title": "Donne Coldiretti Puglia, il filo rosso delle vittime di femminicidio intreccia memoria e libertà. Dal lavoro nei campi nuove opportunità di rinascita",
-   "summary": "PUGLIA – Un filo rosso che custodisce la memoria delle donne vittime di femminicidio e diventa simbolo di una nuova trama fatta di libertà, dignità e indipendenza economica, con le donne dei campi ch…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/donne-coldiretti-puglia-il-filo-rosso-delle-vittime-di-femminicidio-intreccia-memoria-e-liberta-dal-lavoro-nei-campi-nuove-opportunita-di-rinascita/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-25T10:29:54+00:00"
-  },
-  {
-   "id": "ef4fc805f096",
-   "title": "Il Palazzo di giustizia di Lecce si illumina di rosso per dire no alla violenza sulle donne",
-   "summary": "In occasione della Giornata internazionale per l’eliminazione della violenza contro le donne, istituita dall’Assemblea generale delle Nazioni Unite nel 1999, la Corte di appello di Lecce aderisce all…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/il-palazzo-di-giustizia-di-lecce-si-illumina-di-rosso-per-dire-no-alla-violenza-sulle-donne/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T10:20:42+00:00"
-  },
-  {
-   "id": "f334f8bb5cf3",
-   "title": "Il Comandante regionale Puglia, generale di divisione Antonio Quintavalle Cecere in visita al comando provinciale di Lecce",
-   "summary": "Nella giornata di ieri il Comandante Regionale Puglia, Generale di Divisione Antonio N. Quintavalle Cecere si è recato in visita presso la Caserma “M.A.V.M. Giovanni Miccoli” sede del Comando Provinc…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/il-comandante-regionale-puglia-generale-di-divisione-antonio-quintavalle-cecere-in-visita-al-comando-provinciale-di-lecce/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T10:17:20+00:00"
-  },
-  {
-   "id": "67368ab8519f",
-   "title": "Nardò, lavori sulle linee elettriche: chiude via Masserei",
-   "summary": "Come comunicato sul sito istituzionale del Comune di Nardò, per consentire i lavori di scavo sulle linee elettriche per conto di E-Distribuzione, nei prossimi giorni saranno introdotte modifiche...",
-   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_239814857941_179051177540228.jpg",
-   "url": "https://www.leccesette.it/news/404321897990/nard-lavori-sulle-linee-elettriche-chiusa-via-masserei",
-   "source": "LecceSette",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T11:14:00+01:00"
-  },
-  {
-   "id": "0cbd1b44c725",
-   "title": "Al Premio Salento Enogastronomico protagonista Giorgio Locatelli",
-   "summary": "SANTA CESAREA TERME (LECCE) – Una straordinaria serata di valorizzazione dell’enogastronomia salentina. Ieri, martedì 24 novembre, a Santa Cesarea Terme si è svolta la prima edizione del “Premio Sale…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/al-premio-salento-enogastronomico-protagonista-giorgio-locatelli/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T10:11:50+00:00"
-  },
-  {
-   "id": "de15c9034f9c",
-   "title": "Meteo domani 26 novembre 2026 nel Salento: previsioni, temperature e cosa aspettarsi",
-   "summary": "Puglia Condizioni di tempo instabile nel corso della giornata soprattutto sui settori centro-meridionali della regione dove si attendono piogge e temporali sparsi sia al mattino che al pomeriggio. In…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/meteo-domani-26-novembre-2026-nel-salento-previsioni-temperature-e-cosa-aspettarsi/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-25T10:08:55+00:00"
-  },
-  {
-   "id": "94d8a1b60030",
-   "title": "Incendio all’alba: due auto distrutte nel giardino di un’abitazione, danneggiati anche gli infissi",
-   "summary": "BORGO PIAVE (Lecce) –Intervento dei Vigili del Fuoco alle prime luci di questa mattina, mercoledì 25 novembre, in località Borgo Piave, marina di Lecce, dove un rogo ha distrutto due autovetture parc…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/incendio-allalba-due-auto-distrutte-nel-giardino-di-unabitazione-danneggiati-anche-gli-infissi/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T10:00:15+00:00"
-  },
-  {
-   "id": "868ae254e91b",
-   "title": "Futuro Nazionale si organizza nel Salento: la sfida di Vannacci al centrodestra parte da Nardò",
-   "summary": "SALENTO – Un esecutivo provinciale, sei aree di coordinamento, responsabili in oltre trenta comuni e una candidata sindaca a Nardò. Futuro Nazionale si struttura nel Salento e prova a trasformare il…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/futuro-nazionale-si-organizza-nel-salento-la-sfida-di-vannacci-al-centrodestra-parte-da-nardo/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T09:57:08+00:00"
-  },
-  {
-   "id": "be2472fc79a1",
-   "title": "Scherma, bronzo europeo a Grenoble per Anastasia Basile",
-   "summary": "La scherma salentina torna a brillare sul teatro internazionale grazie alla prestazione di Anastasia Basile, giovane talento del Club Scherma Lecce. Nata a Gallipoli, classe 2011, la quindicenne...",
-   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_397118035157_1795549763420934.jpg",
-   "url": "https://www.leccesette.it/news/369962159622/spada-bronzo-europeo-a-grenoble-per-anastasia-basile",
-   "source": "LecceSette",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T10:49:00+01:00"
-  },
-  {
-   "id": "905465478b0c",
-   "title": "Due auto distrutte dalle fiamme all'alba: danneggiata anche una casa",
-   "summary": "Due auto sono state distrutte da un incendio divampato all'alba di oggi, mercoledì 25 novembre, nel giardino di un'abitazione in via Giovanni Miani, a Borgo Piave, marina di Lecce.L’allarme...",
-   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_328398558421_1795598456698780.jpg",
-   "url": "https://www.leccesette.it/news/129443991046/borgo-piave-due-auto-distrutte-da-incendio-casa-danneggiata",
-   "source": "LecceSette",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T10:26:26+01:00"
-  },
-  {
-   "id": "ea6fea78af1c",
-   "title": "Puglia: 1,45 milioni di euro per l’apertura di nuove Case Rifugio",
-   "summary": "In occasione della Giornata internazionale contro la violenza sulle donne, la Regione Puglia presenterà le nuove misure per rafforzare la rete di prevenzione, protezione e accoglienza. La conferenza.…",
-   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_259679081685_1795597172281456.jpg",
-   "url": "https://www.leccesette.it/news/198163467782/puglia-nuove-misure-regionali-a-sostegno-di-rete-antiviolenza",
-   "source": "LecceSette",
-   "category": "Eventi",
-   "zone": "Salento",
-   "published_at": "2026-11-25T09:59:43+01:00"
-  },
-  {
-   "id": "79c3d6c7faf5",
-   "title": "A Leverano, nasce \"Oltre\": la nuova associazione politico culturale",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/915605808_122127483087479714_633036395710872827_n-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/25/a-leverano-nasce-oltre-la-nuova-associazione-politico-culturale",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T08:54:35+00:00"
-  },
-  {
-   "id": "400d7b35fd21",
-   "title": "Valtur Brindisi, Pistoia è alle spalle, la sfida con Vigevano per ripartire",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/valtur-brindisi-2026-foto-pagina-ufficiale-fb-820x1024.jpeg",
-   "url": "https://trnews.it/2026/11/25/valtur-brindisi-pistoia-e-alle-spalle-la-sfida-con-vigevano-per-ripartire",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Brindisi",
-   "published_at": "2026-11-25T08:30:16+00:00"
-  },
-  {
-   "id": "48c1a9133dc4",
-   "title": "Lecce, oltre 20mila presenze negli infopoint. All’ex Agip le escursioni restano al palo",
-   "summary": "LECCE – Oltre quattromila presenze in meno di sette mesi, con le escursioni ancora ferme e i collegamenti per le marine che si diradano proprio quando molti turisti stranieri continuano a chiedere co…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/lecce-oltre-20mila-presenze-negli-infopoint-allex-agip-le-escursioni-restano-al-palo/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T08:26:53+00:00"
-  },
-  {
-   "id": "05cd7796de63",
-   "title": "Giovedì 26 novembre Maria Mazzotta per Strumenti di Pace alle Officine Cantelmo e Loro di Napoli e Confini Labili per MareAperto da Mediterranea",
-   "summary": "LECCE – Giovedì 26 novembre a Lecce due manifestazioni rileggono le tradizioni musicali del Mediterraneo. Alle 19:30 nel Centro Culturale Mediterranea (Palazzo dei Celestini) il festival MareAperto a…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/giovedi-26-novembre-maria-mazzotta-per-strumenti-di-pace-alle-officine-cantelmo-e-loro-di-napoli-e-confini-labili-per-mareaperto-da-mediterranea/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T08:22:27+00:00"
-  },
-  {
-   "id": "928612fd9f13",
-   "title": "Mantovano: in manovra misure di sostegno per le piccole imprese",
-   "summary": "“Le microimprese non rilevano solo dal punto di vista economico e produttivo, rappresentano di più: trasferiscono sapere, tramandano conoscenze, sensibilità, valori alle nuove generazioni di italiani…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/mantovano-in-manovra-misure-di-sostegno-per-le-piccole-imprese/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-25T08:21:55+00:00"
-  },
-  {
-   "id": "1ebf4a66cf67",
-   "title": "Mellone: Torre Squillace avrà una nuova statua di Battisti",
-   "summary": "Torre Squillace avrà una nuova statua dedicata a Lucio Battisti. Lo ha annunciato sui canali social il sindaco di Nardò, Pippi Mellone. Il primo cittadino ha rimarcato come la statua in bronzo oggett…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/mellone-torre-squillace-avra-una-nuova-statua-di-battisti/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T08:18:31+00:00"
-  },
-  {
-   "id": "b5790246f686",
-   "title": "Incidente sulla provinciale per Lecce: due persone in ospedale",
-   "summary": "Incidente stradale nella serata di ieri lungo la provinciale per Lecce, a Brindisi, dove si sono scontrate una Lancia Ypsilon e una Ford Puma. Due persone sono state accompagnate in ospedale per...",
-   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_534556988629_1795594424781224.jpg",
-   "url": "https://www.leccesette.it/news/473041374726/incidente-sulla-provinciale-per-lecce-due-feriti-in-ospedale",
-   "source": "LecceSette",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T09:16:16+01:00"
-  },
-  {
-   "id": "a920badda404",
-   "title": "Artigianato di un mondo che fu alla ribalta",
-   "summary": "Lei, la dottoressa Nunzia Piccinno è una ricercatrice d’Arte Sacra, senza disdegnare uno sguardo sulle cose fatto a mano ed in casa. “Lo zaino da me creato-dichiara la dottoressa Piccinno-non è un se…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/artigianato-di-un-mondo-che-fu-alla-ribalta/",
-   "source": "Corriere Salentino",
-   "category": "Cultura",
-   "zone": "Salento",
-   "published_at": "2026-11-25T08:14:12+00:00"
-  },
-  {
-   "id": "c4d8f0eea9b1",
-   "title": "51enne ferito con un coltello trasportato al Fazzi: giallo sulla dinamica",
-   "summary": "CARMIANO – Nella tarda serata di ieri un 51enne è stato soccorso dai sanitari del 118 e trasferito al Vito Fazzi di Lecce a causa di una ferita da arma da taglio ad un fianco. L'allarme è...",
-   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_449727190229_1749665406315573.jpg",
-   "url": "https://www.leccesette.it/news/60724514310/carmiano-51enne-ferito-con-coltello-giallo-sulla-dinamica",
-   "source": "LecceSette",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T08:45:57+01:00"
-  },
-  {
-   "id": "85da7da8113a",
-   "title": "La “Settimana di Federica” la Dream scende in campo, una voce unita contro ogni violenza",
-   "summary": "Dal 23 al 29 novembre 2026, il movimento pallavolistico pugliese si stringe in un abbraccio ideale e commosso in occasione della “Settimana di Federica”, un’iniziativa promossa dal CR FIPAV Puglia pe…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/la-settimana-di-federica-la-dream-scende-in-campo-una-voce-unita-contro-ogni-violenza/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T07:45:49+00:00"
-  },
-  {
-   "id": "574cfc3629f0",
-   "title": "“Ciclocross del Salento”, spettacolo a Gallipoli: Carnevali e Radesca firmano i successi Open. Ciccarese regala la vittoria di casa",
-   "summary": "Una giornata di sport, agonismo e partecipazione, con il mare di Punta Pizzo a fare da cornice a una manifestazione che ha richiamato nel Salento atleti provenienti da tutta Italia. Il Trofeo Naziona…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/ciclocross-del-salento-spettacolo-a-gallipoli-carnevali-e-radesca-firmano-i-successi-open-ciccarese-regala-la-vittoria-di-casa/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T07:42:40+00:00"
-  },
-  {
-   "id": "0d43b237e477",
-   "title": "Puglia, nasce la Giornata regionale della prevenzione stradale. Basile: \"Ragazzi, abbiate voglia di tornare\"",
-   "summary": "Il Consiglio regionale della Puglia ha approvato l'istituzione della Giornata regionale della prevenzione stradale e della guida responsabile, che sarà celebrata ogni anno il primo venerdì di...",
-   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_280751264981_1772719815485559.jpg",
-   "url": "https://www.leccesette.it/news/335602421254/puglia-nasce-giornata-regionale-della-prevenzione-stradale",
-   "source": "LecceSette",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-11-25T08:37:42+01:00"
-  },
-  {
-   "id": "585ca075cbf9",
-   "title": "Studente leccese morto a Roma, fratello: “Perché nessuno ci ha informato dello sciopero della fame”",
-   "summary": "LECCE – “Vogliamo sapere perché Alessandro è rimasto all’interno del cortile dell’Università della Sapienza per tutti questi giorni senza che nessuno ci informasse. Abbiamo saputo delle condizioni in…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/studente-leccese-morto-a-roma-fratello-perche-nessuno-ci-ha-informato-dello-sciopero-della-fame/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-25T07:14:22+00:00"
-  },
-  {
-   "id": "d5991eb4f562",
-   "title": "Bilancio, Lanotte: \"Cinque milioni nel fondo di riserva, mistero su come verranno spesi\"",
-   "summary": "Polemica sulla variazione di bilancio regionale, con il consigliere di Forza Italia Marcello Lanotte che solleva dubbi sull'accantonamento di cinque milioni di euro nel fondo di riserva.“Nella...",
-   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_184114500821_1772639497237888.jpg",
-   "url": "https://www.leccesette.it/news/232523206150/bilancio-puglia-marcello-lanotte-su-fondo-di-riserva",
-   "source": "LecceSette",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-11-25T08:06:21+01:00"
-  },
-  {
-   "id": "91d1ef79c94b",
-   "title": "L’almanacco di oggi 25 novembre",
-   "summary": "Il Santo del giorno: Santa Caterina. Il proverbio di Mesciu Ronzu: Ti santa Catarina,(25 novembre) la nive s’avvicina. Significato: Di Santa Caterina il 25 Novembre ci stiamo avvicinando all’inverno…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/265824/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-25T06:00:31+00:00"
-  },
-  {
-   "id": "2b66cb71bb62",
-   "title": "Ricetta del giorno: Tocchetti di pollo con peperoni in agrodolce",
-   "summary": "Ingredienti per 4 persone: 800 gr di petto di pollo 2 peperone rossi piccoli 1 peperone giallo piccolo 1 peperoncino verde piccante concentrato di pomodoro farina sale olio evo vino bianco paprika pi…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/ricetta-del-giorno-tocchetti-di-pollo-con-peperoni-in-agrodolce/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-25T05:05:25+00:00"
-  },
-  {
-   "id": "ad2d9180798b",
-   "title": "Ferito al fianco con un coltello: mistero sulla dinamica. Indagini in corso",
-   "summary": "CARMIANO (Lecce) – Accertamenti in corso a Carmiano per ricostruire l’esatta dinamica del ferimento di un uomo di 51 anni, soccorso in serata e trasportato all’ospedale “Vito Fazzi” di Lecce per una…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/ferito-al-fianco-con-un-coltello-mistero-sulla-dinamica-indagini-in-corso/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-24T22:40:42+00:00"
-  },
-  {
-   "id": "cb795913207b",
-   "title": "51enne ferito al fianco, si fa strada l'ipotesi di autolesionismo",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/02/carabinieri-ambulanza-118-notte-2.jpg",
-   "url": "https://trnews.it/2026/11/24/51enne-ferito-al-fianco-si-fa-strada-lipotesi-di-autolesionismo",
-   "source": "TeleRama News",
-   "category": "Cronaca",
-   "zone": "Salento",
-   "published_at": "2026-11-24T21:59:22+00:00"
-  },
-  {
-   "id": "7ee14b9d3328",
-   "title": "8 Agosto, On. Gemma: “via libera alla data storica delle vittime sul lavoro”",
-   "summary": "Gemma (FdI), 8 agosto giornata delle vittime sul lavoro è via libera storico’ GEMMA (FdI), 8 agosto giornata delle vittime sul lavoro è via libera storico’ ‘La dignità e la sicurezza dei lavoratori s…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/8-agosto-on-gemma-via-libera-alla-data-storica-delle-vittime-sul-lavoro/",
-   "source": "Corriere Salentino",
-   "category": "Politica",
-   "zone": "Salento",
-   "published_at": "2026-11-24T21:15:11+00:00"
-  },
-  {
-   "id": "cd74853119e8",
-   "title": "Violenza sulle donne, Banca Popolare Pugliese promuove tre incontri tra Lecce, Gallipoli e Foggia",
-   "summary": "La violenza economica è una forma di abuso spesso invisibile, che può privare le donne della possibilità di gestire il proprio denaro e compiere scelte in autonomia. Per sensibilizzare sul tema,...",
-   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_56737682645_175007714177802.jpg",
-   "url": "https://www.leccesette.it/news/507401113094/violenza-sulle-donne-banca-popolare-pugliese-promuove-tre-incontri-tra-lecce-gallipoli-e-foggia",
-   "source": "LecceSette",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-24T22:12:50+01:00"
-  },
-  {
-   "id": "a4dcd13e9163",
-   "title": "La Spiga APS colora di rosso una panchina del Parco Pubblico “Luisa della Ratta” a Villa Convento: un simbolo contro la violenza sulle donne",
-   "summary": "In occasione della Giornata internazionale contro la violenza sulle donne, che ricorre il 25 novembre, l’associazione di promozione sociale “La Spiga” ha dipinto di rosso una panchina del Parco Pubbl…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/la-spiga-aps-colora-di-rosso-una-panchina-del-parco-pubblico-luisa-della-ratta-a-villa-convento-un-simbolo-contro-la-violenza-sulle-donne/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-24T21:10:25+00:00"
-  },
-  {
-   "id": "2f1a45016104",
-   "title": "Vernole, a scuola un confronto sulla violenza di genere: “Gridare il silenzio” per educare alla libertà",
-   "summary": "Rompere il silenzio, riconoscere il valore del rispetto e imparare a difendere la propria libertà di scelta. Sono i temi al centro di “Gridare il silenzio”, l’incontro che si terrà martedì...",
-   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_122240128213_1795553459660382.jpg",
-   "url": "https://www.leccesette.it/news/95084252678/vernole-a-scuola-un-confronto-sulla-violenza-di-genere-gridare-il-silenzio-per-educare-alla-liberta",
-   "source": "LecceSette",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-24T21:51:44+01:00"
-  },
-  {
-   "id": "838793f60e8b",
-   "title": "Allerta gialla in Puglia: le chiusure nel Comune di Lecce",
-   "summary": "Il Centro Funzionale Decentrato della Regione Puglia ha emesso un nuovo Bollettino di Criticità Regionale: per la giornata di domani, mercoledì 25 novembre, è prevista un'allerta gialla per vento...",
-   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_180155077845_1764757704665453.jpg",
-   "url": "https://www.leccesette.it/news/241113140742/meteo-lecce-allerta-gialla-per-vento-forte-25-novembre",
-   "source": "LecceSette",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-24T21:13:00+01:00"
-  },
-  {
-   "id": "4b5abc650df6",
-   "title": "Il figlio rubò un’auto e alla richiesta di restituzione padre minacciò proprietario con una pistola: 1 anno e 8 mesi a un 71enne",
-   "summary": "CASALABATE (Squinzano) – Il figlio rubò l’auto a un concittadino e, quando la vittima lo rintracciò per chiederne la restituzione, il padre del presunto ladro minacciò il proprietario e il padre di q…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/il-figlio-rubo-unauto-e-alla-richiesta-di-restituzione-padre-minaccio-proprietario-con-una-pistola-1-anno-e-8-mesi-a-un-71enne/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-24T19:26:27+00:00"
-  },
-  {
-   "id": "4f0d7b8a3b79",
-   "title": "Educazione affettiva e lotta alla violenza",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-95-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/24/educazione-affettiva-e-lotta-alla-violenza",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Brindisi",
-   "published_at": "2026-11-24T17:54:11+00:00"
-  },
-  {
-   "id": "44c4cdad40dc",
-   "title": "Potature dei pini in via Bari, i chiarimenti di Comune e Lupiae servizi",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2024/10/palazzo-carafa-1024x681.jpg",
-   "url": "https://trnews.it/2026/11/24/potature-dei-pini-in-via-bari-i-chiarimenti-di-comune-e-lupiae-servizi",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-24T17:53:49+00:00"
-  },
-  {
-   "id": "9ba3e67846db",
-   "title": "Business Forum Italia-Turchia per nuove sinergie",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-94-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/24/business-forum-italia-turchia-per-nuove-sinergie",
-   "source": "TeleRama News",
-   "category": "Altro",
-   "zone": "Brindisi",
-   "published_at": "2026-11-24T17:45:32+00:00"
-  },
-  {
-   "id": "f25321eb1c66",
-   "title": "Individuati e denunciati gli autori del furto della statua in bronzo di Lucio Battisti",
-   "summary": "Torre Squillace (Lecce) – È stata ritrovata la statua di Lucio Battisti dopo il furto messo a segno giorni fa a Torre Squillace, località marina del territorio di Nardò. Alla base dell’opera in bronz…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/9dd3d78e-6903-4051-b5a9-1111341ac535-300x227.jpeg",
-   "url": "https://www.corrieresalentino.it/2026/11/individuati-e-denunciati-gli-autori-del-furto-della-statua-in-bronzo-di-lucio-battisti/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-24T17:44:42+00:00"
-  },
-  {
-   "id": "48dd1d736ee0",
-   "title": "Lecce, gli errori che non perdonano. N’Dri va dritto al punto",
-   "summary": "LECCE – Non basta tenere bene il campo, non è sufficiente riuscire a limitare gli avversari e nemmeno creare qualche buona occasione. In Serie A bisogna essere capaci di trasformare il lavoro in camp…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/lecce-gli-errori-che-non-perdonano-ndri-va-dritto-al-punto/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-24T17:43:24+00:00"
-  },
-  {
-   "id": "0d47fadcf628",
-   "title": "Galatina, all’arte il compito di parlare di non violenza: donata un’opera alla Polizia di Stato",
-   "summary": "GALATINA (Lecce) – Un messaggio visivo contro la violenza, per promuovere il dialogo e il rispetto reciproco all’interno delle istituzioni. Si è svolta questa mattina, presso il Commissariato di Poli…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/galatina-allarte-il-compito-di-parlare-di-non-violenza-donata-unopera-alla-polizia-di-stato/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Lecce",
-   "published_at": "2026-11-24T17:41:28+00:00"
-  },
-  {
-   "id": "7fed1ce0b630",
-   "title": "Kombat Mania XVI, vittoria prima del limite per Luca Licastro della Zero Scuse Asd",
-   "summary": "Vittoria prima del limite per Luca Licastro della Zero Scuse Asd. Circolare al fegato e match terminato al secondo round nel gala Kombatmania svoltosi lo scorso sabato a Terlizzi sotto l’egida di Fig…",
-   "image": "https://www.corrieresalentino.it/wp-content/uploads/2026/11/912550946_18022134506958459_4341981268857441464_n-240x300.jpg",
-   "url": "https://www.corrieresalentino.it/2026/11/kombat-mania-xvi-vittoria-prima-del-limite-per-luca-licastro-della-zero-scuse-asd/",
-   "source": "Corriere Salentino",
-   "category": "Sport",
-   "zone": "Salento",
-   "published_at": "2026-11-24T17:02:53+00:00"
-  },
-  {
-   "id": "232c25f9d471",
-   "title": "Recuperata la statua di Lucio Battisti rubata a Torre Squillace: denunciati in tre",
-   "summary": "La Polizia di Stato ha recuperato la statua in bronzo dedicata a Lucio Battisti, rubata nella notte tra il 20 e il 21 novembre a Torre Squillace, marina di Nardò.Gli accertamenti e la ricostruzione...",
-   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_156599866581_1795538853594491.jpg",
-   "url": "https://www.leccesette.it/news/163803729414/nard-recuperata-statua-lucio-battisti-rubata-a-torre-squillace",
-   "source": "LecceSette",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-24T18:01:00+01:00"
-  },
-  {
-   "id": "6f053a28abf3",
-   "title": "Premio Ambasciatore Terre di Puglia, l'eccellenza",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/11/maxresdefault-91-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/24/premio-ambasciatore-terre-di-puglia-leccellenza",
-   "source": "TeleRama News",
-   "category": "Eventi",
-   "zone": "Taranto",
-   "published_at": "2026-11-24T16:45:56+00:00"
-  },
-  {
-   "id": "f86a0f877b0d",
-   "title": "“Sono un’emissaria della Chiesa, le do una benedizione”: 63enne raggira anziana e fugge con 40.000 euro",
-   "summary": "MONTERONI (Lecce) – Per convincere un’anziana affetta da un principio di demenza senile a farsi consegnare soldi e oggetti di valore si è spacciata per un’emissaria della Chiesa promettendo alla vitt…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/sono-unemissaria-della-chiesa-le-do-una-benedizione-63enne-raggira-anziana-e-fugge-con-40-000-euro/",
-   "source": "Corriere Salentino",
-   "category": "Cronaca",
-   "zone": "Lecce",
-   "published_at": "2026-11-24T16:31:44+00:00"
-  },
-  {
-   "id": "1fa25ee68a1e",
-   "title": "Lecce in campo, terapie per Pierotti, Kaba in differenziato",
-   "summary": "",
-   "image": "https://wp.trnews.it/wp-content/uploads/2026/10/Still0412_00010-1024x576.jpg",
-   "url": "https://trnews.it/2026/11/24/lecce-in-campo-terapie-per-pierotti-kaba-in-differenziato",
-   "source": "TeleRama News",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-24T16:26:58+00:00"
-  },
-  {
-   "id": "8f835c5476cf",
-   "title": "Verso Lecce-Atalanta: riprende la preparazione dei giallorossi",
-   "summary": "È ripresa nel pomeriggio la preparazione del Lecce in vista della sfida contro l’Atalanta, in programma lunedì alle 18:30 al Via del Mare.Il report odiernoAl Centro Sportivo di Martignano i...",
-   "image": "https://slyvi-tstorage.fra1.digitaloceanspaces.com/l100750213320_tml668590913281_29294351573_1762876902507344.jpg",
-   "url": "https://www.leccesette.it/news/438681636358/verso-lecce-atalanta-riprende-la-preparazione",
-   "source": "LecceSette",
-   "category": "Sport",
-   "zone": "Lecce",
-   "published_at": "2026-11-24T17:19:36+01:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-27T03:19:41.031821+00:00",
+   "last_ok": "2026-11-27T12:50:00.331612+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-27T03:19:41.031821+00:00",
+   "last_ok": "2026-11-27T12:50:00.331612+00:00",
    "error": null
   },
   {
    "source": "LecceNews24",
    "ok": true,
-   "last_ok": "2026-11-27T03:19:41.031821+00:00",
+   "last_ok": "2026-11-27T12:50:00.331612+00:00",
    "error": null
   },
   {
    "source": "LeccePrima",
    "ok": true,
-   "last_ok": "2026-11-27T03:19:41.031821+00:00",
+   "last_ok": "2026-11-27T12:50:00.331612+00:00",
    "error": null
   },
   {
    "source": "LecceSette",
    "ok": true,
-   "last_ok": "2026-11-27T03:19:41.031821+00:00",
+   "last_ok": "2026-11-27T12:50:00.331612+00:00",
    "error": null
   },
   {
    "source": "BrindisiReport",
    "ok": true,
-   "last_ok": "2026-11-27T03:19:41.031821+00:00",
+   "last_ok": "2026-11-27T12:50:00.331612+00:00",
    "error": null
   },
   {
@@ -4448,43 +4448,43 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-27T03:19:41.031821+00:00",
+   "last_ok": "2026-11-27T12:50:00.331612+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-27T03:19:41.031821+00:00",
+   "last_ok": "2026-11-27T12:50:00.331612+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-27T03:19:41.031821+00:00",
+   "last_ok": "2026-11-27T12:50:00.331612+00:00",
    "error": null
   },
   {
    "source": "Openpolis",
    "ok": true,
-   "last_ok": "2026-11-27T03:19:41.031821+00:00",
+   "last_ok": "2026-11-27T12:50:00.331612+00:00",
    "error": null
   },
   {
    "source": "Internazionale",
    "ok": true,
-   "last_ok": "2026-11-27T03:19:41.031821+00:00",
+   "last_ok": "2026-11-27T12:50:00.331612+00:00",
    "error": null
   },
   {
    "source": "TGCOM24",
    "ok": true,
-   "last_ok": "2026-11-27T03:19:41.031821+00:00",
+   "last_ok": "2026-11-27T12:50:00.331612+00:00",
    "error": null
   },
   {
    "source": "Il Fatto Quotidiano",
    "ok": true,
-   "last_ok": "2026-11-27T03:19:41.031821+00:00",
+   "last_ok": "2026-11-27T12:50:00.331612+00:00",
    "error": null
   }
  ]
