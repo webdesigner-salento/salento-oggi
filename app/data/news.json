@@ -1,6 +1,17 @@
 {
- "updated_at": "2026-11-27T21:41:56.411357+00:00",
+ "updated_at": "2026-11-28T03:36:16.203362+00:00",
  "items": [
+  {
+   "id": "7fd4db1f8e49",
+   "title": "Gaza, attacco Idf vicino a ospedale: uccisi due operatori Msf",
+   "summary": "Le vittime erano in servizio per il turno di notte",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/220224714-b66de589-d0ff-47d3-8ea1-60ed72c63d90.jpg",
+   "url": "https://www.tgcom24.mediaset.it/mondo/gaza-attacco-idf-vicino-a-ospedale-uccisi-due-operatori-msf_119504113-202602k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T22:57:48+00:00"
+  },
   {
    "id": "7c21faf49a13",
    "title": "Zelensky sente Meloni: \"A Bengasi raid senza coordinamento con partner\" | L'Ambasciata russa: \"Kiev potrebbe usare Italia come base per nuovo raid\"",
@@ -10,7 +21,40 @@
    "source": "TGCOM24",
    "category": "Altro",
    "zone": "Italia",
-   "published_at": "2026-11-27T21:26:31+00:00"
+   "published_at": "2026-11-27T22:27:10+00:00"
+  },
+  {
+   "id": "5f7886227f33",
+   "title": "Venezia: sparatoria tra polizia e tre persone: morto un giovane, in fuga un secondo uomo",
+   "summary": "I poliziotti, giunti dalla Campania, dovevano eseguire un provvedimento d'arresto. In corso una vasta operazione per rintracciare il fuggitivo armato",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/183529676-56f50283-30e3-4e4c-acfd-f50b33d89d0b.jpg",
+   "url": "https://www.tgcom24.mediaset.it/cronaca/venezia-sparatoria-tra-polizia-e-ricercati-morto-un-giovane-in-fuga-un-secondo-uomo-_119495874-202602k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T22:24:24+00:00"
+  },
+  {
+   "id": "dc118874150c",
+   "title": "Coppa Davis, la scena più attesa dopo il punto che regala la finale: l’abbraccio tra Musetti e Berrettini",
+   "summary": "Prima la vittoria in singolare contro Jakub Mensik con la sua miglior prestazione stagionale, poi ha giganteggiato anche nel doppio insieme ad Andrea Vavassori, infine un abbraccio sentito, intenso c…",
+   "image": null,
+   "url": "https://www.ilfattoquotidiano.it/2026/11/27/coppa-davis-musetti-berrettini-abbraccio-finale/8586376/",
+   "source": "Il Fatto Quotidiano",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T22:05:33+00:00"
+  },
+  {
+   "id": "e157e9c767f6",
+   "title": "Foggia, altra sconfitta. Esordio amaro per Troise",
+   "summary": "",
+   "image": "https://wp.trnews.it/wp-content/uploads/2025/07/satanelli-678x360-1.jpg",
+   "url": "https://trnews.it/2026/11/27/522830",
+   "source": "TeleRama News",
+   "category": "Sport",
+   "zone": "Salento",
+   "published_at": "2026-11-27T21:41:33+00:00"
   },
   {
    "id": "31fd7448b108",
@@ -46,6 +90,17 @@
    "published_at": "2026-11-27T21:07:48+00:00"
   },
   {
+   "id": "d35f4ad9af43",
+   "title": "Strisce blu, via libera ai correttivi. Poli Bortone rivendica il piano della sosta",
+   "summary": "Tutto come previsto: respinta la richiesta di sospensione del centrosinistra, passa la mozione della maggioranza con la lista delle modifiche. La sindaca: “Una città ordinata e con un trasporto pubbl…",
+   "image": "https://citynews-lecceprima.stgy.ovh/~media/original-hi/17192362549342/lin01737-2.jpg",
+   "url": "https://www.lecceprima.it/politica/lecce-piano-sosta-approvata-mozione-correttivi-poli-bortone.html",
+   "source": "LeccePrima",
+   "category": "Politica",
+   "zone": "Salento",
+   "published_at": "2026-11-27T22:01:23+01:00"
+  },
+  {
    "id": "5370a787ec3b",
    "title": "Elezioni in Spagna, Vox chiude la campagna elettorale a Valencia. Sugli schermi proiettato anche un video di Salvini",
    "summary": "Il leader di Vox, Santiago Abascal, chiude la campagna elettorale da una Plaza de Toros di Valencia piena di bandiere spagnole, poche verdi di Vox, e al canto di “Sanchez hijo de puta”, “Sanchez figl…",
@@ -77,17 +132,6 @@
    "category": "Altro",
    "zone": "Italia",
    "published_at": "2026-11-27T20:40:41+00:00"
-  },
-  {
-   "id": "5f7886227f33",
-   "title": "Venezia: sparatoria tra polizia e tre persone: morto un giovane, in fuga un secondo uomo",
-   "summary": "I poliziotti, giunti dalla Campania, dovevano eseguire un provvedimento d'arresto. In corso una vasta operazione per rintracciare il fuggitivo armato",
-   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/183529676-56f50283-30e3-4e4c-acfd-f50b33d89d0b.jpg",
-   "url": "https://www.tgcom24.mediaset.it/cronaca/venezia-sparatoria-tra-polizia-e-ricercati-morto-un-giovane-in-fuga-un-secondo-uomo-_119495874-202602k.shtml",
-   "source": "TGCOM24",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-27T20:28:45+00:00"
   },
   {
    "id": "280ec4d92da7",
@@ -803,6 +847,17 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-11-27T17:38:52+01:00"
+  },
+  {
+   "id": "ce4b4cc6cb68",
+   "title": "Tir perde il controllo e rimane sospeso tra due raccordi autostradali",
+   "summary": "Momenti di terrore per un camionista in Ohio, negli Stati Uniti: il suo Tir ha perso il controllo durante una curva, finendo incastrato tra due raccordi autostradali. Le squadre di soccorso sono inte…",
+   "image": "https://img-prod.tgcom24.mediaset.it/images/2026/11/27/123949122-791fb592-78c3-43e0-95fb-73e975bb7280.png",
+   "url": "https://www.tgcom24.mediaset.it/2026/video/tir-perde-il-controllo-e-rimane-sospeso-tra-due-raccordi-autostradali_119483740-02k.shtml",
+   "source": "TGCOM24",
+   "category": "Altro",
+   "zone": "Italia",
+   "published_at": "2026-11-27T16:38:00+00:00"
   },
   {
    "id": "437b53365412",
@@ -2136,17 +2191,6 @@
    "published_at": "2026-11-27T11:07:25+00:00"
   },
   {
-   "id": "5136e3bbf286",
-   "title": "“Prendere omega-3, magnesio o vitamina D senza averne realmente bisogno? Se assunti a dosaggi eccessivi, aumentano rischio di ictus e fibrillazione”: l’allarme nel nuovo studio",
-   "summary": "Gli integratori alimentari sono sempre più spesso considerati una sorta di assicurazione sulla salute: omega-3 per proteggere il cuore, vitamine per prevenire le malattie, minerali per mantenere l’or…",
-   "image": null,
-   "url": "https://www.ilfattoquotidiano.it/2026/11/27/prendere-omega-3-magnesio-o-vitamina-d-senza-averne-realmente-bisogno-se-assunti-a-dosaggi-eccessivi-aumentano-rischio-di-ictus-e-fibrillazione-lallarme-nel-nuovo-studio/8581390/",
-   "source": "Il Fatto Quotidiano",
-   "category": "Salute",
-   "zone": "Italia",
-   "published_at": "2026-11-27T11:02:40+00:00"
-  },
-  {
    "id": "eeb3fc48d57f",
    "title": "Lions, una giornata di sensibilizzazione e prevenzione del diabete: screening gratuito",
    "summary": "L'iniziativa si svolgerà a partire dalle ore 11 in piazza Marconi, dove sarà allestito uno stand messo a disposizione dalla Protezione Civile",
@@ -2156,17 +2200,6 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-27T12:02:00+01:00"
-  },
-  {
-   "id": "fb2598d4bc8f",
-   "title": "Elezioni in Spagna, Feijoo (Popolari) dice ad Ada Colau “stai zitta”. La polemica sui social e la chiamata delle donne al voto",
-   "summary": "Lo scontro è rimbalzato sui social, accendendo la polemica sul tono paternalista utilizzato da Alberto Nunez Feijoo, leader del Partito popolare, nei confronti di Ada Colau, candidata del Frente Ampl…",
-   "image": null,
-   "url": "https://www.ilfattoquotidiano.it/2026/11/27/elezioni-spagna-feijoo-popolari-dice-ad-ada-colau-stai-zitta-polemica-social/8585380/",
-   "source": "Il Fatto Quotidiano",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-27T11:01:53+00:00"
   },
   {
    "id": "aec49929f5b9",
@@ -2189,17 +2222,6 @@
    "category": "Eventi",
    "zone": "Lecce",
    "published_at": "2026-11-27T10:54:03+00:00"
-  },
-  {
-   "id": "964c4d9efa6f",
-   "title": "Kimi Antonelli e Lewis Hamilton, dall’idolo d’infanzia al rivale in pista: “Per me è un onore condividere questo momento con lui”. Esce il libro sulle vite parallele dei due campioni",
-   "summary": "Kimi Antonelli, il talento bolognese che ha riportato un pilota italiano alla vittoria in Formula 1, è al centro di Antonelli & Hamilton. Le vite parallele di Lewis e Kimi di Edmond Dantès, insider F…",
-   "image": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/11/27/Cop_Antonelli_nuova_scelta-1.jpg",
-   "url": "https://www.ilfattoquotidiano.it/2026/11/27/kimi-antonelli-e-lewis-hamilton-dallidolo-dinfanzia-al-rivale-in-pista-per-me-e-un-onore-condividere-questo-momento-con-lui-esce-il-libro-sulle-vite-parallele-dei-due-campioni/8585412/",
-   "source": "Il Fatto Quotidiano",
-   "category": "Altro",
-   "zone": "Italia",
-   "published_at": "2026-11-27T10:53:47+00:00"
   },
   {
    "id": "dde52f479814",
@@ -4378,65 +4400,43 @@
    "category": "Altro",
    "zone": "Salento",
    "published_at": "2026-11-26T08:10:00+01:00"
-  },
-  {
-   "id": "fcd21a5569bb",
-   "title": "Il fotografo salentino Francesco Padula nella Nazionale italiana per la World Photographic Cup 2027",
-   "summary": "Il fotografo salentino Francesco Padula è stato selezionato tra i venti professionisti che comporranno il Team Italy alla World Photographic Cup 2027 (WPC), la Coppa del Mondo della fotografia. L’ele…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/il-fotografo-salentino-francesco-padula-nella-nazionale-italiana-per-la-world-photographic-cup-2027/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-26T07:00:43+00:00"
-  },
-  {
-   "id": "7c5de3071962",
-   "title": "Crema per pelle secca: i segnali da riconoscere e come agire",
-   "summary": "La pelle secca è una delle condizioni più comuni, eppure spesso viene riconosciuta tardi. Si attribuisce la sensazione di pelle che tira al freddo, la ruvidità a un detergente nuovo, il trucco che si…",
-   "image": null,
-   "url": "https://www.corrieresalentino.it/2026/11/crema-per-pelle-secca-i-segnali-da-riconoscere-e-come-agire/",
-   "source": "Corriere Salentino",
-   "category": "Altro",
-   "zone": "Salento",
-   "published_at": "2026-11-26T06:56:25+00:00"
   }
  ],
  "sources_status": [
   {
    "source": "Corriere Salentino",
    "ok": true,
-   "last_ok": "2026-11-27T21:41:56.411357+00:00",
+   "last_ok": "2026-11-28T03:36:16.203362+00:00",
    "error": null
   },
   {
    "source": "TeleRama News",
    "ok": true,
-   "last_ok": "2026-11-27T21:41:56.411357+00:00",
+   "last_ok": "2026-11-28T03:36:16.203362+00:00",
    "error": null
   },
   {
    "source": "LecceNews24",
    "ok": true,
-   "last_ok": "2026-11-27T21:41:56.411357+00:00",
+   "last_ok": "2026-11-28T03:36:16.203362+00:00",
    "error": null
   },
   {
    "source": "LeccePrima",
    "ok": true,
-   "last_ok": "2026-11-27T21:41:56.411357+00:00",
+   "last_ok": "2026-11-28T03:36:16.203362+00:00",
    "error": null
   },
   {
    "source": "LecceSette",
    "ok": true,
-   "last_ok": "2026-11-27T21:41:56.411357+00:00",
+   "last_ok": "2026-11-28T03:36:16.203362+00:00",
    "error": null
   },
   {
    "source": "BrindisiReport",
    "ok": true,
-   "last_ok": "2026-11-27T21:41:56.411357+00:00",
+   "last_ok": "2026-11-28T03:36:16.203362+00:00",
    "error": null
   },
   {
@@ -4448,43 +4448,43 @@
   {
    "source": "Valigia Blu",
    "ok": true,
-   "last_ok": "2026-11-27T21:41:56.411357+00:00",
+   "last_ok": "2026-11-28T03:36:16.203362+00:00",
    "error": null
   },
   {
    "source": "IrpiMedia",
    "ok": true,
-   "last_ok": "2026-11-27T21:41:56.411357+00:00",
+   "last_ok": "2026-11-28T03:36:16.203362+00:00",
    "error": null
   },
   {
    "source": "Altreconomia",
    "ok": true,
-   "last_ok": "2026-11-27T21:41:56.411357+00:00",
+   "last_ok": "2026-11-28T03:36:16.203362+00:00",
    "error": null
   },
   {
    "source": "Openpolis",
    "ok": true,
-   "last_ok": "2026-11-27T21:41:56.411357+00:00",
+   "last_ok": "2026-11-28T03:36:16.203362+00:00",
    "error": null
   },
   {
    "source": "Internazionale",
    "ok": true,
-   "last_ok": "2026-11-27T21:41:56.411357+00:00",
+   "last_ok": "2026-11-28T03:36:16.203362+00:00",
    "error": null
   },
   {
    "source": "TGCOM24",
    "ok": true,
-   "last_ok": "2026-11-27T21:41:56.411357+00:00",
+   "last_ok": "2026-11-28T03:36:16.203362+00:00",
    "error": null
   },
   {
    "source": "Il Fatto Quotidiano",
    "ok": true,
-   "last_ok": "2026-11-27T21:41:56.411357+00:00",
+   "last_ok": "2026-11-28T03:36:16.203362+00:00",
    "error": null
   }
  ]
